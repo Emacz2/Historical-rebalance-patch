@@ -9,7 +9,6 @@
     <Icon>units/sele_infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
-  </Promotion>
   <VisualActor>
     <Actor>units/seleucids/infantry_pikeman_b.xml</Actor>
   </VisualActor>
