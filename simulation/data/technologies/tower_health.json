@@ -1,0 +1,18 @@
+{
+	"genericName": "Sturdy Foundations",
+	"description": "Reinforce the foundations in preparation of an attack.",
+	"cost": {
+		"stone": 500,
+		"metal": 100
+	},
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "masonry_clamps.png",
+	"researchTime": 40,
+	"tooltip": "Towers +25% health.",
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.25 }
+	],
+	"affects": ["Tower"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

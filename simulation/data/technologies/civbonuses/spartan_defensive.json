@@ -1,0 +1,15 @@
+{
+    "genericName": "Spartans disregarded defenses",
+    "autoResearch": true,
+    "description": "Defense buildings weaker, take longer to build",
+    "requirements":{
+            "civ": "spart"
+    },
+    "icon": "",
+    "tooltip": "",
+    "modifications": [
+        { "value": "Cost/BuildTime", "multiply": 1.2 },
+    	{ "value": "Health/Max", "multiply": 0.75 }
+    ],
+    "affects": ["Defensive"]
+} 

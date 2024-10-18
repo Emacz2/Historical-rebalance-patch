@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<SoundGroup>
+	<Gain>10</Gain>
+	<Priority>1</Priority>
+	<Looping>0</Looping>
+	<RandOrder>1</RandOrder>
+	<RandPitch>1</RandPitch>
+	<PitchUpper>1.2</PitchUpper>
+	<PitchLower>0.8</PitchLower>
+	<Threshold>500</Threshold>
+	<Path>audio/attack/weapon/</Path>
+	<Sound>sling_210.ogg</Sound>
+</SoundGroup>

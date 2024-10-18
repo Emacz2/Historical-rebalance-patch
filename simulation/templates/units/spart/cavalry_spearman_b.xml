@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_melee_spearman">
+  <Cost>
+  <BuildTime>15</BuildTime>
+    <Resources>
+      <food>80</food>
+      <wood>40</wood>
+    </Resources>
+  </Cost>
+    <Health>
+    <Max>120</Max>
+  </Health>
+   <Attack>
+    <Melee>
+      <AttackName>Spear</AttackName>
+      <Damage>
+        <Hack>4.5</Hack>
+        <Pierce>4.2</Pierce>
+      </Damage>
+      <Bonuses>
+      <BonusCavMelee>
+      <Classes>Cavalry</Classes>
+      <Multiplier>1.5</Multiplier>
+      </BonusCavMelee>
+      </Bonuses>
+      <MaxRange>4</MaxRange>
+      <PrepareTime>625</PrepareTime>
+      <RepeatTime>1250</RepeatTime>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>2</Hack>
+        <Pierce>2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/spart/cavalry_spearman_b</SelectionGroupName>
+    <GenericName>Greek Allied Cavalry</GenericName>
+    <SpecificName>Hippeús Symmakhikós</SpecificName>
+    <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
+    <Icon>units/spart_cavalry_spearman.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
+  </Identity>
+  <Promotion>
+    <Entity>units/spart/cavalry_spearman_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/spartans/cavalry_spearman_b_m.xml</Actor>
+  </VisualActor>
+</Entity>

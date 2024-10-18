@@ -1,0 +1,10 @@
+{
+  "settings" : {
+    "Name" : "Foothills",
+    "Script" : "foothills.js",
+    "Description" : "A landscape of open, rolling hills.",
+    "Preview" : "foothills.png",
+    "SupportedBiomes": "generic/",
+    "CircularMap" : true
+  }
+}

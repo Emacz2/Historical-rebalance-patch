@@ -1,0 +1,10 @@
+{
+	"settings" : {
+		"Name" : "Britannic Road",
+		"Script" : "britannic_road.js",
+		"Description" : "Britannic Road",
+		"Preview" : "britannic_road.png",
+		"Keywords": ["badmod"],
+		"CircularMap" : true
+	}
+}

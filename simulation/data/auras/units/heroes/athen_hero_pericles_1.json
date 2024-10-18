@@ -1,0 +1,16 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Soldier", "Ship", "Siege", "Structure"],
+	"modifications": [
+		{ "value": "Loot/xp", "replace": 0 },
+		{ "value": "Loot/food", "replace": 0},
+		{ "value": "Loot/wood", "replace": 0},
+		{ "value": "Loot/stone", "replace": 0},
+		{ "value": "Loot/metal", "replace": 0},
+		{ "value": "Capturable/CapturePoints", "multiply": 1.5}
+	],
+	"auraName": "Periclean Defensive Strategy",
+	"auraDescription": "Soldiers, Ships, Siege engines and structures give 0 loot, +50% Building capture points.",
+	"overlayIcon": "art/textures/ui/session/auras/standground.png"
+}

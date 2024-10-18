@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_pikeman">
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/spart/infantry_pikeman_b</SelectionGroupName>
+    <GenericName>Phalangite Slave</GenericName>
+    <SpecificName>Phalangitēs Slave</SpecificName>
+    <Icon>units/sele_infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/seleucids/infantry_pikeman_b.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_economic_market">
+  <Identity>
+    <Civ>spart</Civ>
+    <SpecificName>Emporion</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/spartans/market.xml</Actor>
+  </VisualActor>
+    <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/slaves_market
+      units/{civ}/pikeman_slave
+      units/{civ}/cavalry_spearman_merc_a
+      units/{civ}/cavalry_javelineer_merc_a
+    </Entities>
+    </Trainer>
+</Entity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+<Auras datatype="tokens"> structures/xp_trickle </Auras>
+  <Cost>
+    <BuildTime>105</BuildTime>
+    <Resources>
+      <stone>150</stone>
+      <wood>50</wood>
+      <metal>50</metal>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square width="18.0" depth="28.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>5</Max>
+  </GarrisonHolder>
+  <Health>
+    <Max>2000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x6</SpawnEntityOnDeath>
+  </Health>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
+  <Identity>
+    <Civ>spart</Civ>
+    <GenericName>Military Mess Hall</GenericName>
+    <SpecificName>Syssition</SpecificName>
+    <Tooltip>Train Champions and research unique technologies.</Tooltip>
+    <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">-City Village Syssiton</VisibleClasses>
+    <Icon>structures/syssition.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
+  </Identity>
+  <Loot>
+    <stone>30</stone>
+    <metal>30</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="15.0" depth="25.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      tyrtean_paeans
+    </Technologies>
+    <Technologies datatype="tokens">
+      tyrtean_paeans_02
+    </Technologies>
+  </Researcher>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_gymnasium.xml</select>
+      <constructed>interface/complete/building/complete_gymnasium.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>38</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+  <Trainer>
+    <BatchTimeModifier>0.9</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_infantry_spear
+      units/{civ}/javelineer_merc_b
+      units/{civ}/infantry_spearman_a
+    </Entities>
+  </Trainer>
+  <Upgrade>
+    <syssiton_upped>
+      <Entity>structures/{civ}/syssiton_upped</Entity>
+      <Tooltip>Increased health, garrison capacity of 5, population bonus of 5, 10% faster batch training 50% faster XP trickle.</Tooltip>
+      <RequiredTechnology>phase_town</RequiredTechnology>
+      <Cost>
+        <stone>200</stone>
+        <wood>200</wood>
+	<metal>100</metal>
+      </Cost>
+      <Time>90</Time>
+      <Variant>upgrading</Variant>
+    </syssiton_upped>
+  </Upgrade>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/spartans/syssiton.xml</Actor>
+    <FoundationActor>structures/fndn_5x8.xml</FoundationActor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,14 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Javelineer !Cavalry"],
+	"modifications": [
+		{ "value": "Attack/Capture/Capture", "add": 2 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 2 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 2 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 }
+	],
+	"auraName": "Diplomatic takeover",
+	"auraDescription": "Javelineers +2 crush, hack, pierce resistance, +2 capture attack.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

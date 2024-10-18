@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 40,
+	"affects": ["Soldier"],
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 2 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 2 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 }
+	],
+	"auraName": "Formation Reforms",
+	"auraDescription": "Soldiers +2 crush, hack, pierce resistance."
+}

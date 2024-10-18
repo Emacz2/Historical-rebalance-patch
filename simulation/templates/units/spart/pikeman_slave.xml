@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_slave">
+<Builder>
+     <Entities datatype="tokens">
+      structures/spart/syssiton
+      structures/spart/gerousia
+      -structures/{civ}/wallset_stone
+      -structures/{civ}/barracks
+    </Entities>
+  </Builder>
+ <Cost>
+    <Population>0</Population>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <food>15</food>
+      <wood>15</wood>
+      <metal>30</metal>
+    </Resources>
+    </Cost>
+    <Health>
+    <Max>40</Max>
+    </Health>
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/spart/infantry_pikeman_b</SelectionGroupName>
+    <GenericName>Phalangite Slave</GenericName>
+    <SpecificName>Phalangitēs Slave</SpecificName>
+    <Icon>units/sele_infantry_spearman.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+<Attack>
+    <Melee>
+      <AttackName>Pike</AttackName>
+      <Damage>
+        <Hack>2</Hack>
+        <Pierce>3</Pierce>
+      </Damage>
+      <MaxRange>8</MaxRange>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>1.5</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Identity>
+    <GenericName>Pikeman</GenericName>
+    <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Pikeman</VisibleClasses>
+  </Identity>
+  <Loot>
+    <wood>5</wood>
+  </Loot>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>2.5</Hack>
+        <Pierce>2.5</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/seleucids/infantry_pikeman_b.xml</Actor>
+  </VisualActor>
+	 <ResourceGatherer>
+    <MaxDistance>2.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <food.fish>0.5</food.fish>
+      <food.fruit>0.5</food.fruit>
+      <food.grain>0.35</food.grain>
+      <food.meat>.85</food.meat>
+      <wood.tree>.85</wood.tree>
+      <wood.ruins>5</wood.ruins>
+      <stone.rock>.85</stone.rock>
+      <stone.ruins>5</stone.ruins>
+      <metal.ore>.85</metal.ore>
+    </Rates>
+    <Capacities>
+      <food>10</food>
+      <wood>10</wood>
+      <stone>10</stone>
+      <metal>10</metal>
+    </Capacities>
+  </ResourceGatherer>
+</Entity>

@@ -1,0 +1,11 @@
+{
+	"settings" : {
+		"Name" : "Cross",
+		"Script" : "cross.js",
+		"Description" : "Players start with lake behind the base with plenty of fishing.",
+		"Preview" : "cross.png",
+		"SupportedBiomes": "generic/",
+		"Keywords": ["badmod"],
+		"CircularMap" : true
+	}
+}

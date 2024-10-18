@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_house_big">
+  <Identity>
+    <Civ>spart</Civ>
+    <SpecificName>Oikos</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/spartans/house.xml</Actor>
+  </VisualActor>
+ <Researcher>
+    <Technologies datatype="tokens">
+      unlock_slaves_house
+      unlock_Perioci_house
+    </Technologies>
+  </Researcher>
+<Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/support_female_citizen_house
+      units/{civ}/support_slave_house
+      units/{civ}/infantry_javelineer_b_house
+    </Entities>
+  </Trainer>
+</Entity>

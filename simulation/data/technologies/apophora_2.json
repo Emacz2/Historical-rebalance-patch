@@ -1,0 +1,29 @@
+{
+	"genericName": "Apophorá",
+		"specificName": { "spart": "ἀποφορά" },
+	"description": "Perioikois must give a reasonable portion of their harvest to support a warrior and his family or widow.",
+	"cost": {
+		"food": 400,
+		"wood": 400
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{
+				"any": [
+					{ "civ": "spart" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "sickle_2.png",
+	"researchTime": 40,
+	"tooltip": "support units +25% woodn gather rate, but 25% train time.",
+	"modifications": [
+		{ "value": "ResourceGatherer/Rates/food.wood", "multiply": 1.25 },
+		{ "value": "Cost/BuildTime", "multiply": 1.25 }
+	],
+	"affects": ["Support"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

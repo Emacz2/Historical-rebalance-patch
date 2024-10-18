@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+<Auras datatype="tokens"> structures/xp_trickle </Auras>
+  <BuildRestrictions>
+    <Category>Council</Category>
+  </BuildRestrictions>
+  <Cost>
+    <BuildTime>105</BuildTime>
+    <Resources>
+      <stone>150</stone>
+      <metal>50</metal>
+      <wood>50</wood>
+    </Resources>
+  </Cost>
+  <Footprint replace="">
+    <Circle radius="12.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Health>
+    <Max>2000</Max>
+  </Health>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
+  <Identity>
+    <Civ>spart</Civ>
+    <GenericName>Spartan Senate</GenericName>
+    <SpecificName>Gerousia</SpecificName>
+    <Tooltip>Train Heroes and research unique technologies.</Tooltip>
+    <Classes datatype="tokens">ConquestCritical</Classes>
+    <VisibleClasses datatype="tokens">Town Council</VisibleClasses>
+    <Icon>structures/tholos.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <Researcher>
+    <Technologies datatype="tokens">
+      krypteia
+    </Technologies>
+ </Researcher>
+  <Loot>
+    <stone>20</stone>
+    <metal>20</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="20.0" depth="20.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_tholos.xml</select>
+      <constructed>interface/complete/building/complete_tholos.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>38</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+  <Trainer>
+    <BatchTimeModifier>0.9</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_leonidas
+      units/{civ}/hero_brasidas
+      units/{civ}/hero_agis
+      units/{civ}/champion_infantry_swordsman
+      units/{civ}/infantry_spearman_neodamodes
+    </Entities>
+  </Trainer>
+  <Upgrade>
+    <syssiton_upped>
+      <Entity>structures/{civ}/gerousia_upped</Entity>
+      <Tooltip>Increased health, garrison capacity of 5, population bonus of 5, 10% faster batch training 50% faster XP trickle.</Tooltip>
+      <RequiredTechnology>phase_town</RequiredTechnology>
+      <Cost>
+        <stone>200</stone>
+        <wood>200</wood>
+	<metal>100</metal>
+      </Cost>
+      <Time>90</Time>
+      <Variant>upgrading</Variant>
+    </syssiton_upped>
+  </Upgrade>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/spartans/gerousia.xml</Actor>
+  </VisualActor>
+</Entity>

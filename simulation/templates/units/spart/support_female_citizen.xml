@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_female_citizen">
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack op="mul">1.5</Hack>
+      </Damage>
+    </Melee>
+  </Attack>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">0.5</Hack>
+        <Pierce op="add">0.5</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Builder>
+    <Entities datatype="tokens">
+      structures/spart/syssiton
+      structures/spart/gerousia
+      -structures/{civ}/wallset_stone
+      -structures/{civ}/barracks
+    </Entities>
+  </Builder>
+  <Health>
+    <Max op="mul">1.6</Max>
+  </Health>
+  <Loot>
+    <xp op="add">1</xp>
+  </Loot>
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Spartan Woman</GenericName>
+    <SpecificName>Spartiâtis</SpecificName>
+    <Icon>units/spart_support_female_citizen.png</Icon>
+  </Identity>
+  <UnitAI>
+    <CanPatrol>true</CanPatrol>
+  </UnitAI>
+    <ResourceGatherer>
+    <MaxDistance>2.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <wood.tree>0.8</wood.tree>
+    </Rates>
+    </ResourceGatherer>
+  <VisualActor>
+    <Actor>units/spartans/female_citizen.xml</Actor>
+  </VisualActor>
+</Entity>
+
+

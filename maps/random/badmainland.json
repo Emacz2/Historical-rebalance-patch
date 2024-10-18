@@ -1,0 +1,11 @@
+{
+	"settings" : {
+		"Name" : "Balanced Mainland",
+		"Script" : "badmainland.js",
+		"Description" : "A typical map without any water. Resources are distributed evenly between players.",
+		"Preview" : "mainland.png",
+		"SupportedBiomes": "generic/",
+		"Keywords": ["badmod"],
+		"CircularMap" : true
+	}
+}

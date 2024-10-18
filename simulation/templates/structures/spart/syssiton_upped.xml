@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+<Auras datatype="tokens"> structures/xp_trickle_2 </Auras>
+  <Footprint>
+    <Square width="18.0" depth="28.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>10</Max>
+  </GarrisonHolder>
+  <Health>
+    <Max>2500</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x6</SpawnEntityOnDeath>
+  </Health>
+  <Population>
+    <Bonus>10</Bonus>
+  </Population>
+  <Identity>
+    <Civ>spart</Civ>
+    <GenericName>Military Mess Hall</GenericName>
+    <SpecificName>SyssitionUpped</SpecificName>
+    <Tooltip>Train Champions and research unique technologies.</Tooltip>
+    <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">-City Village Syssiton</VisibleClasses>
+    <Icon>structures/syssition.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
+  </Identity>
+  <Loot>
+    <stone>50</stone>
+    <metal>50</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="15.0" depth="25.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      tyrtean_paeans
+    </Technologies>
+    <Technologies datatype="tokens">
+      tyrtean_paeans_02
+    </Technologies>
+  </Researcher>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_gymnasium.xml</select>
+      <constructed>interface/complete/building/complete_gymnasium.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>38</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+   <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_infantry_spear
+      units/{civ}/champion_infantry_swordsman
+      units/{civ}/champion_infantry_javelineer
+    </Entities>
+  </Trainer>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/spartans/syssiton.xml</Actor>
+    <FoundationActor>structures/fndn_5x8.xml</FoundationActor>
+  </VisualActor>
+</Entity>

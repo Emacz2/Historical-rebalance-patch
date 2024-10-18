@@ -1,0 +1,16 @@
+{
+	"genericName": "Professional Garrisons",
+	"description": "Hire soldiers to hold defenses against enemies.",
+	"cost": {
+		"food": 400,
+		"metal": 200
+	},
+	"icon": "coinage.png",
+	"researchTime": 50,
+	"tooltip": "Fortresses +4 default arrows.",
+	"modifications": [
+		{ "value": "BuildingAI/DefaultArrowCount", "add": 4, "affects": "Fortress" }
+	],
+	"affects": ["Fortress"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="merc_inf|template_unit_infantry_ranged_javelineer">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/spart/syssiton
+      structures/spart/gerousia
+      -structures/{civ}/wallset_stone
+      -structures/{civ}/barracks
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>napatan</Lang>
+    <SelectionGroupName>units/spart/infantry_javelineer_merc_b</SelectionGroupName>
+    <GenericName>Thracian Peltast</GenericName>
+    <SpecificName>Peltastḗs Thrâx</SpecificName>
+    <Icon>units/athen_infantry_javelinist.png</Icon>
+   <RequiredTechnology>phase_village</RequiredTechnology>
+  </Identity>
+  <Promotion>
+    <Entity>units/spart/javelineer_merc_a</Entity>
+  </Promotion>
+  <Cost>
+    <BuildTime>12</BuildTime>
+    <Resources>
+      <food>40</food>
+      <wood>0</wood>
+      <metal>35</metal>
+    </Resources>
+  </Cost>
+  <VisualActor>
+    <Actor>units/athenians/infantry_javelinist_b.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|spec_champ|template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Spartan Hoplite</GenericName>
+    <SpecificName>Spartiátēs</SpecificName>
+    <Icon>units/spart_champion_infantry_spear.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>  
+  </Identity>
+  <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <food>90</food>
+      <wood>90</wood>
+      <metal>70</metal>
+    </Resources>
+  </Cost>
+  <Promotion>
+    <Entity>units/spart/champion_infantry_spear_olympian</Entity>
+    <RequiredXp>250</RequiredXp>
+  </Promotion>
+  <Auras datatype="tokens">
+    units/spartan_gathering
+    units/spartan_phalanx
+  </Auras>
+  <VisualActor>
+    <Actor>units/spartans/infantry_spearman_c.xml</Actor>
+  </VisualActor>
+<Attack>
+    <Melee>
+      <AttackName>Spear</AttackName>
+      <Damage>
+        <Hack>9.5</Hack>
+        <Pierce>8.5</Pierce>
+      </Damage>
+      <MaxRange>4.25</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>2.75</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Health>
+    <Max>200</Max>
+  </Health>
+  <Identity>
+    <GenericName>Champion Spearman</GenericName>
+    <Tooltip>Counters: 2.75× vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
+  </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">0.5</Hack>
+        <Pierce op="add">0.5</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+</Entity>

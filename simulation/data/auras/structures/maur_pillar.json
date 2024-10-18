@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 65,
+	"affects": ["Trader","Human"],
+	"modifications": [
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.10 },
+		{ "value": "Health/Max", "add": 15 }
+	],
+	"auraName": "Edict of Ashoka",
+	"auraDescription": "Traders and Humans +10% movement speed, +15 Health.",
+	"overlayIcon": "art/textures/ui/session/auras/build_bonus.png"
+}

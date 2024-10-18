@@ -1,0 +1,5 @@
+BUILDING CONTROL
+Building arrows can be controlled independently of the rally point:
+Right-clicking on an enemy sets both the rally point and building arrows to that enemy (Right).
+Use ctrl to only set the rally point on an enemy (middle)
+Use "Focus Fire", which is unbound by default, to only target the building arrows on an enemy (left).

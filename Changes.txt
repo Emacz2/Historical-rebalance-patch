@@ -1,0 +1,84 @@
+26.10
+Spartans get 1 spartriate, 1 peroci spear pony, 4 women 1 pericoic jav and want Spartiate JR to start each game
+increased amount of exp needed for spariates to promote to Olympic champ 250 from 200
+spartiates added 5 sec to train time (20 instead of 15)
+Perioci spearman now are spariate hoplites, start at rank 2
+can unlock and train perioci skrimishers from house, p1 (30 seconds)
+can unlock and train helots from house, p2 (30 seconds)
+CC javilineers reduced to 8 seconds from 9 seconds
+spartan phalanx arura range of 7, stackable, -2% promotion exp, .25 pierce/hack armor, 2% slower run/walk
+Spartan women same wood gather rate as perioci .8, train normal time (8 seconds)
+Krypteia is now aviable in Gerousia, 15% dmg Ifantry 20% more train time 
+Krypteia_2 available in upped Gerousia 10% dmg Infantry 20% more train time 
+Leonids aura shrunk to 30, 10%dmg own and allied infantry, +2 of each resistance, but -15% run/walk
+Skiri, now are champion_infantry_swordman template, dmg reduced from 16 to 15, 4 pierce/hack resistance instead of 6, but runwalk increased to 11.5 cost 70/60/70
+reset champion_infantry_spearman templace, and hero_infantry_spearman
+Sparta Hero spearman dmg increased to 13/12 from 12/10, max range from 4 to 4.5, cavalry bonus from 2.5 to 3.
+Spartan champ spearman dmg increased to 9.5/8.5 from 9/8, max range from 4 to 4.25, cavalry bonus from 2.5 to 2.75 added .5 hack an pierce resistance
+got rid of 3rd tyrtean_paeans, added 100 wood to tyrtean_paeans_2 cost
+Soldier resistance AKA battel armor increased cost to 600 of each, now is only Champions and Heroes
+Champion Javilneers added 1 pierce/hack armor, damaged lowerd to 28 from 32 but added 5 range (35 total)
+apophora dmg reduced from -20% to -10%
+second apophora tech, in village phase.  Support units +25% wood gather rate but 25% train time
+
+26.09
+hoptlite tradtions 02 (first one) added 25 metal and 25 wood to cost, but now 15% faster instead of 10% and -05% metal cost. effects perioci's
+hoptlite tradtion (original one) added 100 more food and 150 metal 50 wood, but increased to 25% faster from 20% and -10% metal cost. Effects periocic.
+Krypteria increased training time reduced from 40% to 25%
+
+Perioci Infantry reduced from 40 to 30 wood
+Perioci javilneers promote to merc now instead of champs, then from merc to champs
+
+Spartiates training time increased back to original 15 seconds from 14 because of the boost to Hoptlite traditon
+
+Spartan_war aura changed to "spartan_phalanx" since formations don't work yet.  Smaller range, only 10, affects all spearman except cavalry, 10% promotion, 2 of each resistance
+
+Brasidas aura changed to +2 capture attack and 2 of each resistance.
+
+removed aura from perioci units "support units gain 5 metal loot each kill"
+instead added team bonus support (10 metal) loot
+
+ALL civs CCs doubled "added" hack and pierce resistance (from 5 to 10)
+ALl defensive structures hack resistance increased from 29 to 35, pierce from 35 to 45 and crush from 2 to 5
+Fortress hack resistance increased from 24 to 30, peirce from 35 to 45, crush from 2 to 5
+
+Champ "capture attack" reduced from 5 to 3.5 Cavalry from 2.5 to 2 infantry from 2.5 to 2
+
+26.08
+Add auras to sparitates- spartan war
+support units promote 25% faster and + 1 of each resistance
+Add aura to perioci units
+support units gain 5 metal loot each kill
+
+
+
+There are no barracks, 
+units are trained from the CC, ssystion and senate.  Along with additional women from houses with tech, and slaves from the market in p2.  Slaves cost 10 food 20 metal and take 10 seconds to train they have 2x the gather rate of normal men, but only 30 health and lose .25/second.  They take up no pop. From market they train in 5 seconds but cost 10 food 40 metal
+
+Spartiates have an aurora that makes workers gather 15% faster within range,
+Ssystion and Senate cost 150 stone 50 metal 50 wood and take 105 seconds to build.  You gain 5 pop for each one built. They can garrison 5 units and now also provide experience trickle like barracks.  They can be upgraded for 200 stone 200 metal 100 wood in 90 seconds, garrison increases to 10, total population added is 10 (5 regular and 5 when upped) and train units 10% faster
+
+Sparta teambonus now applies to all infantry spearmen (heroes, champs, regular etc)
+
+Champs cost 90/90/70 Food/wood/metal, they now have Infintry Jav champs aviable p2, but you must up a ssystion first to be able to train them.
+
+Leonidas ranged is now 40, dmg 15% +2 of each resistance
+Agis -40% metal, -20% train time for own and allied soldiers
+
+There are 3 speed techs, first is regular 15% 
+Second is 10% but applies to all infantry, however they take 20% more train time and -1 of each resistance
+Third is the same, additional 10% (35 total) but 20% more (40 overall) train time and -1 of each resistance (-2 overall)
+
+All Civs
+Merc + Champ cav = 2 pop instead of 1
+All archers dmg increased from 7.2-7.5
+Increased all champ spearman dmg and bonus vs cav =3
+Increased all hero spearman dmg
+
+
+P2 phase up increased to 650/650/100/100 Food/wood/stone/metal
+P3 phase up increased to 100/100/800/800 Food/wood/stone/metal
+
+tried to bring back 10% health for all units when u hit p2, but having issues with that at moment...
+
+If there is a enough interests, I would like to start tweaking other civs as well to try and make them more historically accurate, unique yet still balanced.  What Ive noticed so far while testing out sparta is they are weak/challenging to play late game...

@@ -1,0 +1,16 @@
+﻿{
+	"type": "global",
+	"affects": [ "Soldier" ],
+	"modifications": [
+		{
+			"value": "Cost/BuildTime",
+			"multiply": 0.80
+		},
+		{
+			"value": "Cost/Resources/metal",
+			"multiply": 0.6
+		}
+	],
+	"auraName": "Great Revolt",
+	"auraDescription": "Own and allied Soldiers −40% metal cost, and -20% training time."
+}

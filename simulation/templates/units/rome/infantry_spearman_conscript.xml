@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/rome/infantry_spearman_b">
+  <Identity>
+	<GenericName>Roman Conscript Spearman</GenericName>
+	<SpecificName>Triārius Conscripticus</SpecificName>
+	<Tooltip>A simple conscript that cannot promote to advanced and elite ranks.</Tooltip>
+	<RequiredTechnology>roman_reforms</RequiredTechnology>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/romans/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

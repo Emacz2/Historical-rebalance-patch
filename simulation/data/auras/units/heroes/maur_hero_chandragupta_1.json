@@ -1,0 +1,13 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Soldier","Elephant"],
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+        	{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+        	{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+	],
+	"auraName": "Empire Maker",
+	"auraDescription": "Elephants and Soldiers +1 crush, hack, pierce resistance.",
+	"overlayIcon": "art/textures/ui/session/auras/standground.png"
+}

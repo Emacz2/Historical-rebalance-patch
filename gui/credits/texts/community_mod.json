@@ -1,0 +1,23 @@
+{
+    "Title": "Community mod",
+    "Content": [
+        {
+            "Title": "Maintainers",
+            "List": [
+                { "nick": "The 0 A.D. core team" }
+            ]
+        },
+        {
+            "Title": "Contributors",
+            "List": [
+                { "nick": "You ?" }
+            ]
+        },
+        {
+            "Subtitle": "You can help ! ",
+            "List": [
+                { "nick": "Apply on the 0 A.D. forums or contribute on Gitlab directly !" }
+            ]
+        }
+    ]
+}

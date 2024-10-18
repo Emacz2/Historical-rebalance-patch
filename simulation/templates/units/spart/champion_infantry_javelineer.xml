@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_javelineer">
+  <Identity>
+   <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Spartan Jav</GenericName>
+    <SpecificName>SpartiátēsII</SpecificName>
+    <Icon>units/hele/champion_ranged_polis.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>  
+  </Identity>
+  <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <food>90</food>
+      <wood>90</wood>
+      <metal>70</metal>
+    </Resources>
+  </Cost>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>4</Hack>
+        <Pierce>4</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <VisualActor>
+    <Actor>units/hellenes/infantry_javelinist_c_thureophoros.xml</Actor>
+  </VisualActor>
+</Entity>

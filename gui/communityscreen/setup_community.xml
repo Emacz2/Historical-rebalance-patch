@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setup>
+
+	<!-- Loading Tooltips -->
+
+	<icon name="tip_buildingAI"
+		sprite="stretched:loading/tips/building_control.png"
+		size="512 512"
+	/>
+
+	<!-- Resources -->
+
+	<icon name="icon_food"
+		sprite="stretched:session/icons/resources/food_small.png"
+		size="16 16"
+	/>
+	<icon name="icon_wood"
+		sprite="stretched:session/icons/resources/wood_small.png"
+		size="16 16"
+	/>
+	<icon name="icon_stone"
+		sprite="stretched:session/icons/resources/stone_small.png"
+		size="16 16"
+	/>
+	<icon name="icon_metal"
+		sprite="stretched:session/icons/resources/metal_small.png"
+		size="16 16"
+	/>
+
+	<icon name="icon_time"
+		sprite="stretched:session/icons/resources/time_small.png"
+		size="16 16"
+	/>
+
+	<!-- Emblems -->
+	<icon name="emblem_spartans"
+		sprite="stretched:session/portraits/emblems/emblem_spartans.png"
+		size="48 48"
+	/>
+	<icon name="emblem_carth"
+		sprite="stretched:session/portraits/emblems/emblem_carthaginians.png"
+		size="48 48"
+	/>
+	<icon name="emblem_athen"
+		sprite="stretched:session/portraits/emblems/emblem_athenians.png"
+		size="48 48"
+	/>
+	<icon name="emblem_romans"
+		sprite="stretched:session/portraits/emblems/emblem_romans.png"
+		size="48 48"
+	/>
+	<icon name="emblem_macedonians"
+		sprite="stretched:session/portraits/emblems/emblem_macedonians.png"
+		size="48 48"
+	/>
+	<icon name="emblem_han"
+		sprite="stretched:session/portraits/emblems/emblem_han.png"
+		size="48 48"
+	/>
+	<icon name="emblem_ptol"
+		sprite="stretched:session/portraits/emblems/emblem_ptolemies.png"
+		size="48 48"
+	/>
+	<icon name="emblem_kush"
+		sprite="stretched:session/portraits/emblems/emblem_kushites.png"
+		size="48 48"
+	/>
+
+	<!-- Phases -->
+
+	<icon name="phase_1"
+		sprite="stretched:session/portraits/technologies/village_phase.png"
+		size="16 16"
+	/>
+	<icon name="phase_2"
+		sprite="stretched:session/portraits/technologies/town_phase.png"
+		size="16 16"
+	/>
+	<icon name="phase_3"
+		sprite="stretched:session/portraits/technologies/city_phase.png"
+		size="16 16"
+	/>
+	<!-- Civ Bonuses -->
+	<icon name="civbonus_agoge"
+		sprite="stretched:session/portraits/technologies/agoge.png"
+		size="32 32"
+	/>
+	<icon name="civbonus_fertility"
+		sprite="stretched:session/portraits/technologies/wives_festival.png"
+		size="32 32"
+	/>
+	<icon name="civbonus_engineers"
+		sprite="stretched:session/portraits/technologies/engineering.png"
+		size="32 32"
+	/>
+
+	<!-- Structures -->
+
+	<icon name="kush_temple_amun"
+		sprite="stretched:session/portraits/structures/temple_epic.png"
+		size="32 32"
+	/>
+	<icon name="kush_pyramid"
+		sprite="stretched:session/portraits/structures/kush_pyramid_small.png"
+		size="32 32"
+	/>
+	<icon name="maur_pillar_ashoka"
+		sprite="stretched:session/portraits/structures/ashoka_pillar.png"
+		size="32 32"
+	/>
+	<icon name="wall"
+		sprite="stretched:session/portraits/structures/wall.png"
+		size="32 32"
+	/>
+	<icon name="spart_syssition"
+		sprite="stretched:session/portraits/structures/syssition.png"
+		size="32 32"
+	/>
+	<icon name="spart_gerousia"
+		sprite="stretched:session/portraits/structures/tholos.png"
+		size="32 32"
+	/>
+	<icon name="carth_apartment"
+		sprite="stretched:session/portraits/structures/apartment.png"
+		size="32 32"
+	/>
+	<icon name="forge"
+		sprite="stretched:session/portraits/technologies/anvil.png"
+		size="32 32"
+	/>
+		
+
+	<!-- Civ Bonuses -->
+	<icon name="civbonus_agoge"
+		sprite="stretched:session/portraits/technologies/agoge.png"
+		size="32 32"
+	/>
+
+
+
+	<!-- Technologies -->
+
+	<icon name="tech_range-attack01"
+		sprite="stretched:session/portraits/technologies/arrow_01.png"
+		size="32 32"
+	/>
+	<icon name="tech_range-attack02"
+		sprite="stretched:session/portraits/technologies/arrow_02.png"
+		size="32 32"
+	/>
+	<icon name="tech_range-attack03"
+		sprite="stretched:session/portraits/technologies/arrow_03.png"
+		size="32 32"
+	/>
+	
+	<icon name="tech_melee-attack01"
+		sprite="stretched:session/portraits/technologies/sword_01.png"
+		size="32 32"
+	/>
+	<icon name="tech_melee-attack02"
+		sprite="stretched:session/portraits/technologies/sword_02.png"
+		size="32 32"
+	/>
+	<icon name="tech_melee-attack03"
+		sprite="stretched:session/portraits/technologies/sword_03.png"
+		size="32 32"
+	/>
+	
+	<icon name="tech_range-resistance01"
+		sprite="stretched:session/portraits/technologies/shields_generic_wood.png"
+		size="32 32"
+	/>
+	<icon name="tech_range-resistance02"
+		sprite="stretched:session/portraits/technologies/shields_generic_bronze.png"
+		size="32 32"
+	/>
+	<icon name="tech_range-resistance03"
+		sprite="stretched:session/portraits/technologies/shields_generic_silver.png"
+		size="32 32"
+	/>
+	
+	<icon name="tech_melee-resistance01"
+		sprite="stretched:session/portraits/technologies/armor_leather.png"
+		size="32 32"
+	/>
+	<icon name="tech_melee-resistance02"
+		sprite="stretched:session/portraits/technologies/armor_pteruges.png"
+		size="32 32"
+	/>
+	<icon name="tech_meelee-resistance03"
+		sprite="stretched:session/portraits/technologies/armor_chain.png"
+		size="32 32"
+	/>
+	
+	<icon name="tech_loom"
+		sprite="stretched:session/portraits/technologies/loom.png.cached.dds"
+		size="32 32"
+	/>
+	<icon name="tech_cartography"
+		sprite="stretched:session/portraits/technologies/cartography.png"
+		size="32 32"
+	/>
+
+	<icon name="tech_unlock-neodamodes"
+		sprite="stretched:session/portraits/technologies/helmet_corinthian_bronze_old.png"
+		size="32 32"
+	/>
+	<icon name="tech_krypteia"
+		sprite="stretched:session/portraits/technologies/skull_swords.png"
+		size="32 32"
+	/>
+	<icon name="tech_apophora"
+		sprite="stretched:session/portraits/technologies/sickle_2.png"
+		size="32 32"
+	/>
+	<icon name="tech_tyrtean-paeans"
+		sprite="stretched:session/portraits/technologies/walk.png"
+		size="32 32"
+	/>
+	<icon name="tech_accuracy-bolts"
+		sprite="stretched:session/portraits/technologies/accuracy_bolt.png"
+		size="32 32"
+	/>
+	<icon name="tech_ostracism"
+		sprite="stretched:session/portraits/technologies/patriotism.png"
+		size="32 32"
+	/>
+	<icon name="tech_pheidan_workshop"
+		sprite="stretched:session/portraits/technologies/vestals.png"
+		size="32 32"
+	/>
+	<icon name="tech_roman_roads"
+		sprite="stretched:session/portraits/technologies/masonry_marble.png"
+		size="32 32"
+	/>
+	<icon name="tech_marian_reforms"
+		sprite="stretched:session/portraits/technologies/shield_scutum.png"
+		size="32 32"
+	/>
+	<icon name="tech_fort_arrows"
+		sprite="stretched:session/portraits/technologies/coinage.png"
+		size="32 32"
+	/>
+
+
+	<!-- Units -->
+	<icon name="han_hero_wei_qing"
+		sprite="stretched:session/portraits/units/han/hero_wei_qing.png"
+		size="32 32"
+	/>
+	<icon name="han_crossbowman"
+		sprite="stretched:session/portraits/units/han/infantry_crossbowman.png"
+		size="32 32"
+	/>
+	<icon name="han_halberdier"
+		sprite="stretched:session/portraits/units/han/infantry_halberdman.png"
+		size="32 32"
+	/>
+	<icon name="kush_hero_arakamani"
+		sprite="stretched:session/portraits/units/kush_hero_arakamani.png"
+		size="32 32"
+	/>
+	<icon name="kush_hero_nastasen"
+		sprite="stretched:session/portraits/units/kush_hero_nastasen.png"
+		size="32 32"
+	/>
+
+
+	<icon name="pers_hero_xerxes"
+		sprite="stretched:session/portraits/units/pers_hero_xerxes.png"
+		size="32 32"
+	/>
+	
+	
+	<icon name="pers_immortal_inf"
+		sprite="stretched:session/portraits/units/pers_champion_infantry.png"
+		size="32 32"
+	/>
+	<icon name="pers_immortal_archer"
+		sprite="stretched:session/portraits/units/pers_champion_infantry_archer.png"
+		size="32 32"
+	/>
+
+	<icon name="rome_siege_ballista"
+		sprite="stretched:session/portraits/units/rome_siege_ballista.png"
+		size="32 32"
+	/>
+	<icon name="rome_siege_scorpio"
+		sprite="stretched:session/portraits/units/rome_siege_scorpio.png"
+		size="32 32"
+	/>
+	
+	<icon name="rome_siege_ram.png"
+		sprite="stretched:session/portraits/units/rome_siege_ram.png"
+		size="32 32"
+	/>
+	<icon name="rome_siege_onager"
+		sprite="stretched:session/portraits/units/rome_siege_onager.png"
+		size="32 32"
+	/>
+	<icon name="spart_hero_agis"
+		sprite="stretched:session/portraits/units/spart_hero_agis.png"
+		size="32 32"
+	/>
+	<icon name="spart_neodamodes"
+		sprite="stretched:session/portraits/units/spart/infantry_spearman_neodamodes.png"
+		size="32 32"
+	/>
+	<icon name="spart_spartiates"
+		sprite="stretched:session/portraits/units/spart_champion_infantry_spear.png"
+		size="32 32"
+	/>
+
+	<icon name="elephants"
+		sprite="stretched:session/portraits/structures/stable_elephant.png"
+		size="32 32"
+	/>
+	<icon name="athen_hero_hippocrates"
+		sprite="stretched:session/portraits/units/athen/hero_hippocrates.png"
+		size="32 32"
+	/>
+	<icon name="mace_bolts"
+		sprite="stretched:session/portraits/units/rome_siege_scorpio_packed.png"
+		size="32 32"
+	/>
+	
+
+	
+	<!-- Ships -->	
+	<icon name="pers_ship_bireme"
+		sprite="stretched:session/portraits/units/pers_ship_bireme.png"
+		size="32 32"
+	/>
+	<icon name="rome_ship_bireme"
+		sprite="stretched:session/portraits/units/rome_ship_bireme.png"
+		size="32 32"
+	/>
+	<icon name="rome_ship_trireme"
+		sprite="stretched:session/portraits/units/rome_ship_trireme.png"
+		size="32 32"
+	/>
+	<icon name="rome_ship_trireme_big"
+		sprite="stretched:session/portraits/units/rome_ship_trireme.png"
+		size="48 48"
+	/>
+
+	
+	<!-- Auras -->
+	<icon name="aura_buildgather_bonus"
+		sprite="stretched:session/auras/buildgather_bonus.png"
+		size="16 16"
+	/>
+		<icon name="aura_build_bonus"
+		sprite="stretched:session/auras/build_bonus.png"
+		size="16 16"
+	/>
+	<icon name="aura_health_bonus"
+		sprite="stretched:session/auras/health_bonus.png"
+		size="16 16"
+	/>
+
+	<!-- Old Icons -->
+
+	<icon name="iconLag"
+		sprite="stretched:pregame/icons/lag.png"
+		size="32 32"
+	/>
+	<icon name="iconMap"
+		sprite="stretched:pregame/icons/map.png"
+		size="32 32"
+	/>
+	<icon name="iconFormation"
+		sprite="stretched:pregame/icons/formation.png"
+		size="32 32"
+	/>
+</setup>

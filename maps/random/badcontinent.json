@@ -1,0 +1,11 @@
+{
+	"settings" : {
+		"Name" : "Balanced Continent",
+		"Script" : "badcontinent.js",
+		"Description" : "All players starts on a continent surrounded by water. Resources are distributed evenly between players.",
+		"Preview" : "continent.png",
+		"SupportedBiomes": "generic/",
+		"Keywords": ["badmod"],
+		"CircularMap" : true
+	}
+}

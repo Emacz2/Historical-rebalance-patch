@@ -1,0 +1,11 @@
+{
+	"settings" : {
+		"Name" : "Slopes",
+		"Script" : "slopes.js",
+		"Description" : "Teams are placed in opposite sides, surrounded by plateaus with plenty of wood and fish from lakes.",
+		"Preview" : "slopes.png",
+		"SupportedBiomes": "generic/",
+		"Keywords": ["badmod"],
+		"CircularMap" : false
+	}
+}

@@ -1,0 +1,34 @@
+{
+	"genericName": "Battle Armor",
+	"specificName": {
+		"spart": "Battle armor"
+	},
+	"description": "Secret steel working techniques give spartan armor distinctive and beautiful markings. Not only that, but the steel's hardness is unparalleled.",
+	"cost": {
+		"food": 600,
+		"metal": 600,
+		"wood": 600
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" },
+			{
+				"any": [
+					{ "civ": "spart" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "metalworker.png",
+	"researchTime": 0,
+	"tooltip": "Champions and Heroes +1 Hack, Pierce, Crush resistance, but 20% more train time.",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		 { "value": "Cost/BuildTime", "multiply": 1.2 }
+	],
+	"affects": ["Champion","Hero"],  
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

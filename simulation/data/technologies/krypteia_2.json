@@ -1,0 +1,27 @@
+{
+	"genericName": "Krypteia",
+		"specificName": { "spart": "kρυπτεία" },
+	"description": "Krypteia was an Agoge rite of passage, during which soldiers learned how to camouflage themselves and gained combat experience. The Spartans declared war on the Helots annually, with no problem or guilt in murdering them. During this initiation, the youths slept during the day and roamed at night, murdering any Helots they encountered along the way.",
+	"cost": {
+		"food": 600,
+		"metal": 600,
+		"wood": 600
+	},
+	"requirements": {
+		"all": [
+           { "civ": "spart" }
+		]
+	},
+	"icon": "skull_swords.png",
+	"researchTime": 30,
+	"tooltip": "Ifantry +10%  attack damage, but  +20% training time.",
+	"modifications": [
+	     { "value": "Attack/Melee/Damage/Hack", "multiply": 1.10, "affects": "Ifantry"},
+	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.10, "affects": "Infantry"},
+	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.10, "affects": "Infantry" },
+	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10, "affects": "Infantry"},
+	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.10, "affects": "Infantry" },
+	    { "value": "Cost/BuildTime", "multiply": 1.20, "affects": "Infantry"}
+	],
+    "soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

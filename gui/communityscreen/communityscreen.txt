@@ -1,0 +1,759 @@
+[font="sans-bold-24"] Community-mod changelog
+[font="sans-bold-20"]
+#Version 13 (October 6, 2024)
+[font="sans-16"]
+[font="sans-bold-20"] Non-random Building AI
+[font="sans-16"]
+- Buildings shoot the closest unit by default.
+- Buildings fire arrows in a burst followed by reload time.
+- Building arrow damage increases by 20% in town phase [icon="phase_2" displace="0 4"] and city phase [icon="phase_3" displace="0 4"].
+- Building repeat times changed. Civic center: 2.5 to 4.5, Towers: 2.5 to 3.5, Fortress: 2.5 to 3.5.
+- Building default arrows changed. Civic center: 3 to 6, Defense tower: 1 to 3, Fortress: 4 to 10.
+- Building damage decreased to account for increase with phase: Civic center: 10 to 8, Towers: 11 to 8, Fortress: 10.
+- Siege tower damage decreased from 12 to 10 pierce.
+[icon="tip_buildingAI" displace="0 36"]
+[font="sans-bold-18"]Player controlled targeting enabled:
+[font="sans-16"]
+    - (Right) Default behavior: Clicking an enemy sets both arrows and the rally point to the enemy unit.
+    - (Middle) Clicking an enemy and holding "autorally", ctrl by default, will only set the rally point to that unit.
+    - (Left) A new hotkey, Focus Fire, is added to control exculsively the building arrows. Unbound by default, configure it to your liking in the hotkey menu.
+    - Audio: A sound effect is added to indicate to the user that the arrows have been targeted on something.
+
+-Fortresses gain a minimum range.
+-Murder holes moved to the fortress, now a city phase [icon="phase_3" displace="0 4"] tech.
+
+[font="sans-bold-18"]New Fortress Technology:
+[icon="tech_fort_arrows" displace="0 8"][font="sans-16"] Professional Garrisons
+[font="sans-16"]
+Cost: [icon="icon_food"] 400, [icon="icon_metal"] 200, [icon="icon_time"] 50 seconds.
+-Add 4 default arrows to the fortress.
+
+
+[icon="emblem_athen" displace="0 18"][font="sans-bold-18"] Athenians
+[font="sans-16"]
+-XP required for champion promotion: 400 experience to 300 experience.
+-Gymnasium building territory influence restored.
+
+[icon="kush_pyramid" displace="0 8"][font="sans-bold-18"] Kushite small pyramid
+[font="sans-16"]
+-Price changed from [icon="icon_stone"] 150, [icon="icon_metal"] 75, [icon="icon_time"] 120 to [icon="icon_stone"] 100, [icon="icon_metal"] 100, [icon="icon_time"] 100
+
+[icon="tech_marian_reforms" displace="0 8"][font="sans-bold-18"] Roman Conscript Spearmen
+[font="sans-16"]
+-Now may be trained from the cc after researching the roman reforms.
+
+[icon="emblem_ptol" displace="0 18"][font="sans-bold-20"] Ptolemies Update
+[font="sans-16"]
+-Polybolos civ bonus changed from -33% repeat time, -33% damage to -50% repeat time, -45% damage. This is a net damage increase of 10%
+-"Nile Delta" civ bonus: All farming technologies are available in village phase.
+
+[icon="han_halberdier" displace="0 8"][font="sans-bold-18"] Han Halberdier
+[font="sans-16"]
+-Redesigned to function as a hack-based pikeman.
+-Changed from 5.5 hack, 7 pierce damage to 9.5 hack, 3 pierce damage.
+
+[icon="civbonus_fertility" displace="0 8"][font="sans-bold-18"] Fertility Festival
+[font="sans-16"]
+-Fertility festival price changed from [icon="icon_food"] 250, [icon="icon_wood"] 100, [icon="icon_metal"] 100, [icon="icon_time"] 60 to [icon="icon_food"] 200, [icon="icon_wood"] 100, [icon="icon_metal"] 100, [icon="icon_time"] 40
+-Women trained from small houses train in [icon="icon_time"] 40 seconds instead of [icon="icon_time"] 30 seconds.
+
+
+[font="sans-bold-20"] Maps
+[font="sans-bold-18"] Balanced Hyrcannian shores:[font="sans-16"]
+  -Less straggler trees and other clutter.
+  -Removed balanced deer placement as this caused a bug, and there is lots of food in the mountains and in the form of fish.
+  -Slightly more space between mountain obstructions.
+  -More balanced woodlines.
+
+[font="sans-bold-18"] Foothills:[font="sans-16"]
+-A simple land map with rolling hills, use the elevation to your advantage!
+-A random radius means players can be slightly closer or farther apart towards the edge of the map.
+  -This means the positions of mountains will vary greatly between generations.
+-Hills are highly random but very rarely obstruct movement.
+-Resource generation is unaffected by the elevation.
+-Balanced map (credit to Badosu)
+
+
+[font="sans-bold-20"]
+#Version 12 (September 10, 2024)
+[font="sans-16"]
+- Double the Experience required for Athenian Hoplites to convert into Champion Spearmen.
+- Remove walls destroying trees upon completion due to crashes.
+
+[font="sans-bold-20"]
+#Version 11 (September 9, 2024)
+[font="sans-16"]
+
+- Slighty damage buff to all archer units.
+- Allow walls and palisades to be built over trees, destroying trees upon completion.
+- Rams now has less pierce armor and increased hack armor.
+- Training time 25% faster for all champions that are not trained from barracks and stables. 
+
+[icon="tech_loom" displace="0 8"][font="sans-bold-18"] The Loom
+[font="sans-16"]
+Cost: reduced from [icon="icon_food"] 150 to [icon="icon_food"] 100.
+
+[icon="tech_cartography" displace="0 8"][font="sans-bold-18"] Cartography
+[font="sans-16"]
+Now available at both Market and CC
+
+
+
+[font="sans-bold-18"] Heroes update
+
+
+[icon="han_hero_wei_qing" displace="0 8"] [font="sans-bold-18"] Wei Qing Han Hero
+[font="sans-16"]
+[font="sans-bold-16"]Mandate of Heaven[font="sans-16"] aura (-10% melee and range enemy cavalry attack): increased from 30 to 45 meters.
+
+
+[icon="pers_hero_xerxes" displace="0 8"] [font="sans-bold-18"] Xerxes Persian Hero
+[font="sans-16"]
+[font="sans-bold-16"]Administrator[font="sans-16"] aura: increased build rate from +15% to +25%. Aura radius increased to 100 meters.
+Added [font="sans-bold-16"]Invader of Greece[font="sans-16"] aura: Siege Rams, Elephants, and Champion Infantry +25% Health.
+
+
+[icon="kush_hero_arakamani" displace="0 8"] [font="sans-bold-18"] Arakamani Kushites Hero
+[font="sans-16"]
+Removed [font="sans-bold-16"]Defier of Tradition[font="sans-16"] aura.
+[font="sans-bold-16"]Follower of Apedemak[font="sans-16"] aura: Temple of Apedemak −30% resource costs and build time. Apedemak Temple Guard −30% resource costs and training time.
+[font="sans-bold-16"]Slaughter of the Faithful[font="sans-16"] aura: Enemy Healers healing strength from -50% to -100%
+
+[icon="kush_hero_nastasen" displace="0 8"] [font="sans-bold-18"] Arakamani Kushites Hero
+[font="sans-16"]
+[font="sans-bold-16"]Savior of Kush[font="sans-16"] aura now affects Soldiers and Elephants. Increased melee and ranged damage from +10% to +15%. Gain +50% resource loot.
+
+
+[icon="maur_pillar_ashoka" displace="0 8"] [font="sans-bold-18"] Pillar of Ashoka
+[font="sans-16"]
+[font="sans-bold-16"]Edict of Ashoka[font="sans-16"] aura: Now affects Traders and Humans. +10% movement speed, +15 Health. Decreased radius from 75 to 65.
+
+
+
+[icon="rome_ship_trireme_big" displace="0 18"][font="sans-bold-18"] Naval rebalance
+[font="sans-16"]
+- Fireships now behave like a melee ship that can also apply a burning status to its enemies. Add fuel to the fire ship to get it burning really hot which causes the ship to deal area damage upon its destruction. From full HP, the fire ship burns up in about 10 seconds. If the ship has less HP, it will blow up sooner.
+- Footprints are smaller for slightly better pathing.
+- All ships reduced population cost from 2 to 1, except for Siege ships.
+
+[font="sans-bold-18"] Scout ships
+[font="sans-16"]
+Attack damage and range increased.
+Faster acceleration movement speed.
+
+[font="sans-bold-18"] Arrow ships
+[font="sans-16"]
+Attack damage and range increased.
+Faster prepare attack time from 0.5 to 0.25 seconds.
+Cost: from [icon="icon_wood"] 120 [icon="icon_metal"] 80 to [icon="icon_wood"] 120 [icon="icon_metal"] 100
+Loot: from [icon="icon_wood"] 12 [icon="icon_metal"] 8 to [icon="icon_wood"] 12 [icon="icon_metal"] 10
+
+[font="sans-bold-18"] Ram ships
+[font="sans-16"]
+Hack damage increased from 280 to 350
+Crush damage increased from 20 to 40
+Cost: from [icon="icon_food"] 50 [icon="icon_wood"] 100 [icon="icon_metal"] 50 to [icon="icon_food"] 50 [icon="icon_wood"] 100 [icon="icon_metal"] 25
+
+[font="sans-bold-18"] Siege ships
+[font="sans-16"]
+Attack range from 2 to 4
+Crush damage increased from 50 to 100
+
+
+
+[icon="emblem_athen" displace="0 18"][font="sans-bold-18"] Athenians update
+[font="sans-16"]
+Added new phase 2 healing hero unit and two uniques technologies
+Spearmen may promote to champions with 200 xp
+
+- Units
+
+[icon="athen_hero_hippocrates" displace="0 8"] [font="sans-bold-18"] Hippocrates
+[font="sans-16"]
+[font="sans-bold-16"]Officer Accommodation[font="sans-16"] aura: Garrisoned Heroes +6 health regeneration rate.
+[font="sans-bold-16"]Regeneration[font="sans-16"] aura: Humans +0.5 health regeneration rate.
+[font="sans-bold-16"]Medicine Father[font="sans-16"] aura: Own and Allied Healers +2 heal health.
+
+- Technologies 
+
+[icon="tech_ostracism" displace="0 8"] [font="sans-bold-18"] Ostracism
+[font="sans-16"]
+Citizen soldiers +5% health, but Heroes −40% health.
+Cost: [icon="icon_food"] 300 [icon="icon_metal"] 300. [icon="icon_time"]: 60 seconds. Phase: [icon="phase_3" displace="0 2"]
+
+[icon="tech_pheidan_workshop" displace="0 8"] [font="sans-bold-18"] Pheidan Workshop
+[font="sans-16"]
+Temples and Wonder −50% stone cost and build time.
+Cost: [icon="icon_stone"] 300. [icon="icon_time"]: 40 seconds. Phase: [icon="phase_2" displace="0 2"]
+
+
+[icon="emblem_romans" displace="0 18"][font="sans-bold-18"] Romans update
+[font="sans-16"]
+Roman army camp and siege walls do not decay
+Unlock Onager from the arsenal
+
+
+- Civ bonus
+
+[icon="civbonus_fertility" displace="0 8"][font="sans-bold-18"] Fertility
+[font="sans-16"]
+Women may be trained from houses without fertility festival.
+
+[icon="civbonus_engineers" displace="0 8"][font="sans-bold-18"] Legionary Engineers
+[font="sans-16"]
+Siege Catapults and Onagers 10% faster fire rate and +20% movement speed.
+
+
+- Units
+
+[icon="rome_siege_onager" displace="0 8"][font="sans-bold-18"] Onagers
+[font="sans-16"]
+New unit good versus units. Not so good versus buildings.
+Shorter range. 4 meters area splash damage. 
+
+
+- Technologies
+
+[icon="tech_roman_roads" displace="0 8"][font="sans-bold-18"] Roman Roads
+[font="sans-16"]
+All Land Units +5% movement speed.
+Cost: [icon="icon_stone"] 500. [icon="icon_time"]: 60 seconds. Phase: [icon="phase_2" displace="0 2"]
+
+[icon="tech_marian_reforms" displace="0 8"][font="sans-bold-18"] Marian Reforms
+[font="sans-16"]
+Convert Citizen Swordsmen and Skirmishers to Marian Legionaries, and Citizen Spearmen to conscripts which cannot promote. Allows to train Onagers and Centurions, lose access to Italic Heavy Infantry.
+Cost: [icon="icon_food"] 1200. [icon="icon_metal"] 1000. [icon="icon_time"]: 60 seconds. Phase: [icon="phase_3" displace="0 2"]
+
+
+
+[icon="emblem_spartans" displace="0 18"][font="sans-bold-18"] Spartans adjustments
+[font="sans-16"]
+
+
+- Units
+
+[icon="spart_neodamodes" displace="0 8"] [font="sans-bold-18"] Neodamodes
+[font="sans-16"]
+[icon="icon_time"]: from 10 to 12 seconds.
+
+[icon="spart_spartiates" displace="0 8"] [font="sans-bold-18"] Champion Spartiates
+[font="sans-16"]
+Removed phase [icon="phase_1" displace="0 2"] and [icon="phase_2" displace="0 2"] train time penalty
+
+- Buildings
+
+[icon="spart_syssition" displace="0 8"] [font="sans-bold-18"] Syssition
+[font="sans-16"]
+Cost: from [icon="icon_stone"] 200 [icon="icon_metal"] 200 to [icon="icon_stone"] 150 [icon="icon_metal"] 150
+
+- Technologies
+
+[icon="tech_tyrtean-paeans" displace="0 8"][font="sans-bold-18"] Tyrtean Paeans 
+[font="sans-16"]
+Now available at [icon="phase_1" displace="0 2"]
+Cost: from [icon="icon_food"] 400 [icon="icon_metal"] 200 to  [icon="icon_food"] 200 [icon="icon_metal"] 100. [icon="icon_time"]: from 50 to 30 seconds.
+
+
+[icon="emblem_macedonians" displace="0 18"][font="sans-bold-18"] Macedonians
+[font="sans-16"]
+Arsenal moved to [icon="phase_2" displace="0 2"] and allow to train Bolt Shooters.
+
+
+
+[icon="emblem_han" displace="0 18"][font="sans-bold-18"] Hans
+[font="sans-16"]
+
+[icon="han_crossbowman" displace="0 8"][font="sans-bold-18"] Crossbowmen
+[font="sans-16"]
+Pierce damage increased from 23 to 24.
+Movement speed increased from 9.6 to 10.0
+
+
+
+
+[font="sans-bold-20"]
+#Version 10 (July 15, 2024)
+[font="sans-16"]
+
+- Woodlines a little larger in badosu maps
+- Reduced cavalry counter damage: spearcav 2x to 1.75x, infantry 3x to 2.5x.
+- Fixed athenian walls being invisible and impossible to kill.
+
+[icon="forge" displace="0 8"][font="sans-bold-18"] Forge military techs
+[font="sans-16"]
+Decreased research time for military technologies
+
+[icon="tech_melee-attack01"] [icon="tech_range-attack01"] [icon="tech_melee-resistance01"] [icon="tech_range-resistance01"]
+[icon="icon_time"]: from 40 to 20.
+
+[icon="tech_melee-attack02"] [icon="tech_range-attack02"] [icon="tech_melee-resistance02"] [icon="tech_range-resistance02"]
+[icon="icon_time"]: from 50 to 40.
+
+
+[icon="elephants" displace="0 8"][font="sans-bold-18"] Elephants
+[font="sans-16"]
+Increased Melee Elephants hack damage from 25 to 30
+Decreased -1 pierce armor and +1 hack armor to slightly improve their durability.
+
+
+[icon="rome_siege_scorpio" displace="0 8"][font="sans-bold-18"] Bolts
+[font="sans-16"]
+Reduce movement speed to 6.8.
+Range from 90 to 80 meters.
+
+[icon="emblem_spartans" displace="0 18"][font="sans-bold-18"] Spartans update
+[font="sans-16"]
+Implement borg's Spartans differentiation patch for balance testing in the community mod.
+
+
+- Civ bonus 
+
+[icon="civbonus_agoge" displace="0 8"][font="sans-bold-18"] Laws of Lycurgus
+[font="sans-16"]
+Champion Hoplites are available in [icon="phase_1"] Village Phase and may promote to Olympic champions.
+
+
+- Units
+
+[icon="spart_hero_agis" displace="0 8"] [font="sans-bold-18"] Agis Hero
+[font="sans-16"]
+Added "Great Revolt" aura: Soldiers -25% [icon="icon_metal"] and training time.
+Added "Last Stand" aura: Agis +50% health.
+
+[icon="spart_neodamodes" displace="0 8"] [font="sans-bold-18"] Neodamodes
+[font="sans-16"]
+New Infantry Spearman trained at the Barracks and Civic Center
+
+
+- Technologies
+
+[icon="tech_apophora" displace="0 8"][font="sans-bold-18"] Apophorá 
+[font="sans-16"]
+Infantry Javelineers +100% grain gather rate, but -20% attack. 
+Cost: [icon="icon_food"] 200 [icon="icon_wood"] 200.
+
+[icon="tech_krypteia" displace="0 8"][font="sans-bold-18"] Krypteia 
+[font="sans-16"]
+Champion Hoplites +15% melee attack damage, but Citizen Infantry Javelineers +30% training time. 
+Cost: [icon="icon_food"] 400.
+
+[icon="tech_tyrtean-paeans" displace="0 8"][font="sans-bold-18"] Tyrtean Paeans 
+[font="sans-16"]
+Champion Melee Infantry +10% movement speed. 
+Cost: [icon="icon_food"] 400 [icon="icon_metal"] 200.
+
+[icon="tech_unlock-neodamodes" displace="0 8"][font="sans-bold-18"] Unlock Neodamodes
+[font="sans-16"]
+Unlock the ability to train Spearman Neodamodes at the Barracks and Civic Center.
+Cost: [icon="icon_food"] 300 [icon="icon_metal"] 200.
+
+
+- Buildings
+
+[icon="spart_gerousia" displace="0 8"] [font="sans-bold-18"] Gerousia
+[font="sans-16"]
+Train Heroes and research unique technologies.
+Cost: [icon="icon_stone"] 100 [icon="icon_metal"] 100.
+
+[icon="spart_syssition" displace="0 8"] [font="sans-bold-18"] Syssition
+[font="sans-16"]
+Train Champions and research unique technologies.
+Cost: [icon="icon_stone"] 200 [icon="icon_metal"] 200.
+
+
+[icon="emblem_carth" displace="0 18"][font="sans-bold-18"] Carthaginians update
+[font="sans-16"]
+Allow apartments in [icon="phase_1"] Village Phase.
+Houses can be now promoted into apartments.
+
+[icon="carth_apartment" displace="0 8"][font="sans-bold-18"] Apartments
+[font="sans-16"]
+Cost: from [icon="icon_wood"] 50 [icon="icon_stone"] 50 to [icon="icon_wood"] 25 [icon="icon_stone"] 50
+
+
+
+
+
+
+
+[font="sans-bold-20"]
+#Version 9 (June 18, 2024)
+[font="sans-16"]
+Non-random arrows behavior reverted to a26 vanilla arrows behavior.
+Included badosu maps.
+
+
+[icon="pers_ship_bireme" displace="0 8"][font="sans-bold-18"] Naval overhaul
+[font="sans-16"]
+Introduced the new naval combat system from a27.
+
+
+[icon="rome_siege_ballista" displace="0 8"] [icon="rome_siege_scorpio" displace="0 8"][font="sans-bold-18"] Catapults and Bolts
+[font="sans-16"]
+Reduced pack time from 10 to 5 seconds.
+
+
+[icon="kush_temple_amun" displace="0 8"][font="sans-bold-18"] Grand Temple of Amun
+[font="sans-16"]
+Temple of Amun capture points doubled.
+
+
+[icon="pers_immortal_archer" displace="0 8"][font="sans-bold-18"] Immortals
+[font="sans-16"]
+Fixed ranged immortal cost to: [icon="icon_food"] 50 [icon="icon_wood"] 30 [icon="icon_metal"] 50.
+Reduced weapon switch time from 6 to 4 seconds.
+
+
+[icon="tech_loom" displace="0 8"][font="sans-bold-18"] The Loom
+[font="sans-16"]
+Cost: from [icon="icon_food"] 200 to [icon="icon_food"] 150.
+[icon="icon_time"]: from 40 to 20.
+
+
+[icon="wall" displace="0 8"][font="sans-bold-18"] Walls
+[font="sans-16"]
+Medium and large walls garrison doubled.
+
+
+
+[font="sans-bold-20"]
+#Version 7 (March 24, 2024)
+
+[font="sans-bold-18"]#Unit Rebalancing
+[font="sans-16"]
+- Melee rank ups nerfed: +1 armor, +HP, +20% damage -> +HP, +10% damage.
+- All mercenaries receive +10% damage baseline as compensation.
+- Persian immortals moved to barracks, made cheaper and weaker.
+- Elephants prefer 'Human' targets to buildings.
+
+[font="sans-bold-20"]
+- Archers and Crossbows
+[font="sans-16"]
+- Infantry Archers and Crossbows
+- Pierce damage increased from 6.7 to 7.0
+- Champion Archers 
+- Pierce damage increased from 13.5 to 13.8
+- Cavalry Archers
+- Pierce damage increeased from 7 to 7.3
+- Champion Cavalry Archers 
+- Pierce damage increased from 14 to 14.1
+- Elephants Archer 
+- Pierce damage increased from 14 to 14.1
+
+[font="sans-bold-20"]
+- Elephants
+[font="sans-16"]
+- Hack resistance increased from 5  to  6
+- Splash damage increased from 20 hack to 25 hack
+
+[font="sans-bold-20"]
+- Siege
+[font="sans-16"]
+- Turn angle increased from 45 degrees to 90 degrees
+- Siege +1 hack armor, 
+- Catapults and Bolt shooters decreased prepare time
+- Catapult splash range increased from 1 to 1.5, splash damage slightly increased from 100 to 120.
+
+[font="sans-bold-20"]
+- Heroes
+[font="sans-16"]
+- Iphicrates nerfed: Armor decreased from 3 to 2, Aura uses a range instead of formation.
+
+[font="sans-bold-18"]#Buildings
+[font="sans-16"]
+- Reduced garrisoned arrows
+- Sentry Towers wood cost increased by 25
+- Buildings -1 hack armor
+- Siege towers and ships may now target their arrows.
+
+
+
+[font="sans-bold-20"]
+#Version 6 (Jan 28, 2024)
+
+
+[font="sans-bold-18"]#Infantry
+[font="sans-16"]
+- Melee units damage increased by +50%, decreased armor
+- Ranged units damage decreased -25%
+- Melee infantry  base movement speed slighty increased (9.5 ms)
+- Clubmen get a small hack attack
+- Buildings and siege adjusted for higher hack damage
+
+
+[font="sans-bold-20"]#Buildings AI attack behavior
+[font="sans-16"]
+- Buildings targets closest units by default
+- Target unit using Right Click
+- Rally point on unit using Ctrl Click
+- Accuracy for cc and forts reduced.
+
+
+[font="sans-bold-20"]#Han fixes
+[font="sans-16"]
+- Poison arrows tech cost changed to 1200 food 1200 metal
+- Fields easier to place
+- Elephants get a splash attack
+- Upgraded CC batch time reduction nerfed from 0.5 to 0.75
+
+
+[font="sans-bold-20"]#Mauryans Heroes
+[font="sans-16"]
+- Chanakya slightly lower discount. Doesn't need to garrison for tech discount
+- Chandragupta global elephants bonus for speed and attack rate, local armor bonus for all soldiers
+- Elephants get a splash attack
+
+
+[font="sans-bold-20"]#Catapults
+[font="sans-16"]
+- Smaller range
+- Gain a splash attack
+
+
+[font="sans-bold-20"]
+#Updated Version 4 (Jun 21, 2023)
+
+[font="sans-16"]
+- Add splash damage to all military ships
+
+[font="sans-bold-20"]
+#Updated Version 4 (Mar 31, 2023)
+[font="sans-16"]
+
+- Reduce all units damage by 25%
+- Increase melee infantry speed by 0.5
+- Champion Infantry movement speed set to 9.5
+- Infantry Heroes movement speed increased to 9.5
+- Elephants Pierce damage decreased from 14 to 10
+- Han Han Minister Hack damage increased from 10 to 16
+
+
+[font="sans-bold-20"]
+#Updated Version 4 (Mar 26, 2023)
+
+[font="sans-bold-20"]#Final unit rebalancing adjustments
+
+- Infantry
+[font="sans-16"]
+- Maceman 
+- Crush damage decreased from 9 to 7
+- Pikeman
+- Hack damage decreased from 6 to 5
+- Hack resistance decreased from 6 to 5
+- Pikeman
+- Hack damage decreased from 2 to 1
+
+[font="sans-bold-20"]
+- Champion Infantry
+[font="sans-16"]
+- Maceman 
+- Crush damage decreased from 18 to 14
+- Pikeman
+- Hack damage decreased from 12 to 10
+- Hack resistance decreased from 7 to 5
+- Trumpeter
+- Hack damage increased from 10 to 22
+- Hack resistance increased from 1 to 2
+- Pierce resistance increased from 1 to 2
+
+[font="sans-bold-20"]
+- Cavalry
+[font="sans-16"]
+- Melee base hack damage decreased from 3 to 2
+
+- Axeman
+- Hack resistance increased from 2 to 3
+- Maceman
+- Crush damage decreased from 9.5 to 7.5
+- Hack damage increased from 6 to 8
+- Hack damage decreased from 8 to 7.5
+- Hack resistance decreased from 3 to 2
+- Spearman
+- Hack damage increased from 7.5 to 7.7
+- Pierce damage increased from 6.25 to 6.5
+- Swordsman
+- Pierce resistance increased from 2 to 2.5
+
+[font="sans-bold-20"]
+- Champion Cavalry
+[font="sans-16"]
+- Axeman
+- Hack resistance of 1 added
+- Maceman
+- Crush damage decreased from 19 to 15
+- Hack damage increased from 12 to 15
+- Pierce resistance removed
+- Spearman
+- Hack damage increased from 15 to 15.5
+- Pierce damage increased from 12.5 to 13
+- Swordsman
+- Pierce resistance of 0.5 added
+
+
+[font="sans-bold-20"]
+#Updated Version 4 (Mar 25, 2023)
+
+[font="sans-bold-20"]#Major units rebalancing
+[font="sans-bold-20"]
+- Infantry
+[font="sans-16"]
+- Melee base hack and pierce damage of 3
+
+- Axeman 
+- Hack damage increased from 6 to 12
+- Crush damage increased from 2 to 4
+- Hack resistance decreased from 4 to 2
+- Pierce resistance removed
+- Maceman
+- Crush damage increased from 7 to 9
+- Hack damaged of 7 added
+- Hack resistance decreased from 4 to 2
+- Pierce resistance removed
+- Pikeman
+- Hack damage increased from 2 to 6
+- Crush damage increased from 3 to 9
+- Hack resistance decreased from 10 to 6
+- Pierce resistance decreased from 8 to 5
+[font="sans-bold-20"]
+- Champion Infantry
+[font="sans-16"]
+- Base hack damage decreased from 5 to 3
+- Base pierce damage decreased from 5 to 3
+
+- Axeman 
+- Hack damage increased from 12 to 24
+- Crush damage increased from 4 to 8
+- Maceman 
+- Hack damage of 14 added
+- Crush damage increased from 14 to 18
+- Hack resistance increased from 1 to 2
+- Pierce resistance increased from 1 to 3
+- Pikeman
+- Hack damage increased from 4 to 12
+- Pierce damage increased from 6 to 18
+- Hack resistance decreased from 8 to 7
+- Pierce resistance decreased from 6 to 5
+- Spearman
+- Hack damage increased from 6 to 12
+- Pierce damage increased from 5 to 10
+- Slightly slower repeat attack time from 900 to 1000
+- Swordsman
+- Hack damage decreased from 11 to 22
+[font="sans-bold-20"]
+- Cavalry
+[font="sans-16"]
+- Melee base hack damage decreased from 3 to 2
+
+- Axeman
+- Hack damage increased from 8.7 to 14
+- Crush damage increased from 2.3 to 4.5
+- Hack resistance decreased from 3 to 2
+- Maceman
+- Crush damage increased from 8 to 9.5
+- Hack damage of 6 added
+- Hack resistance decreased from 4 to 3
+- Swordsman
+- Hack damage increased from 6.5 to 12
+- Pierce resistance decreased from 4 to 2
+[font="sans-bold-20"]
+- Champion Cavalry
+[font="sans-16"]
+- Base hack damage decreased from 7 to 5
+
+- Axeman
+- Hack damage increased from 13.8 to 28
+- Crush damage increased from 4.6 to 8
+- Pierce resistances of 2 added
+- Maceman
+- Crush damage increased from 16 to 19
+- Hack damage of 12 added
+- Spearman
+- Hack damage increased from 8 to 15
+- Pierce damage increased from 6 to 12.5
+- Hack resistance increased from 1 to 2
+- Pierce resistance decreased from 2 to 1
+- Swordsman
+- Hack damage increased from 13 to 24
+- Pierce resistance removed
+- Hack resistance of 1 added
+
+
+[font="sans-bold-20"]
+#Version 4 (Dec 16, 2022)
+
+
+[font="sans-bold-20"]#Cavalry
+[font="sans-16"]
+- Increase Spear Cavalry acceleration by 15%%
+
+[font="sans-bold-20"]#Civilizations
+[font="sans-16"]
+- Add Seleucids civilization bonus: Farms 25% wood cost and 75% build time, no diminishing returns for increased field workers.
+- Reduced Romans Army Camp and Health. 500/100/100 (Wood/Stone/Metal) to 400/150 (Wood/Stone) Max HP from 2250 to 1750
+- Romans Army Camp available in Town Phase
+
+
+[font="sans-bold-20"]#Infantry
+[font="sans-16"]
+- Add Roman Centurion as Upgrade from Rank 3 Soldiers. 
+- Upgradable at a cost of 100/50 (Food/Metal) from Rank 3 Swordsmen and Spearmen. 12 seconds upgrade time
+- Aura: Melee Soldiers +10% attack damage and all soldiers -25% experience points for promotion.
+
+
+[font="sans-bold-20"]
+#Version 3 (Nov 15, 2022)
+
+
+[font="sans-bold-20"]#Healers
+[font="sans-16"]
+- Decrease Healers training cost from 250/50 to 100/25 (Food/Metal)
+- Decrease Healing Range I tech cost from 400/200 to 200/100 (Food/Metal)
+- Decrease Healing Range II tech cost from 800/400 to 300/150 (Food/Metal)
+- Decrease Healing Rate I tech cost from 500/250 to 200/100 (Food/Metal)
+- Decrease Healing Rate I tech cost from 1000/500 to 300/150 (Food/Metal)
+
+
+[font="sans-bold-20"]#Cavalry
+[font="sans-16"]
+- Decrease Axe Cavalry Crush damage from 2.9 to 2.3
+- Increase Axe Cavalry Hack damage from 6.9 to 8.7
+
+
+[font="sans-bold-20"]#Towers
+[font="sans-16"]
+- Increase Sentry Towers Arrows from 3 to 4
+
+
+[font="sans-bold-20"]#Civic Centre and Colony
+[font="sans-16"]
+- Adjust Civic Centre cost from 350/100 to 300/250 (Stone/Metal)
+- Decrease Civic Centre loot reward from 100/100/100 to 60/60/50 (Wood/Stone/Metal)
+- Increase Military Colony cost from 150/100 to 200/150 (Wood/Metal)
+- Decrease Military Colony loot reward from 40/40/40 to 40/40/30 (Wood/Stone/Metal)
+- Decrease Military Colony territory influence radius from 80 to 75
+
+
+[font="sans-bold-20"]#Civilizations
+[font="sans-16"]
+-Ptolomies buildings are now easy to capture and has +50% building time
+- Carthage team bonus: replaced to Mercenary Ranks: Mercenaries -50% training time
+- Persian team bonus: -20% Barracks and Stable cost and build time
+- Athens team bonus: replaced to Democracy: Civic Centre upgrades -50% research time and -30% cost
+- Seleucids team bonus: Civic Centers and Colonies -20% cost and -30% building time
+
+
+[font="sans-bold-20"]
+#Version 2 (Oct 08, 2022)
+
+
+[font="sans-bold-20"]#Bug fixes
+[font="sans-16"]
+- Fix the victory conditions infinite loop bug with a27 files.
+
+
+[font="sans-bold-20"]
+#Version 1 (Sep 28, 2022)
+
+[font="sans-bold-20"]#Han Civ
+[font="sans-16"]
+- Fix Han rice tech not improving crops gather rates.

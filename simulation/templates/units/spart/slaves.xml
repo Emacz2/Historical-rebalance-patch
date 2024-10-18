@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_slave">
+  <Builder>
+   <Entities datatype="tokens">
+      structures/spart/syssiton
+      structures/spart/gerousia
+     -structures/{civ}/wallset_stone
+     -structures/{civ}/barracks
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/spart/slaves</SelectionGroupName>
+    <GenericName>Helots</GenericName>
+    <SpecificName>Heílōs</SpecificName>
+    <Icon>units/ptol_infantry_slinger.png</Icon>
+  </Identity>
+    <Cost>
+    <Population>0</Population>
+    <BuildTime>10</BuildTime>
+    <Resources>
+      <food>10</food>
+      <metal>20</metal>
+    </Resources>
+    </Cost>
+    <Health>
+    <Max>30</Max>
+    </Health>
+  <VisualActor>
+    <Actor>units/ptolemies/infantry_slinger_b.xml</Actor>
+  </VisualActor>
+</Entity>

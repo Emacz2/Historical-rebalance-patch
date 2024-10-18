@@ -1,0 +1,5 @@
+FIRESHIPS
+Available to the Britons, Gauls, and Iberians.
+Construct them, move them near enemy ships, then ignite them to set them ablaze.
+They cause Fire damage to nearby enemy ships and themselves start to lose health.
+Very good against Siege Ships.

@@ -1,0 +1,26 @@
+{
+	"genericName": "Helot reinforcement",
+	"specificName": {
+		"athen": "Thesmophoria",
+		"mace": "Thesmophoria",
+		"ptol": "Thesmophoria",
+		"rome": "Bona Dea",
+		"sele": "Thesmophoria",
+		"spart": "Thesmophoria"
+	},
+	"description": "Able to keep slaves in the house.",
+	"cost": {
+		"food": 300,
+		"wood": 300
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_village" },
+			{ "civ": "spart" }
+		]
+	},
+	"icon": "wives_festival.png",
+	"researchTime": 60,
+	"tooltip": "Unlock the ability to train Perioci skirmishers from houses.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

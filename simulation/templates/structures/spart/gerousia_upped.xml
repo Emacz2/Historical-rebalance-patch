@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_special">
+<Auras datatype="tokens"> structures/xp_trickle_2 </Auras>
+  <Footprint replace="">
+    <Circle radius="12.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Health>
+    <Max>2500</Max>
+  </Health>
+  <Population>
+    <Bonus>10</Bonus>
+  </Population>
+  <GarrisonHolder>
+    <Max>10</Max>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>spart</Civ>
+    <GenericName>Spartan Senate</GenericName>
+    <SpecificName>Gerousia_upped</SpecificName>
+    <Tooltip>Train Heroes and research unique technologies.</Tooltip>
+    <Classes datatype="tokens">ConquestCritical</Classes>
+    <VisibleClasses datatype="tokens">Town Council</VisibleClasses>
+    <Icon>structures/tholos.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <Loot>
+    <stone>20</stone>
+    <metal>20</metal>
+  </Loot>
+  <Obstruction>
+    <Static width="20.0" depth="20.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      krypteia_2
+      soldier_resistance
+    </Technologies>
+  </Researcher>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_tholos.xml</select>
+      <constructed>interface/complete/building/complete_tholos.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>38</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_leonidas
+      units/{civ}/hero_brasidas
+      units/{civ}/hero_agis
+      units/{civ}/infantry_spearman_e
+      units/{civ}/champion_infantry_swordsman
+      units/{civ}/infantry_javelineer_e
+    </Entities>
+  </Trainer>
+  <Vision>
+    <Range>40</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>structures/spartans/gerousia.xml</Actor>
+  </VisualActor>
+</Entity>

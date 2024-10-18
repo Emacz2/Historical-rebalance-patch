@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+     units/heroes/spart_hero_agis_1
+     units/heroes/spart_hero_agis_2
+  </Auras>
+  <Identity>
+    <Civ>spart</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Agis III</GenericName>
+    <SpecificName>Agis</SpecificName>
+    <Icon>units/spart_hero_agis.png</Icon>
+  </Identity>
+  <Health>
+    <Max>1500</Max>
+  </Health>
+  <VisualActor>
+    <Actor>units/spartans/hero_infantry_spearman_agis.xml</Actor>
+  </VisualActor>
+<Attack>
+    <Melee>
+      <AttackName>Spear</AttackName>
+      <Damage>
+        <Hack>13</Hack>
+        <Pierce>12</Pierce>
+      </Damage>
+      <MaxRange>4.5</MaxRange>
+      <PrepareTime>450</PrepareTime>
+      <RepeatTime>900</RepeatTime>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>3</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Identity>
+    <GenericName>Hero Spearman</GenericName>
+    <Tooltip>Counters: 3 × vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
+  </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">4</Hack>
+        <Pierce op="add">4</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+</Entity>

@@ -1,0 +1,30 @@
+{
+	"genericName": "Marian Reforms",
+	"description": "Regularize the army into a professional, organized force. The Marian reforms were a series of military reforms in the last century BC attributed to Gaius Marius involving the abolition of citzen cavalry, equipment changes, and standardization of the heavy infantry unit: the Legionary.",
+        "cost": {
+                "food": 1200,
+                "metal": 1000
+        },
+        "researchTime": 60,
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" },
+			{ "civ": "rome" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "shield_scutum.png",
+        "modifications":[
+          {
+            "value": "Promotion/RequiredXp",
+            "replace": 0
+          },
+          {
+            "value": "Researcher/Technologies/_string",
+            "tokens": "-unlock_champion_infantry"
+		}
+        ],
+        "affects": ["Structure","Champion Infantry","Citizen Soldier !Cavalry !Auxiliary"],
+	"tooltip": "Convert Citizen Swordsmen and Skirmishers to Marian Legionaries, and Citizen Spearmen to conscripts which cannot promote. Train Onagers and Centurions, lose access to Italic Heavy Infantry.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

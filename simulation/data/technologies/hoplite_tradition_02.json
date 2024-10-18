@@ -1,0 +1,29 @@
+{
+	"genericName": "Hoplite Tradition",
+	"description": "Hoplite soldiers constituted most of the armies of Greece.",
+	"cost": {
+		"food": 150,
+		"wood": 75,
+		"metal": 75
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_village" },
+			{
+				"any": [
+					{ "civ": "spart" }
+				]
+			}
+		]
+	},
+	"icon": "armor_corinthian.png",
+	"researchTime": 15,
+	"tooltip": "Hoplites −15% training time and −25% promotion experience and 5% less metal (champs).",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.85 },
+		{ "value": "Promotion/RequiredXp", "multiply": 0.75 },
+		{ "value": "Cost/Resources/metal", "multiply":  0.95}
+	],
+	"affects": ["Spearman !Cavalry"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}
