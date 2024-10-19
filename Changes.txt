@@ -5,6 +5,9 @@ Spartan rams garrison increased to 15 (rams were first siege engines recorded  (
 Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack resistance, train time increased to 15 seconds.
 advanced melee dmg bonus increased to 1.15 from 1.10
 range added to 1.05 and 2 range
+Fort range increased to 75, Dmg 9 piece 1 crush, also hopefully added territory range of 50 where buildings wont lose influence
+CC range increased to 65
+
 
 26.10
 Spartans get 1 spartriate, 1 peroci spear pony, 4 women 1 pericoic jav and want Spartiate JR to start each game

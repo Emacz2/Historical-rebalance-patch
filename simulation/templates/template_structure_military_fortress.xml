@@ -5,9 +5,9 @@
 			<AttackName>Bow</AttackName>
 			<Damage>
 				<Pierce>9.0</Pierce>
-				<Crush>0.5</Crush>
+				<Crush>1.0</Crush>
 			</Damage>
-			<MaxRange>65</MaxRange>
+			<MaxRange>75</MaxRange>
 			<MinRange>10</MinRange>
 			<PrepareTime>400</PrepareTime>
 			<RepeatTime>3500</RepeatTime>
@@ -113,8 +113,10 @@
 		<DecayRate op="mul">2</DecayRate>
 	</TerritoryDecay>
 	<TerritoryInfluence>
-		<Radius>80</Radius>
-	</TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>50</Radius>
+    <Weight>10000</Weight>
+    </TerritoryInfluence>
 	<Trainer>
 		<BatchTimeModifier>0.8</BatchTimeModifier>
 	</Trainer>

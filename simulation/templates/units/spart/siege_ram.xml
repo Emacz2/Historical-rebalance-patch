@@ -33,6 +33,7 @@
     <BuildTime>25</BuildTime>
     <Resources>
       <wood>400</wood>
+      <metal>0</metal>
     </Resources>
   </Cost>
 </Entity>
