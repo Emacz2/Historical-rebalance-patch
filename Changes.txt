@@ -1,7 +1,7 @@
 26.11
 Added aura to siege towers, trying to make them a little more accurate.   Decreased range, increased repeat time (they weren't used for shooting projectiles at infantry.)  Increased health
 Han Mangonel increased range by 5 and crush dmg by 20 (They are credited with the trebuchet, stronger version of the catapult)
-Spartan rams garrison increased to 15 (rams were first siege engines recorded  (in Assyria) soon to be adopted by sparta)
+Spartan rams garrison increased to 15 (rams were first siege engines recorded  (in Assyria) soon to be adopted by sparta) Cost 400 wood no metal, crush dmg reduced by 30% build time 25 instead of 30
 
 26.10
 Spartans get 1 spartriate, 1 peroci spear pony, 4 women 1 pericoic jav and want Spartiate JR to start each game

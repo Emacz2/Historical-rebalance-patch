@@ -16,4 +16,23 @@
     <BuffHeal>0</BuffHeal>
     <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
+<Attack>
+    <Melee>
+      <AttackName>Ram</AttackName>
+      <Damage>
+        <Crush>105</Crush>
+      </Damage>
+      <MaxRange>6.5</MaxRange>
+      <PrepareTime>750</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
+      <PreferredClasses datatype="tokens">Structure</PreferredClasses>
+      <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
+    </Melee>
+  </Attack>
+  <Cost>
+    <BuildTime>25</BuildTime>
+    <Resources>
+      <wood>400</wood>
+    </Resources>
+  </Cost>
 </Entity>
