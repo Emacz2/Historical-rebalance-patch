@@ -6,7 +6,9 @@ Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack 
 advanced melee dmg bonus increased to 1.15 from 1.10
 range added to 1.05 and 2 range
 Fort range increased to 75, Dmg 9 piece 1 crush, also hopefully added territory range of 50 where buildings wont lose influence
-CC range increased to 65
+CC range increased to 65 garrison increases to 25 for town phase
+Town phase increase CC capacity by 5 (25 total) Infantry health increases 5% (trying to include more units)
+City phase increases CC capacity by 10 (35 total) Infantry health increases 10% (trying to include more units)
 
 
 26.10
