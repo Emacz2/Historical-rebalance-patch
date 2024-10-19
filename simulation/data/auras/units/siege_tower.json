@@ -1,0 +1,12 @@
+{
+	"type": "range",
+	"radius": 40,
+	"affects": ["CivilCentre"],
+	"affectedPlayers": ["Enemy"],
+	"modifications": [
+		{ "value": "Capturable/GarrisonRegenRate", "multiply": 0.25 }
+	],
+	"auraName": "Conqueror",
+	"auraDescription": "Enemy Civic Centres −75% capture points garrisoned regeneration rate.",
+	"overlayIcon": "art/textures/ui/session/auras/laurel.png"
+}
