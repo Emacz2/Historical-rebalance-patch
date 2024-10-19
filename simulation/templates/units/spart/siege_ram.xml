@@ -8,4 +8,12 @@
   <VisualActor>
     <Actor>structures/spartans/siege_ram.xml</Actor>
   </VisualActor>
+<GarrisonHolder>
+    <Max>15</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
 </Entity>
