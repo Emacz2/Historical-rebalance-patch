@@ -25,7 +25,7 @@
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
-		{ "value": "Health/Max", "multiply": 1.05, "affects": "Infantry" }
+		{ "value": "Health/Max", "multiply": 1.05, "affects": "Citizen" }
 
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
