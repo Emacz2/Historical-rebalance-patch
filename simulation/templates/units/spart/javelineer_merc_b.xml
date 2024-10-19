@@ -7,7 +7,35 @@
       -structures/{civ}/wallset_stone
       -structures/{civ}/barracks
     </Entities>
+    <Rate>1.25</Rate>
   </Builder>
+ <Attack>
+    <Ranged>
+      <AttackName>Javelin</AttackName>
+      <Damage>
+        <Pierce>16</Pierce>
+      </Damage>
+      <MaxRange>30</MaxRange>
+      <PrepareTime>400</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
+      <Projectile>
+        <Speed>70</Speed>
+        <Spread>4</Spread>
+        <Gravity>35</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Ranged>
+  </Attack>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>2</Hack>
+        <Pierce>2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Identity>
     <Civ>spart</Civ>
     <Lang>napatan</Lang>
@@ -21,7 +49,7 @@
     <Entity>units/spart/javelineer_merc_a</Entity>
   </Promotion>
   <Cost>
-    <BuildTime>12</BuildTime>
+    <BuildTime>15</BuildTime>
     <Resources>
       <food>40</food>
       <wood>0</wood>
