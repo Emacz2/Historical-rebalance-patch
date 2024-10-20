@@ -1,5 +1,5 @@
 {
-	"genericName": "Helot reinforcement",
+	"genericName": "Perioci reinforcement",
 	"specificName": {
 		"athen": "Thesmophoria",
 		"mace": "Thesmophoria",
@@ -8,10 +8,10 @@
 		"sele": "Thesmophoria",
 		"spart": "Thesmophoria"
 	},
-	"description": "Able to keep slaves in the house.",
+	"description": "Perioci's need a home too.",
 	"cost": {
-		"food": 300,
-		"wood": 300
+		"food": 400,
+		"wood": 400
 	},
 	"requirements": {
 		"all": [
