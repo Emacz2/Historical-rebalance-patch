@@ -36,9 +36,8 @@
   <Researcher>
     <Technologies datatype="tokens">
       tyrtean_paeans
-    </Technologies>
-    <Technologies datatype="tokens">
       tyrtean_paeans_02
+      spartan_spearman_attack
     </Technologies>
   </Researcher>
   <Sound>
@@ -56,8 +55,8 @@
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_spear
-      units/{civ}/champion_infantry_swordsman
-      units/{civ}/champion_infantry_javelineer
+      units/{civ}/infantry_spearman_neodamodes
+      units/{civ}/infantry_spearman_e
     </Entities>
   </Trainer>
   <Vision>

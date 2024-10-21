@@ -27,10 +27,10 @@
       </RangeOverlay>
       <Splash>
         <Shape>Circular</Shape>
-        <Range>1.5</Range>
-        <FriendlyFire>false</FriendlyFire>
+        <Range>2</Range>
+        <FriendlyFire>true</FriendlyFire>
         <Damage>
-          <Crush>120</Crush>
+          <Crush>115</Crush>
         </Damage>
       </Splash>
     </Ranged>

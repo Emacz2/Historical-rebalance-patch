@@ -12,7 +12,7 @@
       units/{civ}/infantry_spearman_a
       units/{civ}/infantry_javelineer_b
       units/{civ}/cavalry_spearman_b
-      units/{civ}/cavalry_spearman_merc_b
+      units/{civ}/javelineer_merc_b
       units/{civ}/slaves
       units/{civ}/pikeman_slave
     </Entities>

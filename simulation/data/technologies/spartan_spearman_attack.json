@@ -1,0 +1,29 @@
+{
+	"genericName": "Side Arms",
+	"specificName": {
+		"athen": "Xiphos",
+		"mace": "Xiphos",
+		"ptol": "Xiphos",
+		"rome": "Pugio",
+		"sele": "Xiphos",
+		"spart": "Xiphos"
+	},
+	"description": "Spartaites began their training at a very young age.  They were the most feared army of their time",
+	"cost": {
+		"food": 200,
+		"wood": 100,
+		"stone": 50
+	},
+	"requirements": { "tech": "phase_village" },
+	"requirementsTooltip": "Unlocked in Village Phase.",
+	"icon": "sword_01.png",
+	"researchTime": 15,
+	"tooltip": "spearman +10% melee attack damage.",
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 }
+	],
+	"affects": ["Spearman !Cavalry"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

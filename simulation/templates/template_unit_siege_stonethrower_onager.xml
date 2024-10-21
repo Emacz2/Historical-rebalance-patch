@@ -16,7 +16,7 @@
 			<Splash>
 				<Shape>Circular</Shape>
 				<Range>3</Range>
-				<FriendlyFire>false</FriendlyFire>
+				<FriendlyFire>true</FriendlyFire>
 				<Damage>
 					<Crush>140</Crush>
 				</Damage>

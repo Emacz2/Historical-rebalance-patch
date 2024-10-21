@@ -31,7 +31,7 @@
     <Melee>
       <AttackName>Spear</AttackName>
       <Damage>
-        <Hack>9.5</Hack>
+        <Hack>9</Hack>
         <Pierce>8.5</Pierce>
       </Damage>
       <MaxRange>4.25</MaxRange>
@@ -54,12 +54,4 @@
     <Tooltip>Counters: 2.75× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">0.5</Hack>
-        <Pierce op="add">0.5</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
 </Entity>

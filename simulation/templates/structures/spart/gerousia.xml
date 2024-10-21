@@ -63,7 +63,6 @@
       units/{civ}/hero_brasidas
       units/{civ}/hero_agis
       units/{civ}/champion_infantry_swordsman
-      units/{civ}/infantry_spearman_neodamodes
     </Entities>
   </Trainer>
   <Upgrade>

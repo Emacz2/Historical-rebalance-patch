@@ -1,17 +1,28 @@
 26.11
 Spartans
 Spartan rams garrison increased to 15 (rams were first siege engines recorded  (in Assyria) soon to be adopted by sparta) Cost 400 wood no metal, crush dmg reduced by 30% build time 25 instead of 30
-Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack resistance, train time increased to 15 seconds.
+Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack resistance, train time increased to 15 seconds.  Now can only train from CC, Market in p2
 advanced melee dmg bonus increased to 1.15 from 1.10
 range added to 1.05 and 2 range
 Sparta common javs can no longer promote to merc jav.  Also when training from house cost 50 food instead of 40.  "fertility" for common jav increased 100 food and wood (400/400)
+Spartiates starting dmg decreased from 9.5/8.5 to 9/8.5 and removed the .5 hack/pierce armor they had compared to regular champion spear infantry
+added a new tech to ssytion spearman 10% dmg 250F 150W 100S
+Ssytion ONLY trains spearman now, champs, neomades and regular A/E ranks.
+Neomades start same stats as advanced rank speaerman and can rank to elite
+Skiri speed increased to 12 from 11.5 pierce/hack resistance dexreased .5 each
+Spartan spear heros dmg reduced, 12/10.5 (.5 more pierce than other civ spear hero) down from 13/12
+new p1 spear tech for sparta from ssystion 200 food 100 wood 50 stone 15 seconds research time, Infantry spearman 5% more dmg 
+
+Krypteia DMG increased lowered to 10% only applies to champions and heros (Non Citizen Soldiers)
+Krypteia2 now only applies to (Non Citizen Soldiers)
 
 All civs
 Fort range increased to 75, Dmg 9 piece 1 crush, also hopefully added territory range of 50 where buildings wont lose influence
-CC range increased to 65 garrison increases to 25 for town phase
-Town phase increase CC capacity by 5 (25 total) Infantry health increases 5% (trying to include more units)
-City phase increases CC capacity by 10 (35 total) Infantry health increases 10% (trying to include more units)
-Added aura to siege towers, trying to make them a little more accurate.   Decreased range, increased repeat time (they weren't used for shooting projectiles at infantry.)  Increased health, gave them "capture attack" to see if that helps
+CC range increased to 65, dmg reduced to 7 (from 8)
+Town phase increase CC capacity by 5 (25 total) Citizen Health increases 10% (structure increased dmg reduced by 10%)
+City phase increases CC capacity by 10 (35 total) Citizen Health increases 10%
+Added aura to siege towers, trying to make them a little more accurate.   Decreased range, increased repeat time (they weren't used for shooting projectiles at infantry.)  Increased health, gave them "capture attack" of 10 to see if that helps
+Stone throwers now can cause friendly fire dmg (onager included in friendly fire but not other changes), range increased to 2 from 1.5, splace dmg 115 from 120
 
 Han
 Han Mangonel increased range by 5 and crush dmg by 20 (They are credited with the trebuchet, stronger version of the catapult)

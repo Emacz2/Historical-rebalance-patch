@@ -29,8 +29,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>4</Hack>
-        <Pierce>4</Pierce>
+        <Hack>3.5</Hack>
+        <Pierce>3.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
@@ -42,6 +42,6 @@
     <Actor>units/spartans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 	 <UnitMotion>
-    <WalkSpeed>11.5</WalkSpeed>
+    <WalkSpeed>12</WalkSpeed>
   </UnitMotion>
 </Entity>

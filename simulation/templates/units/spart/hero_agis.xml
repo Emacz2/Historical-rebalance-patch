@@ -21,8 +21,8 @@
     <Melee>
       <AttackName>Spear</AttackName>
       <Damage>
-        <Hack>13</Hack>
-        <Pierce>12</Pierce>
+        <Hack>12</Hack>
+        <Pierce>10.5</Pierce>
       </Damage>
       <MaxRange>4.5</MaxRange>
       <PrepareTime>450</PrepareTime>
