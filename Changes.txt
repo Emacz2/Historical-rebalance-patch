@@ -27,6 +27,8 @@ Stone throwers now can cause friendly fire dmg (onager included in friendly fire
 Han
 Han Mangonel increased range by 5 and crush dmg by 20 (They are credited with the trebuchet, stronger version of the catapult)
 
+Kush Archers 10% less repeat time
+
 
 
 
