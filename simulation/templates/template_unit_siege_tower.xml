@@ -14,7 +14,7 @@
         <Pierce>10</Pierce>
         <Crush>2.5</Crush>
       </Damage>
-      <MaxRange>25</MaxRange>
+      <MaxRange>20</MaxRange>
       <Origin>
         <X>0</X>
         <Y>10</Y>
@@ -109,7 +109,7 @@
     <Acceleration op="mul">0.7</Acceleration>
   </UnitMotion>
   <Vision>
-    <Range>400</Range>
+    <Range>80</Range>
   </Vision>
 <Auras datatype="tokens">
    units/siege_tower
