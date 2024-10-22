@@ -1,0 +1,35 @@
+{
+	"genericName": "City Phase",
+	"specificName": {
+		"spart": "Kōmopolis"
+	},
+	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Spartan city phase, where Infantry cost 10% less metal but take 10% longer to train.",
+	"cost": {
+		"food": 200,
+		"wood": 200,
+		"metal": 800,
+		"stone": 800
+	},
+	"requirements": {
+		"entity": {
+			"class": "Town",
+			"number": 3
+		}
+	},
+	"requirementsTooltip": "Requires three Town Structures.",
+	"supersedes": "phase_town_spart",
+	"replaces": ["phase_city"],
+	"icon": "town_phase.png",
+	"researchTime": 30,
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Infantry cost 10% less metal but take 10% longer to train",
+	"modifications": [
+		{ "value": "Cost/Resources/metal", "multiply": 0.9, "affects": "Infantry" },
+		{ "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Spearman" },
+		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "Health/Max", "multiply": 1.1, "affects": "Citizen" }
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}

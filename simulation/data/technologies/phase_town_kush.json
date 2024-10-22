@@ -1,9 +1,9 @@
 {
 	"genericName": "Town Phase",
 	"specificName": {
-		"athen": "Kōmopolis"
+		"kush": "Kōmopolis"
 	},
-	"description": "Advances from a small village to a bustling town, ready to expand rapidly. This is the Athenian town phase, where metal gathering rates are boosted because of the 'Silver Owls' bonus.",
+	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Kush Workers garther grain 5% faster, archers gain 2 ranges but 5% more train time.",
 	"cost": {
 		"food": 650,
 		"wood": 650,
@@ -21,9 +21,11 @@
 	"replaces": ["phase_town"],
 	"icon": "town_phase.png",
 	"researchTime": 30,
-	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. Workers +10% metal gather rate.  All Citizens 10% more health",
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies.  Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health>  Workers 5% faster farming. Archers take 5% more train time but an addidtional 2.5 range",
 	"modifications": [
-		{ "value": "ResourceGatherer/Rates/food.ore", "multiply": 1.1, "affects": "Worker" },
+		{ "value": "ResourceGatherer/Rates/metal.grain", "multiply": 1.05, "affects": "Worker" },
+		{ "value": "Cost/BuildTime", "multiply": 1.05, "affects": "Archer" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 2, "affects": "Archer" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },

@@ -12,17 +12,17 @@
     <Ranged>
     <ApplyStatus>
         <Poisoned>
-          <Interval>3000</Interval>
+          <Interval>2000</Interval>
           <Damage>
-            <Poison>2</Poison>
+            <Poison>1</Poison>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>9000</Duration>
+          <Duration>10000</Duration>
         </Poisoned>
       </ApplyStatus>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>7.5</Pierce>
+        <Pierce>7.0</Pierce>
       </Damage>
       <MaxRange>60</MaxRange>
       <PrepareTime>800</PrepareTime>

@@ -49,7 +49,7 @@
     <Entity>units/spart/javelineer_merc_a</Entity>
   </Promotion>
   <Cost>
-    <BuildTime>15</BuildTime>
+    <BuildTime>12</BuildTime>
     <Resources>
       <food>40</food>
       <wood>0</wood>

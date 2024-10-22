@@ -1,0 +1,36 @@
+{
+	"genericName": "City Phase",
+	"specificName": {
+		"kush": "Megalopolis"
+	},
+	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Kush city phase, where workers gatehr grain 10% faster. While archers gain 3 range but take 10% more train time.",
+	"cost": {
+		"food": 200,
+		"wood": 200,
+		"metal": 800,
+		"stone": 800
+	},
+	"requirements": {
+		"entity": {
+			"class": "Town",
+			"number": 3
+		}
+	},
+	"requirementsTooltip": "Requires three Town Structures.",
+	"supersedes": "phase_town_kush",
+	"replaces": ["phase_city"],
+	"icon": "city_phase.png",
+	"researchTime": 30,
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health. Workers 10% faster farming. Archers take 10% more train time but an addidtional 3 range",
+	"modifications": [
+		{ "value": "ResourceGatherer/Rates/metal.grain", "multiply": 1.1, "affects": "Worker" },
+		{ "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Archer" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 3, "affects": "Archer" },
+		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "Health/Max", "multiply": 1.1, "affects": "Citizen" }
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}

@@ -15,7 +15,7 @@
     <GenericName>Meroitic Swordsman</GenericName>
     <SpecificName>knw hps</SpecificName>
     <Icon>units/kush_infantry_swordsman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/kush/infantry_swordsman_a</Entity>

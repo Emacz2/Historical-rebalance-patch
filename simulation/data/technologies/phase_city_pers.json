@@ -4,8 +4,8 @@
 	"cost": {
 		"stone": 800,
 		"metal": 800,
-		"wood": 100,
-		"food": 100
+		"wood": 200,
+		"food": 200
 	},
 	"requirements": {
 		"entity": {
