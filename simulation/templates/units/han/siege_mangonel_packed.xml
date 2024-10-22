@@ -6,7 +6,7 @@
       <Damage>
         <Crush>250</Crush>
       </Damage>
-      <MaxRange>90</MaxRange>
+      <MaxRange>92.5</MaxRange>
       <MinRange>26</MinRange>
       <PrepareTime>3000</PrepareTime>
       <RepeatTime>7000</RepeatTime>
