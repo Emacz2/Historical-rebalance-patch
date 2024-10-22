@@ -4,7 +4,7 @@
 	"description": "Perioikois must give a reasonable portion of their harvest to support a warrior and his family or widow.",
 	"cost": {
 		"food": 400,
-		"wood": 400/
+		"wood": 400,
 		"metal": 200
 
 	},
