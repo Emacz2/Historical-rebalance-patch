@@ -60,7 +60,7 @@
     </Entities>
   </Trainer>
   <Vision>
-    <Range>40</Range>
+    <Range>50</Range>
   </Vision>
   <VisualActor>
     <Actor>structures/spartans/gerousia.xml</Actor>
