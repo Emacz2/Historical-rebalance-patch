@@ -19,7 +19,7 @@
 	"requirementsTooltip": "Requires three Town Structures.",
 	"supersedes": "phase_town_spart",
 	"replaces": ["phase_city"],
-	"icon": "town_phase.png",
+	"icon": "city_phase.png",
 	"researchTime": 30,
 	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Infantry cost 10% less metal but take 10% longer to train",
 	"modifications": [

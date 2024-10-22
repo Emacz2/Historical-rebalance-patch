@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_siege_ram">
+  <Identity>
+    <Civ>spart</Civ>
+    <SpecificName>Krios</SpecificName>
+    <Icon>units/spart_siege_ram.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/spartans/siege_ram.xml</Actor>
+  </VisualActor>
+<GarrisonHolder>
+    <Max>10</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
+<Attack>
+    <Melee>
+      <AttackName>Ram</AttackName>
+      <Damage>
+        <Crush>75</Crush>
+      </Damage>
+      <MaxRange>6.5</MaxRange>
+      <PrepareTime>750</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
+      <PreferredClasses datatype="tokens">Structure</PreferredClasses>
+      <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
+    </Melee>
+  </Attack>
+ <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>30</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Health>
+    <Max>300</Max>
+  </Health>
+  <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <wood>300</wood>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
+</Entity>

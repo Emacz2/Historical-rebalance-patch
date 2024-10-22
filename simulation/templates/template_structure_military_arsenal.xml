@@ -29,6 +29,12 @@
     <Icon>structures/siege_workshop.png</Icon>
     <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
+<Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/siege_ram_town
+      units/{civ}/siege_ram_city
+    </Entities>
+  </Trainer>
   <Loot>
     <wood>60</wood>
   </Loot>
