@@ -30,6 +30,14 @@
   <Health>
     <Max>80</Max>
   </Health>
+  <ResourceGatherer>
+    <MaxDistance>2.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <stone.rock>0.45</stone.rock>
+      <metal.ore>0.45</metal.ore>
+    </Rates>
+  </ResourceGatherer>
   <Identity>
     <GenericName>Infantry</GenericName>
     <Classes datatype="tokens">Human CitizenSoldier</Classes>

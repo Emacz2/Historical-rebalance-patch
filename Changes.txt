@@ -15,7 +15,7 @@ Spartan spear heros dmg reduced, 12/10.5 (.5 more pierce than other civ spear he
 new p1 spear tech for sparta from ssystion 200 food 100 wood 50 stone 15 seconds research time, Infantry spearman 5% more dmg 
 Spartan p2, Infantry 10% less metal, spearman 10% more train time
 Spartan p3, Infantry 15% less metal, spearman 15% more train time
-Slaves train time reduced to 9 seconds from cc
+Slaves train time reduced to 9 seconds from cc and 25 seconds from house with tech, but cost 10 more food from house (20 vs 10)
 
 Krypteia DMG increased lowered to 10% only applies to champions and heros (Non Citizen Soldiers)
 Krypteia2 now only applies to (Non Citizen Soldiers)
@@ -37,6 +37,7 @@ Han Mangonel increased range by 5 and crush dmg by 20 (They are credited with th
 Kush Archers 10% less repeat time, lowered dmg to 7.0 (from 7.5) but added poison effect
 Kush Phase up p2 workers 5% faster grain gather rate, archers 5% more train time +2 range
 Kush Phase up p3 workers 10% faster grain gather rate, archers 10% more train time + 3 range
+Kush Archers 20% more HP, but 2 seconds more train time and .05 slower at gathering stone and metal
 remove spearman from Kush, start with swordman p1
 Teambonus is now 10% less res and train time for archers
 
