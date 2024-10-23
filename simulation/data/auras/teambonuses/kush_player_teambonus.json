@@ -1,14 +1,14 @@
 {
 	"type": "global",
-	"affects": ["Elephant"],
+	"affects": ["Archer"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "Cost/BuildTime", "multiply": 0.8 },
-		{ "value": "Cost/Resources/food", "multiply": 0.8 },
-		{ "value": "Cost/Resources/wood", "multiply": 0.8 },
-		{ "value": "Cost/Resources/stone", "multiply": 0.8 },
-		{ "value": "Cost/Resources/metal", "multiply": 0.8 }
+		{ "value": "Cost/BuildTime", "multiply": 0.9 },
+		{ "value": "Cost/Resources/food", "multiply": 0.9 },
+		{ "value": "Cost/Resources/wood", "multiply": 0.9 },
+		{ "value": "Cost/Resources/stone", "multiply": 0.9 },
+		{ "value": "Cost/Resources/metal", "multiply": 0.9 }
 	],
-	"auraName": "Elephant Suppliers",
-	"auraDescription": "Elephants −20% resource costs and training time."
+	"auraName": "Archer",
+	"auraDescription": "Archers −10% resource costs and training time."
 }
