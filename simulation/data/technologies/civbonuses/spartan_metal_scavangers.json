@@ -8,7 +8,7 @@
     "icon": "",
     "tooltip": "",
     "modifications": [
-		{ "value": "Looter/Resource/metal", "add": 10 }
+		{ "value": "Looter/Resource/metal", "add": 15 }
 	],
     "affects": ["support units"]
 } 
