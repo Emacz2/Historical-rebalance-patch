@@ -27,7 +27,7 @@
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1, "affects": "Champion","Hero"},
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1, "affects": "Champion","Hero" },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1, "affects": "Champion","Hero" },
-		 { "value": "Cost/BuildTime", "multiply": 1.15, , "affects": "Infantry" }
+		 { "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Infantry" }
 	],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
