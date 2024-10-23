@@ -9,7 +9,7 @@ Women train 25 second from houses as well but cost 55 food instead of 50
 Spartiates starting dmg decreased from 9.5/8.5 to 9/8.5 and removed the .5 hack/pierce armor they had compared to regular champion spear infantry.  Training time reduced to 16, 1 second more than other civ champ spear. Reduced cost to 80/75/70 (vs 80/60/80 for other spear champs)
 added a new tech to ssytion spearman 10% dmg 250F 150W 100S
 Ssytion ONLY trains spearman now, champs, neomades and regular A/E ranks.
-Neomades start same stats as elite rank speaerman
+Neomades start same stats as advance rank speaerman increased cost 40/25/25
 Skiri speed increased to 12 from 11.5 pierce/hack resistance dexreased .5 each
 Spartan spear heros dmg reduced, 12/10.5 (.5 more pierce than other civ spear hero) down from 13/12
 new p1 spear tech for sparta from ssystion 200 food 100 wood 50 stone 15 seconds research time, Infantry spearman 5% more dmg 

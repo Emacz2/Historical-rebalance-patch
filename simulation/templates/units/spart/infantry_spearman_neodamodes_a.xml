@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/spart/infantry_spearman_a">
+<Entity parent="units/spart/infantry_spearman_e">
   <Builder disable=""/>
   <Cost>
     <BuildTime>10</BuildTime>
@@ -24,9 +24,7 @@
     <metal>2</metal>
   </Loot>
   <ResourceGatherer disable=""/>
-   <Promotion>
-    <Entity>units/spart/infantry_spearman_neodamodes_a</Entity>
-  </Promotion>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_neodamodes.xml</Actor>
   </VisualActor>
