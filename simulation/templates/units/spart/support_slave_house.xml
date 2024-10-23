@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/spart/slaves">
   <Cost>
-    <BuildTime>30</BuildTime>
-  </Cost>
+    <Population>0</Population>
+    <BuildTime>25</BuildTime>
+    <Resources>
+      <food>20</food>
+      <metal>20</metal>
+    </Resources>
+    </Cost>
   <Identity>
     <RequiredTechnology>unlock_slaves_house</RequiredTechnology>
   </Identity>

@@ -4,7 +4,7 @@ Spartan rams garrison increased to 15 (rams were first siege engines recorded  (
 Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack resistance, train time reduced to 10 seconds plus rank penalty.  Now can only train from CC, Market in p2
 advanced melee dmg bonus increased to 1.15 from 1.10
 range added to 1.05 and 2 range
-Sparta common javs can no longer promote to merc jav.  Also when training from house cost 50 food instead of 40.  "fertility" for common jav increased 100 food and wood (400/400) but train time reduced to 8 from cc and 25 from hourses
+Sparta common javs can no longer promote to merc jav.  Also when training from house cost 50 food instead of 40.  "fertility" for common jav increased 100 food and wood (400/400) but train time reduced moved back to 9 from cc and 25 from hourses
 Women train 25 second from houses as well but cost 55 food instead of 50
 Spartiates starting dmg decreased from 9.5/8.5 to 9/8.5 and removed the .5 hack/pierce armor they had compared to regular champion spear infantry.  Training time reduced to 16, 1 second more than other civ champ spear. Reduced cost to 80/75/70 (vs 80/60/80 for other spear champs)
 added a new tech to ssytion spearman 10% dmg 250F 150W 100S
@@ -15,6 +15,7 @@ Spartan spear heros dmg reduced, 12/10.5 (.5 more pierce than other civ spear he
 new p1 spear tech for sparta from ssystion 200 food 100 wood 50 stone 15 seconds research time, Infantry spearman 5% more dmg 
 Spartan p2, Infantry 10% less metal, spearman 10% more train time
 Spartan p3, Infantry 15% less metal, spearman 15% more train time
+Slaves train time reduced to 9 seconds from cc
 
 Krypteia DMG increased lowered to 10% only applies to champions and heros (Non Citizen Soldiers)
 Krypteia2 now only applies to (Non Citizen Soldiers)

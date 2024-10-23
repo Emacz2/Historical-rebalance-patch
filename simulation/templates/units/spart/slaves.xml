@@ -18,7 +18,7 @@
   </Identity>
     <Cost>
     <Population>0</Population>
-    <BuildTime>10</BuildTime>
+    <BuildTime>9</BuildTime>
     <Resources>
       <food>10</food>
       <metal>20</metal>
