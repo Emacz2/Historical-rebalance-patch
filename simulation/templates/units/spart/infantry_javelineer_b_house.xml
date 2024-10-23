@@ -9,7 +9,7 @@
     </Entities>
   </Builder>
      <Cost>
-    <BuildTime>30</BuildTime>
+    <BuildTime>25</BuildTime>
     <Resources>
       <food>50</food>
       <wood>30</wood>

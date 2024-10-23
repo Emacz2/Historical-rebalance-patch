@@ -18,7 +18,7 @@
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "sword_01.png",
 	"researchTime": 15,
-	"tooltip": "spearman +10% melee attack damage.",
+	"tooltip": "spearman +5% melee attack damage.",
 	"modifications": [
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },

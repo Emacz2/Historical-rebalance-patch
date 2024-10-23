@@ -9,7 +9,7 @@
     </Entities>
   </Builder>
      <Cost>
-    <BuildTime>9</BuildTime>
+    <BuildTime>8</BuildTime>
     <Resources>
       <food>40</food>
       <wood>30</wood>
@@ -24,7 +24,7 @@
       <Damage>
         <Pierce>12</Pierce>
       </Damage>
-      <MaxRange>27.5</MaxRange>
+      <MaxRange>30</MaxRange>
       <PrepareTime>400</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <Projectile>
