@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_swordsman">
     <Cost>
-    <BuildTime>20</BuildTime>
+    <BuildTime>15</BuildTime>
     <Resources>
       <food>70</food>
-      <wood>60</wood>
-      <metal>70</metal>
+      <wood>70</wood>
+      <metal>60</metal>
     </Resources>
   </Cost>
   <Health>
