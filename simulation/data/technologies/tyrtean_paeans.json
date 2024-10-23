@@ -16,7 +16,7 @@
 	"researchTime": 45,
 	"tooltip": "Infantry Spearman +15% movement speedm but 5% more train time.",
 	"modifications": [
-	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 }
+	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 },
 	    { "value": "Cost/BuildTime", "multiply": 1.05 }
 	],
 	"affects": ["Infantry Spearman"],
