@@ -21,6 +21,9 @@
   <Promotion>
     <Entity>units/spart/infantry_spearman_a</Entity>
   </Promotion>
+  <Auras datatype="tokens">
+    units/spartan_phalanx
+  </Auras>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_b.xml</Actor>
   </VisualActor>

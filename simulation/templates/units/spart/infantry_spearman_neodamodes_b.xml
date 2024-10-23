@@ -15,7 +15,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_neodamodes</SelectionGroupName>
     <GenericName>Neodamodes Hoplite</GenericName>
     <SpecificName>Neodamōdeis</SpecificName>
-    <VisibleClasses datatype="tokens">-Builder -Worker</VisibleClasses>
+    <VisibleClasses datatype="tokens">Support -Worker</VisibleClasses>
     <Icon>units/spart/infantry_spearman_neodamodes.png</Icon>
   </Identity>
   <Loot>
@@ -27,6 +27,9 @@
    <Promotion>
     <Entity>units/spart/infantry_spearman_neodamodes_a</Entity>
   </Promotion>
+  <Auras datatype="tokens">
+    units/spartan_phalanx
+  </Auras>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_neodamodes.xml</Actor>
   </VisualActor>
