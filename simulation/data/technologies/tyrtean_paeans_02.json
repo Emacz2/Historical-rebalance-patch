@@ -15,12 +15,13 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "walk.png",
 	"researchTime": 60,
-	"tooltip": "ALL Infantry +15% movement speed but +15% train time and -1 of Hack, Peirce, Crush armor",
+	"tooltip": "ALL Infantry +15% movement speed but +10% train time and -1 of Hack, Peirce, Crush armor",
 	"modifications": [
 	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 },
 	    { "value": "Resistance/Entity/Damage/Hack", "add": -1 },
             { "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
             { "value": "Resistance/Entity/Damage/Crush", "add": -1 }
+	    { "value": "Cost/BuildTime", "multiply": 1.1 }
 	],
 	"affects": ["Infantry"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"

@@ -14,14 +14,14 @@
 	},
 	"icon": "skull_swords.png",
 	"researchTime": 30,
-	"tooltip": "Champions and Hero +10%  attack damage, but all Infantry  +15% training time",
+	"tooltip": "Champions and Hero +10%  attack damage, but all Infantry  +10% training time",
 	"modifications": [
 	     { "value": "Attack/Melee/Damage/Hack", "multiply": 1.10, "affects": "Soldier !Citizen"},
 	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.10, "affects": "Soldier !Citizen"},
 	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.10, "affects": "Soldier !Citizen" },
 	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10, "affects": "Soldier !Citizen"},
 	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.10, "affects": "Soldier !Citizen" },
-	    { "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Infantry"}
+	    { "value": "Cost/BuildTime", "multiply": 1.10, "affects": "Infantry"}
 	],
     "soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
