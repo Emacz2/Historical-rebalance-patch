@@ -37,7 +37,7 @@ Kush Archers 10% less repeat time, lowered dmg to 7.0 (from 7.5) but added poiso
 Kush Phase up p2 workers 5% faster grain gather rate, archers 5% more train time +2 range
 Kush Phase up p3 workers 10% faster grain gather rate, archers 10% more train time + 3 range
 remove spearman from Kush, start with swordman p1
-Cav Jav -2 dmg (16) but add poison effect
+Teambonus is now 10% less res and train time for archers
 
 
 
