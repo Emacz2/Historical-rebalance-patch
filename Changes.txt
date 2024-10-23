@@ -1,14 +1,14 @@
 26.11
 Spartans
 Spartan rams garrison increased to 15 (rams were first siege engines recorded  (in Assyria) soon to be adopted by sparta) Cost 400 wood no metal, crush dmg reduced by 30% build time 25 instead of 30
-Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack resistance, train time reduced to 9 seconds plus Merc penalty.  Now can only train from CC, Market in p2
+Spartan "merc javs" start out with regular jav stats p1 but + 1 pierce and hack resistance, train time reduced to 10 seconds plus rank penalty.  Now can only train from CC, Market in p2
 advanced melee dmg bonus increased to 1.15 from 1.10
 range added to 1.05 and 2 range
-Sparta common javs can no longer promote to merc jav.  Also when training from house cost 50 food instead of 40.  "fertility" for common jav increased 100 food and wood (400/400)
-Spartiates starting dmg decreased from 9.5/8.5 to 9/8.5 and removed the .5 hack/pierce armor they had compared to regular champion spear infantry
+Sparta common javs can no longer promote to merc jav.  Also when training from house cost 50 food instead of 40.  "fertility" for common jav increased 100 food and wood (400/400) but train time reduced to 8 from cc and 25 from hourses
+Spartiates starting dmg decreased from 9.5/8.5 to 9/8.5 and removed the .5 hack/pierce armor they had compared to regular champion spear infantry.  Training time reduced to 16, 1 second more than other civ champ spear
 added a new tech to ssytion spearman 10% dmg 250F 150W 100S
 Ssytion ONLY trains spearman now, champs, neomades and regular A/E ranks.
-Neomades start same stats as advanced rank speaerman and can rank to elite
+Neomades start same stats as elite rank speaerman
 Skiri speed increased to 12 from 11.5 pierce/hack resistance dexreased .5 each
 Spartan spear heros dmg reduced, 12/10.5 (.5 more pierce than other civ spear hero) down from 13/12
 new p1 spear tech for sparta from ssystion 200 food 100 wood 50 stone 15 seconds research time, Infantry spearman 5% more dmg 
@@ -26,7 +26,8 @@ City phase increases CC capacity by 10 (35 total) Citizen Health increases 10%
 Added aura to siege towers, trying to make them a little more accurate.   Decreased range, increased repeat time (they weren't used for shooting projectiles at infantry.)  Increased health, gave them "capture attack" of 10 to see if that helps
 Stone throwers now can cause friendly fire dmg (onager included in friendly fire but not other changes), range increased to 2 from 1.5, splace dmg 115 from 120
 Slingers dmg changed to 12.0 pierce .5 crush instead of 11.5/1.0
-reduced ranged units by about 10% due to the fact they now gain range as they rank up (did not include champions since they don't promote)
+advanced units stats, 15% health 15% train time, melee 15% dmg, ranged 5% more dmg, +2 range, -25% gather rate
+elite unit stats 20% health 20% train, 15 melee dmg, 5 ranged dmg, +3 range -25% gather
 
 Han
 Han Mangonel increased range by 5 and crush dmg by 20 (They are credited with the trebuchet, stronger version of the catapult)
