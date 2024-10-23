@@ -22,7 +22,7 @@
 	"modifications": [
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 }
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 },
 		{ "value": "Cost/BuildTime", "multiply": 1.05 }
 	],
 	"affects": ["Spearman !Cavalry"],
