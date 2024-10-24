@@ -5,6 +5,7 @@
   </Identity>
   <Promotion>
     <Entity>units/spart/javelineer_merc_e</Entity>
+  <RequiredXp>350</RequiredXp>
   </Promotion>
   <VisualActor>
     <Actor>units/athenians/infantry_javelinist_a.xml</Actor>

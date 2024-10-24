@@ -40,29 +40,26 @@
 		},
 		{
 			"Template": "units/spart/support_female_citizen",
-			"Count": 4
+			"Count": 3
 		},
 		{
 			"Template": "units/spart/infantry_spearman_a",
 			"Count": 1
 		},
 		{
-			"Template": "units/spart/infantry_javelineer_b",
-			"Count": 1
+			"Template": "units/spart/infantry_javelineer_b"
 		},
-		
 		{
-			"Template": "units/spart/cavalry_spearman_b",
-			"Count": 1
+			"Template": "units/spart/cavalry_spearman_b"
 		},
-
 		{
 			"Template": "units/spart/champion_infantry_spear"
+		},
+		{
+			"Template": "units/spart/slaves"
 		}
-		
+
 	],
-
-
 
 
 	"AINames": [

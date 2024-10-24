@@ -48,6 +48,7 @@
   </Identity>
   <Promotion>
     <Entity>units/spart/javelineer_merc_a</Entity>
+    <RequiredXp>300</RequiredXp>
   </Promotion>
   <Cost>
     <BuildTime>10</BuildTime>
