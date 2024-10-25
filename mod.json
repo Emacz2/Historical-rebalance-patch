@@ -1,7 +1,7 @@
 {
 	"name": "leifs-sparta-patch",
 	"version": "0.26.11",
-	"label": "leifs-sparta-patch",
+	"label": "leifs-sparta-patch-main",
 	"url": "https://github.com/Emacz2/leifs-sparta-patch",
 	"description": "This patch is an effort to make Sparta historically more accurate, promoting a more agressive style of play.",
 	"dependencies": [ "0ad=0.0.26" ]
