@@ -40,7 +40,7 @@
 		},
 		{
 			"Template": "units/spart/support_female_citizen",
-			"Count": 3
+			"Count": 4
 		},
 		{
 			"Template": "units/spart/infantry_spearman_a",
@@ -54,10 +54,8 @@
 		},
 		{
 			"Template": "units/spart/champion_infantry_spear"
-		},
-		{
-			"Template": "units/spart/slaves"
 		}
+		
 
 	],
 
