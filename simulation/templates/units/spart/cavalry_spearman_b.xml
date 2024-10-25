@@ -3,8 +3,8 @@
   <Cost>
   <BuildTime>20</BuildTime>
     <Resources>
-      <food>75</food>
-      <wood>50</wood>
+      <food>80</food>
+      <wood>40</wood>
     </Resources>
   </Cost>
     <Health>
@@ -32,8 +32,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>2</Hack>
-        <Pierce>2</Pierce>
+        <Hack>1.5</Hack>
+        <Pierce>1.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
