@@ -4,7 +4,7 @@
     <Rank>Elite</Rank>
   </Identity>
   <Promotion>
-    <RequiredXp>300</RequiredXp>
+    <RequiredXp>500</RequiredXp>
     <Entity>units/spart/champion_infantry_spear</Entity>
   </Promotion>
   <VisualActor>
