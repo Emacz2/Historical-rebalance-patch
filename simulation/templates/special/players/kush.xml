@@ -2,6 +2,7 @@
 <Entity parent="template_player">
   <Auras datatype="tokens">
     teambonuses/kush_player_teambonus
+    teambonuses/kush_player_teambonus2
   </Auras>
   <Identity>
     <Civ>kush</Civ>
