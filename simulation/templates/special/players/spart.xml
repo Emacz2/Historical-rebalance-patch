@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_player">
-  <Auras datatype="tokens">teambonuses/spart_player_teambonus</Auras>
+  <Auras datatype="tokens">
+  teambonuses/spart_player_teambonus
+  teambonuses/spart_player_teambonus2
+</Auras>
   <Identity>
     <Civ>spart</Civ>
     <GenericName>Spartans</GenericName>

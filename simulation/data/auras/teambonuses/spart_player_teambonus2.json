@@ -1,0 +1,14 @@
+{
+	"type": "global",
+	"affects": ["Infantry"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+
+	],
+	"auraName": "Peloponnesian League",
+	"auraDescription": "Infantry .5 more pierce and hack armor, 1 more crush armor."
+	
+	}

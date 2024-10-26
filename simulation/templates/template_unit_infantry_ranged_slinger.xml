@@ -4,7 +4,7 @@
     <Ranged>
       <AttackName>Sling</AttackName>
       <Damage>
-        <Pierce>12.0</Pierce>
+        <Pierce>11.5</Pierce>
         <Crush>0.5</Crush>
       </Damage>
       <MaxRange>45</MaxRange>
@@ -22,8 +22,8 @@
   </Attack>
   <Cost>
     <Resources>
-      <stone>30</stone>
-      <wood>20</wood>
+      <stone>20</stone>
+      <wood>30</wood>
     </Resources>
   </Cost>
   <Identity>
