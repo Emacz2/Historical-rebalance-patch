@@ -34,7 +34,7 @@
         <Hack>9</Hack>
         <Pierce>8.5</Pierce>
       </Damage>
-      <MaxRange>4.25</MaxRange>
+      <MaxRange>4.5</MaxRange>
       <PrepareTime>500</PrepareTime>
       <RepeatTime>1000</RepeatTime>
       <Bonuses>
