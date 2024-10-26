@@ -1,14 +1,12 @@
 Ideas
 Decrease range of melee cav compared to infantry counterpart, seems like it would be a little harder to maneuver a long spear on a horse.
 Melee Champs + .25/5 range? heroes?
-
+Archer/slinger/Jav same run/walk speed?
 
 26.12
 Slingers cost changed to 30 wood 20 stone, pierce dmg drop to 11.5 (from 12)
 pikeman attack speed increased from 2 seconds to 1.75
-Archer/slinger/Jav same run/walk speed?
 what would happen if spear range increased to 4.5 (reduce sword to 2.5 or keep at 3) keeping at 3 for now but increasing spear to 4.5 
-
 Spartan teambonus 2 Infantry +.5 pierce/hack armor, +1 crush.
 
 
