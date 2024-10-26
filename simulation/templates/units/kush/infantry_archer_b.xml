@@ -22,7 +22,7 @@
       </ApplyStatus>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>6.7</Pierce>
+        <Pierce>6.0</Pierce>
       </Damage>
       <MaxRange>60</MaxRange>
       <PrepareTime>800</PrepareTime>
