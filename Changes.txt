@@ -30,17 +30,16 @@ Stone throwers now can cause friendly fire dmg (onager included in friendly fire
 Slingers dmg changed to 12.0 pierce .5 crush instead of 11.5/1.0
 advanced units stats, 15% health 15% train time, melee 15% dmg, ranged 5% more dmg, +2 range, -25% gather rate
 elite unit stats 20% health 20% train, 15 melee dmg, 5 ranged dmg, +3 range -25% gather
+all no champ/non merc infantry is available p1.
 
 Han
 Han Mangonel increased range by 5 and crush dmg by 20 (They are credited with the trebuchet, stronger version of the catapult)
 
-Kush Archers 10% less repeat time, lowered dmg to 7.0 (from 7.5) but added poison effect
-Kush Phase up p2 workers 5% faster grain gather rate, archers 5% more train time +2 range
-Kush Phase up p3 workers 10% faster grain gather rate, archers 10% more train time + 3 range
-Kush Archers 20% more HP, but 2 seconds more train time and .05 slower at gathering stone and metal
-remove spearman from Kush, start with swordman p1
-Teambonus is now 10% less res and train time for archers
-
+Kush Archers 10% less repeat time, lowered dmg to 6.0 (from 7.5) but added 7.5 poison dmg over 15 seconds
+Kush Phase up p2 workers 5% faster grain gather rate, archers 10% more pierce dmg
+Kush Phase up p3 workers 10% faster grain gather rate, archers 10% less train time
+remove spearman from Kush, start with swordman p1, pikeman from barracks p1
+2nd Teambonus, Archers 10% more Helath 5% less resources
 
 
 
