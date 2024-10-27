@@ -8,7 +8,10 @@ Slingers cost changed to 30 wood 20 stone, pierce dmg drop to 11.5 (from 12)
 pikeman attack speed increased from 2 seconds to 1.75
 what would happen if spear range increased to 4.5 (reduce sword to 2.5 or keep at 3) keeping at 3 for now but increasing spear to 4.5 
 Spartan teambonus 2 Infantry +.5 pierce/hack armor, +1 crush.
-
+advanced units 20% (15%) longer to train and -30% (25%) res gathered 
+elite units 25% train (20%) -30% gather (25) but 25% health
+berries regenerate twice as fast, 1 every 3 seconds instead of 1 every 6
+Palisades build time changed 12 to 9, 8 to 6, 18 to 15 10 to 8 14 to 12
 
 26.11
 Spartans

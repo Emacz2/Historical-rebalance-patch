@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defensive_palisade">
   <Cost>
-    <BuildTime>10</BuildTime>
+    <BuildTime>8</BuildTime>
     <Resources>
       <wood>10</wood>
     </Resources>
