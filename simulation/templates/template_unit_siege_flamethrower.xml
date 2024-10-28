@@ -36,7 +36,7 @@
     <Range>20</Range>
     <FriendlyFire>true</FriendlyFire>
     <Damage>
-      <Fire>600</Fire>
+      <Fire>300</Fire>
     </Damage>
   </DeathDamage>
   <Health>
