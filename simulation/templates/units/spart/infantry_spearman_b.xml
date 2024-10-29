@@ -18,8 +18,18 @@
     <Classes datatype="tokens">Citizen</Classes>
     <VisibleClasses datatype="tokens">Worker Soldier Infantry</VisibleClasses>			
   </Identity>
+  <ResourceGatherer>
+    <MaxDistance>2.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <wood.tree>0.7</wood.tree>
+      <stone.rock>0.45</stone.rock>
+      <metal.ore>0.45</metal.ore>
+    </Rates>
+    </ResourceGatherer>
   <Promotion>
     <Entity>units/spart/infantry_spearman_a</Entity>
+  <RequiredXp>300</RequiredXp>
   </Promotion>
   <Auras datatype="tokens">
     units/spartan_phalanx

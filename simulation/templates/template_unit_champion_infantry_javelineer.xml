@@ -4,9 +4,9 @@
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
-        <Pierce>30</Pierce>
+        <Pierce>28</Pierce>
       </Damage>
-      <MaxRange>30</MaxRange>
+      <MaxRange>35</MaxRange>
       <PrepareTime>400</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <Projectile>
@@ -20,7 +20,7 @@
     </Ranged>
   </Attack>
   <Health>
-    <Max>120</Max>
+    <Max>150</Max>
   </Health>
   <Identity>
     <GenericName>Champion Infantry Javelineer</GenericName>

@@ -12,6 +12,9 @@ advanced units 20% (15%) longer to train and -30% (25%) res gathered
 elite units 25% train (20%) -30% gather (25) but 25% health
 berries regenerate twice as fast, 1 every 3 seconds instead of 1 every 6
 Palisades build time changed 12 to 9, 8 to 6, 18 to 15 10 to 8 14 to 12
+1.5 exp trickle added to fortress
+
+Spartiates are now considered "citizens" they get the health bonus p2, p3 will probly remove from mercanceries
 
 26.11
 Spartans

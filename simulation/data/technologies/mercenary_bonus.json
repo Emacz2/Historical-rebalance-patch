@@ -8,7 +8,9 @@
             { "value": "Attack/Melee/Damage/Crush", "multiply": 1.1, "affects": "Melee" },
             { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.1, "affects": "Ranged" },
             { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Ranged" },
-            { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.1, "affects": "Ranged" }
+            { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.1, "affects": "Ranged" },
+	    { "value": "Health/Max", "multiply": 1.15, "affects": "Melee" },
+            { "value": "Health/Max", "multiply": 1.15, "affects": "Ranged" }	    
     ],
     "affects": ["Mercenary"]
 }
