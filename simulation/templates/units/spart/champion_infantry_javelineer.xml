@@ -28,4 +28,5 @@
   <VisualActor>
     <Actor>units/hellenes/infantry_javelinist_c_thureophoros.xml</Actor>
   </VisualActor>
+<VisibleClasses datatype="tokens">Citizen</VisibleClasses>
 </Entity>
