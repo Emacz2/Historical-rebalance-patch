@@ -1,3 +1,6 @@
+
+
+
 Ideas
 Decrease range of melee cav compared to infantry counterpart, seems like it would be a little harder to maneuver a long spear on a horse.
 Melee Champs + .25/5 range? heroes?
@@ -16,6 +19,13 @@ Palisades build time changed 12 to 9, 8 to 6, 18 to 15 10 to 8 14 to 12
 
 Spartiates are now considered "citizens" they get the health bonus p2, p3
 removed "citizens" from spartan merce, perioci units and neoadmodes
+Spartan "merc jav" are not merc until they rank up, meaning the ones you train from cc are regular javilneer stats, they can gather.... training them from Gerousia though they start out LV2 so they are merc
+
+merc 2% faster run/walk
+adv rank 2% faster rum/walk
+
+
+
 26.11
 Spartans
 Spartan rams garrison increased to 15 (rams were first siege engines recorded  (in Assyria) soon to be adopted by sparta) Cost 400 wood no metal, crush dmg reduced by 30% build time 25 instead of 30

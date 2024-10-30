@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="merc_inf|template_unit_infantry_ranged_javelineer">
+<Entity parent="template_unit_infantry_ranged_javelineer">
   <Builder>
     <Entities datatype="tokens">
       structures/spart/syssiton
@@ -13,7 +13,7 @@
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
-        <Pierce>14.5</Pierce>
+        <Pierce>16.0</Pierce>
       </Damage>
       <MaxRange>30</MaxRange>
       <PrepareTime>400</PrepareTime>

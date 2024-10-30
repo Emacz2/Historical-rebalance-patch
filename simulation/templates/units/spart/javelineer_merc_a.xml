@@ -2,6 +2,7 @@
 <Entity parent="units/spart/javelineer_merc_b">
   <Identity>
     <Rank>Advanced</Rank>
+  <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/spart/javelineer_merc_e</Entity>
