@@ -21,9 +21,13 @@ Spartiates are now considered "citizens" they get the health bonus p2, p3
 removed "citizens" from spartan merce, perioci units and neoadmodes
 Spartan "merc jav" are not merc until they rank up, meaning the ones you train from cc are regular javilneer stats, they can gather.... training them from Gerousia though they start out LV2 so they are merc
 
-merc 2% faster run/walk
+merc 2% faster run/walk, .5 pierce/hack +1 crush
 adv rank 2% faster rum/walk
-
+elite rank .5 pierce/hack +1 crush
+champ infantry 4% faster run/walk (9.9)
+infantry heroes 4% faster run/walk (9.9)
+melee cav take 20% longer train time (18 seconds) than ranged cav, since tehy have 60% more life
+Kush poison reduced to .25 dmg/second over 8 seconds
 
 
 26.11
