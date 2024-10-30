@@ -7,6 +7,7 @@
     <SpecificName>SpartiátēsII</SpecificName>
     <Icon>units/hele/champion_ranged_polis.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>  
+  <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <Cost>
     <BuildTime>30</BuildTime>
@@ -28,5 +29,4 @@
   <VisualActor>
     <Actor>units/hellenes/infantry_javelinist_c_thureophoros.xml</Actor>
   </VisualActor>
-<VisibleClasses datatype="tokens">Citizen</VisibleClasses>
 </Entity>
