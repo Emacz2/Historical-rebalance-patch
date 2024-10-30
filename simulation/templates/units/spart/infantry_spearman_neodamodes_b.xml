@@ -4,7 +4,7 @@
   <Cost>
     <BuildTime>10</BuildTime>
     <Resources>
-      <food>40</food>
+      <food>50</food>
       <wood>25</wood>
       <metal>25</metal>
     </Resources>
@@ -15,7 +15,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_neodamodes</SelectionGroupName>
     <GenericName>Neodamodes Hoplite</GenericName>
     <SpecificName>Neodamōdeis</SpecificName>
-    <VisibleClasses datatype="tokens">Support -Worker -Citizen</VisibleClasses>
+    <VisibleClasses datatype="tokens">Support -Worker</VisibleClasses>
     <Icon>units/spart/infantry_spearman_neodamodes.png</Icon>
   </Identity>
   <Loot>
