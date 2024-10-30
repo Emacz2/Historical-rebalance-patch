@@ -14,7 +14,7 @@
         <Pierce>10</Pierce>
         <Crush>2.5</Crush>
       </Damage>
-      <MaxRange>20</MaxRange>
+      <MaxRange>15</MaxRange>
       <Origin>
         <X>0</X>
         <Y>10</Y>
