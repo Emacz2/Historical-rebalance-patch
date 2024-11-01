@@ -24,7 +24,7 @@
 	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies.  Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health>  Workers 5% faster farming. Archers 10% more pierce dmg",
 	"modifications": [
 		{ "value": "ResourceGatherer/Rates/metal.grain", "multiply": 1.05, "affects": "Worker" },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Archer" },
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.9, "affects": "Archer" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
