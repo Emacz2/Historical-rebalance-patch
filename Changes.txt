@@ -32,6 +32,7 @@ CC fire rate changed from 4.5 to 3 seconds, but dmg decreased from 6.5 to 4.5
 Fort fire rate changed from 2.5 to 3 but pierce dmg reduced to 6 from 8 and crush .08 from 1.0
 Kush p2 bonus, instead of 10% ranged dmg for archers, they fire 10% faster
 Kush p3 bonus they fire 10% faster and still 10% less train time
+Champ archers ranged increased to 65
 
 
 26.11
