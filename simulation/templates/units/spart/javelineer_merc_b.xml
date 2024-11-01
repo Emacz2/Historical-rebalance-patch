@@ -44,6 +44,7 @@
     <SpecificName>Peltastḗs Thrâx</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
    <RequiredTechnology>phase_village</RequiredTechnology>
+  <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/spart/javelineer_merc_a</Entity>
