@@ -10,7 +10,7 @@
   </Cost>
   <Identity>
     <Rank>Advanced</Rank>
- <VisibleClasses datatype="tokens">Mercanary -Worker</VisibleClasses>
+ <VisibleClasses datatype="tokens">Mercanary</VisibleClasses>
   </Identity>
   <ResourceGatherer disable=""/>
   <Promotion>
