@@ -31,7 +31,7 @@ Kush archer poison increased to 1.25 dmg per 2 seconds for 12 seconds
 CC fire rate changed from 4.5 to 3 seconds, but dmg decreased from 6.5 to 4.5
 Fort fire rate changed from 2.5 to 3 but pierce dmg reduced to 6 from 8 and crush .08 from 1.0
 Kush p2 bonus, instead of 10% ranged dmg for archers, they fire 10% faster, 10% more accurate
-Kush p3 bonus they fire 10% faster and still 10% less train time
+Kush p3 bonus they fire 5% faster and still 10% less train time, 10% more accurate
 Champ archers ranged increased to 65
 Cavalry archers dmg increased to 8.0 (7.5) but spread increased to 3.5 (2.5)
 Infantry Jav spread reduced to 3.5, Cav Jav spread increased to 4.5.
