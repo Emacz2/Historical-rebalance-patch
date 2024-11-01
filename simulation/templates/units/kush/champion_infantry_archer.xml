@@ -12,8 +12,12 @@
           <Duration>15000</Duration>
         </Poisoned>
       </ApplyStatus>
+      <Damage>
+      <Pierce>12.5</Pierce>
+      </Damage>
       <MaxRange>65</MaxRange>
-      <RepeatTime>1375</RepeatTime>
+      <PrepareTime>800</PrepareTime>
+      <RepeatTime>1375</RepeatTime>>
     </Ranged>
   </Attack>
   <Identity>
@@ -28,3 +32,5 @@
     <Actor>units/kushites/infantry_archer_c.xml</Actor>
   </VisualActor>
 </Entity>
+
+  
