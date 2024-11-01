@@ -15,7 +15,6 @@
       <Damage>
       <Pierce>12.5</Pierce>
       </Damage>
-      <MaxRange>65</MaxRange>
       <PrepareTime>800</PrepareTime>
       <RepeatTime>1375</RepeatTime>>
     </Ranged>
