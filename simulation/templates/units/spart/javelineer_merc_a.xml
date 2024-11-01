@@ -12,6 +12,7 @@
     <Rank>Advanced</Rank>
  <VisibleClasses datatype="tokens">Mercanary -Worker</VisibleClasses>
   </Identity>
+  <ResourceGatherer disable=""/>
   <Promotion>
     <Entity>units/spart/javelineer_merc_e</Entity>
   <RequiredXp>350</RequiredXp>
