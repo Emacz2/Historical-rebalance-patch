@@ -12,21 +12,21 @@
     <Ranged>
     <ApplyStatus>
         <Poisoned>
-          <Interval>1000</Interval>
+          <Interval>2000</Interval>
           <Damage>
-            <Poison>0.25</Poison>
+            <Poison>1.25</Poison>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>8000</Duration>
+          <Duration>12000</Duration>
         </Poisoned>
       </ApplyStatus>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>6.0</Pierce>
+        <Pierce>6.5</Pierce>
       </Damage>
       <MaxRange>60</MaxRange>
       <PrepareTime>800</PrepareTime>
-      <RepeatTime>1125</RepeatTime>
+      <RepeatTime>1375</RepeatTime>
       <Projectile>
         <Speed>100</Speed>
         <Spread>2.5</Spread>

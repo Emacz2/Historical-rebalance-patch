@@ -27,7 +27,9 @@ elite rank .5 pierce/hack +1 crush
 champ infantry 4% faster run/walk (9.9)
 infantry heroes 4% faster run/walk (9.9)
 melee cav take 20% longer train time (18 seconds) than ranged cav, since tehy have 60% more life
-Kush poison reduced to .25 dmg/second over 8 seconds
+Kush archer poison increased to 1.25 dmg per 2 seconds for 12 seconds, rate of fire decreased 10% from normal
+CC fire rate changed from 4.5 to 3 seconds, but dmg decreased from 6.5 to 4.5
+Fort fire rate changed from 2.5 to 3 but pierce dmg reduced to 6 from 8 and crush .08 from 1.0
 
 
 26.11
