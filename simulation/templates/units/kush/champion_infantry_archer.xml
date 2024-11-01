@@ -12,6 +12,8 @@
           <Duration>15000</Duration>
         </Poisoned>
       </ApplyStatus>
+      <MaxRange>65</MaxRange>
+      <RepeatTime>1375</RepeatTime>
     </Ranged>
   </Attack>
   <Identity>
