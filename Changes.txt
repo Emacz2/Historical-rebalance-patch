@@ -33,6 +33,7 @@ Fort fire rate changed from 2.5 to 3 but pierce dmg reduced to 6 from 8 and crus
 Kush p2 bonus, instead of 10% ranged dmg for archers, they fire 10% faster
 Kush p3 bonus they fire 10% faster and still 10% less train time
 Champ archers ranged increased to 65
+Cavalry archers dmg increased to 8.0 (7.5) but spread increased to 3.5 (2.5)
 
 
 26.11
