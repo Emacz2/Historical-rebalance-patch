@@ -25,6 +25,7 @@
 	"modifications": [
 		{ "value": "ResourceGatherer/Rates/metal.grain", "multiply": 1.05, "affects": "Worker" },
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.9, "affects": "Archer" },
+		{ "value": "Attack/Ranged/Spread", "multiply": 0.9, "affects": "Archer" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
