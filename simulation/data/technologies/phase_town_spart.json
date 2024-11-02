@@ -29,7 +29,9 @@
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
-		{ "value": "Health/Max", "multiply": 1.10, "affects": "Citizen"}
+		{ "value": "Health/Max", "multiply": 1.10, "affects": "Citizen"},
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5, "affects": "Infantry !Champion" },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.0, "affects": "Infantry !Champion" }
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
 }
