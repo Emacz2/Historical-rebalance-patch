@@ -4,7 +4,7 @@
     <Category>Academy</Category>
   </BuildRestrictions>
   <Cost>
-    <BuildTime>200</BuildTime>
+    <BuildTime>180</BuildTime>
     <Resources>
       <wood>100</wood>
       <stone>200</stone>
