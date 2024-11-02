@@ -28,6 +28,6 @@
     <Max>30</Max>
     </Health>
   <VisualActor>
-    <Actor>units/ptolemies/infantry_slinger_b.xml</Actor>
+    <Actor>units/spartans/slave.xml</Actor>
   </VisualActor>
 </Entity>
