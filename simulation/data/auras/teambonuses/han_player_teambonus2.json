@@ -3,8 +3,8 @@
 	"affects": ["Player"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "ResourceTrickle/Rates/metal", "add": 1 }
+		{ "value": "ResourceTrickle/Rates/metal", "add": 0.5 }
 	],
 	"auraName": "Currency",
-	"auraDescription": "+1.0 metal trickle rate."
+	"auraDescription": "+0.5 metal trickle rate."
 }
