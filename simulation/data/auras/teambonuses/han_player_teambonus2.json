@@ -6,5 +6,5 @@
 		{ "value": "ResourceTrickle/Rates/metal", "add": 1 }
 	],
 	"auraName": "Currency",
-	"auraDescription": "+1.0 food trickle rate."
+	"auraDescription": "+1.0 metal trickle rate."
 }
