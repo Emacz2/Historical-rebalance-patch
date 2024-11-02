@@ -49,9 +49,9 @@
     <MaxDistance>2.0</MaxDistance>
     <BaseSpeed>1.0</BaseSpeed>
     <Rates>
-      <wood.tree>0.75</wood.tree>
-      <stone.rock>0.50</stone.rock>
-      <metal.ore>0.50</metal.ore>
+      <wood.tree>0.8</wood.tree>
+      <stone.rock>0.55</stone.rock>
+      <metal.ore>0.55</metal.ore>
     </Rates>
     </ResourceGatherer>
   <Identity>
