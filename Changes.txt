@@ -5,6 +5,8 @@ Ideas
 Decrease range of melee cav compared to infantry counterpart, seems like it would be a little harder to maneuver a long spear on a horse.
 Melee Champs + .25/5 range? heroes?
 Archer/slinger/Jav same run/walk speed?
+Han - watchtower cart
+Han - currency, coins?
 
 26.12
 Slingers cost changed to 30 wood 20 stone, pierce dmg drop to 11.5 (from 12)
@@ -16,10 +18,15 @@ elite units 25% train (20%) -30% gather (25) but 25% health
 berries regenerate twice as fast, 1 every 3 seconds instead of 1 every 6
 Palisades build time changed 12 to 9, 8 to 6, 18 to 15 10 to 8 14 to 12
 1.5 exp trickle added to fortress
+Jav spread 3
+Slinger/Xbow spread 3.5
+Archer spead 4.0
+Han imperial academy now cost 100 wood 200 stone 200 metal instead of (300/300 stone/metal) build time reduced to 180 seconds, batch training at .7 instead of .8
 
 Spartiates are now considered "citizens" they get the health bonus p2, p3
 removed "citizens" from spartan merce, perioci units and neoadmodes
 Spartan "merc jav" are not merc until they rank up, meaning the ones you train from cc are regular javilneer stats, they can gather.... training them from Gerousia though they start out LV2 so they are merc
+Spartan common javs dmg lowered 2 (10) and cost from house increased to 50/35 intead of 50/30 due to jav spam capabilities
 
 merc 2% faster run/walk, .5 pierce/hack +1 crush
 adv rank 2% faster rum/walk
