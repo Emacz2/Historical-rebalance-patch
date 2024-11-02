@@ -18,13 +18,13 @@
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "sword_01.png",
 	"researchTime": 15,
-	"tooltip": "Spearman +5% melee attack damage but 5% more train time.",
+	"tooltip": "All Spearman +5% melee attack damage but Spartiates 10% more train time.",
 	"modifications": [
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },
 		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 },
-		{ "value": "Cost/BuildTime", "multiply": 1.05 }
+		{ "value": "Cost/BuildTime", "multiply": 1.1 }
 	],
-	"affects": ["Spearman !Cavalry"],
+	"affects": ["Champion Spearman"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

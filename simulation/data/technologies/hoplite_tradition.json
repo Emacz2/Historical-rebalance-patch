@@ -19,8 +19,8 @@
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "armor_corinthian.png",
-	"researchTime": 45,
-	"tooltip": "Hoplites −30% training time and −40% promotion experience and 10% less metal.",
+	"researchTime": 30,
+	"tooltip": "Hoplites −25% training time and −40% promotion experience and 10% less metal.",
 	"modifications": [
 		{ "value": "Cost/BuildTime", "multiply": 0.75 },
 		{ "value": "Promotion/RequiredXp", "multiply": 0.6 },
