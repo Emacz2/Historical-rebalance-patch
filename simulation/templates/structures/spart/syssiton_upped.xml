@@ -56,7 +56,7 @@
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_spear
       units/{civ}/infantry_spearman_neodamodes_a
-      units/{civ}/infantry_spearman_a
+      units/{civ}/infantry_spearman_e
     </Entities>
   </Trainer>
   <Vision>

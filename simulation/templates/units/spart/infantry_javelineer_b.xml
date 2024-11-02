@@ -61,7 +61,6 @@
     <GenericName>Perioikoi Skirmisher</GenericName>
     <SpecificName>Akontistḗs Períoikos</SpecificName>
     <Icon>units/spart_infantry_javelinist.png</Icon>
-    <Classes datatype="tokens">Citizen</Classes>
     <VisibleClasses datatype="tokens">Support Worker -Citizen -Soldier -Infantry</VisibleClasses>
   </Identity>
   <Promotion>
