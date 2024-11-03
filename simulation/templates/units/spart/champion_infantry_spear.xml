@@ -9,7 +9,7 @@
     <RequiredTechnology>phase_village</RequiredTechnology>  
   </Identity>
   <Cost>
-    <BuildTime>16</BuildTime>
+    <BuildTime>15</BuildTime>
     <Resources>
       <food>80</food>
       <wood>75</wood>
