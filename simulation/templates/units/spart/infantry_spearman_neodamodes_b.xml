@@ -2,7 +2,7 @@
 <Entity parent="merc_inf|units/spart/infantry_spearman_a">
   <Builder disable=""/>
   <Cost>
-    <BuildTime>9</BuildTime>
+    <BuildTime>10</BuildTime>
     <Resources>
       <food>50</food>
       <wood>25</wood>
