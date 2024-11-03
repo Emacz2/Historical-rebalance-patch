@@ -5,6 +5,6 @@
 	"modifications": [
 		{ "value": "ResourceTrickle/Rates/metal", "add": 0.5 }
 	],
-	"auraName": "Currency",
+	"auraName": "Silk Road",
 	"auraDescription": "+0.5 metal trickle rate."
 }
