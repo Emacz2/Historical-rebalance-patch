@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Infantry"],
+	"affects": ["Melee !Calvary"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
