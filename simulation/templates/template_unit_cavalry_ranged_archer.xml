@@ -6,7 +6,7 @@
       <Damage>
         <Pierce>8.0</Pierce>
       </Damage>
-      <MaxRange>60</MaxRange>
+      <MaxRange>57</MaxRange>
       <PrepareTime>800</PrepareTime>
       <RepeatTime>1250</RepeatTime>
       <Projectile>
