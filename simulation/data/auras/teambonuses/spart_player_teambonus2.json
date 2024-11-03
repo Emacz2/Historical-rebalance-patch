@@ -5,7 +5,8 @@
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		{ "value": "Cost/BuildTime", "multiply": 0.9 }
 
 	],
 	"auraName": "Peloponnesian League",
