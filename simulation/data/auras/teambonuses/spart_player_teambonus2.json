@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Melee !Calvary"],
+	"affects": ["Melee !Calvary !Champion"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
@@ -10,6 +10,6 @@
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "Infantry .5 more pierce and hack armor, 1 more crush armor."
+	"auraDescription": "Melee .5 more pierce and hack armor, 1 more crush armor."
 	
 	}
