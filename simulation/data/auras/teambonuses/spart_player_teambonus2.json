@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Melee !Calvary !Champion"],
+	"affects": ["Infantry !Champion !Hero"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
@@ -10,6 +10,6 @@
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "Melee .5 more pierce and hack armor, 1 more crush armor."
+	"auraDescription": "Non champion/hero Infantry 10% less train time and .5 more pierce and hack armor, 1 more crush armor."
 	
 	}
