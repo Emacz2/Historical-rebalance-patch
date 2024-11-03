@@ -1,7 +1,7 @@
 {
 	"autoResearch": true,
 	"icon": "upgrade_advanced.png",
-	"tooltip": "Advanced units +30% training time, +15% health, +0.5 capture attack strength, +20% loot, and −30% gather speed, 2% faster runwwalk; Healers +5 healing strength and +3 healing range; Melee unitd 15% attack damage; Ranged units −20% spread, 5% dmg and +2 range.",
+	"tooltip": "Advanced units +25% training time, +15% health, +0.5 capture attack strength, +20% loot, and −30% gather speed, 2% faster runwwalk; Healers +5 healing strength and +3 healing range; Melee unitd 15% attack damage; Ranged units −20% spread, 5% dmg and +2 range.",
 	"modifications": [
 		{ "value": "Attack/Capture/Capture", "add": 0.5 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Melee" },
