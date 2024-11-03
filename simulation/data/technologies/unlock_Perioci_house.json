@@ -10,7 +10,7 @@
 	},
 	"description": "Perioci's need a home too.",
 	"cost": {
-		"food": 400,
+		"food": 600,
 		"wood": 400
 	},
 	"requirements": {
@@ -20,7 +20,7 @@
 		]
 	},
 	"icon": "wives_festival.png",
-	"researchTime": 60,
+	"researchTime": 45,
 	"tooltip": "Unlock the ability to train Perioci skirmishers from houses.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
