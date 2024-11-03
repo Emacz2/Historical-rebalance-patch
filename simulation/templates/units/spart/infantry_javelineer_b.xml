@@ -9,7 +9,7 @@
     </Entities>
   </Builder>
      <Cost>
-    <BuildTime>9</BuildTime>
+    <BuildTime>8</BuildTime>
     <Resources>
       <food>40</food>
       <wood>30</wood>
@@ -22,14 +22,14 @@
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
-        <Pierce>10</Pierce>
+        <Pierce>8</Pierce>
       </Damage>
       <MaxRange>30</MaxRange>
       <PrepareTime>400</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <Projectile>
         <Speed>70</Speed>
-        <Spread>4</Spread>
+        <Spread>5</Spread>
         <Gravity>35</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="3"/>
