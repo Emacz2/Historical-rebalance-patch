@@ -2,8 +2,8 @@
 	"genericName": "Tyrtean Paeans",
 	"description": "Paeans were battle hymns that were sung by the Hoplites when they charged the enemy lines. One of the first known Paeans were composed by Tirteus, a warrior poet of Sparta, during the First Messenian War.",
 	"cost": {
-		"food": 250,
-		"metal": 150
+		"food": 300,
+		"metal": 100
 	},
 	"requirements": {
 		"all": [
