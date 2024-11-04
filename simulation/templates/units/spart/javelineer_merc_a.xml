@@ -10,12 +10,11 @@
   </Cost>
   <Identity>
     <Rank>Advanced</Rank>
- <VisibleClasses datatype="tokens">Mercanary</VisibleClasses>
   </Identity>
   <ResourceGatherer disable=""/>
   <Promotion>
     <Entity>units/spart/javelineer_merc_e</Entity>
-  <RequiredXp>350</RequiredXp>
+  <RequiredXp>250</RequiredXp>
   </Promotion>
   <VisualActor>
     <Actor>units/athenians/infantry_javelinist_a.xml</Actor>
