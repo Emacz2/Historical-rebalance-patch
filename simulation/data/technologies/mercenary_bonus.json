@@ -1,7 +1,7 @@
 {
     "autoResearch": true,
     "icon": "upgrade_advanced.png",
-    "tooltip": "Mercenary units +10% damage, 15% more health, 2% faster run/walk, +.5 pierce/hack armor and +1 crush armor.",
+    "tooltip": "Mercenary units 15% more health, 2% faster run/walk, +.5 pierce/hack armor and +1 crush armor. Ranged units 5% more dmg and 5% faster attack rate, melee 10% more dmg",
     "modifications": [
             { "value": "Attack/Melee/Damage/Hack", "multiply": 1.1, "affects": "Melee" },
             { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.1, "affects": "Melee" },
