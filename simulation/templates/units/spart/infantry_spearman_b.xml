@@ -26,8 +26,8 @@
     <BaseSpeed>1.0</BaseSpeed>
     <Rates>
       <wood.tree>0.7</wood.tree>
-      <stone.rock>0.45</stone.rock>
-      <metal.ore>0.45</metal.ore>
+      <stone.rock>0.40</stone.rock>
+      <metal.ore>0.40</metal.ore>
     </Rates>
     </ResourceGatherer>
   <Promotion>
