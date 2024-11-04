@@ -17,9 +17,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
     <GenericName>Spartiate Hoplites</GenericName>
     <SpecificName>Hoplítēs Spartiátēs</SpecificName>
-    <Icon>units/spart_infantry_spearman.png</Icon>
-    <Classes datatype="tokens">Citizen</Classes>
-    <VisibleClasses datatype="tokens">Worker Soldier Infantry</VisibleClasses>			
+    <Icon>units/spart_infantry_spearman.png</Icon>			
   </Identity>
   <ResourceGatherer>
     <MaxDistance>2.0</MaxDistance>
