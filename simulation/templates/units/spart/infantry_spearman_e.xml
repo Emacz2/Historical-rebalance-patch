@@ -3,10 +3,7 @@
   <Identity>
     <Rank>Elite</Rank>
   </Identity>
-  <Promotion>
-    <RequiredXp>500</RequiredXp>
-    <Entity>units/spart/champion_infantry_spear</Entity>
-  </Promotion>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_e.xml</Actor>
   </VisualActor>
