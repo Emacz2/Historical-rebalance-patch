@@ -10,14 +10,12 @@
  <Researcher>
     <Technologies datatype="tokens">
       unlock_slaves_house
-      unlock_Perioci_house
     </Technologies>
   </Researcher>
 <Trainer>
     <Entities datatype="tokens">
       units/{civ}/support_female_citizen_house
       units/{civ}/support_slave_house
-      units/{civ}/infantry_javelineer_b_house
     </Entities>
   </Trainer>
 </Entity>
