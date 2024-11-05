@@ -9,6 +9,14 @@
     </Entities>
     <Rate>1.25</Rate>
   </Builder>
+ <Cost>
+    <BuildTime>10</BuildTime>
+    <Resources>
+      <food>50</food>
+      <wood>20</wood>
+      <metal>30</metal>
+    </Resources>
+  </Cost>
  <Attack>
     <Ranged>
       <AttackName>Javelin</AttackName>
@@ -51,14 +59,6 @@
     <Entity>units/spart/javelineer_merc_a</Entity>
     <RequiredXp>300</RequiredXp>
   </Promotion>
-  <Cost>
-    <BuildTime>10</BuildTime>
-    <Resources>
-      <food>50</food>
-      <wood>20</wood>
-      <metal>30</metal>
-    </Resources>
-  </Cost>
   <VisualActor>
     <Actor>units/athenians/infantry_javelinist_b.xml</Actor>
   </VisualActor>
