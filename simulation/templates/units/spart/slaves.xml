@@ -8,6 +8,13 @@
      -structures/{civ}/barracks
     </Entities>
   </Builder>
+  <Attack>
+    <Melee>
+      <Damage>
+        <Hack op="mul">1.5</Hack>
+      </Damage>
+    </Melee>
+  </Attack>
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
@@ -21,7 +28,7 @@
     <BuildTime>9</BuildTime>
     <Resources>
       <food>10</food>
-      <metal>20</metal>
+      <metal>30</metal>
     </Resources>
     </Cost>
     <Health>
