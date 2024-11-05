@@ -17,6 +17,9 @@
       <stone>10</stone>
     </Resources>
     </Cost>
+ <Health>
+    <Max>90</Max>
+   </Health>
 <Attack>
     <Melee>
       <AttackName>Spear</AttackName>
