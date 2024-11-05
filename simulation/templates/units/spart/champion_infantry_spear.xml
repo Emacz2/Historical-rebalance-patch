@@ -27,6 +27,7 @@
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
+  <Health>
     <Max>200</Max>
   </Health>
   <Identity>
