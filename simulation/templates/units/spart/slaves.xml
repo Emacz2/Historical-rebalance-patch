@@ -8,14 +8,27 @@
      -structures/{civ}/barracks
     </Entities>
   </Builder>
-  <Attack>
+<Attack>
     <Melee>
+      <AttackName>Dagger</AttackName>
       <Damage>
-        <Hack op="mul">1.5</Hack>
+        <Hack>2</Hack>
       </Damage>
+      <MaxRange>3</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
     </Melee>
+    <Slaughter>
+      <AttackName>Slaughter</AttackName>
+      <Damage>
+        <Hack>1000</Hack>
+      </Damage>
+      <MaxRange>2</MaxRange>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">!Domestic</RestrictedClasses>
+    </Slaughter>
   </Attack>
-  <Identity>
+    <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/slaves</SelectionGroupName>
