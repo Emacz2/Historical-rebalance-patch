@@ -2,6 +2,7 @@
 <Entity parent="units/spart/support_female_citizen">
    <Cost>
     <BuildTime>24</BuildTime>
+ </Cost>
   <Identity>
     <RequiredTechnology>unlock_females_house</RequiredTechnology>
   </Identity>
