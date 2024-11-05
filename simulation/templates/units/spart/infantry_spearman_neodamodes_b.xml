@@ -26,6 +26,7 @@
     <SpecificName>Neodamōdeis</SpecificName>
     <VisibleClasses datatype="tokens">-Worker -Citizen</VisibleClasses>
     <Icon>units/spart/infantry_spearman_neodamodes.png</Icon>
+    <Rank>Advanced</Rank>
   </Identity>
   <Loot>
     <food>3</food>
@@ -33,7 +34,10 @@
     <metal>2</metal>
   </Loot>
   <ResourceGatherer disable=""/>
- <Promotion disable=""/>
+ <Promotion>
+    <Entity>units/spart/infantry_spearman_neodamodes_a</Entity>
+    <RequiredXp>300</RequiredXp>
+  </Promotion>
   <Auras datatype="tokens">
     units/spartan_phalanx
   </Auras>
