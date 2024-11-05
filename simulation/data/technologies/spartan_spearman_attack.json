@@ -23,7 +23,7 @@
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },
 		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 },
-		{ "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Champion Spearman" }
+		{ "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Infantry Spearman" }
 	],
 	"affects": ["Spearman !Cavalry"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
