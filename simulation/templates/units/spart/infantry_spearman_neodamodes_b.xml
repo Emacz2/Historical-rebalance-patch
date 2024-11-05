@@ -32,9 +32,7 @@
     <metal>2</metal>
   </Loot>
   <ResourceGatherer disable=""/>
-   <Promotion>
-    <Entity>units/spart/infantry_spearman_neodamodes_a</Entity>
-  </Promotion>
+ <Promotion disable=""/>
   <Auras datatype="tokens">
     units/spartan_phalanx
   </Auras>
