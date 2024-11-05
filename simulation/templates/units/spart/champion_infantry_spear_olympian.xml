@@ -3,8 +3,8 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack op="mul">1.15</Hack>
-        <Pierce op="mul">1.15</Pierce>
+        <Hack op="mul">1.1</Hack>
+        <Pierce op="mul">1.1</Pierce>
       </Damage>
     </Melee>
   </Attack>
@@ -17,7 +17,7 @@
     </Entity>
   </Resistance>
   <Health>
-    <Max op="mul">1.25</Max>
+    <Max op="mul">1.15</Max>
   </Health>
   <Identity>
     <GenericName>Spartan Olympic Hoplite</GenericName>
