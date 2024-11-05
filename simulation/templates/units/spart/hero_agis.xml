@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
+ units/spartan_phalanx
      units/heroes/spart_hero_agis_1
      units/heroes/spart_hero_agis_2
   </Auras>
