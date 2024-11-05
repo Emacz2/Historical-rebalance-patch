@@ -21,17 +21,16 @@
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 45,
-	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +5 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Infantry cost 20% less metal but spearman 20% longer to train.  Non champion Infantry gain 0.5 pierce and hack armor.  Suppport units train 30% faster.",
+	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +5 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Infantry cost 20% less metal but Spartiates 20% longer to train.  Non champion Infantry gain 0.5 pierce and hack armor.",
 	"modifications": [
 		{ "value": "Cost/Resources/metal", "multiply": 0.80, "affects": "Infantry" },
-		{ "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Spearman" },
-		{ "value": "Cost/BuildTime", "multiply": 0.7, "affects": "Support" },
+		{ "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Champion Citizen" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 5, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
 		{ "value": "Health/Max", "multiply": 1.10, "affects": "Citizen" },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5, "affects": "Infantry !Champion" },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5, "affects": "Infantry !Champion" }
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5, "affects": "Infantry" },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.0, "affects": "Infantry" }
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
 }
