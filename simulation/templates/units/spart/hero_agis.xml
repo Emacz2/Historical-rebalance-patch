@@ -4,20 +4,18 @@
      units/heroes/spart_hero_agis_1
      units/heroes/spart_hero_agis_2
   </Auras>
+  <Health>
+    <Max>1500</Max>
+  </Health>
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
     <Icon>units/spart_hero_agis.png</Icon>
-  </Identity>
-  <Health>
-    <Max>1500</Max>
-  </Health>
   <VisualActor>
     <Actor>units/spartans/hero_infantry_spearman_agis.xml</Actor>
   </VisualActor>
-  <Identity>
     <GenericName>Hero Spearman</GenericName>
     <Tooltip>Counters: 3 × vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
