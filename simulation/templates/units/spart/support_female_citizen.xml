@@ -24,7 +24,7 @@
     </Entities>
   </Builder>
  <Cost>
-    <BuildTime>9</BuildTime>
+    <BuildTime>8</BuildTime>
     </Cost>
   <Health>
     <Max op="mul">1.6</Max>
