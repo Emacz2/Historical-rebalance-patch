@@ -15,10 +15,11 @@
       </Damage>
     </Entity>
   </Resistance>
-  <Builder>
+<Builder>
     <Entities datatype="tokens">
       structures/spart/syssiton
       structures/spart/gerousia
+      structures/spart/camp
       -structures/{civ}/wallset_stone
       -structures/{civ}/barracks
     </Entities>
