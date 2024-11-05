@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_ranged_javelineer">
-  <Builder>
+ <Builder>
     <Entities datatype="tokens">
       structures/spart/syssiton
       structures/spart/gerousia
+      structures/spart/camp
       -structures/{civ}/wallset_stone
       -structures/{civ}/barracks
     </Entities>
