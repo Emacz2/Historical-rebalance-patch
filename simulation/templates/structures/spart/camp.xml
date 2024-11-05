@@ -41,7 +41,7 @@
     <SpecificName>Castra</SpecificName>
     <Tooltip>Build in neutral. Train Perioikoi units.</Tooltip>
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
-    <VisibleClasses datatype="tokens">Town ArmyCamp</VisibleClasses>
+    <VisibleClasses datatype="tokens">Town Camp</VisibleClasses>
     <Icon>structures/roman_camp.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
@@ -81,7 +81,7 @@
     <Range>90</Range>
   </Vision>
   <VisualActor>
-    <Actor>structures/spart/camp.xml</Actor>
+    <Actor>structures/romans/camp.xml</Actor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
   </VisualActor>
   <WallPiece>
