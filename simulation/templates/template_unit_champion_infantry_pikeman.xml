@@ -9,11 +9,11 @@
       </Damage>
       <MaxRange>8</MaxRange>
       <PrepareTime>1000</PrepareTime>
-      <RepeatTime>1750</RepeatTime>
+      <RepeatTime>1575</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>3</Multiplier>
+          <Multiplier>3.25</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -24,7 +24,7 @@
   </Health>
   <Identity>
     <GenericName>Champion Pikeman</GenericName>
-    <Tooltip>Counters: 3 vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 3.25 vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Pikeman</VisibleClasses>
   </Identity>
   <Resistance>
