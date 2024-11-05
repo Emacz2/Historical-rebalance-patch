@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure">
   <BuildRestrictions>
-    <Territory>neutral enemy</Territory>
+    <Territory>neutral</Territory>
     <Category>ArmyCamp</Category>
     <Distance>
       <FromClass>ArmyCamp</FromClass>
@@ -81,7 +81,7 @@
     <Range>90</Range>
   </Vision>
   <VisualActor>
-    <Actor>structures/romans/camp.xml</Actor>
+    <Actor>structures/spart/camp.xml</Actor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
   </VisualActor>
   <WallPiece>
