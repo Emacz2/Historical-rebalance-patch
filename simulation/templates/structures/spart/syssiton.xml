@@ -62,7 +62,6 @@
     <BatchTimeModifier>0.9</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_spear
-      units/{civ}/infantry_spearman_a
       units/{civ}/infantry_spearman_neodamodes_b
     </Entities>
   </Trainer>
