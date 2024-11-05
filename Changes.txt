@@ -1,7 +1,8 @@
 Spartans
 Classes
 Helots - lowest class, slow health drain, excellent resource gathers, WEAK fighters
-Perioikoi - excellent resource gathers! weak fighters, non citizen, non soldier (dont get blacksmith techs OR p2/p3 health bonus)  Hoplite Perioikoi still get "spearman" bonus.
+Perioikoi - strong resource gathers! weak fighters, non citizen, non soldier (dont get blacksmith techs OR p2/p3 health bonus)  Hoplite Perioikoi still get "spearman" bonus" but also lose 10% gather capabilities.
+25% slower attack rate 50% less armor
 
 
 Ideas
