@@ -27,26 +27,6 @@
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
-<Attack>
-    <Melee>
-      <AttackName>Spear</AttackName>
-      <Damage>
-        <Hack>9</Hack>
-        <Pierce>8.5</Pierce>
-      </Damage>
-      <MaxRange>4.5</MaxRange>
-      <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
-      <Bonuses>
-        <BonusCavMelee>
-          <Classes>Cavalry</Classes>
-          <Multiplier>2.75</Multiplier>
-        </BonusCavMelee>
-      </Bonuses>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
-    </Melee>
-  </Attack>
-  <Health>
     <Max>200</Max>
   </Health>
   <Identity>
