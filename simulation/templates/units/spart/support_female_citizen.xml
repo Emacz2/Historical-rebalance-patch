@@ -42,13 +42,6 @@
   <UnitAI>
     <CanPatrol>true</CanPatrol>
   </UnitAI>
-    <ResourceGatherer>
-    <MaxDistance>2.0</MaxDistance>
-    <BaseSpeed>1.0</BaseSpeed>
-    <Rates>
-      <wood.tree>0.8</wood.tree>
-    </Rates>
-    </ResourceGatherer>
   <VisualActor>
     <Actor>units/spartans/female_citizen.xml</Actor>
   </VisualActor>
