@@ -25,7 +25,7 @@
       </Damage>
       <MaxRange>4.5</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <RepeatTime>1100</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
@@ -38,8 +38,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>0.5</Hack>
-        <Pierce>0.5</Pierce>
+        <Hack>1.5</Hack>
+        <Pierce>1.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
