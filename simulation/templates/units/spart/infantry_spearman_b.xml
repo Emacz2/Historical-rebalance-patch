@@ -16,6 +16,33 @@
       <stone>10</stone>
     </Resources>
     </Cost>
+<Attack>
+    <Melee>
+      <AttackName>Spear</AttackName>
+      <Damage>
+        <Hack>4.5</Hack>
+        <Pierce>4</Pierce>
+      </Damage>
+      <MaxRange>4.5</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>1.5</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>0.5</Hack>
+        <Pierce>0.5</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
      <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
@@ -23,7 +50,8 @@
     <GenericName>PerioikoiHoplites</GenericName>
     <SpecificName>Hoplítēs Spartiátēs</SpecificName>
     <Icon>units/spart_infantry_spearman.png</Icon>
-    <VisibleClasses datatype="tokens">Support Worker -Citizen -Soldier -Infantry</VisibleClasses>			
+    <VisibleClasses datatype="tokens">Support Worker -Citizen -Soldier -Infantry</VisibleClasses>	
+  <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>		
   </Identity>
    <ResourceGatherer>
     <MaxDistance>2.0</MaxDistance>
