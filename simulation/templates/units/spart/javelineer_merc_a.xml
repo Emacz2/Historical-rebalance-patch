@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="merc_inf|units/spart/javelineer_merc_b">
+<Entity parent="units/spart/javelineer_merc_b">
   <Cost>
     <BuildTime>10</BuildTime>
     <Resources>
@@ -9,12 +9,10 @@
     </Resources>
   </Cost>
   <Identity>
-    <Rank>Advanced</Rank>
+    <Rank>Elite</Rank>
   </Identity>
   <ResourceGatherer disable=""/>
-  <Promotion>
-    <Entity>units/spart/javelineer_merc_e</Entity>
-  <RequiredXp>250</RequiredXp>
+  <Promotion disable=""/>
   </Promotion>
   <VisualActor>
     <Actor>units/athenians/infantry_javelinist_a.xml</Actor>

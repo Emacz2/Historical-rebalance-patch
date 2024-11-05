@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/spart/infantry_spearman_e">
-  <Builder disable=""/>
-  <Cost>
-    <BuildTime>10</BuildTime>
-    <Resources>
-      <food>40</food>
-      <wood>25</wood>
-      <metal>25</metal>
-    </Resources>
-  </Cost>
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_spearman_neodamodes</SelectionGroupName>
     <GenericName>Neodamodes Hoplite</GenericName>
     <SpecificName>Neodamōdeis</SpecificName>
-    <VisibleClasses datatype="tokens">-Builder -Worker</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Worker</VisibleClasses>
     <Icon>units/spart/infantry_spearman_neodamodes.png</Icon>
   </Identity>
   <Loot>
