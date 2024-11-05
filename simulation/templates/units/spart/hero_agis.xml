@@ -17,12 +17,4 @@
   <VisualActor>
     <Actor>units/spartans/hero_infantry_spearman_agis.xml</Actor>
   </VisualActor>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">4</Hack>
-        <Pierce op="add">4</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-</Entity>
+  </Entity>
