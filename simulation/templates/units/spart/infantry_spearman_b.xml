@@ -10,31 +10,34 @@
   </Builder>
   <Cost>
     <BuildTime>10</BuildTime>
-  </Cost>
+    <Resources>
+      <food>40</food>
+      <wood>40</wood>
+      <stone>10</stone>
+    </Resources>
+    </Cost>
      <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
-    <GenericName>Spartiate Hoplites</GenericName>
+    <GenericName>PerioikoiHoplites</GenericName>
     <SpecificName>Hoplítēs Spartiátēs</SpecificName>
-    <Icon>units/spart_infantry_spearman.png</Icon>			
+    <Icon>units/spart_infantry_spearman.png</Icon>
+    <VisibleClasses datatype="tokens">Support Worker -Citizen -Soldier -Infantry</VisibleClasses>			
   </Identity>
-  <ResourceGatherer>
+   <ResourceGatherer>
     <MaxDistance>2.0</MaxDistance>
     <BaseSpeed>1.0</BaseSpeed>
     <Rates>
-      <wood.tree>0.75</wood.tree>
-      <stone.rock>0.5</stone.rock>
-      <metal.ore>0.5</metal.ore>
+      <wood.tree>0.8</wood.tree>
+      <stone.rock>0.55</stone.rock>
+      <metal.ore>0.55</metal.ore>
     </Rates>
     </ResourceGatherer>
   <Promotion>
     <Entity>units/spart/infantry_spearman_a</Entity>
   <RequiredXp>300</RequiredXp>
   </Promotion>
-  <Auras datatype="tokens">
-    units/spartan_phalanx
-  </Auras>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_b.xml</Actor>
   </VisualActor>
