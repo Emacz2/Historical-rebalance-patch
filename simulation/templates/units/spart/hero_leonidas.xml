@@ -18,12 +18,4 @@
     <Tooltip>Counters: 3 × vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">4</Hack>
-        <Pierce op="add">4</Pierce>
-      </Damage>
     </Entity>
-  </Resistance>
-  </Entity>
