@@ -9,7 +9,7 @@
       </Damage>
       <MaxRange>8.5</MaxRange>
       <PrepareTime>1000</PrepareTime>
-      <RepeatTime>1417.5</RepeatTime>
+      <RepeatTime>1418</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
