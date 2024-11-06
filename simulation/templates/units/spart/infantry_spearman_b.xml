@@ -20,6 +20,25 @@
  <Health>
     <Max>90</Max>
    </Health>
+<Attack>
+    <Melee>
+      <AttackName>Spear</AttackName>
+      <Damage>
+        <Hack>4.5</Hack>
+        <Pierce>5.5</Pierce>
+      </Damage>
+      <MaxRange>4.5</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1100</RepeatTime>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>2.5</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
   <Resistance>
     <Entity>
       <Damage>
