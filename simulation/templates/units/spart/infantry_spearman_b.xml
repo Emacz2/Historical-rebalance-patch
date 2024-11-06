@@ -32,7 +32,7 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>2.5</Multiplier>
+          <Multiplier>2.0</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -54,7 +54,7 @@
     <SpecificName>Hoplítēs Spartiátēs</SpecificName>
     <Icon>units/spart_infantry_spearman.png</Icon>
     <VisibleClasses datatype="tokens">Support Worker -Citizen -Soldier -Infantry</VisibleClasses>	
-  <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>		
+  <Tooltip>Counters: 2× vs Cavalry.</Tooltip>		
   </Identity>
    <ResourceGatherer>
     <MaxDistance>2.0</MaxDistance>
