@@ -7,9 +7,9 @@
         <Crush>7.5</Crush>
 	<Hack>5.5</Hack>
       </Damage>
-      <MaxRange>4</MaxRange>
+      <MaxRange>3.5</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <RepeatTime>1320</RepeatTime>
       <PreferredClasses datatype="tokens">!Ship</PreferredClasses>
     </Melee>
   </Attack>
