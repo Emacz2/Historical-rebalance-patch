@@ -19,7 +19,7 @@
     <Health>
     <Max>40</Max>
    </Health>
-    <Attack>
+   <Attack>
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
@@ -27,10 +27,10 @@
       </Damage>
       <MaxRange>30</MaxRange>
       <PrepareTime>400</PrepareTime>
-      <RepeatTime>1875</RepeatTime>
+      <RepeatTime>1650</RepeatTime>
       <Projectile>
-        <Speed>70</Speed>
-        <Spread>5</Spread>
+        <Speed>55</Speed>
+        <Spread>5.5</Spread>
         <Gravity>35</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="3"/>
