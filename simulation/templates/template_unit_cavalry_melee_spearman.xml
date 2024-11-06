@@ -13,9 +13,9 @@
           <Multiplier>1.75</Multiplier>
         </BonusCavMelee>
       </Bonuses>
-      <MaxRange>4.5</MaxRange>
+      <MaxRange>5</MaxRange>
       <PrepareTime>625</PrepareTime>
-      <RepeatTime>1100</RepeatTime>
+      <RepeatTime>1210</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
