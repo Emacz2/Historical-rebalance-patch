@@ -11,7 +11,7 @@
   <Capturable>
     <CapturePoints op="mul">3</CapturePoints>
     <RegenRate>10.0</RegenRate>
-    <GarrisonRegenRate>3.0</GarrisonRegenRate>
+    <GarrisonRegenRate>5.0</GarrisonRegenRate>
   </Capturable>
   <Cost>
     <BuildTime>100</BuildTime>
@@ -24,7 +24,7 @@
     <Height>12.0</Height>
   </Footprint>
   <GarrisonHolder>
-    <Max>20</Max>
+    <Max>30</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Support</List>
