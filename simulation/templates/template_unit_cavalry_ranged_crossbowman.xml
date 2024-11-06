@@ -8,10 +8,10 @@
       </Damage>
       <MaxRange>42</MaxRange>
       <PrepareTime>600</PrepareTime>
-      <RepeatTime>3000</RepeatTime>
+      <RepeatTime>2500</RepeatTime>
       <Projectile>
-        <Speed>80</Speed>
-        <Spread>3</Spread>
+        <Speed>95</Speed>
+        <Spread>2</Spread>
         <Gravity>30</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>
