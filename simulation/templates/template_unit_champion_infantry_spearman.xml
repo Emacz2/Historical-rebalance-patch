@@ -5,7 +5,7 @@
       <AttackName>Spear</AttackName>
       <Damage>
         <Hack>9</Hack>
-        <Pierce>8</Pierce>
+        <Pierce>11</Pierce>
       </Damage>
       <MaxRange>4.5</MaxRange>
       <PrepareTime>500</PrepareTime>
@@ -13,7 +13,7 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>2.75</Multiplier>
+          <Multiplier>3</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -24,7 +24,7 @@
   </Health>
   <Identity>
     <GenericName>Champion Spearman</GenericName>
-    <Tooltip>Counters: 2.75× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 3× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
   </Identity>
   <Resistance>
