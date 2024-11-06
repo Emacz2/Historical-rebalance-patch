@@ -7,7 +7,7 @@
         <Hack>9</Hack>
         <Crush>3</Crush>
       </Damage>
-      <MaxRange>3</MaxRange>
+      <MaxRange>3.5</MaxRange>
       <PrepareTime>500</PrepareTime>
       <RepeatTime>1000</RepeatTime>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
