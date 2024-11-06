@@ -5,11 +5,11 @@
       <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
       <Damage>
         <Hack>21</Hack>
-	<Pierce>21</Pierce>
+	<Pierce>6</Pierce>
       </Damage>
       <MaxRange>3.5</MaxRange>
       <PrepareTime>375</PrepareTime>
-      <RepeatTime>607.5</RepeatTime>
+      <RepeatTime>608</RepeatTime>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
