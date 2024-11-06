@@ -1,7 +1,7 @@
 {
     "autoResearch": true,
     "icon": "upgrade_advanced.png",
-    "tooltip": "Mercenary units 15% more health, 2% faster run/walk, +.5 pierce/hack armor and +1 crush armor. Ranged units 5% more dmg and 10% faster attack rate, melee 10% more dmg",
+    "tooltip": "Mercenary units 15% more health, 2% faster run/walk, +.5 pierce/hack armor and +1 crush armor. Ranged units 5% more dmg and 10% faster attack rate 15% more accurate, melee 10% more dmg",
     "modifications": [
             { "value": "Attack/Melee/Damage/Hack", "multiply": 1.10, "affects": "Melee" },
             { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.10, "affects": "Melee" },
@@ -9,6 +9,7 @@
             { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.05, "affects": "Ranged" },
             { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.05, "affects": "Ranged" },
             { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.05, "affects": "Ranged" },
+	    { "value": "Attack/Ranged/Spread", "multiply": 0.85, "affects": "Ranged" },
 	    { "value": "Health/Max", "multiply": 1.15, "affects": "Mercanary"},
 	    { "value": "Attack/Ranged/RepeatTime", "multiply": 0.90 },
 	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.02 },
