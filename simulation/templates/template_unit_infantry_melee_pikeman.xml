@@ -13,7 +13,7 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>2.5</Multiplier>
+          <Multiplier>3</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -26,7 +26,7 @@
   </Cost>
   <Identity>
     <GenericName>Pikeman</GenericName>
-    <Tooltip>Counters: 2.5× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 3 vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Pikeman</VisibleClasses>
   </Identity>
   <Loot>
