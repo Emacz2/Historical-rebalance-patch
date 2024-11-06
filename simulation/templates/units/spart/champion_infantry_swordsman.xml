@@ -3,19 +3,25 @@
     <Cost>
     <BuildTime>15</BuildTime>
     <Resources>
-      <food>70</food>
-      <wood>70</wood>
-      <metal>60</metal>
+      <food>80</food>
+      <wood>75</wood>
+      <metal>70</metal>
     </Resources>
   </Cost>
   <Health>
     <Max>175</Max>
   </Health>
-  <Attack>
+<Attack>
     <Melee>
+      <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
       <Damage>
-        <Hack>15</Hack>
+        <Hack>12</Hack>
+	<Pierce>3</Pierce>
       </Damage>
+      <MaxRange>3</MaxRange>
+      <PrepareTime>375</PrepareTime>
+      <RepeatTime>675</RepeatTime>
+      <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
   <Identity>
@@ -29,8 +35,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>3.5</Hack>
-        <Pierce>3.5</Pierce>
+        <Hack>3</Hack>
+        <Pierce>3</Pierce>
       </Damage>
     </Entity>
   </Resistance>
