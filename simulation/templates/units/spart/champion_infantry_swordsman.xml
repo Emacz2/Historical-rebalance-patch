@@ -1,45 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry_swordsman">
+<Entity parent="template_unit_infantry_swordsman">
     <Cost>
-    <BuildTime>18</BuildTime>
+    <BuildTime>15</BuildTime>
     <Resources>
-      <food>80</food>
-      <wood>75</wood>
-      <metal>70</metal>
+      <food>40</food>
+      <wood>30</wood>
+      <metal>30</metal>
     </Resources>
   </Cost>
-  <Health>
-    <Max>175</Max>
-  </Health>
-<Attack>
-    <Melee>
-      <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
-      <Damage>
-        <Hack>12</Hack>
-	<Pierce>3</Pierce>
-      </Damage>
-      <MaxRange>3</MaxRange>
-      <PrepareTime>375</PrepareTime>
-      <RepeatTime>675</RepeatTime>
-      <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
-    </Melee>
-  </Attack>
-  <Identity>
+   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <GenericName>Skiritai Commando</GenericName>
     <SpecificName>Ékdromos Skirítēs</SpecificName>
     <Icon>units/spart_champion_infantry_sword.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
+   <Rank>Advanced</Rank>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>3</Hack>
-        <Pierce>3</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <Loot>
     <metal op="add">3</metal>
   </Loot>
