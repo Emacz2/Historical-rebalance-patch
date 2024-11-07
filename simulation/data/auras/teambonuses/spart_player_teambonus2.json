@@ -4,12 +4,12 @@
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.0 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
 		{ "value": "Cost/BuildTime", "multiply": 0.9 }
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "Non champion/hero Infantry 10% less train time and .5 more pierce and hack armor, 1 more crush armor."
+	"auraDescription": "Non champion/hero Infantry 10% less train time and .5 hack armor and 1 more pierce and crush armor."
 	
 	}
