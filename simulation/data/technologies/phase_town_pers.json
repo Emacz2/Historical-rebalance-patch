@@ -18,13 +18,14 @@
 	"replaces": ["phase_town"],
 	"icon": "town_phase.png",
 	"researchTime": 30,
-	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. Stable −10% batch training time.  All Citizens 10% more health",
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 25% more garrison capacity and +5 range. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. Stable −10% batch training time.  All Citizens 10% more health",
 	"modifications": [
 		{ "value": "Trainer/BatchTimeModifier", "add": -0.1, "affects": "Stable" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
 		{ "value": "Health/Max", "multiply": 1.1, "affects": "Citizen" }
 
 	],
