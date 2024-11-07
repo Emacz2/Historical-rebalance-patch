@@ -13,11 +13,12 @@
  <Cost>
     <BuildTime>10</BuildTime>
     <Resources>
-      <food>40</food>
+      <food>50</food>
       <wood>40</wood>
       <metal>10</metal>
     </Resources>
   </Cost>
+ <ResourceGatherer disable=""/>
  <Health>
     <Max>55</Max>
    </Health>
