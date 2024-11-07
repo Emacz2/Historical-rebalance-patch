@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_swordsman">
+<Builder>
+    <Entities datatype="tokens">
+      structures/spart/syssiton
+      structures/spart/gerousia
+      structures/spart/camp
+      -structures/{civ}/wallset_stone
+      -structures/{civ}/barracks
+    </Entities>
+  </Builder>
     <Cost>
-    <BuildTime>15</BuildTime>
+    <BuildTime>10</BuildTime>
     <Resources>
-      <food>40</food>
-      <wood>30</wood>
-      <metal>30</metal>
+      <food>50</food>
+      <wood>25</wood>
+      <metal>25</metal>
     </Resources>
   </Cost>
    <Identity>
@@ -20,6 +29,7 @@
   <Loot>
     <metal op="add">3</metal>
   </Loot>
+  <ResourceGatherer disable=""/>
   <Promotion disable=""/>
   <VisualActor>
     <Actor>units/spartans/infantry_swordsman_c.xml</Actor>
