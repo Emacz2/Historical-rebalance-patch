@@ -3,7 +3,7 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack op="mul">1.1</Hack>
+        <Hack op="mul">1.15</Hack>
         <Pierce op="mul">1.1</Pierce>
       </Damage>
     </Melee>
@@ -12,7 +12,7 @@
     <Entity>
       <Damage>
         <Hack op="add">1</Hack>
-        <Pierce op="add">1</Pierce>
+        <Pierce op="add">1.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
