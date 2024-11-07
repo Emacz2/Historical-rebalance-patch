@@ -18,7 +18,7 @@
   </Cost>
   <Promotion>
     <Entity>units/spart/champion_infantry_spear_olympian</Entity>
-    <RequiredXp>300</RequiredXp>
+    <RequiredXp>250</RequiredXp>
   </Promotion>
   <Auras datatype="tokens">
     units/spartan_gathering
