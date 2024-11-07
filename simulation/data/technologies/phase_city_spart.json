@@ -21,10 +21,10 @@
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 45,
-	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +5 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Infantry cost 20% less metal but Spartiates 20% longer to train.  Non champion Infantry gain 0.5 pierce and hack armor.",
+	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius and 25% more garrison capacity. Structures +5 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Infantry cost 20% less metal but Spartiates Spearman 20% longer to train.  Non champion Infantry gain 1.0 pierce and 0.5 hack armor.",
 	"modifications": [
 		{ "value": "Cost/Resources/metal", "multiply": 0.80, "affects": "Infantry" },
-		{ "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Champion Citizen" },
+		{ "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Champion Spearman" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 5, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
