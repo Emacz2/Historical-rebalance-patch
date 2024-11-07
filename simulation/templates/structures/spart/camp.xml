@@ -14,9 +14,11 @@
     <GarrisonRegenRate>5.0</GarrisonRegenRate>
   </Capturable>
   <Cost>
-    <BuildTime>100</BuildTime>
+    <BuildTime>120</BuildTime>
     <Resources>
       <wood>200</wood>
+      <stone>100</stone>
+      <food>100</food>
     </Resources>
   </Cost>
   <Footprint>
