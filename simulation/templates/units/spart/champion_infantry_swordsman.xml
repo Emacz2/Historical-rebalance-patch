@@ -18,6 +18,9 @@
       <metal>35</metal>
     </Resources>
   </Cost>
+ <Health>
+    <Max>115</Max>
+   </Health>
    <Attack>
     <Melee>
         <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
