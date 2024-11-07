@@ -5,7 +5,7 @@
       <AttackName>Ji</AttackName>
       <Damage>
         <Hack op="add">6</Hack>
-		<Pierce op="add">-4</Pierce>
+	<Pierce op="add">-4</Pierce>
       </Damage>
     </Melee>
   </Attack>
