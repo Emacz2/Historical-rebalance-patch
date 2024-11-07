@@ -1,7 +1,7 @@
 Spartans
 Classes
 Helots - lowest class, slow health drain, excellent resource gathers, WEAK fighters
-Perioikoi - strong resource gathers! weak fighters, non citizen, non soldier (dont get blacksmith techs OR p2/p3 health bonus)  Hoplite Perioikoi still get "spearman" bonus" but also lose 10% gather capabilities.
+Perioikoi - strong resource gathers! weak fighters, non citizen, infantry, soldiers (dont get blacksmith techs OR p2/p3 health bonus)  Hoplite Perioikoi still get any "spearman" bonus.
 25% slower attack rate 50% less armor.  Train from camps on outskirts of territory.
 Neodamodes - strong fighters, and fast builders.  Non citizens (they do not get the p2/p3 health bonus) however they do get all forge techs.
 Citizens - Women and Champion Spartiates Hoplites and Skirmishers.  Hardest women in game to kill, Champions best fighters for Sparta
