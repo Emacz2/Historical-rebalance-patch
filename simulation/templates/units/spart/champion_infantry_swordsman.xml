@@ -20,10 +20,10 @@
   </Cost>
    <Attack>
     <Melee>
-      <AttackName>Ji</AttackName>
+        <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
       <Damage>
-        <Hack op="add">1</Hack>
-	<Pierce op="add">2</Pierce>
+        <Hack op="add">1.5</Hack>
+	<Pierce op="add">1.5</Pierce>
       </Damage>
     </Melee>
   </Attack>
