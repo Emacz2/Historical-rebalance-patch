@@ -15,12 +15,9 @@
     <Resources>
       <food>50</food>
       <wood>25</wood>
-      <metal>25</metal>
+      <metal>35</metal>
     </Resources>
   </Cost>
-   <Health>
-    <Max>150</Max>
-  </Health>
    <Attack>
     <Melee>
         <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
@@ -46,7 +43,7 @@
     <Icon>units/spart_champion_infantry_sword.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
    <Rank>Elite</Rank>
-  <VisibleClasses datatype="tokens">-Worker -Citizen</VisibleClasses>
+  <VisibleClasses datatype="tokens">-Builder -Worker -Citizen</VisibleClasses>
   </Identity>
   <Loot>
     <metal op="add">3</metal>
@@ -56,6 +53,6 @@
     <Actor>units/spartans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 	 <UnitMotion>
-    <WalkSpeed>12.3</WalkSpeed>
+    <WalkSpeed>12.2</WalkSpeed>
   </UnitMotion>
 </Entity>
