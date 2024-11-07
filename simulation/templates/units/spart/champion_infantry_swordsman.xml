@@ -18,6 +18,23 @@
       <metal>25</metal>
     </Resources>
   </Cost>
+   <Attack>
+    <Melee>
+      <AttackName>Ji</AttackName>
+      <Damage>
+        <Hack op="add">1</Hack>
+	<Pierce op="add">2</Pierce>
+      </Damage>
+    </Melee>
+  </Attack>
+   <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">-1</Hack>
+        <Pierce op="add">-1</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
    <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
@@ -30,12 +47,11 @@
   <Loot>
     <metal op="add">3</metal>
   </Loot>
-  <ResourceGatherer disable=""/>
   <Promotion disable=""/>
   <VisualActor>
     <Actor>units/spartans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 	 <UnitMotion>
-    <WalkSpeed>12</WalkSpeed>
+    <WalkSpeed>12.5</WalkSpeed>
   </UnitMotion>
 </Entity>
