@@ -55,6 +55,6 @@
     <Actor>units/spartans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 	 <UnitMotion>
-    <WalkSpeed>12.5</WalkSpeed>
+    <WalkSpeed>12.3</WalkSpeed>
   </UnitMotion>
 </Entity>
