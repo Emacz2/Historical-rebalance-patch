@@ -8,10 +8,10 @@
 		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.1 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 2 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 2 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 },
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.85 }
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 }
+		
 	],
 	"auraName": "Last Stand",
-	"auraDescription": "Own and allied infantry +10% melee attack damage, +2 crush, hack, pierce resistance but run/walk speed reduced by 15%.",
+	"auraDescription": "Own and allied infantry +10% melee attack damage, All Infantry +2 crush, hack, pierce resistance.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
