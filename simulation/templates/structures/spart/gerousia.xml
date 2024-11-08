@@ -63,7 +63,7 @@
       units/{civ}/hero_brasidas
       units/{civ}/hero_agis
       units/{civ}/champion_infantry_swordsman
-      units/{civ}/javelineer_merc_a
+      units/{civ}/champion_infantry_javelineer
     </Entities>
   </Trainer>
   <Upgrade>
