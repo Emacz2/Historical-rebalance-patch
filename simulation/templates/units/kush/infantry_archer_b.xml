@@ -16,7 +16,7 @@
           <Damage>
             <Poison>1.25</Poison>
           </Damage>
-          <Stackability>Stack</Stackability>
+          <Stackability>False</Stackability>
           <Duration>12000</Duration>
         </Poisoned>
       </ApplyStatus>
