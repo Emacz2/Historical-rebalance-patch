@@ -59,9 +59,6 @@
   <Trainer>
     <BatchTimeModifier>0.9</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/hero_leonidas
-      units/{civ}/hero_brasidas
-      units/{civ}/hero_agis
       units/{civ}/champion_infantry_swordsman
       units/{civ}/champion_infantry_javelineer
     </Entities>
