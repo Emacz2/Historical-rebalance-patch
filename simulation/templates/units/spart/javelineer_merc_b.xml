@@ -11,11 +11,10 @@
     <Rate>1.25</Rate>
   </Builder>
  <Cost>
-    <BuildTime>10</BuildTime>
+    <BuildTime>9</BuildTime>
     <Resources>
       <food>50</food>
-      <wood>40</wood>
-      <metal>10</metal>
+      <wood>50</wood>
     </Resources>
   </Cost>
  <ResourceGatherer disable=""/>
