@@ -6,7 +6,7 @@
         <Poisoned>
           <Interval>1000</Interval>
           <Damage>
-            <Poison>1.0</Poison>
+            <Poison>0.5</Poison>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>15000</Duration>
