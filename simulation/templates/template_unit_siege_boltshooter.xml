@@ -9,7 +9,7 @@
       <MaxRange>80</MaxRange>
       <MinRange>15</MinRange>
       <PrepareTime>2000</PrepareTime>
-      <RepeatTime>6000</RepeatTime>
+      <RepeatTime>5400</RepeatTime>
       <Projectile>
         <Speed>150</Speed>
         <Spread>1</Spread>
@@ -26,7 +26,7 @@
       <Splash>
         <Shape>Linear</Shape>
         <Range>9</Range>
-        <FriendlyFire>false</FriendlyFire>
+        <FriendlyFire>true/FriendlyFire>
         <Damage>
           <Pierce>80</Pierce>
         </Damage>
