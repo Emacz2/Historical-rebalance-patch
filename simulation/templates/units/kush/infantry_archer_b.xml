@@ -14,10 +14,10 @@
         <Poisoned>
           <Interval>2000</Interval>
           <Damage>
-            <Poison>1.25</Poison>
+            <Poison>1.0</Poison>
           </Damage>
-          <Stackability>false</Stackability>
-          <Duration>12000</Duration>
+          <Stackability>Extend</Stackability>
+          <Duration>20000</Duration>
         </Poisoned>
       </ApplyStatus>
       <AttackName>Bow</AttackName>
