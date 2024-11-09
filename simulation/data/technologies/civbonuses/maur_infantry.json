@@ -4,18 +4,18 @@
 	"description": "The Mauryas infantry tended to be of the light variety .",
 	"requirements": { "civ": "maur" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Citizen infantry 10% more dmg, 5% faster run/walk but -1 of each armor.",
+	"tooltip": "Citizen infantry 10% more dmg, 5% faster run/walk but -2 of each armor.",
 	"modifications": [
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.10 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.10},
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.10 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.15 },
 		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.10 },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10 },
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.10 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.05 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": -1.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1.5 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": -1.5}
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -2 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -2 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -2 }
 
 	],
 	"affects": ["Citizen Infantry"]
