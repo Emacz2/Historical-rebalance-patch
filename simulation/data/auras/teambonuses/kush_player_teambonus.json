@@ -7,8 +7,9 @@
 		{ "value": "Cost/Resources/wood", "multiply": 0.90 },
 		{ "value": "Cost/Resources/stone", "multiply": 0.90 },
 		{ "value": "Cost/Resources/metal", "multiply": 0.90 },
-		{ "value": "Attack/Ranged/MaxRange", "add": 2 }
+		{ "value": "Health/Max", "multiply": 1.10, }
+		
 	],
 	"auraName": "Archer",
-	"auraDescription": "Archers 10% less resources 2 more range."
+	"auraDescription": "Archers 10% less resources and 10% more health."
 }
