@@ -7,7 +7,7 @@
 		{ "value": "Cost/Resources/wood", "multiply": 0.90 },
 		{ "value": "Cost/Resources/stone", "multiply": 0.90 },
 		{ "value": "Cost/Resources/metal", "multiply": 0.90 },
-		{ "value": "Health/Max", "multiply": 1.10, }
+		{ "value": "Health/Max", "multiply": 1.10 }
 		
 	],
 	"auraName": "Archer",
