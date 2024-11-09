@@ -8,7 +8,7 @@
       </Damage>
       <MaxRange>32</MaxRange>
       <PrepareTime>400</PrepareTime>
-      <RepeatTime>1215</RepeatTime>
+      <RepeatTime>1350</RepeatTime>
       <Projectile>
         <Speed>75</Speed>
         <Spread>5</Spread>
