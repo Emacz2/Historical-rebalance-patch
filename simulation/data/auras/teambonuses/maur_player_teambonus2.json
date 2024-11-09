@@ -1,0 +1,12 @@
+{
+	"type": "global",
+	"affects": ["Archer"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15 },
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 1.05 }
+
+	],
+	"auraName": "Archer",
+	"auraDescription": "Archers 15% more pierce dmg but 5% slower attack speed."
+}
