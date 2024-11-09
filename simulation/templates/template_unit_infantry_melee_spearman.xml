@@ -9,11 +9,11 @@
       </Damage>
       <MaxRange>4.5</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <RepeatTime>1050</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>2.5</Multiplier>
+          <Multiplier>2</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -26,7 +26,7 @@
   </Cost>
   <Identity>
     <GenericName>Spearman</GenericName>
-    <Tooltip>Counters: 2.5× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 2x vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
   </Identity>
   <Loot>
