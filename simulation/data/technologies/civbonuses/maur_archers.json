@@ -6,7 +6,6 @@
 	"icon": "wooden_walls.png",
 	"tooltip": "Archers 5% faster run/walk +2 range but -1 of each armor.",
 	"modifications": [
-
 		{ "value": "Attack/Ranged/MaxRange", "add": 2 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.05 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
@@ -14,5 +13,5 @@
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -1 }
 
 	],
-	"affects": ["Citizen Melee"]
+	"affects": ["Citizen Archer"]
 }
