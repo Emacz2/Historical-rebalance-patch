@@ -7,13 +7,13 @@
         <Hack>13.5</Hack>
         <Pierce>16.5</Pierce>
       </Damage>
-      <MaxRange>5</MaxRange>
+      <MaxRange>4.75</MaxRange>
       <PrepareTime>450</PrepareTime>
-      <RepeatTime>810</RepeatTime>
+      <RepeatTime>950</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>3.5</Multiplier>
+          <Multiplier>2.5</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -21,7 +21,7 @@
   </Attack>
   <Identity>
     <GenericName>Hero Spearman</GenericName>
-    <Tooltip>Counters: 3.5 × vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 2.5 × vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
   </Identity>
   <Resistance>
