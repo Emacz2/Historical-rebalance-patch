@@ -1,14 +1,12 @@
 {
-	"genericName": "Light infantry",
+	"genericName": "Bigger Bows",
 	"autoResearch": true,
-	"description": "The Mauryas infantry tended to be of the light variety .",
+	"description": "The Mauryas archers used 6 foot bows that sometimes needed to be stablized with their feet but wore little to no armor.",
 	"requirements": { "civ": "maur" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Citizen Melee 10%  dmg 5% faster run/walk but -1 of each armor.",
+	"tooltip": "Archers 5% faster run/walk +2 range but -1 of each armor.",
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.10 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.10},
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.10 },
+		{ "value": "Attack/Ranged/MaxRange", "add": 2},
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.05 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
