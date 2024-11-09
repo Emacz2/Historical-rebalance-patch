@@ -16,7 +16,7 @@
   </VisualActor>
     <Identity>
     <GenericName>Hero Spearman</GenericName>
-    <Tooltip>Counters: 3 × vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 2.5 × vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
   </Identity>
     </Entity>
