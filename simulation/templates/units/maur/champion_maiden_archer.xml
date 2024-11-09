@@ -3,14 +3,14 @@
   <Attack>
     <Ranged>
       <ApplyStatus>
-        <Poisoned>
+          <Burning>
           <Interval>2000</Interval>
           <Damage>
-            <Poison>1</Poison>
+            <Fire>1</Fire>
           </Damage>
-          <Stackability>Extend</Stackability>
+          <Stackability>Stack</Stackability>
           <Duration>10000</Duration>
-        </Poisoned>
+        </Burning>
       </ApplyStatus>
     </Ranged>
   </Attack>
