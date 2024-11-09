@@ -11,11 +11,11 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>2</Multiplier>
+          <Multiplier>1.75</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>990</RepeatTime>
+      <RepeatTime>1200</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
@@ -24,7 +24,7 @@
   </Health>
   <Identity>
     <GenericName>Champion Cavalry Spearman</GenericName>
-    <Tooltip>Counters: 2× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 1.75× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
   </Identity>
   <Resistance>

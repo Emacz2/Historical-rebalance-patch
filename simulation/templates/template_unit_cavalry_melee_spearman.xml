@@ -10,12 +10,12 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>1.75</Multiplier>
+          <Multiplier>1.5</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <MaxRange>5</MaxRange>
       <PrepareTime>625</PrepareTime>
-      <RepeatTime>1210</RepeatTime>
+      <RepeatTime>1260</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
@@ -26,7 +26,7 @@
   </Cost>
   <Identity>
     <GenericName>Cavalry Spearman</GenericName>
-    <Tooltip>Counters: 1.75× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
     <VisibleClasses datatype="tokens">Support Worker -Soldier</VisibleClasses>
   </Identity>
