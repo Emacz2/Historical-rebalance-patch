@@ -5,12 +5,11 @@
 	"modifications": [
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.05 },
-		{ "value": "Attack/Ranged/MaxRange", "add": 2 }
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -1 }
 
 	],
 	"auraName": "Archer",
-	"auraDescription": "Archers 10% more pierce dmgm 5% FRW and 2 range but -1 of each armor."
+	"auraDescription": "Archers 15% more pierce dmgm 5% FRW and 2 range but -1 of each armor."
 }
