@@ -15,5 +15,5 @@
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -1 }
 
 	],
-	"affects": ["Citizen melee"]
+	"affects": ["Citizen Melee"]
 }
