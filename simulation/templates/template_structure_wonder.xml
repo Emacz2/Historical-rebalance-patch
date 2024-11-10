@@ -62,6 +62,12 @@
   </Researcher>
   <Resistance>
     <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
       <Damage>
         <Hack>19</Hack>
         <Pierce>25</Pierce>
