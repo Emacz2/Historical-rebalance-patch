@@ -4,7 +4,7 @@
     <Ranged>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>15.0</Pierce>
+        <Pierce>5.0</Pierce>
       </Damage>
       <MaxRange>57</MaxRange>
       <PrepareTime>500</PrepareTime>
@@ -22,7 +22,7 @@
   <BuildingAI>
     <DefaultArrowCount>3</DefaultArrowCount>
     <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-    <MaxArrowCount>10</MaxArrowCount>
+    <MaxArrowCount>3</MaxArrowCount>
     <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <Cost>
