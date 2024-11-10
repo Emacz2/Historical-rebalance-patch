@@ -7,8 +7,9 @@
 	"tooltip": "-10% pierce dmg due to added poison",
 	"modifications": ["modifications": 
 [
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10}
-
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.9 }
+		
+	
 	],
 	"affects": ["Archer"]
 }
