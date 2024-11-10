@@ -4,7 +4,7 @@
     <Ranged>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>6.9</Pierce>
+        <Pierce>7.5</Pierce>
       </Damage>
       <MaxRange>57</MaxRange>
       <PrepareTime>500</PrepareTime>
@@ -57,4 +57,9 @@
       </ApplyStatus>
     </Entity>
   </Resistance>
+<UnitMotion>
+    <PassabilityClass>large</PassabilityClass>
+    <Acceleration op="mul">0.4</Acceleration>
+    <Weight op="mul">4.5</Weight>
+  </UnitMotion>
 </Entity>
