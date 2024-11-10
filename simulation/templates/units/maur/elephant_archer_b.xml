@@ -14,12 +14,6 @@
   <VisualActor>
     <Actor>units/mauryas/elephantry_archer_b_m.xml</Actor>
   </VisualActor>
-<UnitAI>
-    <DefaultArrowCount>0</DefaultArrowCount>
-    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-    <MaxArrowCount>2</MaxArrowCount>
-    <GarrisonArrowClasses>Archer</GarrisonArrowClasses>
-  </UnitAI>
  <GarrisonHolder>
     <Max>2</Max>
     <EjectHealth>0.1</EjectHealth>
