@@ -28,4 +28,14 @@
     <Actor>structures/romans/civic_centre.xml</Actor>
     <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
   </VisualActor>
+ <Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
 </Entity>
