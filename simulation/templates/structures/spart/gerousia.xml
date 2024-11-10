@@ -83,4 +83,10 @@
   <VisualActor>
     <Actor>structures/spartans/gerousia.xml</Actor>
   </VisualActor>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>1</BlockChance>
+        </Burning>
+      </ApplyStatus>
 </Entity>
