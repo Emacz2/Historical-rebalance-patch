@@ -5,8 +5,10 @@
 	"requirements": { "civ": "kush" },
 	"icon": "parade_of_daphne.png",
 	"tooltip": "-10% pierce dmg due to added poison",
-	"modifications": [
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.9},
-	],	
+	"modifications": ["modifications": 
+[
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10}
+
+	],
 	"affects": ["Archer"]
 }
