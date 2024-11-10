@@ -22,8 +22,8 @@
 	"icon": "town_phase.png",
 	"researchTime": 30,
 	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 25% more garrison capacity and +5 range. Structures +5 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Workers gather wood 10% faster.  Arachers 5% more accurate.
-
-		 "value": "ResourceGatherer/Rates/tree.wood", "multiply": 1.1, "affects": "Worker" },
+	"modifications": [
+		{"value": "ResourceGatherer/Rates/tree.wood", "multiply": 1.1, "affects": "Worker" },
 		{ "value": "Attack/Ranged/Spread", "multiply": 0.95, "affects": "Archer" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 5, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
