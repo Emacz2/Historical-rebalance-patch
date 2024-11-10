@@ -20,4 +20,19 @@
   <VisualActor>
     <Actor>structures/spartans/civic_center.xml</Actor>
   </VisualActor>
+ <Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>5.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
+      <Damage>
+        <Hack op="add">10</Hack>
+        <Pierce op="add">10</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
 </Entity>
+
