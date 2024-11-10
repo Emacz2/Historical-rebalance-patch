@@ -15,19 +15,9 @@
     <Actor>units/mauryas/elephantry_archer_b_m.xml</Actor>
   </VisualActor>
  <BuildingAI>
-    <DefaultArrowCount>1</DefaultArrowCount>
-    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <DefaultArrowCount>3</DefaultArrowCount>
     <MaxArrowCount>3</MaxArrowCount>
-    <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
- <GarrisonHolder>
-    <Max>2</Max>
-    <EjectHealth>0.1</EjectHealth>
-    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
-    <List datatype="tokens">Archer</List>
-    <BuffHeal>0</BuffHeal>
-    <LoadingRange>2</LoadingRange>
-  </GarrisonHolder>
  <Resistance>
     <Entity>
 <ApplyStatus>
