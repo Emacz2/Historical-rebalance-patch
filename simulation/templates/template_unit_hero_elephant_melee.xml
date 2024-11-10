@@ -48,6 +48,12 @@
   </Position>
   <Resistance>
     <Entity>
+	<ApplyStatus>
+        <Poisoned>
+          <Duration>0.0</Duration>
+          <BlockChance>0.8</BlockChance>
+        </Poisoned>
+      </ApplyStatus>
       <Damage>
         <Hack>10</Hack>
         <Pierce>10</Pierce>

@@ -21,6 +21,12 @@
   </Promotion>
   <Resistance>
     <Entity>
+<ApplyStatus>
+        <Poisoned>
+          <Duration>0.0</Duration>
+          <BlockChance>0.7</BlockChance>
+        </Poisoned>
+      </ApplyStatus>
       <Damage>
         <Hack>4</Hack>
         <Pierce>3</Pierce>
