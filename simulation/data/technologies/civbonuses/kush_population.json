@@ -1,11 +1,12 @@
 {
-	"genericName": "Federated States",
+	"genericName": "Poison discipline",
 	"autoResearch": true,
-	"description": "Resivoirs.",
+	"description": "Archers use poison arrows",
 	"requirements": { "civ": "kush" },
 	"icon": "parade_of_daphne.png",
-	"tooltip": "+5% maximum population limit.",
+	"tooltip": "-10% pierce dmg due to added poison",
 	"modifications": [
-		{ "value": "Player/MaxPopulation", "multiply": 1.05 }
-	]
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.9},
+	],	
+	"affects": ["Archer"]
 }
