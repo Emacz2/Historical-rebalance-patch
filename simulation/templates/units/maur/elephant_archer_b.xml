@@ -19,6 +19,10 @@
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Ranged>
   </Attack>
+ <BuildingAI>
+    <DefaultArrowCount>3</DefaultArrowCount>
+    <MaxArrowCount>3</MaxArrowCount>
+  </BuildingAI>
   <Cost>
     <Population>3</Population>
     <BuildTime>20</BuildTime>
@@ -41,10 +45,6 @@
   <VisualActor>
     <Actor>units/mauryas/elephantry_archer_b_m.xml</Actor>
   </VisualActor>
- <BuildingAI>
-    <DefaultArrowCount>3</DefaultArrowCount>
-    <MaxArrowCount>3</MaxArrowCount>
-  </BuildingAI>
  <Resistance>
     <Entity>
 <ApplyStatus>
