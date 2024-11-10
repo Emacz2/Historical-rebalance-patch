@@ -28,6 +28,12 @@
 		</Ranged>
 	</Attack>
 	<Resistance>
+     <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>1</BlockChance>
+        </Burning>
+      </ApplyStatus>
     <Entity>
       <Damage>
         <Hack>30</Hack>
