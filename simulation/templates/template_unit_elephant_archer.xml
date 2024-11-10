@@ -32,7 +32,7 @@
   </Health>
   <Identity>
     <GenericName>Elephant Archer</GenericName>
-    <VisibleClasses datatype="tokens">Ranged Archer</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Citizen Ranged Archer</VisibleClasses>
   </Identity>
   <Loot>
     <food>18</food>
