@@ -65,4 +65,14 @@
     <Actor>structures/spartans/syssiton.xml</Actor>
     <FoundationActor>structures/fndn_5x8.xml</FoundationActor>
   </VisualActor>
+ <Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
 </Entity>
