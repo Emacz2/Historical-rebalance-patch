@@ -1,0 +1,16 @@
+{
+	"genericName": "Three archers",
+	"autoResearch": true,
+	"description": "The Mauryas elephant archers ussually conistede of 3 archers riding an elephant.",
+	"requirements": { "civ": "maur" },
+	"icon": "wooden_walls.png",
+	"tooltip": "Elephant Archers",
+	"modifications": [
+		
+	        { "value": "Attack/Ranged/Damage/Pierce", "multiply": 3.0},
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 3.0}
+		
+
+	],
+	"affects": ["Elephant Archer"]
+}

@@ -14,25 +14,6 @@
   <VisualActor>
     <Actor>units/mauryas/elephantry_archer_b_m.xml</Actor>
   </VisualActor>
- <Attack>
-    <Ranged>
-      <AttackName>Bow</AttackName>
-      <Damage>
-        <Pierce>18.0</Pierce>
-      </Damage>
-      <MaxRange>57</MaxRange>
-      <PrepareTime>500</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
-      <Projectile>
-        <Speed>75</Speed>
-        <Spread>3.0</Spread>
-        <Gravity>50</Gravity>
-        <FriendlyFire>false</FriendlyFire>
-        <LaunchPoint y="9"/>
-      </Projectile>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
-    </Ranged>
-  </Attack>
  <GarrisonHolder>
     <Max>2</Max>
     <EjectHealth>0.1</EjectHealth>
