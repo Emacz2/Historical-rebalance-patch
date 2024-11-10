@@ -19,9 +19,11 @@
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Ranged>
   </Attack>
- <BuildingAI>
+  <BuildingAI>
     <DefaultArrowCount>3</DefaultArrowCount>
-    <MaxArrowCount>3</MaxArrowCount>
+    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <MaxArrowCount>10</MaxArrowCount>
+    <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <Cost>
     <Population>3</Population>
