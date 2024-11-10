@@ -22,4 +22,14 @@
     <BuffHeal>0</BuffHeal>
     <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
+ <Resistance>
+    <Entity>
+<ApplyStatus>
+        <Poisoned>
+          <Duration>0.0</Duration>
+          <BlockChance>0.7</BlockChance>
+        </Poisoned>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
 </Entity>
