@@ -25,4 +25,10 @@
   <Identity>
     <VisibleClasses datatype="tokens">Melee</VisibleClasses>
   </Identity>
+<ApplyStatus>
+        <Poisoned>
+          <Duration>0.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Poisoned>
+      </ApplyStatus>
 </Entity>

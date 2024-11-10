@@ -8,7 +8,7 @@
     <GenericName>War Elephant</GenericName>
     <Rank>Basic</Rank>
     <Classes datatype="tokens">Human CitizenSoldier</Classes>
-    <VisibleClasses datatype="tokens">Citizen Soldier Elephant</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Citizen Soldier Elephant</VisibleClasses>
   </Identity>
   <Loot>
     <xp>260</xp>
@@ -24,7 +24,7 @@
 <ApplyStatus>
         <Poisoned>
           <Duration>0.0</Duration>
-          <BlockChance>0.7</BlockChance>
+          <BlockChance>0.9</BlockChance>
         </Poisoned>
       </ApplyStatus>
       <Damage>
