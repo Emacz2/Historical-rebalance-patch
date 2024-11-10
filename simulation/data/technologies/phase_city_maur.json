@@ -21,11 +21,12 @@
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 30,
-	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 40% more garrison capacity and +5 range. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health. Workers gather wood 10% faster.  Archers 10% more accurate and shoot 5% faster",
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 40% more garrison capacity and +5 range. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health. Workers gather wood 10% faster.  Archers 10% more accurate and shoot 5% faster and gain 2 range",
 	"modifications": [
 		{ "value": "ResourceGatherer/Rates/tree.wood", "multiply": 1.1, "affects": "Worker" },
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.95, "affects": "Archer" },
 		{ "value": "Attack/Ranged/Spread", "multiply": 0.9, "affects": "Archer" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 2, "affects": "Archer" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
