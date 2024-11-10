@@ -24,14 +24,10 @@
     <Entity>
  <ApplyStatus>
         <Burning>
-          <Duration>5.0</Duration>
+          <Duration>0.0</Duration>
           <BlockChance>0.9</BlockChance>
         </Burning>
       </ApplyStatus>
-      <Damage>
-        <Hack op="add">10</Hack>
-        <Pierce op="add">10</Pierce>
-      </Damage>
     </Entity>
   </Resistance>
 </Entity>
