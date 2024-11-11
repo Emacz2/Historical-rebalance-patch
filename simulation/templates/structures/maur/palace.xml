@@ -22,6 +22,7 @@
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Palace</VisibleClasses>
     <Icon>gaia/special_stoa.png</Icon>
+	<RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
     <stone>40</stone>
