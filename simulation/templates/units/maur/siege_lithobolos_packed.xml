@@ -6,10 +6,10 @@
         <Burning>
           <Interval>1000</Interval>
           <Damage>
-            <Fire>5</Fire>
+            <Fire>7</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>30000</Duration>
+          <Duration>25000</Duration>
         </Burning>
       </ApplyStatus>
       <AttackName>Stone</AttackName>
