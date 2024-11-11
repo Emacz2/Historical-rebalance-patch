@@ -22,7 +22,7 @@
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Palace</VisibleClasses>
     <Icon>gaia/special_stoa.png</Icon>
-	<RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
     <stone>40</stone>
@@ -53,6 +53,17 @@
       units/{civ}/hero_ashoka
     </Entities>
   </Trainer>
+	<Resistance>
+    <Entity>
+   <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
+
   <Vision>
     <Range>40</Range>
   </Vision>
