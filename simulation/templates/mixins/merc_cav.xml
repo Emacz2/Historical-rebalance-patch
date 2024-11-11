@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Entity parent="mercenary">
   <Cost>
-    <Population>2</Population>
+    <Population>1</Population>
     <Resources>
       <metal>90</metal>
       <food>20</food>
