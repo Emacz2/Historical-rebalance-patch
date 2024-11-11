@@ -6,17 +6,17 @@
         <Burning>
           <Interval>1000</Interval>
           <Damage>
-            <Fire>7</Fire>
+            <Fire>8</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>25000</Duration>
+          <Duration>20000</Duration>
         </Burning>
       </ApplyStatus>
       <AttackName>Stone</AttackName>
       <Damage>
         <Crush>50</Crush>
       </Damage>
-      <MaxRange>87.5</MaxRange>
+      <MaxRange>85.0</MaxRange>
       <MinRange>26</MinRange>
       <PrepareTime>3000</PrepareTime>
       <RepeatTime>5500</RepeatTime>
@@ -37,10 +37,10 @@
       </RangeOverlay>
       <Splash>
         <Shape>Circular</Shape>
-        <Range>2</Range>
+        <Range>3</Range>
         <FriendlyFire>true</FriendlyFire>
         <Damage>
-          <Crush>25</Crush>
+          <Crush>20</Crush>
         </Damage>
       </Splash>
     </Ranged>
