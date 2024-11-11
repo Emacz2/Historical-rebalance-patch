@@ -8,4 +8,7 @@
   <VisualActor>
     <Actor>units/athenians/infantry_spearman_c.xml</Actor>
   </VisualActor>
+  <Auras datatype="tokens">
+    units/phalanx
+  </Auras>
 </Entity>
