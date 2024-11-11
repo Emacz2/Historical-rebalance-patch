@@ -51,7 +51,7 @@
     <Entity>
 <ApplyStatus>
         <Poisoned>
-          <Duration>0.0</Duration>
+          <Duration>0.5</Duration>
           <BlockChance>0.7</BlockChance>
         </Poisoned>
       </ApplyStatus>
