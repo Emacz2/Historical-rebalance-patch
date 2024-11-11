@@ -3,7 +3,15 @@
   <Identity>
     <Civ>maur</Civ>
   </Identity>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/siege_lithobolos_packed
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/mauryas/workshop.xml</Actor>
   </VisualActor>
 </Entity>
+
+
