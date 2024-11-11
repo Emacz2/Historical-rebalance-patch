@@ -29,8 +29,8 @@
     <Population>3</Population>
     <BuildTime>20</BuildTime>
     <Resources>
-      <food>175</food>
-      <wood>75</wood>
+      <food>150</food>
+      <wood>100</wood>
     </Resources>
   </Cost>
   <Identity>
