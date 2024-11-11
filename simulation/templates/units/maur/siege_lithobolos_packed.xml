@@ -6,7 +6,7 @@
         <Burning>
           <Interval>1000</Interval>
           <Damage>
-            <Fire>2</Fire>
+            <Fire>5</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>30000</Duration>
@@ -19,7 +19,7 @@
       <MaxRange>87.5</MaxRange>
       <MinRange>26</MinRange>
       <PrepareTime>3000</PrepareTime>
-      <RepeatTime>7000</RepeatTime>
+      <RepeatTime>5500</RepeatTime>
       <Projectile>
         <Speed>75</Speed>
         <Spread>3</Spread>
