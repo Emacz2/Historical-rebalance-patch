@@ -6,10 +6,10 @@
         <Burning>
           <Interval>1000</Interval>
           <Damage>
-            <Fire>1</Fire>
+            <Fire>2</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>15000</Duration>
+          <Duration>30000</Duration>
         </Burning>
       </ApplyStatus>
       <AttackName>Stone</AttackName>
@@ -64,4 +64,12 @@
   <VisualActor>
     <Actor>units/athenians/siege_rock_packed.xml</Actor>
   </VisualActor>
+  <UnitMotion>
+    <PassabilityClass>large</PassabilityClass>
+    <RunMultiplier>1</RunMultiplier>
+    <InstantTurnAngle>1.5</InstantTurnAngle>
+    <Acceleration op="mul">0.15</Acceleration>
+    <Weight op="mul">5.0</Weight>
+     <WalkSpeed>8.8</WalkSpeed>
+  </UnitMotion>
 </Entity>
