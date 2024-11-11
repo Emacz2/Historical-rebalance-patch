@@ -3,8 +3,8 @@
 	"affects": ["Player"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "ResourceTrickle/Rates/metal", "add": 0.5 }
+		{ "value": "ResourceTrickle/Rates/metal", "add": 0.75 }
 	],
 	"auraName": "Silk Road",
-	"auraDescription": "+0.5 metal trickle rate."
+	"auraDescription": "+0.75 metal trickle rate."
 }
