@@ -9,16 +9,15 @@
     </Distance>
   </BuildRestrictions>
   <Capturable>
-    <CapturePoints op="mul">3</CapturePoints>
-    <RegenRate>10.0</RegenRate>
+    <CapturePoints op="mul">2</CapturePoints>
+    <RegenRate>7.5</RegenRate>
     <GarrisonRegenRate>5.0</GarrisonRegenRate>
   </Capturable>
   <Cost>
     <BuildTime>120</BuildTime>
     <Resources>
-      <wood>200</wood>
+      <wood>250</wood>
       <stone>100</stone>
-      <food>100</food>
     </Resources>
   </Cost>
   <Footprint>
@@ -33,6 +32,9 @@
     <BuffHeal>0</BuffHeal>
     <LoadingRange>6</LoadingRange>
   </GarrisonHolder>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Health>
     <Max>1750</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_rome_sb</SpawnEntityOnDeath>
