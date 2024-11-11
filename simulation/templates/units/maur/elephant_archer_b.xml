@@ -61,5 +61,6 @@
     <PassabilityClass>large</PassabilityClass>
     <Acceleration op="mul">0.4</Acceleration>
     <Weight op="mul">4.5</Weight>
+    <WalkSpeed>8.8</WalkSpeed>
   </UnitMotion>
 </Entity>
