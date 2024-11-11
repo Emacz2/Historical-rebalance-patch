@@ -82,7 +82,7 @@
       <stone>1.0</stone>
       <metal>1.0</metal>
     </Rates>
-    <Interval>2000</Interval>
+    <Interval>1000</Interval>
   </ResourceTrickle>
   <Sound>
     <SoundGroups>

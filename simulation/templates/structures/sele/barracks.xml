@@ -17,5 +17,15 @@
   <VisualActor>
     <Actor>structures/seleucids/barracks.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
-  </VisualActor>
+  </VisualActor
+<Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.7</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
 </Entity>

@@ -15,4 +15,14 @@
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
     <Actor>structures/seleucids/wonder.xml</Actor>
   </VisualActor>
+<Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
 </Entity>

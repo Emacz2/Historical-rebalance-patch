@@ -7,4 +7,14 @@
   <VisualActor>
     <Actor>structures/seleucids/stable_elephant.xml</Actor>
   </VisualActor>
+<Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.7</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
 </Entity>
