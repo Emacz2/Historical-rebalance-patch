@@ -11,6 +11,16 @@
     <Civ>mace</Civ>
     <SpecificName>Stratopedon</SpecificName>
   </Identity>
+<Resistance>
+    <Entity>
+ <ApplyStatus>
+        <Burning>
+          <Duration>0.0</Duration>
+          <BlockChance>0.7</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <Obstruction>
     <Static width="20.0" depth="20.0"/>
   </Obstruction>
