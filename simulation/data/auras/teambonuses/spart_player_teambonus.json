@@ -4,14 +4,14 @@
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Health/Max", "multiply": 1.1 },
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 }
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05, "affects": "Spearman !Champion" },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05, "affects": "Spearman !Champion" },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05, "affects": "Spearman !Champion" }
 
 		
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "Infantry Spearmen 10% more health 5% more melee dmg."
+	"auraDescription": "All Infantry Spearmen 10% more health, 5% more melee dmg (non heroes/champs)."
 	
 	}
