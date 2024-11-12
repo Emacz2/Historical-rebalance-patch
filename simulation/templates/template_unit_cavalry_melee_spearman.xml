@@ -4,8 +4,8 @@
     <Melee>
       <AttackName>Spear</AttackName>
       <Damage>
-        <Hack>5.5</Hack>
-        <Pierce>6.5</Pierce>
+        <Hack>5.0</Hack>
+        <Pierce>8.0</Pierce>
       </Damage>
       <Bonuses>
         <BonusCavMelee>
@@ -15,7 +15,7 @@
       </Bonuses>
       <MaxRange>5</MaxRange>
       <PrepareTime>625</PrepareTime>
-      <RepeatTime>1260</RepeatTime>
+      <RepeatTime>1375</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
