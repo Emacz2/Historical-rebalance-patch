@@ -5,9 +5,9 @@
       <AttackName>Pike</AttackName>
       <Damage>
         <Hack>4</Hack>
-        <Pierce>10</Pierce>
+        <Pierce>10.5</Pierce>
       </Damage>
-      <MaxRange>6.5</MaxRange>
+      <MaxRange>7.0</MaxRange>
       <PrepareTime>1000</PrepareTime>
       <RepeatTime>1850</RepeatTime>
       <Bonuses>
