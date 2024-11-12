@@ -14,18 +14,18 @@
     <Melee>
       <AttackName>Spear</AttackName>
       <Damage>
-        <Hack>5.5</Hack>
-        <Pierce>6.5</Pierce>
+        <Hack>5</Hack>
+        <Pierce>8</Pierce>
       </Damage>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>1.5</Multiplier>
+          <Multiplier>1.25</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <MaxRange>5</MaxRange>
       <PrepareTime>625</PrepareTime>
-      <RepeatTime>1331</RepeatTime>
+      <RepeatTime>1500</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
@@ -43,7 +43,7 @@
     <SelectionGroupName>units/spart/cavalry_spearman_b</SelectionGroupName>
     <GenericName>Greek Allied Cavalry</GenericName>
     <SpecificName>Hippeús Symmakhikós</SpecificName>
-    <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 1.25× vs Cavalry.</Tooltip>
     <Icon>units/spart_cavalry_spearman.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
