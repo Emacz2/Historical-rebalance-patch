@@ -12,6 +12,6 @@
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "All Infantry Spearmen 10% more health, 5% more melee dmg (non heroes/champs)."
+	"auraDescription": "Infantry Spearmen 10% more health and 5% more melee dmg (DMG excludes champs)."
 	
 	}
