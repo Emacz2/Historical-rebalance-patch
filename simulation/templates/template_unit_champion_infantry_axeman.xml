@@ -9,7 +9,7 @@
       </Damage>
       <MaxRange>3.5</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1100</RepeatTime>
+      <RepeatTime>1000</RepeatTime>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
