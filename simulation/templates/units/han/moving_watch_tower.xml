@@ -17,6 +17,7 @@
   <Identity>
     <VisibleClasses datatype="tokens">SiegeTower</VisibleClasses>
     <GenericName>Moving Tower</GenericName>
+  <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Loot>
     <xp>250</xp>
