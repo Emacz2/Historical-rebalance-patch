@@ -1,9 +1,9 @@
 {
 	"genericName": "Town Phase",
 	"specificName": {
-		"kush": "Kōmopolis"
+		"han": "Xìan"
 	},
-	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Kush Workers garther grain 10% faster, archers gain 1 ranges are 10% more accurate and shot 5% faster.",
+	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Kush Workers garther grain 5% faster, archers gain 2 ranges but 5% more train time.",
 	"cost": {
 		"food": 650,
 		"wood": 650,
@@ -21,7 +21,7 @@
 	"replaces": ["phase_town"],
 	"icon": "town_phase.png",
 	"researchTime": 30,
-	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies.  Civic Centers +25% territory influence radius, 25% more garrison capacity and +5 range. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health.  Workers 10% faster farming. Archers shoot 5% faster and 10% more accurate and + 1 range.",
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies.  Civic Centers +25% territory influence radius, 25% more garrison capacity and +5 range. Structures +10% damage and +7 capture points regeneration rate per garrisoned unit. All Citizens 10% more health>  Workers 10% faster farming. Archers shoot 5% faster and 10% more accurate and + 1 range.",
 	"modifications": [
 		{ "value": "ResourceGatherer/Rates/food.grain", "multiply": 1.1, "affects": "Worker" },
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.95, "affects": "Archer" },
