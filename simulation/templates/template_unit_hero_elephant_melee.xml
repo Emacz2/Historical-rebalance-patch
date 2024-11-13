@@ -5,8 +5,8 @@
     <Melee>
       <AttackName>Trunk</AttackName>
       <Damage>
-        <Hack>60</Hack>
-        <Crush>90</Crush>
+        <Hack>48</Hack>
+        <Crush>72</Crush>
       </Damage>
       <Splash>
         <Shape>Circular</Shape>
@@ -18,7 +18,7 @@
       </Splash>
       <MaxRange>5</MaxRange>
       <PrepareTime>750</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
+      <RepeatTime>1350</RepeatTime>
      <PreferredClasses datatype="tokens">!Ship</PreferredClasses>
     </Melee>
   </Attack>

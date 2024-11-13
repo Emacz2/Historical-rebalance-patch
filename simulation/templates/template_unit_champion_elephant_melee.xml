@@ -5,8 +5,8 @@
     <Melee>
       <AttackName>Trunk</AttackName>
       <Damage>
-        <Hack>30</Hack>
-        <Crush>45</Crush>
+        <Hack>24</Hack>
+        <Crush>36</Crush>
       </Damage>
       <Splash>
         <Shape>Circular</Shape>
@@ -14,7 +14,7 @@
         <FriendlyFire>false</FriendlyFire>
         <Damage>
           <Hack>30</Hack>
-        </Damage>
+        </Damage>5
       </Splash>
       <MaxRange>5</MaxRange>
       <PrepareTime>750</PrepareTime>
