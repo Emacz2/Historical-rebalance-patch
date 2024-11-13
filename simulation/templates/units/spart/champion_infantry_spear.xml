@@ -9,7 +9,7 @@
     <RequiredTechnology>phase_village</RequiredTechnology>  
   </Identity>
   <Cost>
-    <BuildTime>16</BuildTime>
+    <BuildTime>18</BuildTime>
     <Resources>
       <food>80</food>
       <wood>75</wood>
@@ -21,7 +21,6 @@
     <RequiredXp>250</RequiredXp>
   </Promotion>
   <Auras datatype="tokens">
-    units/spartan_gathering
     units/spartan_phalanx
   </Auras>
   <Resistance>
@@ -32,7 +31,6 @@
       </Damage>
     </Entity>
   </Resistance>
-
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
@@ -41,7 +39,7 @@
   </Health>
   <Identity>
     <GenericName>Champion Spearman</GenericName>
-    <Tooltip>Counters: 2.75× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 2.0× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman Citizen</VisibleClasses>
   </Identity>
 </Entity>

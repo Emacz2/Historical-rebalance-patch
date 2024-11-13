@@ -9,7 +9,7 @@
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.98 }
 	
 	],
-	"auraName": "phanlanx",
+	"auraName": "phalanx",
 	"auraDescription": "Spearman promote 2% faster and gain +.25 of pierce and hack resistance, but run/walk speed reduced by 2%",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
 	"stackable": true
