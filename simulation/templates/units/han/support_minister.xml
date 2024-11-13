@@ -11,11 +11,12 @@
     <Melee>
       <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
       <Damage>
-        <Hack>16</Hack>
+        <Hack>14</Hack>
+	<Pierce>1</Pierce>
       </Damage>
-      <MaxRange>3</MaxRange>
+      <MaxRange>2.75</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <RepeatTime>800</RepeatTime>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
@@ -42,7 +43,7 @@
     <SpecificName>Guānlì</SpecificName>
     <Tooltip>Use to boost the efficiency of nearby units and buildings. Garrison within a building to boost the efficiency of its production queue. Only Han buildings can garrison ministers.</Tooltip>
     <Classes datatype="tokens">Organic Human</Classes>
-    <VisibleClasses datatype="tokens">Minister</VisibleClasses>
+    <VisibleClasses datatype="tokens">Citizen Minister</VisibleClasses>
     <Icon>units/han/minister.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
@@ -99,7 +100,7 @@
     <Category>Minister</Category>
   </TrainingRestrictions>
   <Vision>
-    <Range>40</Range>
+    <Range>50</Range>
   </Vision>
   <VisualActor>
     <Actor>units/han/minister.xml</Actor>
