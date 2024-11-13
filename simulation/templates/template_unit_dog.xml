@@ -4,12 +4,12 @@
     <Melee>
       <AttackName>Fangs</AttackName>
       <Damage>
-        <Hack>7</Hack>
-        <Pierce>2</Pierce>
+        <Hack>3</Hack>
+        <Pierce>1</Pierce>
       </Damage>
-      <MaxRange>3</MaxRange>
+      <MaxRange>2</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1000</RepeatTime>
+      <RepeatTime>750</RepeatTime>
       <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
     </Melee>
   </Attack>
@@ -66,11 +66,11 @@
   </TrainingRestrictions>
   <TreasureCollector disable=""/>
   <UnitMotion>
-    <WalkSpeed op="mul">1.5</WalkSpeed>
+    <WalkSpeed op="mul">1.8</WalkSpeed>
     <RunMultiplier>2</RunMultiplier>
-    <Acceleration op="mul">1.5</Acceleration>
+    <Acceleration op="mul">1.8</Acceleration>
   </UnitMotion>
   <Vision>
-    <Range>30</Range>
+    <Range>35</Range>
   </Vision>
 </Entity>
