@@ -15,7 +15,7 @@
       </Bonuses>
       <MaxRange>5</MaxRange>
       <PrepareTime>625</PrepareTime>
-      <RepeatTime>1375</RepeatTime>
+      <RepeatTime>1275</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
