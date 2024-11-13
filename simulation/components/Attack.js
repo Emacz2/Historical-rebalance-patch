@@ -464,6 +464,13 @@ Attack.prototype.GetAttackYOrigin = function(type)
 	return ApplyValueModificationsToEntity("Attack/" + type + "/Origin/Y", +this.template[type].Origin.Y, this.entity);
 };
 
+Attack.prototype.RepeatRangeCheck = function(type) {
+	if (!this.IsTargetInRange(this.target, type)) {
+		this.StopAttacking("OutOfRange");
+	}
+	return;
+};
+
 /**
  * @param {number} target - The target to attack.
  * @param {string} type - The type of attack to use.
@@ -503,12 +510,26 @@ Attack.prototype.StartAttacking = function(target, type, callerIID)
 		cmpVisual.SetAnimationSyncOffset(prepare);
 	}
 
+	// Find the number of range checks needed during repeat time.
+	const numCheck = Math.ceil(timings.repeat / 1000);
+
+	//Calculate the timing offset to be half the check repeat time.
+	const repeatPerCheck = timings.repeat / numCheck;
+	const offset = repeatPerCheck / 2;
+
+	//Set the startpoint to be the prepare time plus any remaining time not evenly divisible by the offset.
+	let checkStart = timings.prepare + ((prepare - timings.prepare) % offset);
+
+	//Add an offset to the start time if we are not already offset.
+	if ((prepare - checkStart) % repeatPerCheck === 0) {
+		checkStart += offset;
+	}
 	// If using a non-default prepare time, re-sync the animation when the timer runs.
 	this.resyncAnimation = prepare != timings.prepare;
 	this.target = target;
 	this.callerIID = callerIID;
 	this.timer = cmpTimer.SetInterval(this.entity, IID_Attack, "Attack", prepare, timings.repeat, type);
-
+	this.checkTimer = cmpTimer.SetInterval(this.entity, IID_Attack, "RepeatRangeCheck", checkStart, repeatPerCheck, type);
 	return true;
 };
 
@@ -522,7 +543,9 @@ Attack.prototype.StopAttacking = function(reason)
 
 	let cmpTimer = Engine.QueryInterface(SYSTEM_ENTITY, IID_Timer);
 	cmpTimer.CancelTimer(this.timer);
+	cmpTimer.CancelTimer(this.checkTimer);
 	delete this.timer;
+	delete this.checkTimer;
 
 	const cmpResistance = QueryMiragedInterface(this.target, IID_Resistance);
 	if (cmpResistance)
