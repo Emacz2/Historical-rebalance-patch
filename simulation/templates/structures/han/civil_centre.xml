@@ -25,6 +25,7 @@
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_crossbowman_b
       units/{civ}/cavalry_swordsman_b
+      units/{civ}/moving_watch_tower
     </Entities>
   </Trainer>
   <Upgrade>
