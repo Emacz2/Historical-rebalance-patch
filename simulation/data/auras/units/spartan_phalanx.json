@@ -10,7 +10,7 @@
 	
 	],
 	"auraName": "phanlanx",
-	"auraDescription": "Spearman promote 2% faster and +.25 of each pierce/hack resistance, but run/walk speed reduced by 2%",
+	"auraDescription": "Spearman promote 2% faster and gain +.25 of pierce and hack resistance, but run/walk speed reduced by 2%",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
 	"stackable": true
 }
