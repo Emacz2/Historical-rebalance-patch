@@ -66,8 +66,8 @@
   </TrainingRestrictions>
   <TreasureCollector disable=""/>
   <UnitMotion>
-    <WalkSpeed op="mul">1.8</WalkSpeed>
-    <RunMultiplier>2</RunMultiplier>
+    <WalkSpeed op="mul">1.6</WalkSpeed>
+    <RunMultiplier>1.8</RunMultiplier>
     <Acceleration op="mul">1.8</Acceleration>
   </UnitMotion>
   <Vision>
