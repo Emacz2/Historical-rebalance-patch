@@ -46,6 +46,7 @@
     <Tooltip>Counters: 1.25× vs Cavalry.</Tooltip>
     <Icon>units/spart_cavalry_spearman.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
+    <VisibleClasses datatype="tokens">Worker -Citizen -Soldier -Infantry</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/spart/cavalry_spearman_a</Entity>
