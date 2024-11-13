@@ -4,26 +4,26 @@
 	"modifications": [
 		{
 			"value": "Researcher/TechCostMultiplier/wood",
-			"multiply": 0.98
+			"multiply": 0.97
 		},
 		{
 			"value": "Researcher/TechCostMultiplier/food",
-			"multiply": 0.98
+			"multiply": 0.97
 		},
 		{
 			"value": "Researcher/TechCostMultiplier/metal",
-			"multiply": 0.98
+			"multiply": 0.97
 		},
 		{
 			"value": "Researcher/TechCostMultiplier/stone",
-			"multiply": 0.98
+			"multiply": 0.97
 		},
 		{
 			"value": "Researcher/TechCostMultiplier/time",
-			"multiply": 0.98
+			"multiply": 0.97
 		}
 	],
 	"auraName": "Excellency of Works",
-	"auraDescription": "Decrease resource costs and research time of technologies in a building by 2% for each Minister garrisoned within.",
+	"auraDescription": "Decrease resource costs and research time of technologies in a building by 32% for each Minister garrisoned within.",
 	"stackable": true
 }
