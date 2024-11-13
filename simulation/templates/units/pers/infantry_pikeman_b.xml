@@ -3,7 +3,7 @@
   <Identity>
     <Civ>pers</Civ>
     <Lang>greek</Lang>
-    <SelectionGroupName>units/sele/infantry_pikeman_b</SelectionGroupName>
+    <SelectionGroupName>units/pers/infantry_pikeman_b</SelectionGroupName>
     <GenericName>Phalangite</GenericName>
     <SpecificName>Phalangitēs</SpecificName>
     <Icon>units/sele_infantry_spearman.png</Icon>
