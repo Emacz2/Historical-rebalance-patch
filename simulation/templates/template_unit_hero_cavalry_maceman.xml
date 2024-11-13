@@ -4,12 +4,13 @@
     <Melee>
       <AttackName>Mace</AttackName>
       <Damage>
-        <Crush>18</Crush>
-	 <Hack>13.5</Hack>
+        <Crush>20</Crush>
+	 <Hack>11</Hack>
+         <Pierce>7</Pierce>
       </Damage>
       <MaxRange>4</MaxRange>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1275</RepeatTime>
+      <RepeatTime>1100</RepeatTime>
       <PreferredClasses datatype="tokens">!Ship</PreferredClasses>
     </Melee>
   </Attack>
