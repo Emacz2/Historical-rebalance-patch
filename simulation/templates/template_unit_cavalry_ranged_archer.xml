@@ -4,7 +4,7 @@
     <Ranged>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>8.6</Pierce>
+        <Pierce>9</Pierce>
       </Damage>
       <MaxRange>57</MaxRange>
       <PrepareTime>800</PrepareTime>
