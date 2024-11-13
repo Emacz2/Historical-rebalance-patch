@@ -27,8 +27,8 @@
   <Selectable>
     <Overlay>
       <Texture>
-        <MainTexture>256x256/rounded_rectangle.png</MainTexture>
-        <MainTextureMask>256x256/rounded_rectangle_mask.png</MainTextureMask>
+        <MainTexture>128x128/rounded_rectangle.png</MainTexture>
+        <MainTextureMask>128x128/rounded_rectangle_mask.png</MainTextureMask>
       </Texture>
     </Overlay>
   </Selectable>
