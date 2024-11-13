@@ -42,7 +42,6 @@
       </Damage>
     </Entity>
   </Resistance>
-
 	<BuildRestrictions>
 		<Category>Fortress</Category>
 		<Distance>
