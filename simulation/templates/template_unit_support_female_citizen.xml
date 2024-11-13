@@ -86,6 +86,6 @@
     <Formations disable=""/>
   </UnitAI>
   <Vision>
-    <Range>32</Range>
+    <Range>35</Range>
   </Vision>
 </Entity>
