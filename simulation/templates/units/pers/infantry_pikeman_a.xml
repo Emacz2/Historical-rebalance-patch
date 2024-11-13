@@ -4,7 +4,7 @@
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/sele/infantry_pikeman_e</Entity>
+    <Entity>units/pers/infantry_pikeman_e</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/seleucids/infantry_pikeman_a.xml</Actor>
