@@ -11,6 +11,16 @@
       <PrepareTime>500</PrepareTime>
       <RepeatTime>750</RepeatTime>
       <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
+ <ApplyStatus>
+        <Poisoned>
+          <Interval>3000</Interval>
+          <Damage>
+            <Poison>1.0</Poison>
+          </Damage>
+          <Stackability>Extend</Stackability>
+          <Duration>9000</Duration>
+        </Poisoned>
+      </ApplyStatus>
     </Melee>
   </Attack>
   <Cost>
