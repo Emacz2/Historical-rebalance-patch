@@ -28,7 +28,7 @@
     <GenericName>Cavalry Spearman</GenericName>
     <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
-    <VisibleClasses datatype="tokens">Support Worker -Soldier</VisibleClasses>
+    <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
   <Resistance>
     <Entity>
