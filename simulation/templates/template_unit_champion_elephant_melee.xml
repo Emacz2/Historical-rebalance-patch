@@ -14,7 +14,7 @@
         <FriendlyFire>false</FriendlyFire>
         <Damage>
           <Hack>30</Hack>
-        </Damage>5
+        </Damage>
       </Splash>
       <MaxRange>5</MaxRange>
       <PrepareTime>750</PrepareTime>
