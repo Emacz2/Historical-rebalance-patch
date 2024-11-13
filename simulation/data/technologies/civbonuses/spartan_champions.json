@@ -5,6 +5,11 @@
 	"icon": "agoge.png",
 	"tooltip": "Champion Hoplites are available in p1, and may promote to Olympic champions.",
 	"requirements": { "civ": "spart" },
+	"modifications": [
+		{ "value": "Attack/Melee/RepeatTime", "multiply": 0.95}
+
+	],
+
 	"affects": ["Champion Spearman"]
 	
 }
