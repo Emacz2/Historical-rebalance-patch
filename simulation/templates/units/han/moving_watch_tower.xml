@@ -43,7 +43,7 @@
     </SoundGroups>
   </Sound>
   <StatusBars>
-    <HeightOffset>12.0</HeightOffset>
+    <HeightOffset>9.0</HeightOffset>
   </StatusBars>
   <Resistance>
     <Entity>
