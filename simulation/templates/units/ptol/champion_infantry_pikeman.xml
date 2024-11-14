@@ -6,6 +6,7 @@
     <GenericName>Royal Guard Infantry</GenericName>
     <SpecificName>Phalangitès Agema</SpecificName>
     <Icon>units/ptol_champion_infantry.png</Icon>
+   <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <VisualActor>
