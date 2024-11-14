@@ -4,7 +4,6 @@
     <GenericName>Scythian Archer</GenericName>
     <SpecificName>Toxótēs Skythikós</SpecificName>
     <Icon>units/athen_champion_ranged.png</Icon>
-    <VisibleClasses datatype="tokens">-Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/infantry_archer_c.xml</Actor>
