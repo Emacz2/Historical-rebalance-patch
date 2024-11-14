@@ -6,6 +6,7 @@
     <SpecificName>Hǔ Bēn</SpecificName>
     <SelectionGroupName>units/han/champion_infantry_spearman</SelectionGroupName>
     <RequiredTechnology>phase_city</RequiredTechnology>
+    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <Icon>units/han/champion_infantry_swordsman.png</Icon>
   </Identity>
   <VisualActor>
