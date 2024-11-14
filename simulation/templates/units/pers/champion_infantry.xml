@@ -8,6 +8,9 @@
       </Damage>
     </Melee>
   </Attack>
+  <Cost>
+    <BuildTime>15</BuildTime>
+  </Cost>
   <Health>
     <Max>120</Max>
   </Health>
