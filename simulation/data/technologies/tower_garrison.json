@@ -7,9 +7,9 @@
 	},
 	"icon": "coinage.png",
 	"researchTime": 50,
-	"tooltip": "Fortresses +4 default arrows.",
+	"tooltip": "Fortresses +6 default arrows.",
 	"modifications": [
-		{ "value": "BuildingAI/DefaultArrowCount", "add": 4, "affects": "Fortress" }
+		{ "value": "BuildingAI/DefaultArrowCount", "add": 6, "affects": "Fortress" }
 	],
 	"affects": ["Fortress"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
