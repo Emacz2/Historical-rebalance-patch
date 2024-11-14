@@ -28,6 +28,9 @@
       </Damage>
     </Entity>
   </Resistance>
+  <UnitMotion>
+    <WalkSpeed>9.6</WalkSpeed>
+  </UnitMotion>
   <Sound>
     <SoundGroups>
       <attack_melee>attack/weapon/sword_attack.xml</attack_melee>
@@ -38,7 +41,4 @@
       special/formations/testudo
     </Formations>
   </UnitAI>
-  <UnitMotion>
-    <WalkSpeed>9.6</WalkSpeed>
-  </UnitMotion>
 </Entity>
