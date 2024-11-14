@@ -5,6 +5,7 @@
     <GenericName>Gallic Noble Cavalry</GenericName>
     <SpecificName>Uerouicos</SpecificName>
     <SelectionGroupName>units/gaul/champion_cavalry</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <Icon>units/gaul_champion_cavalry.png</Icon>
   </Identity>
   <VisualActor>

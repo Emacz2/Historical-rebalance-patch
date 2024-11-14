@@ -12,6 +12,7 @@
     <GenericName>Naked Fanatic</GenericName>
     <SpecificName>Bariogaisatos</SpecificName>
     <Icon>units/gaul_champion_fanatic.png</Icon>
+    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
