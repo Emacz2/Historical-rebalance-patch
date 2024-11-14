@@ -20,6 +20,7 @@
     <GenericName>Maiden Guard Archer</GenericName>
     <SpecificName>Visha Kanya</SpecificName>
     <Icon>units/maur_champion_maiden_archer.png</Icon>
+   <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/mauryas/infantry_archer_c.xml</Actor>
