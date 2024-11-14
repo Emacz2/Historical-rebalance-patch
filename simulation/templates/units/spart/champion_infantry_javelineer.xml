@@ -10,10 +10,10 @@
   <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <Cost>
-    <BuildTime>30</BuildTime>
+    <BuildTime>20</BuildTime>
     <Resources>
-      <food>90</food>
-      <wood>90</wood>
+      <food>80</food>
+      <wood>75</wood>
       <metal>70</metal>
     </Resources>
   </Cost>
