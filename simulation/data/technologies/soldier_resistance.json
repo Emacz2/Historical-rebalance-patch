@@ -22,12 +22,12 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "metalworker.png",
 	"researchTime": 0,
-	"tooltip": "All Inintry +1 Hack, 1.5 Pierce, 2 Crush resistance, but 20% more train time.",
+	"tooltip": "All infantry +1 Hack, 1.5 Pierce, 2 Crush resistance, but Champions 20% more train time.",
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.5 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 },
-		 { "value": "Cost/BuildTime", "multiply": 1.2 }
+		 { "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Champion" }
 	],
 	"affects": ["Infantry"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"

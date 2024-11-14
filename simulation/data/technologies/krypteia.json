@@ -14,14 +14,14 @@
 	},
 	"icon": "skull_swords.png",
 	"researchTime": 30,
-	"tooltip": "Champions and Hero +15%  attack damage, but Infantry Spearman +10% training time.",
+	"tooltip": "Champions and Hero +15% attack damage, but Champions +15% training time.",
 	"modifications": [
-	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Soldier !Citizen"},
-	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15, "affects": "Soldier !Citizen"},
-	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15, "affects": "Soldier !Citizen" },
-	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15, "affects": "Soldier !Citizen"},
-	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.15, "affects": "Soldier !Citizen" },
-	    { "value": "Cost/BuildTime", "multiply": 1.10, "affects": "Infantry Spearman"}
+	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Champion Hero"},
+	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15, "affects": "Champion Hero"},
+	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15, "affects": "Champion Hero" },
+	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15, "affects": "Champion Heron"},
+	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.15, "affects": "Champion Hero" },
+	    { "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Champion"}
 	],
     "soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
