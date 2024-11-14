@@ -27,13 +27,13 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">1.5</Hack>
+        <Hack op="add">1.0</Hack>
         <Pierce op="add">1.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
   <UnitMotion>
-    <WalkSpeed>9.6</WalkSpeed>
+    <WalkSpeed>9.5</WalkSpeed>
   </UnitMotion>
   <Sound>
     <SoundGroups>
