@@ -11,6 +11,7 @@
     <Classes datatype="tokens">AmunGuard</Classes>
     <GenericName>Napatan Temple Guard</GenericName>
     <SpecificName>rs ʿImn</SpecificName>
+    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <Icon>units/kush_champion_amun.png</Icon>
   </Identity>
   <VisualActor>
