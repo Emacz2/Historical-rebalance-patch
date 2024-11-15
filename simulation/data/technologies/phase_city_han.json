@@ -12,7 +12,7 @@
 	},
 	"requirements": {
 		"entity": {
-			"class": "Village",
+			"class": "Town",
 			"number": 5
 		}
 	},
@@ -26,7 +26,6 @@
 
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.95, "affects": "Crossbowman" },
 		{ "value": "Attack/Ranged/Spread", "multiply": 0.90, "affects": "Crossbowman" },
-		{ "value": "Attack/Ranged/MaxRange", "add": 1, "affects": "Crossbowman" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
