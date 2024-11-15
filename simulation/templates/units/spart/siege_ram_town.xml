@@ -25,7 +25,7 @@
       </Damage>
       <MaxRange>6.5</MaxRange>
       <PrepareTime>750</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
+      <RepeatTime>1750</RepeatTime>
       <PreferredClasses datatype="tokens">Structure</PreferredClasses>
       <RestrictedClasses datatype="tokens">Field Organic</RestrictedClasses>
     </Melee>
@@ -34,7 +34,7 @@
     <Entity>
       <Damage>
         <Hack>5</Hack>
-        <Pierce>30</Pierce>
+        <Pierce>25</Pierce>
       </Damage>
     </Entity>
   </Resistance>
