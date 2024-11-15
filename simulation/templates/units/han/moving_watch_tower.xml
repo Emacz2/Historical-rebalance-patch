@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_siege">
   <Cost>
-    <BuildTime>30</BuildTime>
+    <BuildTime>20</BuildTime>
     <Resources>
-      <wood>200</wood>
-      <metal>50</metal>
+      <wood>35</wood>
+      <metal>15</metal>
     </Resources>
   </Cost>
   <Footprint replace="">
