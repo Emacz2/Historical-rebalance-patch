@@ -1,7 +1,7 @@
 {
-	"genericName": "Town Phase",
+	"genericName": "City Phase",
 	"specificName": {
-		"han": "Xìan"
+		Han: "Jùn"
 	},
 	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Han crossbowmen shoot 5% faster and are 10% more accurate. ",
 	"cost": {
@@ -17,7 +17,7 @@
 		}
 	},
 	"requirementsTooltip": "Requires five Village Structures.",
-	"supersedes": "phase_town",
+	"supersedes": "phase_town_han",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 30,
