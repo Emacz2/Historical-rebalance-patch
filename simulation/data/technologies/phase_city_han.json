@@ -3,20 +3,20 @@
 	"specificName": {
 		Han: "Jùn"
 	},
-	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Han crossbowmen shoot 5% faster and are 10% more accurate. ",
+	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Han crossbowmen shoot 5% faster and are 10% more accurate.",
 	"cost": {
-		"food": 650,
-		"wood": 650,
-		"metal": 100,
-		"stone": 100
+		"stone": 800,
+		"metal": 800,
+		"wood": 200,
+		"food": 200
 	},
 	"requirements": {
 		"entity": {
 			"class": "Town",
-			"number": 5
+			"number": 3
 		}
 	},
-	"requirementsTooltip": "Requires five Village Structures.",
+	"requirementsTooltip": "Requires three Town Structures.",
 	"supersedes": "phase_town_han",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
