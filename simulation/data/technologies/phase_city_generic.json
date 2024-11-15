@@ -1,11 +1,10 @@
 {
 	"genericName": "City Phase",
 	"specificName": {
-		"han": "Jùn",
 		"mace": "Megalopolis",
 		"ptol": "Megalopolis",
-		"sele": "Megalopolis",
-		"spart": "Megalopolis"
+		"sele": "Megalopolis"
+
 	},
 	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology.",
 	"cost": {
