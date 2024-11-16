@@ -6,6 +6,10 @@
     <EndOfAlertRange>-1</EndOfAlertRange>
     <SearchRange>100</SearchRange>
   </AlertRaiser>
+   <ResourceDropsite>
+    <Types>food wood stone metal</Types>
+    <Sharable>true</Sharable>
+  </ResourceDropsite>
   <Cost>
     <BuildTime>150</BuildTime>
     <Resources>
