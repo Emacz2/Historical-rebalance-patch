@@ -5,6 +5,7 @@
     <GenericName>Thracian Peltast</GenericName>
     <SpecificName>Peltastḗs Thrâx</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
+    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
