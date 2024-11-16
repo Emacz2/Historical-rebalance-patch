@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="merc_cav|template_unit_cavalry_melee_spearman">
- <Cost>
-    <Population>2</Population>
-    <BuildTime>15</BuildTime>
-    <Resources>
-      <metal>50</metal>
-      <food>100</food>
-    </Resources>
-  </Cost>
   <Identity>
     <Civ>spart</Civ>
     <SelectionGroupName>units/ptol/cavalry_spearman_merc_b</SelectionGroupName>
