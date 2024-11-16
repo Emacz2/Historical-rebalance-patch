@@ -12,12 +12,7 @@
   </Health>
    <Attack>
     <Melee>
-      <AttackName>Spear</AttackName>
-      <Damage>
-        <Hack>5</Hack>
-        <Pierce>8</Pierce>
-      </Damage>
-      <Bonuses>
+        <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
           <Multiplier>1.25</Multiplier>
@@ -46,7 +41,7 @@
     <Tooltip>Counters: 1.25× vs Cavalry.</Tooltip>
     <Icon>units/spart_cavalry_spearman.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
-    <VisibleClasses datatype="tokens">Worker -Citizen -Soldier -Infantry</VisibleClasses>
+    <VisibleClasses datatype="tokens">Worker -Citizen -Soldier</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/spart/cavalry_spearman_a</Entity>
