@@ -32,7 +32,7 @@
     <Entity>
       <Damage>
         <Hack op="add">-1</Hack>
-        <Pierce op="add">-1</Pierce>
+        <Pierce op="add">-0.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
