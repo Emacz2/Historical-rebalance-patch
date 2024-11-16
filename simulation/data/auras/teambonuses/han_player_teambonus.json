@@ -3,11 +3,11 @@
 	"affects": ["Champion"],
 	"affectedPlayers":["MutualAlly"],
 	"modifications": [
-		{ "value": "Cost/Resources/food", "multiply": 0.75 },
-		{ "value": "Cost/Resources/wood", "multiply": 0.75 },
-		{ "value": "Cost/Resources/metal", "multiply": 1.25 },
+		{ "value": "Cost/Resources/food", "multiply": 0.5 },
+		{ "value": "Cost/Resources/wood", "multiply": 0.5 },
+		{ "value": "Cost/Resources/metal", "multiply": 1.5 },
 		{ "value": "Cost/BuildTime", "multiply": 0.9 }
 	],
 	"auraName": "Professional soldiers",
-	"auraDescription": "Use more metal (25%) to pay for professioanl soldiers, reduces food (25%) and wood cost (25%) and train time by 10%."
+	"auraDescription": "Use more metal (50%) to pay for professioanl soldiers, but reduces food and wood cost by (50%) and train time is 10% faster."
 }
