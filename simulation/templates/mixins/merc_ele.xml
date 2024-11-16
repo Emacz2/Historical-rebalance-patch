@@ -2,7 +2,8 @@
 <Entity parent="mercenary">
   <Cost>
     <Resources>
-      <metal>120</metal>
+      <metal>100</metal>
+      <food>50</food>
     </Resources>
   </Cost>
   <Loot>
