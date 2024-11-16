@@ -3,8 +3,8 @@
   <Cost>
     <Population>1</Population>
     <Resources>
-      <metal>90</metal>
-      <food>20</food>
+      <metal>75</metal>
+      <food>50</food>
     </Resources>
   </Cost>
   <Loot>
