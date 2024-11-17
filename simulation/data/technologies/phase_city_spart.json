@@ -21,7 +21,7 @@
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 45,
-	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 40% more garrison capacity and +5 range . Structures +5 capture points regeneration rate per garrisoned unit. All Citizens 15% more health, 1% faster run/walk, and 20% less metal, but 15% more train time. Infantry gain 1.0 pierce and 0.5 hack armor.",
+	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 40% more garrison capacity and +5 range . Structures +5 capture points regeneration rate per garrisoned unit. Infantry gain 1% faster run walk, cost 20% less metal, and gain 1 hack and pierce armor. Citizens 15% longer to train champions 30 more life.",
 	"modifications": [
 		{ "value": "Cost/Resources/metal", "multiply": 0.8, "affects": "Infantry" },
 		{ "value": "Health/Max", "add": 30, "affects": "Champions"},
