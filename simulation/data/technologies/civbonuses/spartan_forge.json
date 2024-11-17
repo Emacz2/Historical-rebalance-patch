@@ -1,17 +1,17 @@
 {
     "genericName": "Spartans blacksmiths",
     "autoResearch": true,
-    "description": "Blacksmith techs cost 20% less but take 50% longer",
+    "description": "Blacksmith techs cost 25% less but take 50% longer",
     "requirements":{
             "civ": "spart"
     },
     "icon": "",
-    "tooltip": "Blacksmith techs cost 20% less but take 50% longer",
+    "tooltip": "Blacksmith techs cost 25% less but take 50% longer",
     "modifications": [
-		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.80 },
-		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.80 },
-		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.80 },
-		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.80 },
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.75 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.75 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.75 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.75 },
 		{ "value": "Researcher/TechCostMultiplier/time", "multiply": 1.5 }
 	],
     "affects": ["Forge"]
