@@ -35,7 +35,7 @@
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
   <Health>
-    <Max>180</Max>
+    <Max>181</Max>
   </Health>
   <Identity>
     <GenericName>Champion Spearman</GenericName>
