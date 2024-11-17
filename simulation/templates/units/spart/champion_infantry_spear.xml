@@ -16,9 +16,6 @@
       <metal>70</metal>
     </Resources>
   </Cost>
- <Health>
-    <Max>180</Max>
-   </Health>
   <Promotion>
     <Entity>units/spart/champion_infantry_spear_olympian</Entity>
     <RequiredXp>250</RequiredXp>
@@ -38,7 +35,7 @@
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
   <Health>
-    <Max>200</Max>
+    <Max>180</Max>
   </Health>
   <Identity>
     <GenericName>Champion Spearman</GenericName>
