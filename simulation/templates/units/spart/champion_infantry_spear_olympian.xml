@@ -16,8 +16,8 @@
       </Damage>
     </Entity>
   </Resistance>
-  <Health>
-    <Max op="mul">1.2</Max>
+ <Health>
+    <Max>272</Max>
   </Health>
   <Identity>
     <GenericName>Spartan Olympic Hoplite</GenericName>
