@@ -10,7 +10,7 @@
             { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.05, "affects": "Ranged" },
             { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.05, "affects": "Ranged" },
 	    { "value": "Attack/Ranged/Spread", "multiply": 0.85, "affects": "Ranged" },
-	    { "value": "Health/Max", "multiply": 1.15, "affects": "Mercanary"},
+	    { "value": "Health/Max", "add": 25, "affects": "Mercanary"},
 	    { "value": "Attack/Ranged/RepeatTime", "multiply": 0.90 },
 	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.02 },
 	    { "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
