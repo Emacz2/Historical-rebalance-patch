@@ -9,7 +9,7 @@
     <RequiredTechnology>phase_village</RequiredTechnology>  
   </Identity>
   <Cost>
-    <BuildTime>18</BuildTime>
+    <BuildTime>15</BuildTime>
     <Resources>
       <food>80</food>
       <wood>75</wood>
@@ -23,15 +23,7 @@
   <Auras datatype="tokens">
     units/spartan_phalanx
   </Auras>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">-0.5</Hack>
-        <Pierce op="add">-0.5</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-  <VisualActor>
+    <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
   <Health>
