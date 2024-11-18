@@ -9,6 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
+    <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
     <Icon>units/spart_hero_agis.png</Icon>
   </Identity>
   <Health>
