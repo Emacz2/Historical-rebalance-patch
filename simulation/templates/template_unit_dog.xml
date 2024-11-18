@@ -35,7 +35,7 @@
     <Height>1.5</Height>
   </Footprint>
   <Health>
-    <Max>110</Max>
+    <Max>50</Max>
   </Health>
   <Identity>
     <GenericName>War Dog</GenericName>
