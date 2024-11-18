@@ -112,6 +112,7 @@
       units/{civ}/infantry_lanciarius
       units/{civ}/siege_onager_packed
       units/{civ}/siege_ram
+     units/{civ}/infantry_archer_b
     </Entities>
   </Trainer>
   <Vision>
