@@ -28,7 +28,7 @@
     <BuildTime>8</BuildTime>
     </Cost>
   <Health>
-    <Max op="mul">1.6</Max>
+    <Max op="mul">1.5</Max>
   </Health>
   <Loot>
     <xp op="add">1</xp>
