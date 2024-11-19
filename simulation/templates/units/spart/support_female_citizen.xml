@@ -38,6 +38,7 @@
     <Lang>greek</Lang>
     <GenericName>Spartan Woman</GenericName>
     <SpecificName>Spartiâtis</SpecificName>
+    <VisibleClasses datatype="tokens">-Support</VisibleClasses>
     <Icon>units/spart_support_female_citizen.png</Icon>
   </Identity>
   <UnitAI>
