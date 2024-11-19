@@ -15,11 +15,11 @@
   </Attack>
   <Health>
     <Max>200</Max>
- <DamageVariants>
+   </Health>
+   <DamageVariants>
       <lightdamage>0.85</lightdamage>
       <mediumdamage>0.45</mediumdamage>
     </DamageVariants>
-  </Health>
   <UnitAI>
     <Formations datatype="tokens">
       special/formations/testudo
@@ -54,9 +54,6 @@
     <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
-   <Formations datatype="tokens">
-      special/formations/testudo
-    </Formations>
 <Promotion disable=""/>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
