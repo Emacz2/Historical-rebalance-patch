@@ -9,41 +9,15 @@
       -structures/{civ}/barracks
     </Entities>
   </Builder>
-     <Cost>
-    <BuildTime>10</BuildTime>
-    <Resources>
-      <food>50</food>
-      <wood>40</wood>
-    </Resources>
-    </Cost>
-    <Health>
-    <Max>40</Max>
-   </Health>
-<Resistance>
-    <Entity>
-      <Damage>
-        <Hack>0.0</Hack>
-        <Pierce>0.0</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-   <ResourceGatherer>
-    <MaxDistance>2.0</MaxDistance>
-    <BaseSpeed>1.0</BaseSpeed>
-    <Rates>
-      <wood.tree>0.85</wood.tree>
-      <stone.rock>0.60</stone.rock>
-      <metal.ore>0.60</metal.ore>
-    </Rates>
-    </ResourceGatherer>
-  <Identity>
+      <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_archer_b</SelectionGroupName>
     <GenericName>Helot Archer</GenericName>
     <SpecificName>Toxótēs Krētikós</SpecificName>
     <Icon>units/mace_infantry_archer.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+     <VisibleClasses datatype="tokens">-Support Worker -Citizen -Soldier -Infantry</VisibleClasses>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
     <Promotion disable=""/>
   <VisualActor>
