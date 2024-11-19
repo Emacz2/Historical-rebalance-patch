@@ -6,7 +6,7 @@
 		{ "value": "Promotion/RequiredXp", "multiply": 0.99 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.01},
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.97 }
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.98 }
 	
 	],
 	"auraName": "phalanx",
