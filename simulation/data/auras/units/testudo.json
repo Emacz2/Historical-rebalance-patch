@@ -1,16 +1,16 @@
 {
 	"type": "range",
-	"radius": 5,
+	"radius": 6,
 	"affects": ["Swordsman !Cavalry"],
 	"modifications": [
 		{ "value": "Promotion/RequiredXp", "multiply": 0.99 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.5 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.95 }
 	
 	],
 	"auraName": "testudo",
-	"auraDescription": "Swordsman promote 1% faster and +.5 of Hack and + 1 pierce resistance, but run/walk speed reduced by 5%",
+	"auraDescription": "Swordsman promote 1% faster, gain +.5 of Hack and + 1.5 pierce resistance, but run/walk speed reduced by 5%",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
 	"stackable": true
 }
