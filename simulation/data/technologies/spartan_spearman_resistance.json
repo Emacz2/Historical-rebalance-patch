@@ -12,17 +12,17 @@
 	"cost": {
 		"food": 200,
 		"wood": 100,
-		"stone": 50
+		"metal": 50
 	},
-	"requirements": { "tech": "phase_village" },
-	"requirementsTooltip": "Unlocked in Village Phase.",
-	"icon": "sword_01.png",
-	"researchTime": 15,
-	"tooltip": "All Spearman +5% melee attack damage but Spartiates 10% more train time.",
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "helmet_corinthian_bronze_old.png",
+	"researchTime": 30,
+	"tooltip": "All Spearman gain .5 Pierce and Hack armor and 1 crush armor but Spartiate spearman 10% longer train time.",
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
 		{ "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Champion Spearman" }
 	],
 	"affects": ["Spearman !Cavalry"],
