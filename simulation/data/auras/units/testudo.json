@@ -9,7 +9,7 @@
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.95 }
 	
 	],
-	"auraName": "phalanx",
+	"auraName": "testudo",
 	"auraDescription": "Swordsman promote 1% faster and +.5 of Hack and + 1 pierce resistance, but run/walk speed reduced by 5%",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
 	"stackable": true
