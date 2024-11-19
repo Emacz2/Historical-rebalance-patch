@@ -1,0 +1,16 @@
+{
+	"type": "range",
+	"radius": 5,
+	"affects": ["Swordsman !Cavalry"],
+	"modifications": [
+		{ "value": "Promotion/RequiredXp", "multiply": 0.99 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.95 }
+	
+	],
+	"auraName": "phalanx",
+	"auraDescription": "Swordsman promote 1% faster and +.5 of Hack and + 1 pierce resistance, but run/walk speed reduced by 5%",
+	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
+	"stackable": true
+}

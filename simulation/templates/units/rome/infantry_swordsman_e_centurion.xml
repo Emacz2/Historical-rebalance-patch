@@ -6,6 +6,7 @@
   <Auras datatype="tokens">
     units/centurion_1
     units/centurion_2
+    units/testudo
   </Auras>
   <Cost>
     <BuildTime op="mul">1.25</BuildTime>

@@ -4,13 +4,13 @@
 	"affects": ["Spearman !Cavalry"],
 	"modifications": [
 		{ "value": "Promotion/RequiredXp", "multiply": 0.98 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.25 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.25 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.98 }
 	
 	],
 	"auraName": "phalanx",
-	"auraDescription": "Spearman promote 2% faster and gain +.25 of pierce and hack resistance, but run/walk speed reduced by 2%",
+	"auraDescription": "Spearman promote 2% faster and gain +.25 of pierce and +.5 hack resistance, but run/walk speed reduced by 2%",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
 	"stackable": true
 }
