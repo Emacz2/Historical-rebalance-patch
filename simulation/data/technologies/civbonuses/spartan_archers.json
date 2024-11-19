@@ -8,9 +8,9 @@
 	"modifications": [
 		{ "value": "Attack/Melee/RepeatTime", "multiply": 1.10},
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.20},
-		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 0.0 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 0.0},
-		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 0.0}
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -1},
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1.5},
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -10}
 
 	],
 	"affects": ["Archer"]
