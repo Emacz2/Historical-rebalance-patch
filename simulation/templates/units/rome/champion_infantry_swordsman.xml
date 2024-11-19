@@ -41,9 +41,6 @@
     </SoundGroups>
   </Sound>
   <UnitAI>
-    <Formations datatype="tokens">
-      special/formations/testudo
-    </Formations>
   </UnitAI>
   <Identity>
     <Civ>rome</Civ>
@@ -54,6 +51,9 @@
     <Icon>units/rome_champion_infantry.png</Icon>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
+   <Formations datatype="tokens">
+      special/formations/testudo
+    </Formations>
 <Promotion disable=""/>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
