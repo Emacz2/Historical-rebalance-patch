@@ -20,10 +20,12 @@
       <mediumdamage>0.45</mediumdamage>
     </DamageVariants>
   </Health>
-  <Identity>
-    <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
-    <GenericName>Champion Swordsman</GenericName>
-  </Identity>
+  <Formations datatype="tokens">
+      special/formations/testudo
+    </Formations>
+  Auras datatype="tokens">
+    units/testudo
+  </Auras>
   <Resistance>
     <Entity>
       <Damage>
@@ -47,6 +49,7 @@
     <SpecificName>Extrāōrdinārius</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
     <Icon>units/rome_champion_infantry.png</Icon>
+    <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
    <Formations datatype="tokens">
