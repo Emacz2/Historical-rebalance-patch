@@ -1,6 +1,7 @@
 {
 	"genericName": "City Phase",
-
+	"specificName": {
+		"rome": "City Phase"
 	},
 	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology.",
 	"cost": {
