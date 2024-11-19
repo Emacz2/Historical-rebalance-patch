@@ -40,8 +40,6 @@
       <attack_melee>attack/weapon/sword_attack.xml</attack_melee>
     </SoundGroups>
   </Sound>
-  <UnitAI>
-  </UnitAI>
   <Identity>
     <Civ>rome</Civ>
     <Lang>latin</Lang>
