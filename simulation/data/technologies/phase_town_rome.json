@@ -24,9 +24,9 @@
 	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +30% territory influence radius, 25% more garrison capacity and +5 range. Structures +7 capture points regeneration rate per garrisoned unit.  Buildings 10% more pierce damage.  Swordman +10 life and 5% Hack and Pierce damage. ",
 	"modifications": [
 		
-		{ "value": "Health/Max", "add": 10, "affects": "Swordman !Hero"},
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05, "affects": "Swordman" },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05, "affects": "Swordman"},
+		{ "value": "Health/Max", "add": 10, "affects": "Swordsman !Hero"},
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05, "affects": "Swordsman" },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05, "affects": "Swordsman"},
 		{ "value": "Capturable/GarrisonRegenRate", "add": 5, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.30, "affects": "CivCentre" },
