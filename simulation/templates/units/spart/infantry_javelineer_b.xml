@@ -9,52 +9,6 @@
       -structures/{civ}/barracks
     </Entities>
   </Builder>
-     <Cost>
-    <BuildTime>10</BuildTime>
-    <Resources>
-      <food>50</food>
-      <wood>40</wood>
-    </Resources>
-    </Cost>
-    <Health>
-    <Max>50</Max>
-   </Health>
-   <Attack>
-    <Ranged>
-      <AttackName>Javelin</AttackName>
-      <Damage>
-        <Pierce>16</Pierce>
-      </Damage>
-      <MaxRange>30</MaxRange>
-      <PrepareTime>400</PrepareTime>
-      <RepeatTime>1800</RepeatTime>
-      <Projectile>
-        <Speed>55</Speed>
-        <Spread>5.5</Spread>
-        <Gravity>35</Gravity>
-        <FriendlyFire>false</FriendlyFire>
-        <LaunchPoint y="3"/>
-      </Projectile>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
-    </Ranged>
-  </Attack>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>0.5</Hack>
-        <Pierce>0.5</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-   <ResourceGatherer>
-    <MaxDistance>2.0</MaxDistance>
-    <BaseSpeed>1.0</BaseSpeed>
-    <Rates>
-      <wood.tree>0.8</wood.tree>
-      <stone.rock>0.55</stone.rock>
-      <metal.ore>0.55</metal.ore>
-    </Rates>
-    </ResourceGatherer>
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
