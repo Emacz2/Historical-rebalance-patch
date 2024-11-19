@@ -9,7 +9,7 @@
 		{ "value": "Attack/Melee/RepeatTime", "multiply": 1.10},
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.20},
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1},
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1.5},
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -2},
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -10}
 
 	],
