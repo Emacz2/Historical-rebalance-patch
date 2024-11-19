@@ -13,13 +13,16 @@
 	},
 	"icon": "sickle_2.png",
 	"researchTime": 40,
-	"tooltip": "Infantry Javelineers +100% grain gather rate, but -10% attack.",
+	"tooltip": "Perioikoi +100% grain gather rate, but -10% attack.",
 	"modifications": [
-	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 0.9 },
+	        { "value": "Attack/Ranged/Damage/Hack", "multiply": 0.9 },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.9 },
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.9 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.9 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.9 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.9 },
 		{ "value": "ResourceGatherer/Rates/food.grain", "multiply": 2 }
 	],
-	"affects": ["Javelineer -infantry"],
+	"affects": ["Support"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
