@@ -31,14 +31,6 @@
   <Loot>
     <wood>5</wood>
   </Loot>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>1</Hack>
-        <Pierce>1</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_ranged>attack/weapon/javelin_attack.xml</attack_ranged>
