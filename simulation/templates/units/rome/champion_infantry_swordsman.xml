@@ -20,10 +20,12 @@
       <mediumdamage>0.45</mediumdamage>
     </DamageVariants>
   </Health>
-  <Formations datatype="tokens">
+  <UnitAI>
+    <Formations datatype="tokens">
       special/formations/testudo
     </Formations>
-  Auras datatype="tokens">
+  </UnitAI>
+  <Auras datatype="tokens">
     units/testudo
   </Auras>
   <Resistance>
