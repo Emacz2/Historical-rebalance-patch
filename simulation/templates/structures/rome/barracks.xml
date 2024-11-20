@@ -15,7 +15,7 @@
     <Entities datatype="tokens">
       units/{civ}/infantry_legionary
       units/{civ}/infantry_lanciarius
-     -units/{civ}/infantry_archer_b
+    - units/{civ}/infantry_archer_b
     </Entities>
   </Trainer>
   <Obstruction>
