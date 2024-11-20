@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_cavalry_ranged_javelineer">
- <Attack>
-    <Ranged>
-      <AttackName>Javelin</AttackName>
-      <Damage>
-        <Pierce>18</Pierce>
-      </Damage>
-      <MaxRange>30</MaxRange>
-      <PrepareTime>400</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
-      <Projectile>
-        <Speed>70</Speed>
-        <Spread>4</Spread>
-        <Gravity>35</Gravity>
-        <FriendlyFire>false</FriendlyFire>
-        <LaunchPoint y="5"/>
-      </Projectile>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
-    </Ranged>
-  </Attack>
   <Identity>
     <Civ>kush</Civ>
     <Lang>napatan</Lang>

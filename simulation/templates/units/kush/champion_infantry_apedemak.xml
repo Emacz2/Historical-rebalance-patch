@@ -6,7 +6,6 @@
     <GenericName>Meroitic Temple Guard</GenericName>
     <SpecificName>rs ʿIprmk</SpecificName>
     <Classes datatype="tokens">ApedemakGuard</Classes>
-     <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <Icon>units/kush_champion_apedemak.png</Icon>
   </Identity>
   <VisualActor>
