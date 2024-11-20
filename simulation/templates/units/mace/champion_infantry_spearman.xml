@@ -7,7 +7,6 @@
     <SpecificName>Hypaspistḗs</SpecificName>
     <SelectionGroupName>units/mace/champion_infantry_spearman</SelectionGroupName>
     <Icon>units/mace_hypaspist.png</Icon>
-  <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <Promotion>
