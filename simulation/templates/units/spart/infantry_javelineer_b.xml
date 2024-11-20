@@ -4,25 +4,21 @@
     <Entities datatype="tokens">
       structures/spart/syssiton
       structures/spart/gerousia
-      structures/spart/camp
       -structures/{civ}/wallset_stone
-      -structures/{civ}/barracks
     </Entities>
   </Builder>
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_javelineer_b</SelectionGroupName>
-    <GenericName>Perioikoi Skirmisher</GenericName>
-    <SpecificName>Akontistḗs Períoikos</SpecificName>
+    <GenericName>Helot Skirmisher</GenericName>
+    <SpecificName>Akontistḗs Heílōs</SpecificName>
     <Icon>units/spart_infantry_javelinist.png</Icon>
-    <VisibleClasses datatype="tokens">Support Worker Citizen Soldier Infantry Perioikoi</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/spart/infantry_javelineer_a</Entity>
-    <RequiredXp>200</RequiredXp>
   </Promotion>
-    <VisualActor>
+  <VisualActor>
     <Actor>units/spartans/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

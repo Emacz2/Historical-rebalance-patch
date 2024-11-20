@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
-    units/spartan_phalanx
     units/heroes/spart_hero_leonidas
   </Auras>
   <Identity>
@@ -14,9 +13,4 @@
   <VisualActor>
     <Actor>units/spartans/hero_infantry_spearman_leonidas.xml</Actor>
   </VisualActor>
-    <Identity>
-    <GenericName>Hero Spearman</GenericName>
-    <Tooltip>Counters: 2.5 × vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Melee Spearman Spartan</VisibleClasses>
-  </Identity>
-    </Entity>
+</Entity>

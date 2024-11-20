@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="hoplite|template_unit_hero_infantry_pikeman">
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
   <Auras datatype="tokens">
      units/heroes/spart_hero_agis_1
      units/heroes/spart_hero_agis_2
   </Auras>
- <Identity>
+  <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
-    <VisibleClasses datatype="tokens">Spearman Spartan</VisibleClasses>
     <Icon>units/spart_hero_agis.png</Icon>
   </Identity>
   <Health>
@@ -18,4 +17,4 @@
   <VisualActor>
     <Actor>units/spartans/hero_infantry_spearman_agis.xml</Actor>
   </VisualActor>
-  </Entity>
+</Entity>

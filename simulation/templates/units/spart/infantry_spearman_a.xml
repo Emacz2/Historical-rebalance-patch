@@ -5,7 +5,6 @@
   </Identity>
   <Promotion>
     <Entity>units/spart/infantry_spearman_e</Entity>
-  <RequiredXp>250</RequiredXp>
   </Promotion>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_a.xml</Actor>

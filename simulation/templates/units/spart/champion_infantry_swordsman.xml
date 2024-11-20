@@ -1,53 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_swordsman">
-<ResourceGatherer disable=""/>
-<Builder>
+  <Builder>
     <Entities datatype="tokens">
       structures/spart/syssiton
       structures/spart/gerousia
-      structures/spart/camp
       -structures/{civ}/wallset_stone
-      -structures/{civ}/barracks
     </Entities>
   </Builder>
-    <Cost>
-    <BuildTime>10</BuildTime>
-    <Resources>
-      <food>50</food>
-      <wood>25</wood>
-      <metal>35</metal>
-    </Resources>
-  </Cost>
- <Health>
-    <Max>125</Max>
-   </Health>
-   <Attack>
+  <Attack>
     <Melee>
-        <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
       <Damage>
-        <Hack op="add">1.5</Hack>
-	<Pierce op="add">1.5</Pierce>
+        <Hack>9.5</Hack>
       </Damage>
     </Melee>
   </Attack>
-   <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">-1.5</Hack>
-        <Pierce op="add">-2</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-   <Identity>
+  <Cost>
+    <Resources>
+      <metal op="add">25</metal>
+    </Resources>
+  </Cost>
+  <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <GenericName>Skiritai Commando</GenericName>
     <SpecificName>Ékdromos Skirítēs</SpecificName>
+    <Rank>Elite</Rank>
     <Icon>units/spart_champion_infantry_sword.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
-   <Rank>Elite</Rank>
-  <VisibleClasses datatype="tokens">-Builder -Worker -Citizen</VisibleClasses>
   </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>5</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Loot>
     <metal op="add">3</metal>
   </Loot>
@@ -55,7 +43,4 @@
   <VisualActor>
     <Actor>units/spartans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
-	 <UnitMotion>
-    <WalkSpeed>12.1</WalkSpeed>
-  </UnitMotion>
 </Entity>

@@ -7,28 +7,15 @@
       </Damage>
     </Melee>
   </Attack>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">0.5</Hack>
-        <Pierce op="add">0.5</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-<Builder>
+  <Builder>
     <Entities datatype="tokens">
       structures/spart/syssiton
       structures/spart/gerousia
-      structures/spart/camp
       -structures/{civ}/wallset_stone
-      -structures/{civ}/barracks
     </Entities>
   </Builder>
- <Cost>
-    <BuildTime>8</BuildTime>
-    </Cost>
   <Health>
-    <Max op="mul">1.5</Max>
+    <Max op="mul">1.4</Max>
   </Health>
   <Loot>
     <xp op="add">1</xp>
@@ -47,5 +34,3 @@
     <Actor>units/spartans/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>
-
-
