@@ -26,7 +26,7 @@
     <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <Cost>
-    <Population>2</Population>
+    <Population>3</Population>
     <BuildTime>20</BuildTime>
     <Resources>
       <food>150</food>
