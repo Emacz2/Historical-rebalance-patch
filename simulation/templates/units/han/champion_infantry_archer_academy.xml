@@ -7,6 +7,7 @@
     <SelectionGroupName>units/han/champion_infantry_archer</SelectionGroupName>
     <Icon>units/han/champion_infantry_archer.png</Icon>
     <RequiredTechnology>phase_city</RequiredTechnology>
+    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/han/infantry_archer_c.xml</Actor>
