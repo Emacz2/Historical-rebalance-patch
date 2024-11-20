@@ -56,7 +56,7 @@
     <SpecificName>Akontistḗs Neodamōdeis</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
    <RequiredTechnology>phase_village</RequiredTechnology>
-   <VisibleClasses datatype="tokens">-Worker</VisibleClasses>
+   <VisibleClasses datatype="tokens">-Worker -Citizen</VisibleClasses>
  <Rank>Advanced</Rank>
   </Identity>
   <Promotion>

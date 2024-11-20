@@ -51,6 +51,7 @@
   <Identity>
     <GenericName>Pikeman</GenericName>
     <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Pikeman</VisibleClasses>
   </Identity>
   <Loot>
     <wood>5</wood>
