@@ -7,12 +7,31 @@
     <SpecificName>Spartiátēs</SpecificName>
     <Icon>units/spart_champion_infantry_spear.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>  
-</Identity>
+  </Identity>
+  <Cost>
+    <BuildTime>15</BuildTime>
+    <Resources>
+      <food>80</food>
+      <wood>75</wood>
+      <metal>70</metal>
+    </Resources>
+  </Cost>
   <Promotion>
     <Entity>units/spart/champion_infantry_spear_olympian</Entity>
-    <RequiredXp>120</RequiredXp>
+    <RequiredXp>250</RequiredXp>
   </Promotion>
-  <VisualActor>
+  <Auras datatype="tokens">
+    units/spartan_phalanx
+  </Auras>
+    <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
+  <Health>
+    <Max>180</Max>
+  </Health>
+  <Identity>
+    <GenericName>Champion Spearman</GenericName>
+    <Tooltip>Counters: 2.0× vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Melee Spearman Spartan</VisibleClasses>
+  </Identity>
 </Entity>

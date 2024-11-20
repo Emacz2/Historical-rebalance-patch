@@ -3,13 +3,22 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack op="mul">1.1</Hack>
-        <Pierce op="mul">1.1</Pierce>
+        <Hack op="mul">1.15</Hack>
+        <Pierce op="mul">1.15</Pierce>
       </Damage>
     </Melee>
   </Attack>
-  <Health>
-    <Max op="mul">1.4</Max>
+ <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">0.5</Hack>
+        <Pierce op="add">1.5</Pierce>
+	<Crush op="add">5</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+ <Health>
+    <Max>230</Max>
   </Health>
   <Identity>
     <GenericName>Spartan Olympic Hoplite</GenericName>
