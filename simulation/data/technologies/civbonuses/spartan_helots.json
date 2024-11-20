@@ -1,0 +1,18 @@
+{
+	"genericName": "Helots",
+	"autoResearch": true,
+	"description": "The Helots where Spartans slaves. They were forced to do manual labor while the Spartiates trained.  Yet they were still forced to fight despite having no training and no armor",
+	"requirements": { "civ": "spart" },
+	"icon": "wooden_walls.png",
+	"tooltip": "Helot (archers) units 20% faster at gathering and 10% less train time but, attack 10% slower and have no armor.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.9 },
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.20},
+		{ "value": "Attack/Melee/RepeatTime", "multiply": 1.10},
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -1},
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -2},
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -10}
+
+	],
+	"affects": ["Helot"]
+}

@@ -4,10 +4,11 @@
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/cavalry_spearman_b</SelectionGroupName>
-    <GenericName>Greek Allied Cavalry</GenericName>
+    <GenericName>Perioikoi Cavalry</GenericName>
     <SpecificName>Hippeús Symmakhikós</SpecificName>
     <Icon>units/spart_cavalry_spearman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+     <VisibleClasses datatype="tokens">Perioikoi</VisibleClasses>	
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/spart/cavalry_spearman_a</Entity>

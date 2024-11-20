@@ -16,7 +16,7 @@
     <GenericName>PerioikoiHoplites</GenericName>
     <SpecificName>Hoplítēs Spartiátēs</SpecificName>
     <Icon>units/spart_infantry_spearman.png</Icon>
-    <VisibleClasses datatype="tokens">Support Worker Citizen Soldier Infantry Perioikoi</VisibleClasses>	
+    <VisibleClasses datatype="tokens">Perioikoi</VisibleClasses>	
   <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>		
   </Identity>
     <Promotion>
