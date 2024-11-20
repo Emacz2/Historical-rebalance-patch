@@ -10,10 +10,10 @@
     <Trainer>
     <Entities datatype="tokens">
       units/{civ}/slaves_market
-      units/{civ}/pikeman_slave
       units/{civ}/cavalry_spearman_merc_a
       units/{civ}/cavalry_javelineer_merc_a
-      units/{civ}/javelineer_merc_a
+      units/{civ}/infantry_pikeman_b
+      units/{civ}/infantry_archer_b
     </Entities>
     </Trainer>
 </Entity>
