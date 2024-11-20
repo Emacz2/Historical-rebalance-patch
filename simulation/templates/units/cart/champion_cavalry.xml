@@ -5,6 +5,7 @@
     <GenericName>Sacred Band Cavalry</GenericName>
     <SpecificName>Sacred Band of Astarte</SpecificName>
     <Icon>units/cart_champion_cavalry.png</Icon>
+     <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
 	<RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
   <VisualActor>
