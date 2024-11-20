@@ -4,18 +4,15 @@
 	"description": "The Perioeci class were second tier citizens of Sparta. Often sharing their harvest with Sparta and being called upon to fight despite less training and armor.",
 	"requirements": { "civ": "spart" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Perioeci units 10% faster at gathering and 10% less train time, but attack 10% slower and have 50% armor.",
+	"tooltip": "Perioeci units 10% faster at gathering and 10% less train time, but attack 10% slower and have 50% less armor.",
 	"modifications": [
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.10},
 		{ "value": "Cost/BuildTime", "multiply": 0.9 },
 		{ "value": "Attack/Melee/RepeatTime", "multiply": 1.10},
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 1.10},
-<<<<<<< HEAD
 		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 0.5},
-=======
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.10},
 		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 0.5 },
->>>>>>> parent of 2c162ee (Update spartan_Perioikoi.json)
 		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 0.5},
 		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 0.5}
 
