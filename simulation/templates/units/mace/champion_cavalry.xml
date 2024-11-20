@@ -6,7 +6,6 @@
     <GenericName>Companion Cavalry</GenericName>
     <SpecificName>Hetaîros</SpecificName>
     <Icon>units/mace_champion_cavalry.png</Icon>
- <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <SelectionGroupName>units/mace/champion_cavalry</SelectionGroupName>
   </Identity>
   <VisualActor>
