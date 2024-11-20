@@ -24,6 +24,6 @@
 		{ "value": "Promotion/RequiredXp", "multiply": 0.8 }
 	
 	],
-	"affects": ["Spearman !Cavalry !Perioikoi"],
+	"affects": ["Polearm !Perioikoi"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

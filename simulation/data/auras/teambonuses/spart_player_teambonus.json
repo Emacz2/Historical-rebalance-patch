@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Spearman !Cavalry !Perioikoi"],
+	"affects": ["Polearm !Perioikoi"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		
@@ -13,6 +13,6 @@
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "Infantry Spearmen +20 health and 5% more melee dmg."
+	"auraDescription": "Polearm infantry (Spears and Pikes) +20 health and 5% more melee dmg."
 	
 	}
