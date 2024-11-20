@@ -11,7 +11,6 @@
     <SelectionGroupName>units/brit/champion_chariot</SelectionGroupName>
     <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
     <Icon>units/brit_champion_chariot.png</Icon>
-     <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>unlock_champion_chariots</RequiredTechnology>
   </Identity>
   <VisualActor>
