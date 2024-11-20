@@ -6,7 +6,7 @@
         <Burning>
           <Interval>1000</Interval>
           <Damage>
-            <Fire>8</Fire>
+            <Fire>10</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>20000</Duration>
@@ -14,7 +14,7 @@
       </ApplyStatus>
       <AttackName>Stone</AttackName>
       <Damage>
-        <Crush>50</Crush>
+        <Crush>25</Crush>
       </Damage>
       <MaxRange>85.0</MaxRange>
       <MinRange>26</MinRange>
@@ -40,7 +40,7 @@
         <Range>3</Range>
         <FriendlyFire>true</FriendlyFire>
         <Damage>
-          <Crush>20</Crush>
+          <Crush>10</Crush>
         </Damage>
       </Splash>
     </Ranged>
@@ -48,8 +48,7 @@
 <Cost>
     <BuildTime>25</BuildTime>
     <Resources>
-      <wood>550</wood>
-      <stone>100</stone>
+      <wood>600</wood>
     </Resources>
   </Cost>
   <Identity>

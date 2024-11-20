@@ -7,7 +7,6 @@
     <SpecificName>Visha Kanya</SpecificName>
     <SelectionGroupName>units/maur/champion_maiden</SelectionGroupName>
     <Icon>units/maur_champion_maiden.png</Icon>
-  <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <VisualActor>
