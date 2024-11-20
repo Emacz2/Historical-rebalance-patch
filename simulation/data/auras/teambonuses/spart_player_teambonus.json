@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Spearman !Cavalry"],
+	"affects": ["Spearman !Cavalry !Perioikoi"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		

@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Infantry !Champion !Hero"],
+	"affects": ["Infantry !Champion !Hero !Perioikoi"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
