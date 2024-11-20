@@ -6,7 +6,6 @@
     <GenericName>Silver Shield</GenericName>
     <SpecificName>Argyraspis</SpecificName>
     <Icon>units/sele_champion_pikeman.png</Icon>
-     <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>traditional_army_sele</RequiredTechnology>
   </Identity>
   <VisualActor>
