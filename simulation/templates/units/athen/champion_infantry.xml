@@ -4,7 +4,6 @@
     <GenericName>City Guard</GenericName>
     <SpecificName>Epílektos</SpecificName>
     <Icon>units/athen_champion_infantry.png</Icon>
-   <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/infantry_spearman_c.xml</Actor>
