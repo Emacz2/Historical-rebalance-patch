@@ -4,6 +4,7 @@
     <Civ>mace</Civ>
     <Lang>greek</Lang>
     <SpecificName>Gastraphetophoros</SpecificName>
+     <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <Icon>units/mace_champion_infantry_crossbowman.png</Icon>
   </Identity>
   <VisualActor>
