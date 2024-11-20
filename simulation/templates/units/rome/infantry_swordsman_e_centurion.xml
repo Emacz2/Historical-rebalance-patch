@@ -24,7 +24,7 @@
     <SpecificName>Centurion</SpecificName>
     <Icon>units/rome_champion_legion_centurio.png</Icon>
     <Tooltip>Centurions may be promoted from elite melee citizen infantry, and train from the Fortress after Marian Reforms.</Tooltip>
-    <VisibleClasses datatype="tokens">Citizen Centurion</VisibleClasses>
+    <VisibleClasses datatype="tokens">Centurion</VisibleClasses>
 	<RequiredTechnology>roman_reforms</RequiredTechnology>
   </Identity>
   <VisualActor>
