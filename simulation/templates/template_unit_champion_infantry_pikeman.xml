@@ -25,7 +25,7 @@
   <Identity>
     <GenericName>Champion Pikeman</GenericName>
     <Tooltip>Counters: 3.0 vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Melee Pikeman Spearman</VisibleClasses>
+    <VisibleClasses datatype="tokens">Melee Pikeman Polearm</VisibleClasses>
   </Identity>
   <Resistance>
     <Entity>
