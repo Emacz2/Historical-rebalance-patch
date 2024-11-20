@@ -8,6 +8,20 @@
       structures/kush/camp_noba
     </Entities>
   </Builder>
+  <Attack>
+    <Ranged>
+    <ApplyStatus>
+        <Poisoned>
+          <Interval>3000</Interval>
+          <Damage>
+            <Poison>1.0</Poison>
+          </Damage>
+          <Stackability>Extend</Stackability>
+          <Duration>18000</Duration>
+        </Poisoned>
+      </ApplyStatus>
+    </Ranged>
+  </Attack>
   <Identity>
     <Civ>kush</Civ>
     <Lang>napatan</Lang>
