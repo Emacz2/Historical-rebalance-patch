@@ -6,16 +6,12 @@
       structures/rome/temple_vesta
     </Entities>
   </Builder>
-<ResourceGatherer disable=""/>
   <Cost>
     <Resources>
       <metal op="add">5</metal>
       <wood op="add">10</wood>
     </Resources>
   </Cost>
-  <Auras datatype="tokens">
-    units/testudo
-  </Auras>
   <Loot>
     <wood>5</wood>
     <metal>2</metal>
