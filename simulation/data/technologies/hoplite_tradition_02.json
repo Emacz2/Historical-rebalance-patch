@@ -28,6 +28,6 @@
 		{ "value": "Cost/Resources/metal", "multiply":  0.9}
 
 	],
-	"affects": ["Polearm !Perioikoi"],
+	"affects": ["Spearman !Cavalry !Perioikoi"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
