@@ -5,7 +5,6 @@
     <SpecificName>Soliduros</SpecificName>
     <Icon>units/gaul_champion_infantry.png</Icon>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
- <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/gauls/infantry_swordsman_c.xml</Actor>
