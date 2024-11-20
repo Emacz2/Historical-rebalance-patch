@@ -43,10 +43,7 @@
   <Auras datatype="tokens">
     units/testudo
   </Auras>
-  <Promotion>
-    <Entity>units/rome/infantry_legionary</Entity>
-    <RequiredXp>2000</RequiredXp>
-  </Promotion>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
