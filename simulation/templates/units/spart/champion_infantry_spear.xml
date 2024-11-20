@@ -32,6 +32,6 @@
   <Identity>
     <GenericName>Champion Spearman</GenericName>
     <Tooltip>Counters: 2.0× vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Melee Spearman Citizen</VisibleClasses>
+    <VisibleClasses datatype="tokens">Melee Spearman Spartan</VisibleClasses>
   </Identity>
 </Entity>
