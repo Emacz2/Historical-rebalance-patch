@@ -5,8 +5,6 @@
     <Lang>greek</Lang>
     <GenericName>Spartan Hoplite</GenericName>
     <SpecificName>Spartiátēs</SpecificName>
-    <Tooltip>Counters: 2.75× vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Spartan</VisibleClasses>
     <Icon>units/spart_champion_infantry_spear.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>  
   </Identity>
@@ -31,4 +29,9 @@
   <Health>
     <Max>180</Max>
   </Health>
+  <Identity>
+    <GenericName>Champion Spearman</GenericName>
+    <Tooltip>Counters: 2.0× vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Melee Spearman Spartan</VisibleClasses>
+  </Identity>
 </Entity>

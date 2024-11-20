@@ -3,14 +3,13 @@
   <Auras datatype="tokens">
      units/heroes/spart_hero_agis_1
      units/heroes/spart_hero_agis_2
-     units/spartan_phalanx
   </Auras>
  <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
-    <VisibleClasses datatype="tokens">Spartan</VisibleClasses>
+    <VisibleClasses datatype="tokens">Polearm Spartan</VisibleClasses>
     <Icon>units/spart_hero_agis.png</Icon>
   </Identity>
   <Health>
