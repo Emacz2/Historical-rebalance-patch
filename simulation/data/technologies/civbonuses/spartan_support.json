@@ -14,5 +14,5 @@
 		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 0.5}
 
 	],
-	"affects": ["Support"]
+	"affects": ["Perioikoi"]
 }
