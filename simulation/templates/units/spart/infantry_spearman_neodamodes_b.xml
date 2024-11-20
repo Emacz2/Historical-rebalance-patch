@@ -23,7 +23,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_neodamodes</SelectionGroupName>
     <GenericName>Neodamodes Hoplite</GenericName>
     <SpecificName>Neodamōdeis</SpecificName>
-    <VisibleClasses datatype="tokens">-Worker -Citizen</VisibleClasses>
+    <VisibleClasses datatype="tokens">-Worker</VisibleClasses>
     <Icon>units/spart/infantry_spearman_neodamodes.png</Icon>
     <Rank>Advanced</Rank>
   </Identity>
