@@ -27,7 +27,7 @@
   <Identity>
     <GenericName>Pikeman</GenericName>
     <Tooltip>Counters: 3.0 vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Pikeman Spearman</VisibleClasses>
+    <VisibleClasses datatype="tokens">Pikeman</VisibleClasses>
   </Identity>
   <Loot>
     <wood>5</wood>
