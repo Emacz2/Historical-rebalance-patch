@@ -5,7 +5,6 @@
     <GenericName>Sacred Band Infantry</GenericName>
     <SpecificName>Sacred Band of Ba'al</SpecificName>
     <Icon>units/cart_champion_infantry.png</Icon>
-     <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/carthaginians/infantry_spearman_c.xml</Actor>
