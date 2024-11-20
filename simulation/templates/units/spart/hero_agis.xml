@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
-    <VisibleClasses datatype="tokens">Polearm Spartan</VisibleClasses>
+    <VisibleClasses datatype="tokens">Spearman Spartan</VisibleClasses>
     <Icon>units/spart_hero_agis.png</Icon>
   </Identity>
   <Health>
