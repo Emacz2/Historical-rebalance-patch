@@ -4,7 +4,7 @@
     <Ranged>
       <ApplyStatus>
           <Burning>
-          <Interval>2000</Interval>
+          <Interval>1000</Interval>
           <Damage>
             <Fire>1</Fire>
           </Damage>
