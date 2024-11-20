@@ -15,7 +15,7 @@
     <SelectionGroupName>units/spart/infantry_pikeman_b</SelectionGroupName>
     <GenericName>Phalangite Slave</GenericName>
     <SpecificName>Phalangitēs Slave</SpecificName>
-    <VisibleClasses datatype="tokens">Helot</VisibleClasses>
+     <VisibleClasses datatype="tokens">Perioikoi</VisibleClasses>
     <Icon>units/sele_infantry_spearman.png</Icon>
   </Identity>
   <Promotion disable=""/>
