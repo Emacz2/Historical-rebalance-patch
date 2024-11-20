@@ -20,7 +20,6 @@
     <GenericName>Noble Archer</GenericName>
     <SpecificName>Hry pdty</SpecificName>
     <Icon>units/kush_champion_archer.png</Icon>
-   <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <VisualActor>
