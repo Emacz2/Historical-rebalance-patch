@@ -26,7 +26,7 @@
 		{ "value": "Cost/Resources/metal", "multiply": 0.8, "affects": "Infantry !Perioikoi !Helot" },
 		{ "value": "Health/Max", "add": 30, "affects": "Champion"},
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.01, "affects": "Infantry !Perioikoi !Helot"},
-		{ "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Citizen" },
+		{ "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Champion" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 5, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },

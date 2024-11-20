@@ -20,6 +20,6 @@
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 }
 	],
-	"affects": ["Soldier"],
+	"affects": ["Soldier !Perioikoi !Helot"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
