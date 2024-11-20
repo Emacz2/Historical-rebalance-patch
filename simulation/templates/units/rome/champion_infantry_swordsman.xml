@@ -6,20 +6,47 @@
       <mediumdamage>0.45</mediumdamage>
     </DamageVariants>
   </Health>
+<Attack>
+    <Melee>
+      <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
+      <Damage>
+        <Hack>12.5</Hack>
+	<Pierce>5.5</Pierce>
+      </Damage>
+      <MaxRange>2.75</MaxRange>
+      <PrepareTime>375</PrepareTime>
+      <RepeatTime>880</RepeatTime>
+      <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
+    </Melee>
+  </Attack>
+<Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">1.5</Hack>
+        <Pierce op="add">2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <UnitMotion>
+    <WalkSpeed>9.5</WalkSpeed>
+  </UnitMotion>
   <Identity>
     <Civ>rome</Civ>
     <Lang>latin</Lang>
     <GenericName>Italic Heavy Infantry</GenericName>
     <SpecificName>Extrāōrdinārius</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_swordsman</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <Icon>units/rome_champion_infantry.png</Icon>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/rome/infantry_legionary</Entity>
-    <RequiredXp>2000</RequiredXp>
-  </Promotion>
+  <Auras datatype="tokens">
+    units/testudo
+  </Auras>
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 </Entity>
+
+  
