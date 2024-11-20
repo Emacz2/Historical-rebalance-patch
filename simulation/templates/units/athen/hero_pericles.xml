@@ -3,7 +3,6 @@
   <Auras datatype="tokens">
     units/heroes/athen_hero_pericles_1
     units/heroes/athen_hero_pericles_2
-    units/phalanx
   </Auras>
   <Identity>
     <GenericName>Pericles</GenericName>

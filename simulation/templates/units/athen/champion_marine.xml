@@ -4,7 +4,6 @@
     <GenericName>Athenian Marine</GenericName>
     <SpecificName>Epibátēs Athēnaîos</SpecificName>
     <Icon>units/athen_champion_marine.png</Icon>
-    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <VisualActor>

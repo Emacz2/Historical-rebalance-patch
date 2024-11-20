@@ -5,7 +5,6 @@
     <GenericName>Brythonic Champion</GenericName>
     <SpecificName>Argos</SpecificName>
     <Icon>units/brit_champion_infantry.png</Icon>
-    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <VisualActor>
