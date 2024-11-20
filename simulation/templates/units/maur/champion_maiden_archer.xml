@@ -3,14 +3,14 @@
   <Attack>
     <Ranged>
       <ApplyStatus>
-          <Burning>
+        <Poisoned>
           <Interval>2000</Interval>
           <Damage>
-            <Fire>1</Fire>
+            <Poison>1</Poison>
           </Damage>
-          <Stackability>Stack</Stackability>
+          <Stackability>Extend</Stackability>
           <Duration>10000</Duration>
-        </Burning>
+        </Poisoned>
       </ApplyStatus>
     </Ranged>
   </Attack>
@@ -20,7 +20,6 @@
     <GenericName>Maiden Guard Archer</GenericName>
     <SpecificName>Visha Kanya</SpecificName>
     <Icon>units/maur_champion_maiden_archer.png</Icon>
-   <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/mauryas/infantry_archer_c.xml</Actor>

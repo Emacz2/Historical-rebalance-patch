@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_elephant_archer">
-  <Attack>
-    <Ranged>
-      <AttackName>Bow</AttackName>
-      <Damage>
-        <Pierce>7.5</Pierce>
-      </Damage>
-      <MaxRange>57</MaxRange>
-      <PrepareTime>500</PrepareTime>
-      <RepeatTime>1315</RepeatTime>
-      <Projectile>
-        <Speed>80</Speed>
-        <Spread>2.5</Spread>
-        <Gravity>50</Gravity>
-        <FriendlyFire>false</FriendlyFire>
-        <LaunchPoint y="9"/>
-      </Projectile>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
-    </Ranged>
-  </Attack>
-  <BuildingAI>
-    <DefaultArrowCount>3</DefaultArrowCount>
-    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-    <MaxArrowCount>3</MaxArrowCount>
-    <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
-  </BuildingAI>
-  <Cost>
-    <Population>3</Population>
-    <BuildTime>20</BuildTime>
-    <Resources>
-      <food>150</food>
-      <wood>100</wood>
-    </Resources>
-  </Cost>
   <Identity>
     <Civ>maur</Civ>
     <GenericName>Elephant Archer</GenericName>
@@ -47,20 +14,4 @@
   <VisualActor>
     <Actor>units/mauryas/elephantry_archer_b_m.xml</Actor>
   </VisualActor>
- <Resistance>
-    <Entity>
-<ApplyStatus>
-        <Poisoned>
-          <Duration>0.5</Duration>
-          <BlockChance>0.7</BlockChance>
-        </Poisoned>
-      </ApplyStatus>
-    </Entity>
-  </Resistance>
-<UnitMotion>
-    <PassabilityClass>large</PassabilityClass>
-    <Acceleration op="mul">0.4</Acceleration>
-    <Weight op="mul">4.5</Weight>
-    <WalkSpeed>8.8</WalkSpeed>
-  </UnitMotion>
 </Entity>
