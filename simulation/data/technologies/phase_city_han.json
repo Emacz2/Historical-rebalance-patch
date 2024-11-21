@@ -13,10 +13,10 @@
 	"requirements": {
 		"entity": {
 			"class": "Town",
-			"number": 3
+			"number": 1
 		}
 	},
-	"requirementsTooltip": "Requires three Town Structures.",
+	"requirementsTooltip": "Requires one Towwn structures.",
 	"supersedes": "phase_town_han",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
