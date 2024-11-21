@@ -5,10 +5,20 @@
       <Damage>
         <Pierce op="mul">0.85</Pierce>
       </Damage>
+	<ApplyStatus>
+          <Burning>
+          <Interval>1000</Interval>
+          <Damage>
+            <Fire>1</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>10000</Duration>
+        </Burning>
+      </ApplyStatus>
     </Ranged>
   </Attack>
   <Health>
-    <Max>120</Max>
+    <Max>125</Max>
   </Health>
   <Identity>
     <Civ>pers</Civ>
