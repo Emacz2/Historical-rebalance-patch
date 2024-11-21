@@ -12,11 +12,11 @@
 	},
 	"requirements": {
 		"entity": {
-			"class": "Town",
-			"number": 1
+			"class": "Village",
+			"number": 25
 		}
 	},
-	"requirementsTooltip": "Requires one Town structure.",
+	"requirementsTooltip": "Requires 25 village structures.",
 	"supersedes": "phase_town_rome",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",

@@ -12,11 +12,11 @@
 	},
 	"requirements": {
 		"entity": {
-			"class": "Town",
-			"number": 1
+			"class": "Village",
+			"number": 25
 		}
 	},
-	"requirementsTooltip": "Requires one Towwn structures.",
+	"requirementsTooltip": "Requires 25 Village structures.",
 	"supersedes": "phase_town_han",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
