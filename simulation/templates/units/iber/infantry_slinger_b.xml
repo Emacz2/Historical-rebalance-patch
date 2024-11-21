@@ -10,7 +10,7 @@
     <SelectionGroupName>units/iber/infantry_slinger_b</SelectionGroupName>
     <SpecificName>Habailari</SpecificName>
     <Icon>units/iber_infantry_slinger.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/iber/infantry_slinger_a</Entity>
