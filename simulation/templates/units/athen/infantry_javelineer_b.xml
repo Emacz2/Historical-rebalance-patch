@@ -6,6 +6,7 @@
     <SpecificName>Peltastḗs Thrâx</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
+  <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
     <Entity>units/athen/infantry_javelineer_a</Entity>
