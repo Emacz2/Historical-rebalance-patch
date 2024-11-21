@@ -12,8 +12,8 @@
 	},
 	"requirements": {
 		"entity": {
-			"class": "Town",
-			"number": 25
+			"class": "Village",
+			"number": 35
 		}
 	},
 	"requirementsTooltip": "Requires 25 village structures.",

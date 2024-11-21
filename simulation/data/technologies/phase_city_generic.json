@@ -15,8 +15,8 @@
 	},
 	"requirements": {
 		"entity": {
-			"class": "Town",
-			"number": 1
+			"class": "Village",
+			"number": 35
 		}
 	},
 	"requirementsTooltip": "Requires one Town structure.",
