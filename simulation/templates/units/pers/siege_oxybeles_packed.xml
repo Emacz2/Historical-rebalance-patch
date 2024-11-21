@@ -51,14 +51,13 @@
     </Resources>
     <Population>2</Population>
   </Cost>
-
   <Identity>
-    <Civ>spart</Civ>
+    <Civ>pers</Civ>
     <SpecificName>Oxybelḗs</SpecificName>
     <Icon>units/hele_siege_oxybeles_packed.png</Icon>
   </Identity>
   <Pack>
-    <Entity>units/spart/siege_oxybeles_unpacked</Entity>
+    <Entity>units/pers/siege_oxybeles_unpacked</Entity>
     <State>packed</State>
   </Pack>
   <VisualActor>
