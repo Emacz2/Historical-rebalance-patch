@@ -20,7 +20,7 @@
     </Ranged>
   </Attack>
   <Health>
-    <Max>120</Max>
+    <Max>125</Max>
   </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Ranged Archer</VisibleClasses>

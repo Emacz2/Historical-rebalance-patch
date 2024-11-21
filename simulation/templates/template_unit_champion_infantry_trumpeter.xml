@@ -22,7 +22,7 @@
     </Resources>
   </Cost>
   <Health>
-    <Max>200</Max>
+    <Max>215</Max>
   </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Melee Trumpeter</VisibleClasses>

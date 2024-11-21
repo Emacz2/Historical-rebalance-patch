@@ -15,7 +15,7 @@
     </Melee>
   </Attack>
   <Health>
-    <Max>200</Max>
+    <Max>215</Max>
   </Health>
   <Identity>
     <GenericName>Champion Infantry Maceman</GenericName>
