@@ -10,7 +10,6 @@
     <SpecificName>Zhanche</SpecificName>
     <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
     <RequiredTechnology>phase_city</RequiredTechnology>
-    <VisibleClasses datatype="tokens">Citizen</VisibleClasses>
     <Icon>units/han/chariot.png</Icon>
   </Identity>
   <VisualActor>
