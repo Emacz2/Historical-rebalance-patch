@@ -14,6 +14,12 @@
         <Pierce>2</Pierce>
         <Crush>10</Crush>
       </Damage>
+    <ApplyStatus>
+        <Burning>
+          <Duration>0.4</Duration>
+          <BlockChance>0.2</BlockChance>
+        </Burning>
+      </ApplyStatus>
     </Entity>
   </Resistance>
   <Turretable/>
