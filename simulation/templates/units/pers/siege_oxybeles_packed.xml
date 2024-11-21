@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_siege_boltshooter">
+  <Attack>
+    <Ranged>
+    <ApplyStatus>
+        <Burning>
+          <Interval>1000</Interval>
+          <Damage>
+            <Fire>10</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>20000</Duration>
+        </Burning>
+      </ApplyStatus>
+      <AttackName>Bolt</AttackName>
+      <Damage>
+        <Pierce>100</Pierce>
+      </Damage>
+      <MaxRange>75</MaxRange>
+      <MinRange>15</MinRange>
+      <PrepareTime>2000</PrepareTime>
+      <RepeatTime>5400</RepeatTime>
+      <Projectile>
+        <Speed>150</Speed>
+        <Spread>1</Spread>
+        <Gravity>9.81</Gravity>
+        <FriendlyFire>true</FriendlyFire>
+        <LaunchPoint y="3"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Structure</PreferredClasses>
+      <RangeOverlay>
+        <LineTexture>outline_border.png</LineTexture>
+        <LineTextureMask>outline_border_mask.png</LineTextureMask>
+        <LineThickness>0.175</LineThickness>
+      </RangeOverlay>
+      <Splash>
+        <Shape>Linear</Shape>
+        <Range>9</Range>
+        <FriendlyFire>true</FriendlyFire>
+        <Damage>
+          <Pierce>50</Pierce>
+        </Damage>
+      </Splash>
+    </Ranged>
+  </Attack>
+<Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <wood>400</wood>
+      <metal>100</metal>
+    </Resources>
+    <Population>2</Population>
+  </Cost>
+
+  <Identity>
+    <Civ>spart</Civ>
+    <SpecificName>Oxybelḗs</SpecificName>
+    <Icon>units/hele_siege_oxybeles_packed.png</Icon>
+  </Identity>
+  <Pack>
+    <Entity>units/spart/siege_oxybeles_unpacked</Entity>
+    <State>packed</State>
+  </Pack>
+  <VisualActor>
+    <Actor>units/athenians/siege_spear_packed.xml</Actor>
+  </VisualActor>
+</Entity>

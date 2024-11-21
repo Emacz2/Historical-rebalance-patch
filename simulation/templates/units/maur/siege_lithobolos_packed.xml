@@ -24,7 +24,7 @@
         <Speed>75</Speed>
         <Spread>3</Spread>
         <Gravity>20</Gravity>
-        <FriendlyFire>false</FriendlyFire>
+        <FriendlyFire>true</FriendlyFire>
         <LaunchPoint y="3"/>
         <ImpactActorName>props/units/weapons/rock_explosion.xml</ImpactActorName>
         <ImpactAnimationLifetime>0.1</ImpactAnimationLifetime>
