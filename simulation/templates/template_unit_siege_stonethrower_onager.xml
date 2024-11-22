@@ -15,7 +15,7 @@
 			<PreferredClasses datatype="tokens">-Structure</PreferredClasses>
 			<Splash>
 				<Shape>Circular</Shape>
-				<Range>3</Range>
+				<Range>4</Range>
 				<FriendlyFire>true</FriendlyFire>
 				<Damage>
 					<Crush>140</Crush>

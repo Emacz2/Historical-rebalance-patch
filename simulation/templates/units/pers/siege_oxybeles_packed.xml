@@ -35,7 +35,7 @@
       </RangeOverlay>
       <Splash>
         <Shape>Linear</Shape>
-        <Range>9</Range>
+        <Range>2.5</Range>
 	<ApplyStatus>
         <Burning>
           <Interval>1000</Interval>
@@ -48,7 +48,7 @@
       </ApplyStatus>
         <FriendlyFire>true</FriendlyFire>
         <Damage>
-          <Pierce>25</Pierce>
+          <Pierce>10</Pierce>
         </Damage>
       </Splash>
     </Ranged>
