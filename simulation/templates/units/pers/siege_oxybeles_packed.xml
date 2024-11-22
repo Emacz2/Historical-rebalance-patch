@@ -14,7 +14,7 @@
       </ApplyStatus>
       <AttackName>Bolt</AttackName>
       <Damage>
-        <Pierce>100</Pierce>
+        <Pierce>50</Pierce>
       </Damage>
       <MaxRange>75</MaxRange>
       <MinRange>15</MinRange>
@@ -36,9 +36,19 @@
       <Splash>
         <Shape>Linear</Shape>
         <Range>9</Range>
+	<ApplyStatus>
+        <Burning>
+          <Interval>1000</Interval>
+          <Damage>
+            <Fire>10</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>20000</Duration>
+        </Burning>
+      </ApplyStatus>
         <FriendlyFire>true</FriendlyFire>
         <Damage>
-          <Pierce>50</Pierce>
+          <Pierce>25</Pierce>
         </Damage>
       </Splash>
     </Ranged>

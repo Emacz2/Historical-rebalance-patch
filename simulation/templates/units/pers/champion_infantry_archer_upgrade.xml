@@ -7,12 +7,12 @@
       </Damage>
 	<ApplyStatus>
           <Burning>
-          <Interval>1000</Interval>
+          <Interval>1500</Interval>
           <Damage>
             <Fire>1</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>10000</Duration>
+          <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
     </Ranged>
