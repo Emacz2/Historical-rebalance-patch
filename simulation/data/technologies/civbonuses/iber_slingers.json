@@ -1,5 +1,5 @@
 {
-	"genericName": Balearians",
+	"genericName": "Balearians",
 	"autoResearch": true,
 	"description": "The Iberian slingers where among the best for the time peirod, often throwing heaving stones with more precision.",
 	"requirements": { "civ": "iber" },
