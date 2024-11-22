@@ -4,11 +4,11 @@
 	"description": "The Iberian slingers where among the best for the time peirod, often throwing heaving stones with more precision.",
 	"requirements": { "civ": "iber" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Slingers -5 range but 75% more crush dmg, 10% more pierce dmg and 10% more accurate.",
+	"tooltip": "Slingers -5 range but 100% more crush dmg, 15% more pierce dmg and 10% more accurate.",
 	"modifications": [
 		{ "value": "Attack/Ranged/MaxRange", "add": -5 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.75 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 2.00 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15 },
 		{ "value": "Attack/Ranged/Spread", "multiply": 0.9 }
 	
 	],
