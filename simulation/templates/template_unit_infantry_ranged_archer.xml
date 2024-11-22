@@ -10,7 +10,7 @@
       <PrepareTime>800</PrepareTime>
       <RepeatTime>1325</RepeatTime>
       <Projectile>
-        <Speed>72</Speed>
+        <Speed>80</Speed>
         <Spread>2</Spread>
         <Gravity>50</Gravity>
         <FriendlyFire>false</FriendlyFire>
