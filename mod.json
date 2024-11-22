@@ -1,7 +1,7 @@
 {
-	"name": "leifs-sparta-patch-main",
+	"name": "historical-rebalance-patch",
 	"version": "0.26.13",
-	"label": "leifs-sparta-patch-main",
+	"label": "Historical-rebalance-patchn",
 	"url": "https://github.com/Emacz2/Historical-rebalance-patch",
 	"description": "This patch is an effort to make civs a little historically more accurate, promoting different styles of play.",
 	"dependencies": [ "0ad=0.0.26" ]
