@@ -37,7 +37,17 @@
       </RangeOverlay>
       <Splash>
         <Shape>Circular</Shape>
-        <Range>3</Range>
+        <Range>6</Range>
+	 <ApplyStatus>
+        <Burning>
+          <Interval>1000</Interval>
+          <Damage>
+            <Fire>10</Fire>
+          </Damage>
+          <Stackability>Stack</Stackability>
+          <Duration>20000</Duration>
+        </Burning>
+      </ApplyStatus>
         <FriendlyFire>true</FriendlyFire>
         <Damage>
           <Crush>10</Crush>
