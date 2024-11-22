@@ -28,7 +28,7 @@
     <Max>30</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
-    <List datatype="tokens">Support</List>
+    <List datatype="tokens">Support Helot Perioikoi</List>
     <BuffHeal>0</BuffHeal>
     <LoadingRange>6</LoadingRange>
   </GarrisonHolder>
