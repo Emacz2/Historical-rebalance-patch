@@ -13,10 +13,10 @@
 	"requirements": {
 		"entity": {
 			"class": "Village",
-			"number": 35
+			"number": 30
 		}
 	},
-	"requirementsTooltip": "Requires 25 village structures.",
+	"requirementsTooltip": "Requires 30 village structures.",
 	"supersedes": "phase_town_kush",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",

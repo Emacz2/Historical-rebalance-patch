@@ -13,7 +13,7 @@
 	"requirements": {
 		"entity": {
 			"class": "Village",
-			"number": 30
+			"number": 25
 		}
 	},
 	"requirementsTooltip": "Requires 25 village structures.",

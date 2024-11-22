@@ -10,20 +10,20 @@
 	"requirements": {
 		"entity": {
 			"class": "Village",
-			"number": 35
+			"number": 30
 		}
 	},
-	"requirementsTooltip": "Requires 25 village structures.",
+	"requirementsTooltip": "Requires 30 village structures.",
 	"supersedes": "phase_town_pers",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 60,
-	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +30% territory influence radius, 40% more garrison capacity and +5 range. Structures +20% damage and +9 capture points regeneration rate per garrisoned unit. Stable −10% batch training time.",
+	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +35% territory influence radius, 40% more garrison capacity and +5 range. Structures +20% damage and +9 capture points regeneration rate per garrisoned unit. Stable −10% batch training time.",
 	"modifications": [
 		{ "value": "Trainer/BatchTimeModifier", "add": -0.1, "affects": "Stable" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 9, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2, "affects": "Structure" },
-		{ "value": "TerritoryInfluence/Radius", "multiply": 1.3, "affects": "CivCentre" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.35, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" }
 		
