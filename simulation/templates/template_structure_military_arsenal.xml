@@ -25,9 +25,9 @@
     <GenericName>Arsenal</GenericName>
     <SelectionGroupName>template_structure_military_arsenal</SelectionGroupName>
     <Tooltip>Train Champion Infantry Crossbowmen, construct Siege Engines, and research Siege Engine technologies.</Tooltip>
-    <VisibleClasses datatype="tokens">City Arsenal</VisibleClasses>
+    <VisibleClasses datatype="tokens">Village Arsenal</VisibleClasses>
     <Icon>structures/siege_workshop.png</Icon>
-    <RequiredTechnology>phase_city</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
 <Trainer>
     <Entities datatype="tokens">
