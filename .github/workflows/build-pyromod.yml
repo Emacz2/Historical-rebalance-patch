@@ -11,7 +11,7 @@ on:
       - main
 
 env:
-  MOD_NAME: leifs-sparta-patch
+  MOD_NAME: historical-rebalance-patch
 
 jobs:
   build-pyromod:
