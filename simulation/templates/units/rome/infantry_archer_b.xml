@@ -4,6 +4,7 @@
     <Resources>
       <metal>40</metal>
       <food>35</food>
+       <wood>-50</wood>
     </Resources>
   </Cost>
   <Identity>
