@@ -6,7 +6,7 @@
       <Damage>
         <Crush>13</Crush>
 	<Hack>8</Hack>
-	<Pierce>5<Pierce>
+	<Pierce>5</Pierce>
       </Damage>
       <MaxRange>3.5</MaxRange>
       <PrepareTime>500</PrepareTime>
