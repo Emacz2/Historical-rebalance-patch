@@ -5,10 +5,11 @@
 	},
 	"description": "Advances from a small village to a bustling town, ready to expand rapidly. Kush Workers garther grain 10% faster, archers gain 1 ranges are 10% more accurate and shot 5% faster.",
 	"cost": {
-		"food": 650,
-		"wood": 650,
-		"metal": 100,
-		"stone": 100
+		"food": 575,
+		"wood": 575,
+		"metal": 50,
+		"stone": 50
+
 	},
 	"requirements": {
 		"entity": {
