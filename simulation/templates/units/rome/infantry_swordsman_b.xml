@@ -12,6 +12,9 @@
       <mediumdamage>0.45</mediumdamage>
     </DamageVariants>
   </Health>
+  <Auras datatype="tokens">
+    units/testudo
+  </Auras>
   <Identity>
     <Civ>rome</Civ>
     <Lang>latin</Lang>
