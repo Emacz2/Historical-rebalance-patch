@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/brit/infantry_axeman_b">
+  <Identity>
+    <Rank>Advanced</Rank>
+  </Identity>
+  <Promotion>
+    <Entity>units/brit/infantry_axeman_e</Entity>
+  </Promotion>
+  <VisualActor>
+     <Actor>units/celtic/infantry_axeman.xml</Actor>
+  </VisualActor>
+</Entity>
