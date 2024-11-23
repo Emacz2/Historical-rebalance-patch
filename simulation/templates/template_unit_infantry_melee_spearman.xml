@@ -27,7 +27,7 @@
   <Identity>
     <GenericName>Spearman</GenericName>
     <Tooltip>Counters: 2.75x vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
+    <VisibleClasses datatype="tokens">Spearman Polearm</VisibleClasses>
   </Identity>
   <Loot>
     <wood>50</wood>

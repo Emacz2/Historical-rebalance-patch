@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Spearman !Cavalry !Perioikoi"],
+	"affects": ["Polearm !Cavalry !Perioikoi !Helot"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		

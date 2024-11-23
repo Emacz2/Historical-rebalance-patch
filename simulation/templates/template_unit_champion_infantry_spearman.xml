@@ -25,7 +25,7 @@
   <Identity>
     <GenericName>Champion Spearman</GenericName>
     <Tooltip>Counters: 2.75× vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Melee Spearman</VisibleClasses>
+    <VisibleClasses datatype="tokens">Melee Spearman Polearm</VisibleClasses>
   </Identity>
   <Resistance>
     <Entity>

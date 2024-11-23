@@ -22,7 +22,7 @@
   <Identity>
     <GenericName>Hero Pikeman</GenericName>
     <Tooltip>Counters: 3.5 × vs Cavalry.</Tooltip>
-    <VisibleClasses datatype="tokens">Melee Pikeman</VisibleClasses>
+    <VisibleClasses datatype="tokens">Melee Pikeman Polearm</VisibleClasses>
   </Identity>
   <Resistance>
     <Entity>
