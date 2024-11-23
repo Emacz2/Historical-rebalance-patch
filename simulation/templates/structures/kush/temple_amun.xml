@@ -31,7 +31,7 @@
     <SpecificName>Pr-ʿImn</SpecificName>
     <Tooltip>Train Amun Champions and Elite Healers. Research healing technologies.</Tooltip>
     <Classes datatype="tokens">CivSpecific</Classes>
-    <VisibleClasses datatype="tokens">-Town City TempleOfAmun</VisibleClasses>
+    <VisibleClasses datatype="tokens">City TempleOfAmun</VisibleClasses>
     <Icon>structures/temple_epic.png</Icon>
     <RequiredTechnology>phase_city</RequiredTechnology>
   </Identity>
