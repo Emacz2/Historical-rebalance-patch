@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_military">
   <Cost>
-    <BuildTime>120</BuildTime>
+    <BuildTime>150</BuildTime>
     <Resources>
-      <wood>200</wood>
+      <wood>250</wood>
     </Resources>
   </Cost>
   <Footprint>
@@ -23,9 +23,9 @@
     <SelectionGroupName>template_structure_military_forge</SelectionGroupName>
     <Tooltip>Research attack damage and damage resistance technologies.</Tooltip>
     <Classes datatype="tokens">-ConquestCritical</Classes>
-    <VisibleClasses datatype="tokens">Town Forge</VisibleClasses>
+    <VisibleClasses datatype="tokens">Village Forge</VisibleClasses>
     <Icon>structures/blacksmith.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Loot>
     <wood>40</wood>

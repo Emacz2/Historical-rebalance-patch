@@ -13,7 +13,9 @@
   <Cost>
     <BuildTime>150</BuildTime>
     <Resources>
-      <wood>300</wood>
+      <wood>200</wood>
+      <stone>50</stone>
+      <metal>50</metal>
     </Resources>
   </Cost>
   <Footprint>
@@ -29,9 +31,9 @@
     <SelectionGroupName>template_structure_economic_market</SelectionGroupName>
     <Tooltip>Barter resources. Establish trade routes. Train Traders and research trade and barter technologies.</Tooltip>
     <Classes datatype="tokens">Barter</Classes>
-    <VisibleClasses datatype="tokens">Trade Town Market</VisibleClasses>
+    <VisibleClasses datatype="tokens">Trade Village Market</VisibleClasses>
     <Icon>structures/market.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Loot>
     <wood>60</wood>

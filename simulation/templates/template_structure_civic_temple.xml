@@ -4,9 +4,9 @@
     structures/temple_heal
   </Auras>
   <Cost>
-    <BuildTime>200</BuildTime>
+    <BuildTime>150</BuildTime>
     <Resources>
-      <stone>300</stone>
+      <stone>250</stone>
     </Resources>
   </Cost>
   <Footprint>
