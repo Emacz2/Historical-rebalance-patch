@@ -5,8 +5,8 @@
 		<Ranged>
 			<AttackName>Bow</AttackName>
 			<Damage>
-				<Pierce>4.2</Pierce>
-				<Crush>0.8</Crush>
+				<Pierce>3.0</Pierce>
+				<Crush>0.5</Crush>
 			</Damage>
 			<MaxRange>80</MaxRange>
 			<MinRange>10</MinRange>
