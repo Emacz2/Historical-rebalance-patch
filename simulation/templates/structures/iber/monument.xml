@@ -4,10 +4,11 @@
     structures/iber_monument
   </Auras>
   <BuildRestrictions>
+    <Territory>own neutral</Territory>
     <Category>Monument</Category>
     <Distance>
       <FromClass>Monument</FromClass>
-      <MinDistance>150</MinDistance>
+      <MinDistance>125</MinDistance>
     </Distance>
   </BuildRestrictions>
   <Capturable disable=""/>
@@ -67,3 +68,4 @@
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
   </VisualActor>
 </Entity>
+
