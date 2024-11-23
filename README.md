@@ -1,4 +1,4 @@
-click code, download zip
+Click code, download zip
 extract to mods folder
 make sure it is labeled leifs-sparta-patch-main
 open 0ad, enable mod
