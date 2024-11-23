@@ -11,9 +11,9 @@
     <Rate>1.25</Rate>
   </Builder>
  <Cost>
-    <BuildTime>9</BuildTime>
+    <BuildTime>10</BuildTime>
     <Resources>
-      <food>55</food>
+      <food>50</food>
       <wood>50</wood>
     </Resources>
   </Cost>
