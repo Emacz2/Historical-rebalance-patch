@@ -4,9 +4,9 @@
     <Ranged>
       <AttackName>Stone</AttackName>
       <Damage>
-        <Crush>250</Crush>
+        <Crush>275</Crush>
       </Damage>
-      <MaxRange>92.5</MaxRange>
+      <MaxRange>85.0</MaxRange>
       <MinRange>26</MinRange>
       <PrepareTime>3000</PrepareTime>
       <RepeatTime>7000</RepeatTime>
@@ -27,15 +27,14 @@
       </RangeOverlay>
       <Splash>
         <Shape>Circular</Shape>
-        <Range>1.5</Range>
-        <FriendlyFire>false</FriendlyFire>
+        <Range>6</Range>
+        <FriendlyFire>true</FriendlyFire>
         <Damage>
-          <Crush>120</Crush>
+          <Crush>130</Crush>
         </Damage>
       </Splash>
     </Ranged>
   </Attack>
-
   <Identity>
     <Civ>han</Civ>
     <GenericName>Mangonel</GenericName>

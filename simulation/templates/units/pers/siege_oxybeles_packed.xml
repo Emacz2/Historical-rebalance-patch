@@ -14,9 +14,9 @@
       </ApplyStatus>
       <AttackName>Bolt</AttackName>
       <Damage>
-        <Pierce>50</Pierce>
+        <Pierce>40</Pierce>
       </Damage>
-      <MaxRange>75</MaxRange>
+      <MaxRange>80</MaxRange>
       <MinRange>15</MinRange>
       <PrepareTime>2000</PrepareTime>
       <RepeatTime>5400</RepeatTime>
@@ -35,7 +35,7 @@
       </RangeOverlay>
       <Splash>
         <Shape>Linear</Shape>
-        <Range>2.5</Range>
+        <Range>3</Range>
 	<ApplyStatus>
         <Burning>
           <Interval>1000</Interval>

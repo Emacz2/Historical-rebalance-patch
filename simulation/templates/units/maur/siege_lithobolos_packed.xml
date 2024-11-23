@@ -16,7 +16,7 @@
       <Damage>
         <Crush>25</Crush>
       </Damage>
-      <MaxRange>85.0</MaxRange>
+      <MaxRange>80.0</MaxRange>
       <MinRange>26</MinRange>
       <PrepareTime>3000</PrepareTime>
       <RepeatTime>5500</RepeatTime>
@@ -37,7 +37,7 @@
       </RangeOverlay>
       <Splash>
         <Shape>Circular</Shape>
-        <Range>6</Range>
+        <Range>7</Range>
 	 <ApplyStatus>
         <Burning>
           <Interval>1000</Interval>

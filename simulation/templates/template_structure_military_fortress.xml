@@ -5,10 +5,10 @@
 		<Ranged>
 			<AttackName>Bow</AttackName>
 			<Damage>
-				<Pierce>5.0</Pierce>
+				<Pierce>4.2</Pierce>
 				<Crush>0.8</Crush>
 			</Damage>
-			<MaxRange>85</MaxRange>
+			<MaxRange>80</MaxRange>
 			<MinRange>10</MinRange>
 			<PrepareTime>400</PrepareTime>
 			<RepeatTime>1000</RepeatTime>
@@ -36,8 +36,8 @@
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Hack>30</Hack>
-        <Pierce>45</Pierce>
+        <Hack>35</Hack>
+        <Pierce>50</Pierce>
         <Crush>5</Crush>
       </Damage>
     </Entity>
@@ -46,11 +46,11 @@
 		<Category>Fortress</Category>
 		<Distance>
 			<FromClass>Fortress</FromClass>
-			<MinDistance>80</MinDistance>
+			<MinDistance>75</MinDistance>
 		</Distance>
 	</BuildRestrictions>
 	<BuildingAI>
-		<DefaultArrowCount>10</DefaultArrowCount>
+		<DefaultArrowCount>5</DefaultArrowCount>
 		<GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
 		<GarrisonArrowClasses>Soldier</GarrisonArrowClasses>
 	</BuildingAI>
@@ -70,13 +70,13 @@
 		<Height>8.0</Height>
 	</Footprint>
 	<GarrisonHolder>
-		<Max>20</Max>
+		<Max>30</Max>
 		<EjectHealth>0.075</EjectHealth>
 		<List datatype="tokens">Support Infantry Cavalry Siege</List>
 		<LoadingRange>6</LoadingRange>
 	</GarrisonHolder>
 	<Health>
-		<Max>5200</Max>
+		<Max>5500</Max>
 		<SpawnEntityOnDeath>decay|rubble/rubble_stone_6x6</SpawnEntityOnDeath>
 	</Health>
 	<Identity>
