@@ -10,7 +10,7 @@
 	
 	],
 	"auraName": "testudo",
-	"auraDescription": "Swordsman promote 1% faster, gain +.5 of Hack and + 1.5 pierce resistance, but run/walk speed reduced by 5%",
+	"auraDescription": "Infantry swordsman promote 1% faster, gain 1 Hack and 1.5 pierce resistance, but run/walk speed reduced by 3%",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png",
 	"stackable": true
 }
