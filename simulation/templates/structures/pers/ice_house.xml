@@ -50,6 +50,9 @@
     </Rates>
     <Interval>2000</Interval>
   </ResourceTrickle>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_farmstead.xml</select>
