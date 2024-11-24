@@ -21,6 +21,11 @@
 	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15, "affects": "Champion" },
 	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15, "affects": "Champion"},
 	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.15, "affects": "Champion" },
+	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Hero"},
+	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15, "affects": "Hero"},
+	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15, "affects": "Hero" },
+	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15, "affects": "Hero"},
+	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.15, "affects": "Hero" },
 	    { "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Champion"}
 	],
     "soundComplete": "interface/alarm/alarm_upgradearmory.xml"
