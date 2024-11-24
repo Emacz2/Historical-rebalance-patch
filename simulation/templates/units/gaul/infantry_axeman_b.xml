@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_axeman">
+ <Builder>
+    <Entities datatype="tokens">
+      structures/gaul/assembly
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>gaul</Civ>
+    <SelectionGroupName>units/brit/infantry_axeman_b</SelectionGroupName>
+    <GenericName>Celtic Axeman</GenericName>
+    <SpecificName>Catucos</SpecificName>
+     <Icon>units/kush_champion_apedemak.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/celt/infantry_axeman_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/kushites/infantry_axeman_c.xml</Actor>
+  </VisualActor>
+</Entity>
