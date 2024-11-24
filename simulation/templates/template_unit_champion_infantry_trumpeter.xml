@@ -18,7 +18,7 @@
     <Resources>
       <food op="add">100</food>
       <wood>0</wood>
-      <metal>120</metal>
+      <metal>100</metal>
     </Resources>
   </Cost>
   <Health>
@@ -36,7 +36,7 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">2</Hack>
+        <Hack op="add">1.5</Hack>
         <Pierce op="add">2</Pierce>
       </Damage>
     </Entity>
