@@ -13,7 +13,7 @@
      <Icon>units/kush_champion_apedemak.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/celt/infantry_axeman_a</Entity>
+    <Entity>units/gaul/infantry_axeman_a</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/kushites/infantry_axeman_c.xml</Actor>
