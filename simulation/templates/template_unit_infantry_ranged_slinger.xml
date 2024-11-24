@@ -20,6 +20,15 @@
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Ranged>
   </Attack>
+   <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>1.5</Hack>
+        <Pierce>2.0</Pierce>
+        <Crush>10</Crush>
+      </Damage>
+      </Entity>
+     </Resistance>
   <Cost>
     <Resources>
       <stone>20</stone>
