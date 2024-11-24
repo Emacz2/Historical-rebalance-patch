@@ -1,10 +1,10 @@
 {
 	"type": "global",
-	"affects": ["Infantry !Champion !Hero !Perioikoi !Helot"],
+	"affects": ["Infantry !Champion !Perioikoi !Helot"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.0 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
 
 	],
