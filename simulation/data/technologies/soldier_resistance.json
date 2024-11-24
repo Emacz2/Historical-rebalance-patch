@@ -27,7 +27,7 @@
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.5 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 2 },
-		 { "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Champion" }
+		{ "value": "Cost/BuildTime", "multiply": 1.2, "affects": "Champion" }
 	],
 	"affects": ["Soldier !Perioikoi !Helot"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
