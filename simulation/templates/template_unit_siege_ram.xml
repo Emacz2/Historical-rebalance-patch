@@ -45,18 +45,13 @@
     <wood>60</wood>
     <metal>30</metal>
   </Loot>
-  <Resistance>
+    <Resistance>
     <Entity>
       <Damage>
-        <Hack>7</Hack>
-        <Pierce>35</Pierce>
+        <Hack>12</Hack>
+        <Pierce>25</Pierce>
+        <Crush>8</Crush>
       </Damage>
-     <ApplyStatus>
-        <Burning>
-          <Duration>1.5</Duration>
-          <BlockChance>0.0</BlockChance>
-        </Burning>
-      </ApplyStatus>
     </Entity>
   </Resistance>
   <Sound>

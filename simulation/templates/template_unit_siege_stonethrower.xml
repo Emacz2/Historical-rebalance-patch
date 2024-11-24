@@ -35,6 +35,15 @@
       </Splash>
     </Ranged>
   </Attack>
+<Resistance>
+    <Entity>
+      <Damage>
+        <Hack>8</Hack>
+        <Pierce>25</Pierce>
+        <Crush>12</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Cost>
     <BuildTime>25</BuildTime>
     <Resources>
