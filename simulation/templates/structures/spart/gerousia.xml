@@ -61,6 +61,7 @@
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_swordsman
       units/{civ}/champion_infantry_javelineer
+      units/{civ}/javelineer_merc_a
     </Entities>
   </Trainer>
   <Upgrade>
