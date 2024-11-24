@@ -53,7 +53,7 @@
       </Damage>
      <ApplyStatus>
         <Burning>
-          <Duration>1.0</Duration>
+          <Duration>1.5</Duration>
           <BlockChance>0.0</BlockChance>
         </Burning>
       </ApplyStatus>
