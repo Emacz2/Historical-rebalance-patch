@@ -6,7 +6,7 @@
   <Promotion>
     <Entity>units/gaul/infantry_axeman_e</Entity>
   </Promotion>
-  <VisualActor>
-    <Actor>units/romans/infantry_swordsman_c2.xml</Actor>
+ <VisualActor>
+    <Actor>units/romans/infantry_swordsman_a.xml</Actor>
   </VisualActor>
 </Entity>

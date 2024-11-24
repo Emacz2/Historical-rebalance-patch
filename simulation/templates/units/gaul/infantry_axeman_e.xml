@@ -4,7 +4,7 @@
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
-  <VisualActor>
-    <Actor>units/kushites/infantry_axeman_c.xml</Actor>
+ <VisualActor>
+    <Actor>units/romans/infantry_swordsman_e.xml</Actor>
   </VisualActor>
 </Entity>
