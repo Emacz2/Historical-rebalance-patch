@@ -23,12 +23,12 @@
     <GenericName>Infantry Maceman</GenericName>
     <VisibleClasses datatype="tokens">Maceman</VisibleClasses>
   </Identity>
-  <Resistance>
+ <Resistance>
     <Entity>
       <Damage>
-        <Hack>2</Hack>
+        <Hack>4.0</Hack>
+        <Pierce>4.0</Pierce>
       </Damage>
-    </Entity>
   </Resistance>
   <Loot>
     <wood>5</wood>

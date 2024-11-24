@@ -27,9 +27,9 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>2</Hack>
+        <Hack>4.0</Hack>
+        <Pierce>4.0</Pierce>
       </Damage>
-    </Entity>
   </Resistance>
   <Loot>
     <wood>4</wood>
