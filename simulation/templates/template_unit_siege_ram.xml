@@ -51,6 +51,12 @@
         <Hack>7</Hack>
         <Pierce>35</Pierce>
       </Damage>
+     <ApplyStatus>
+        <Burning>
+          <Duration>1.0</Duration>
+          <BlockChance>0.0</BlockChance>
+        </Burning>
+      </ApplyStatus>
     </Entity>
   </Resistance>
   <Sound>

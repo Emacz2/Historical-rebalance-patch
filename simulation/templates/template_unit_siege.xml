@@ -37,6 +37,12 @@
         <Pierce>23</Pierce>
         <Crush>7</Crush>
       </Damage>
+	<ApplyStatus>
+        <Burning>
+          <Duration>2.0</Duration>
+          <BlockChance>0.0</BlockChance>
+        </Burning>
+      </ApplyStatus>
     </Entity>
   </Resistance>
   <Selectable>

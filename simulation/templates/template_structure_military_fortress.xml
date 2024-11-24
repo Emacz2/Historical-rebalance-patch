@@ -5,7 +5,7 @@
 		<Ranged>
 			<AttackName>Bow</AttackName>
 			<Damage>
-				<Pierce>2.5</Pierce>
+				<Pierce>2.7</Pierce>
 				<Crush>0.5</Crush>
 			</Damage>
 			<MaxRange>80</MaxRange>
@@ -127,7 +127,7 @@
 		<BatchTimeModifier>0.8</BatchTimeModifier>
 	</Trainer>
 	<Vision>
-		<Range>90</Range>
+		<Range>100</Range>
 	</Vision>
 	<VisualActor>
 		<FoundationActor>structures/fndn_8x8.xml</FoundationActor>
