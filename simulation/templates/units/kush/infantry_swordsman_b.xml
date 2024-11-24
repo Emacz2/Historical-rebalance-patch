@@ -20,7 +20,7 @@
   <Promotion>
     <Entity>units/kush/infantry_swordsman_a</Entity>
   </Promotion>
-  <VisualActor>
-    <Actor>units/kushites/infantry_swordsman_b.xml</Actor>
+    <VisualActor>
+    <Actor>units/romans/infantry_swordsman_c2.xml</Actor>
   </VisualActor>
 </Entity>
