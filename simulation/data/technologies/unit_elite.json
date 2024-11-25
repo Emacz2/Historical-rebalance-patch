@@ -1,7 +1,7 @@
 {
 	"autoResearch": true,
 	"icon": "upgrade_elite.png",
-	"tooltip": "Elite units 15 more health, 1% faster runwalk, +20% training time, +0.5 capture attack strength, +20% loot, and −50% gather speed, +1 hack/pierce and 1.5 crush armor.; Healers +5 healing strength and +3 healing range; Melee unitd 10% attack damage; Ranged units −15% spread, 5% dmg.",
+	"tooltip": "Elite units 15 more health, 1% faster runwalk, +20% training time, +0.5 capture attack strength, +20% loot, and −50% gather speed, +0.75 hack/pierce and 1 crush armor.; Healers +5 healing strength and +3 healing range; Melee unitd 10% attack damage; Ranged units −15% spread, 5% dmg.",
 	"modifications": [
 		{ "value": "Attack/Capture/Capture", "add": 0.5 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.10, "affects": "Melee" },
@@ -21,9 +21,9 @@
 		{ "value": "Loot/metal", "multiply": 1.2 },
 		{ "value": "Loot/xp", "multiply": 1.2 },
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.5},
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 1},
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1},
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 1.5 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.75},
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.75},
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1.0 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.01}
 
 	],

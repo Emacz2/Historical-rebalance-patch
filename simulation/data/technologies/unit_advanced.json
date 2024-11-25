@@ -1,7 +1,7 @@
 {
 	"autoResearch": true,
 	"icon": "upgrade_advanced.png",
-	"tooltip": "Advanced units 10 more health and 2% faster run/walk, +10% training time, +0.5 capture attack strength, +20% loot, and −30% gather speed + .5 hack/pierce and crush armor; Healers +5 healing strength and +3 healing range; Melee unitd 10% attack damage; Ranged units −15% spread, 5% dmg and +2 range.",
+	"tooltip": "Advanced units 10 more health and 2% faster run/walk, +10% training time, +0.5 capture attack strength, +20% loot, and −30% gather speed + .25 hack/pierce and .5 crush armor; Healers +5 healing strength and +3 healing range; Melee units 10% attack damage; Ranged units −15% spread, 5% dmg and +2 range.",
 	"modifications": [
 		{ "value": "Attack/Capture/Capture", "add": 0.5 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.10, "affects": "Melee" },
@@ -22,8 +22,8 @@
 		{ "value": "Loot/metal", "multiply": 1.2 },
 		{ "value": "Loot/xp", "multiply": 1.2 },
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.70 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5},
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.25 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.25},
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 0.5},
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.02}
 
