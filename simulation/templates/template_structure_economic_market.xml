@@ -55,6 +55,16 @@
 	  unlock_shared_los
     </Technologies>
   </Researcher>
+  <Resistance>
+    <Entity>
+    <ApplyStatus>
+        <Burning>
+          <Duration>1.0</Duration>
+          <BlockChance>0.5</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_market.xml</select>

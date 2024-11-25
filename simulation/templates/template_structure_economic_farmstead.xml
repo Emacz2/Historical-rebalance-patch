@@ -52,6 +52,16 @@
     <Types>food</Types>
     <Sharable>true</Sharable>
   </ResourceDropsite>
+<Resistance>
+    <Entity>
+    <ApplyStatus>
+        <Burning>
+          <Duration>1.5</Duration>
+          <BlockChance>0.1</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_farmstead.xml</select>

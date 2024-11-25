@@ -47,6 +47,16 @@
       unlock_females_house
     </Technologies>
   </Researcher>
+ <Resistance>
+    <Entity>
+    <ApplyStatus>
+        <Burning>
+          <Duration>1.0</Duration>
+          <BlockChance>0.2</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_house.xml</select>

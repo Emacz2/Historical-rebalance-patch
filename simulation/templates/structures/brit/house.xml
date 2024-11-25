@@ -8,6 +8,16 @@
     <Civ>brit</Civ>
     <SpecificName>Tegia</SpecificName>
   </Identity>
+<Resistance>
+    <Entity>
+    <ApplyStatus>
+        <Burning>
+          <Duration>2.0</Duration>
+          <BlockChance>0.0</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <Obstruction>
     <Static width="10.0" depth="10.0"/>
   </Obstruction>

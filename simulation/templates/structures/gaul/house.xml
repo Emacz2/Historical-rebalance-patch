@@ -4,6 +4,16 @@
     <Civ>gaul</Civ>
     <SpecificName>Tegia</SpecificName>
   </Identity>
+<Resistance>
+    <Entity>
+    <ApplyStatus>
+        <Burning>
+          <Duration>2.0</Duration>
+          <BlockChance>0.0</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <VisualActor>
     <Actor>structures/gauls/house.xml</Actor>
   </VisualActor>

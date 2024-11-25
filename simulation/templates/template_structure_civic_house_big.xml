@@ -16,6 +16,16 @@
     <Max>1200</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_3x3</SpawnEntityOnDeath>
   </Health>
+<Resistance>
+    <Entity>
+    <ApplyStatus>
+        <Burning>
+          <Duration>1.5</Duration>
+          <BlockChance>0.4</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
   <Loot>
     <wood>30</wood>
   </Loot>
