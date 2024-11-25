@@ -13,6 +13,11 @@
   <Health>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
+ <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_axeman
+    </Entities>
+  </Trainer>
   <Identity>
     <Civ>brit</Civ>
     <SpecificName>Coriosessa</SpecificName>
