@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_axeman">
+  <Identity>
+    <Civ>brit</Civ>
+    <SelectionGroupName>units/brit/infantry_axeman</SelectionGroupName>
+    <GenericName>Celtic Axeman</GenericName>
+    <SpecificName>Catucos</SpecificName>
+     <Icon>units/celt/celtic_axeman.png</Icon>
+     <RequiredTechnology>phase_town</RequiredTechnology>
+     <Rank>Elite</Rank>
+  </Identity>
+  <Promotion disable=""/>
+ <VisualActor>
+    <Actor>units/romans/infantry_swordsman_e.xml</Actor>
+  </VisualActor>
+</Entity>
