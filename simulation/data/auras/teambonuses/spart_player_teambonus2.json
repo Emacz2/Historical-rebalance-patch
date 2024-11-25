@@ -1,14 +1,15 @@
 {
 	"type": "global",
-	"affects": ["Infantry !Champion !Perioikoi !Helot"],
+	"affects": ["Infantry !Perioikoi !Helot"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		{ "value": "Promotion/RequiredXp", "multiply": 0.85 }
 
 	],
 	"auraName": "Peloponnesian League",
-	"auraDescription": "Non champion/hero Infantry +.5 hack, +1 pierce and +1 crush armor."
+	"auraDescription": "Infantry +.5 hack/pierce and +1 crush armor and 15% faster promotion."
 	
 	}

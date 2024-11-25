@@ -31,8 +31,8 @@
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
                 { "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5, "affects": "Infantry !Perioikoi !Helot" },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5, "affects": "Infantry !Perioikoi !Helot" }
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5, "affects": "Infantry !Helot" },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5, "affects": "Infantry !Helot" }
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"
 }
