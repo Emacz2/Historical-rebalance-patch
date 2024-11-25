@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_melee_axeman">
  <Attack>
     <Melee>
-        <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
+        <AttackName>Axe</AttackName>
       <Damage>
         <Hack op="add">1</Hack>
 	<Crush op="add">1</Crush>
@@ -18,7 +18,7 @@
     </Entity>
   </Resistance>
 	 <UnitMotion>
-    <WalkSpeed>10.5</WalkSpeed>
+    <WalkSpeed>10.9</WalkSpeed>
   </UnitMotion>
   <Identity>
     <Civ>brit</Civ>
