@@ -32,13 +32,13 @@
    <ApplyStatus>
         <Burning>
           <Duration>0.0</Duration>
-          <BlockChance>1</BlockChance>
+          <BlockChance>0.98</BlockChance>
         </Burning>
       </ApplyStatus>
       <Damage>
         <Hack>35</Hack>
         <Pierce>50</Pierce>
-        <Crush>5</Crush>
+        <Crush>10</Crush>
       </Damage>
     </Entity>
   </Resistance>
