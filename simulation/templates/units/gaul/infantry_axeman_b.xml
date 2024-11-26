@@ -10,7 +10,7 @@
     <SelectionGroupName>units/brit/infantry_axeman_b</SelectionGroupName>
     <GenericName>Celtic Axeman</GenericName>
     <SpecificName>Catucos</SpecificName>
-     <Icon>units/celtic/infantry_axeman.png</Icon>
+     <Icon>units/celt/infantry_axeman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/gaul/infantry_axeman_a</Entity>

@@ -5,7 +5,7 @@
       <AttackName>Axe</AttackName>
       <Damage>
         <Hack>8</Hack>
-        <Crush>3</Crush>
+        <Crush>4</Crush>
 	<Pierce>1</Pierce>
       </Damage>
       <MaxRange>3.5</MaxRange>
@@ -24,14 +24,6 @@
     <VisibleClasses datatype="tokens">Axeman</VisibleClasses>
     <GenericName>Axeman</GenericName>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>4.0</Hack>
-        <Pierce>4.0</Pierce>
-      </Damage>
-      </Entity>
-  </Resistance>
   <Loot>
     <wood>4</wood>
     <metal>1</metal>
