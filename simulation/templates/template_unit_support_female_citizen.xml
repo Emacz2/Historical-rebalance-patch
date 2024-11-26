@@ -61,6 +61,9 @@
       <metal>10</metal>
     </Capacities>
   </ResourceGatherer>
+<UnitMotion>
+    <WalkSpeed>9.2</WalkSpeed>
+  </UnitMotion>
   <Sound>
     <SoundGroups>
       <attack_melee>attack/weapon/sword.xml</attack_melee>
