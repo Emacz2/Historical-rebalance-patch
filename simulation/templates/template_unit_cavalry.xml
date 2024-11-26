@@ -103,6 +103,6 @@
     <RunMultiplier>1.4</RunMultiplier>
   </UnitMotion>
   <Vision>
-    <Range>80</Range>
+    <Range>70</Range>
   </Vision>
 </Entity>

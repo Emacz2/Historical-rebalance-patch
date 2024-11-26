@@ -95,7 +95,7 @@
     </Entities>
   </Trainer>
   <Vision>
-    <Range>40</Range>
+    <Range>35</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_4x4_dock.xml</FoundationActor>

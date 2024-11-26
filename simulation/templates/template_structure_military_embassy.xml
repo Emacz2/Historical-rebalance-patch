@@ -48,7 +48,7 @@
     <BatchTimeModifier>0.8</BatchTimeModifier>
   </Trainer>
   <Vision>
-    <Range>24</Range>
+    <Range>20</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_4x4.xml</FoundationActor>

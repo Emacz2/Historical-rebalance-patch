@@ -84,6 +84,6 @@
     <Acceleration op="mul">0.8</Acceleration>
   </UnitMotion>
   <Vision>
-    <Range>120</Range>
+    <Range>90</Range>
   </Vision>
 </Entity>

@@ -44,7 +44,7 @@
     <Weight>65535</Weight>
   </TerritoryInfluence>
   <Vision>
-    <Range>40</Range>
+    <Range>35</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_8x4.xml</FoundationActor>

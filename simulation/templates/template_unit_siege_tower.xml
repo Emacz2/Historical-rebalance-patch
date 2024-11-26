@@ -109,7 +109,7 @@
     <Acceleration op="mul">0.7</Acceleration>
   </UnitMotion>
   <Vision>
-    <Range>80</Range>
+    <Range>100</Range>
   </Vision>
 <Auras datatype="tokens">
    units/siege_tower

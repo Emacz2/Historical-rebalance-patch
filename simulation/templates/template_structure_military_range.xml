@@ -53,7 +53,7 @@
     </Entities>
   </Trainer>
   <Vision>
-    <Range>32</Range>
+    <Range>30</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>

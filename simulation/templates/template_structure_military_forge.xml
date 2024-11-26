@@ -63,7 +63,7 @@
     <Weight>30000</Weight>
   </TerritoryInfluence>
   <Vision>
-    <Range>32</Range>
+    <Range>30</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_5x5.xml</FoundationActor>

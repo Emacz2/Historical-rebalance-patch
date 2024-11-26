@@ -64,7 +64,7 @@
 		<HeightOffset>18.0</HeightOffset>
 	</StatusBars>
 	<Vision>
-		<Range>80</Range>
+		<Range>70</Range>
 	</Vision>
 	<VisualActor>
 		<FoundationActor>structures/fndn_3x3.xml</FoundationActor>

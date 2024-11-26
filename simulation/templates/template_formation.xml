@@ -25,7 +25,7 @@
     <AnimationVariants/>
   </Formation>
   <FormationAttack>
-    <CanAttackAsFormation>false</CanAttackAsFormation>
+    <CanAttackAsFormation>true</CanAttackAsFormation>
   </FormationAttack>
   <Identity>
     <Civ/> <!-- Unused -->

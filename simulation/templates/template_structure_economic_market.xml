@@ -85,7 +85,7 @@
     </Entities>
   </Trainer>
   <Vision>
-    <Range>32</Range>
+    <Range>30</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
