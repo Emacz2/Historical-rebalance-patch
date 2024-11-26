@@ -36,7 +36,7 @@
     <Entity>
       <Damage>
         <Hack>5.5</Hack>
-        <Pierce>4.5</Pierce>
+        <Pierce>5.0</Pierce>
       </Damage>
     </Entity>
   </Resistance>
