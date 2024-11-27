@@ -6,6 +6,15 @@
   <Health>
     <Max>175</Max>
   </Health>
+<Resistance>
+    <Entity>
+      <Damage>
+        <Hack>2.5</Hack>
+        <Pierce>3</Pierce>
+        <Crush>10</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Identity>
     <GenericName>Melee Cavalry</GenericName>
     <VisibleClasses datatype="tokens">Melee</VisibleClasses>

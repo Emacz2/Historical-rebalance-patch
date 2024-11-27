@@ -51,8 +51,8 @@
     <Entity>
       <Damage>
         <Hack>2</Hack>
-        <Pierce>1</Pierce>
-        <Crush>15</Crush>
+        <Pierce>2</Pierce>
+        <Crush>10</Crush>
       </Damage>
     </Entity>
   </Resistance>
@@ -99,7 +99,7 @@
     </Formations>
   </UnitAI>
   <UnitMotion>
-    <WalkSpeed op="mul">2</WalkSpeed>
+    <WalkSpeed op="mul">1.8</WalkSpeed>
     <RunMultiplier>1.4</RunMultiplier>
   </UnitMotion>
   <Vision>

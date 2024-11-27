@@ -26,14 +26,6 @@
   <Loot>
     <wood>5</wood>
   </Loot>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>2</Hack>
-        <Pierce>2</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_melee>attack/weapon/sword_attack.xml</attack_melee>

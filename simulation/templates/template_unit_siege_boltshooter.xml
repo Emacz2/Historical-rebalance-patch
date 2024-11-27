@@ -60,6 +60,15 @@
   <Pack>
     <Time>5000</Time>
   </Pack>
+<Resistance>
+    <Entity>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>40</Pierce>
+        <Crush>5</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_impact_ranged>attack/impact/arrow_metal.xml</attack_impact_ranged>

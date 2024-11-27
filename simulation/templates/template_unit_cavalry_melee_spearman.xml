@@ -30,14 +30,6 @@
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
     <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>3</Hack>
-        <Pierce>3</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <UnitMotion>
     <Acceleration op="mul">1.15</Acceleration>
   </UnitMotion>

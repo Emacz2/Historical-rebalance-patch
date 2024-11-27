@@ -7,6 +7,15 @@
     <VisibleClasses datatype="tokens">Ranged</VisibleClasses>
     <GenericName>Ranged Cavalry</GenericName>
   </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>0.5</Hack>
+        <Pierce>1.5</Pierce>
+        <Crush>5</Crush>
+      </Damage>
+    </Entity>
+ </Resistance>
   <UnitAI>
     <Formations datatype="tokens">
       special/formations/skirmish

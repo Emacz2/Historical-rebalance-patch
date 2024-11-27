@@ -96,11 +96,12 @@
   <StatusBars>
     <HeightOffset>12.0</HeightOffset>
   </StatusBars>
-  <Resistance>
+<Resistance>
     <Entity>
       <Damage>
-        <Pierce>50</Pierce>
-	<Hack>15</Hack>
+        <Hack>10</Hack>
+        <Pierce>40</Pierce>
+        <Crush>10</Crush>
       </Damage>
     </Entity>
   </Resistance>
