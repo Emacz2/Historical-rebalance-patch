@@ -26,7 +26,16 @@
     <VisibleClasses datatype="tokens">Ranged Archer</VisibleClasses>
     <GenericName>Champion Archer</GenericName>
   </Identity>
-  <Sound>
+ <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>3</Hack>
+        <Pierce>4</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+  </Entity>
+  </Resistance>
+ <Sound>
     <SoundGroups>
       <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>
       <attack_ranged>attack/weapon/bow_attack.xml</attack_ranged>

@@ -26,6 +26,15 @@
     <GenericName>Champion Infantry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Ranged Javelineer</VisibleClasses>
   </Identity>
+<Resistance>
+    <Entity>
+      <Damage>
+        <Hack>3.5</Hack>
+        <Pierce>4</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+  </Entity>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_ranged>attack/weapon/javelin_attack.xml</attack_ranged>

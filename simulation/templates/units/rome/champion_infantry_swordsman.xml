@@ -15,14 +15,14 @@
       </Damage>
       <MaxRange>2.75</MaxRange>
       <PrepareTime>375</PrepareTime>
-      <RepeatTime>880</RepeatTime>
+      <RepeatTime>900</RepeatTime>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
 <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">1.5</Hack>
+        <Hack op="add">2.5</Hack>
         <Pierce op="add">2</Pierce>
       </Damage>
     </Entity>
