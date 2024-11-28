@@ -15,12 +15,12 @@
     <GenericName>Meroitic Swordsman</GenericName>
     <SpecificName>knw hps</SpecificName>
     <Icon>units/kush_infantry_swordsman.png</Icon>
-    <RequiredTechnology>phase_village</RequiredTechnology>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/kush/infantry_swordsman_a</Entity>
   </Promotion>
-    <VisualActor>
-    <Actor>units/romans/infantry_swordsman_c2.xml</Actor>
+  <VisualActor>
+    <Actor>units/kushites/infantry_swordsman_b.xml</Actor>
   </VisualActor>
 </Entity>

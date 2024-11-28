@@ -11,7 +11,7 @@
     <Entity>
       <Damage>
         <Hack>3.5</Hack>
-        <Pierce>4.0</Pierce>
+        <Pierce>3.5</Pierce>
       </Damage>
        <ApplyStatus>
         <Burning>

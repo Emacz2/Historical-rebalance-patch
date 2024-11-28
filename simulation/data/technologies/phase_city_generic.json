@@ -16,10 +16,10 @@
 	"requirements": {
 		"entity": {
 			"class": "Village",
-			"number": 30
+			"number": 25
 		}
 	},
-	"requirementsTooltip": "Requires 30 village structure.",
+	"requirementsTooltip": "Requires 25 village structure.",
 	"supersedes": "phase_town_generic",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",

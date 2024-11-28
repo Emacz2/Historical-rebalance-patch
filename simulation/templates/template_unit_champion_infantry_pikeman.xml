@@ -30,8 +30,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">6.0</Hack>
-        <Pierce op="add">5.5</Pierce>
+        <Hack op="add">5.5</Hack>
+        <Pierce op="add">5.0</Pierce>
         <Crush>20</Crush>
       </Damage>
     </Entity>
