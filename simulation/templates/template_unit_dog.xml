@@ -10,6 +10,12 @@
       <MaxRange>2</MaxRange>
       <PrepareTime>500</PrepareTime>
       <RepeatTime>750</RepeatTime>
+	<Bonuses>
+        <BonusFangMelee>
+          <Classes>FemaleCitizen</Classes>
+          <Multiplier>1.5</Multiplier>
+        </BonusFangMelee>
+   	</Bonuses>
       <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
  <ApplyStatus>
         <Poisoned>
