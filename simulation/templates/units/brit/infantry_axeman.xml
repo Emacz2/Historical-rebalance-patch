@@ -25,12 +25,12 @@
     <SelectionGroupName>units/brit/infantry_axeman</SelectionGroupName>
     <GenericName>Celtic Axeman</GenericName>
     <SpecificName>Catucos</SpecificName>
-     <Icon>units/celt/celtic_axeman.png</Icon>
+    <Icon>units/celt/infantry_axeman.png</Icon>
      <RequiredTechnology>phase_town</RequiredTechnology>
      <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
  <VisualActor>
-    <Actor>units/romans/infantry_swordsman_e.xml</Actor>
+    <Actor>units/gauls/infantry_axeman_e.xml</Actor>
   </VisualActor>
 </Entity>
