@@ -90,7 +90,7 @@
   </TrainingRestrictions>
   <TreasureCollector disable=""/>
   <UnitMotion>
-    <WalkSpeed op="mul">1.7</WalkSpeed>
+    <WalkSpeed op="mul">1.6</WalkSpeed>
     <RunMultiplier>1.7</RunMultiplier>
     <Acceleration op="mul">1.7</Acceleration>
   </UnitMotion>
