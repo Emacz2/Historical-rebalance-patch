@@ -29,6 +29,14 @@
       </ApplyStatus>
     </Melee>
   </Attack>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">1.5</Hack>
+        <Pierce op="add">1</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Cost>
     <BuildTime>15</BuildTime>
     <Population>0</Population>

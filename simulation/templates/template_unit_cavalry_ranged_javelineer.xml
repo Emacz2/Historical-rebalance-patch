@@ -31,8 +31,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>1.5</Hack>
-        <Pierce>1.5</Pierce>
+        <Hack>2</Hack>
+        <Pierce>2</Pierce>
         <Crush>5</Crush>
       </Damage>
     </Entity>
@@ -44,7 +44,7 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="mul">0.9</WalkSpeed>
-    <Acceleration op="mul">0.9</Acceleration>
+    <WalkSpeed op="mul">0.95</WalkSpeed>
+    <Acceleration op="mul">0.95</Acceleration>
   </UnitMotion>
 </Entity>

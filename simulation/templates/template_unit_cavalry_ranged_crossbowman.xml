@@ -28,15 +28,6 @@
     <GenericName>Cavalry Crossbowman</GenericName>
     <VisibleClasses datatype="tokens">Crossbowman</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>1.0</Hack>
-        <Pierce>1.5</Pierce>
-        <Crush>5</Crush>
-      </Damage>
-    </Entity>
- </Resistance>
   <Loot>
     <wood>5</wood>
   </Loot>
@@ -47,7 +38,7 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="mul">0.8</WalkSpeed>
-    <Acceleration op="mul">0.8</Acceleration>
+    <WalkSpeed op="mul">0.95</WalkSpeed>
+    <Acceleration op="mul">0.95</Acceleration>
   </UnitMotion>
 </Entity>
