@@ -7,7 +7,7 @@
     <GenericName>Parthian Horse Archer</GenericName>
     <SpecificName>Asabāra Parθava</SpecificName>
     <Icon>units/pers_cavalry_archer.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/pers/cavalry_archer_a</Entity>

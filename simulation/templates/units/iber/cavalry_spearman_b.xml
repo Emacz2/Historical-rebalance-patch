@@ -5,7 +5,7 @@
     <SelectionGroupName>units/iber/cavalry_spearman_b</SelectionGroupName>
     <SpecificName>Lantzari</SpecificName>
     <Icon>units/iber_cavalry_spearman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/iber/cavalry_spearman_a</Entity>

@@ -6,7 +6,7 @@
     <SpecificName>Eporedos</SpecificName>
     <GenericName>Celtic Cavalry</GenericName>
     <Icon>units/brit_cavalry_swordsman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/brit/cavalry_swordsman_a</Entity>

@@ -7,7 +7,6 @@
     <SpecificName>Eques Socius</SpecificName>
     <SelectionGroupName>units/rome/cavalry_javelineer_b</SelectionGroupName>
     <Icon>units/rome_cavalry_javelinist.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/rome/cavalry_javelineer_a</Entity>
