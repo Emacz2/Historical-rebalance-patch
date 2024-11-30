@@ -113,11 +113,18 @@
       spy_counter
     </Technologies>
   </Researcher>
-  <Resistance>
+<Resistance>
     <Entity>
+       <ApplyStatus>
+        <Burning>
+          <Duration>0.1</Duration>
+          <BlockChance>0.9</BlockChance>
+        </Burning>
+      </ApplyStatus>
       <Damage>
-        <Hack op="add">10</Hack>
-        <Pierce op="add">10</Pierce>
+        <Hack>25</Hack>
+        <Pierce>30</Pierce>
+        <Crush>5</Crush>
       </Damage>
     </Entity>
   </Resistance>

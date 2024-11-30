@@ -88,7 +88,7 @@
     <Entity>
  <ApplyStatus>
         <Burning>
-          <Duration>0.0</Duration>
+          <Duration>0.5</Duration>
           <BlockChance>0.9</BlockChance>
         </Burning>
       </ApplyStatus>
