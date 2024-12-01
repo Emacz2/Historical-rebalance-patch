@@ -3,15 +3,15 @@
   <Attack>
       <Capture>
       <AttackName>Capture</AttackName>
-      <Capture>10</Capture>
-      <MaxRange>4</MaxRange>
-      <RepeatTime>1000</RepeatTime>
+      <Capture>15</Capture>
+      <MaxRange>10</MaxRange>
+      <RepeatTime>500</RepeatTime>
       <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
     </Capture>
     <Ranged>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>10</Pierce>
+        <Pierce>7.5</Pierce>
         <Crush>2.5</Crush>
       </Damage>
       <MaxRange>15</MaxRange>
