@@ -55,12 +55,6 @@
       </Damage>
     </Entity>
   </Resistance>
- <Trainer>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
-    <Entities datatype="tokens">
-      units/{civ}/champion_infantry_swordsman
-    </Entities>
-  </Trainer>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_iber_monument.xml</select>
@@ -68,7 +62,12 @@
     </SoundGroups>
   </Sound>
   <TerritoryDecay disable=""/>
-  <Trainer disable=""/>
+ <Trainer>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_infantry_swordsman
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/iberians/sb_1.xml</Actor>
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
