@@ -67,6 +67,7 @@
       units/{civ}/hero_cyrus_ii
       units/{civ}/hero_darius_i
       units/{civ}/hero_xerxes_i
+      units/{civ}/champion_infantry
     </Entities>
   </Trainer>
   <Vision>

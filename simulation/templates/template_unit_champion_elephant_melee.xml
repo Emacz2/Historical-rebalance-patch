@@ -5,8 +5,8 @@
     <Melee>
       <AttackName>Trunk</AttackName>
       <Damage>
-        <Hack>24</Hack>
-        <Crush>36</Crush>
+        <Hack>25</Hack>
+        <Crush>40</Crush>
       </Damage>
       <Splash>
         <Shape>Circular</Shape>
@@ -19,7 +19,13 @@
       <MaxRange>5</MaxRange>
       <PrepareTime>750</PrepareTime>
       <RepeatTime>1500</RepeatTime>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+       <Bonuses>
+        <BonusEleMelee>
+          <Classes>Structure</Classes>
+          <Multiplier>2.0</Multiplier>
+        </BonusEleMelee>
+      </Bonuses>
+      <PreferredClasses datatype="tokens">Structure</PreferredClasses>
     </Melee>
   </Attack>
   <Identity>

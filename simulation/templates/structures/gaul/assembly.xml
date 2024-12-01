@@ -63,6 +63,8 @@
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_trumpeter
+      units/{civ}/champion_infantry_swordsman
+      units/{civ}/champion_cavalry
       units/{civ}/hero_brennus
       units/{civ}/hero_viridomarus
       units/{civ}/hero_vercingetorix
