@@ -5,11 +5,11 @@
     <Category>ArmyCamp</Category>
     <Distance>
       <FromClass>ArmyCamp</FromClass>
-      <MinDistance>50</MinDistance>
+      <MinDistance>75</MinDistance>
     </Distance>
     <Distance>
       <FromClass>CivilCentre</FromClass>
-      <MinDistance>75</MinDistance>
+      <MinDistance>100</MinDistance>
     </Distance>
   </BuildRestrictions>
   <Capturable>
