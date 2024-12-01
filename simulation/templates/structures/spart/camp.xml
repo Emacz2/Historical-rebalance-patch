@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure">
   <BuildRestrictions>
-    <Territory>neutral</Territory>
+    <Territory>neutral own</Territory>
     <Category>ArmyCamp</Category>
     <Distance>
       <FromClass>ArmyCamp</FromClass>
       <MinDistance>50</MinDistance>
+    </Distance>
+    <Distance>
+      <FromClass>CivilCentre</FromClass>
+      <MinDistance>75</MinDistance>
     </Distance>
   </BuildRestrictions>
   <Capturable>
