@@ -10,8 +10,8 @@
  <Researcher>
     <Technologies datatype="tokens">
       unlock_slaves_house
-      health_females_02
-      -health_females_01
+      -health_females_02
+      health_females_01
     </Technologies>
   </Researcher>
 <Trainer>

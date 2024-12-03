@@ -7,10 +7,13 @@
 	"requirements": { "tech": "phase_village" },
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "loom.png",
-	"researchTime": 20,
-	"tooltip": "Female Citizens +100% health.",
+	"researchTime": 10,
+	"tooltip": "Female Citizens +50% health, +.5 Hack/Pierce resitance and +1 Crush resitance.",
 	"modifications": [
-		{ "value": "Health/Max", "multiply": 2 }
+		{ "value": "Health/Max", "multiply": 1.5 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
 	],
 	"affects": ["FemaleCitizen"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"

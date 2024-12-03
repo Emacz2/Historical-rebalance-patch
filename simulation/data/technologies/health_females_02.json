@@ -7,7 +7,7 @@
 	"requirements": { "tech": "phase_village" },
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "loom.png",
-	"researchTime": 20,
+	"researchTime": 10,
 	"tooltip": "Spartan women +30 life.",
 	"modifications": [
 		{ "value": "Health/Max", "add": 20}
