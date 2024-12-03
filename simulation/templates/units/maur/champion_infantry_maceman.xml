@@ -11,4 +11,23 @@
   <VisualActor>
     <Actor>units/mauryas/infantry_maceman_c.xml</Actor>
   </VisualActor>
+  <Attack>
+    <Melee>
+      <AttackName>Mace</AttackName>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1025</RepeatTime>
+      <PreferredClasses datatype="tokens">!Ship</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">2</Hack>
+        <Pierce op="add">2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <UnitMotion>
+    <WalkSpeed>9.5</WalkSpeed>
+  </UnitMotion>
 </Entity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_javelineer">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/maur/palace
+      structures/maur/pillar_ashoka
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>maur</Civ>
+    <Lang>napatan</Lang>
+    <SelectionGroupName>units/maur/infantry_javelineer_merc_b</SelectionGroupName>
+    <GenericName>Noba Skirmisher</GenericName>
+    <SpecificName>nhw ʿhȝw Noba</SpecificName>
+    <Icon>units/kush_infantry_javelinist.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
+  </Identity>
+  <Promotion>
+    <Entity>units/kush/infantry_javelineer_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/kushites/infantry_javelinist_b.xml</Actor>
+  </VisualActor>
+</Entity>

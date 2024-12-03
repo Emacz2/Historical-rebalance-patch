@@ -24,6 +24,7 @@
     <GenericName>Neodamodes Hoplite</GenericName>
     <SpecificName>Neodamōdeis</SpecificName>
     <VisibleClasses datatype="tokens">-Worker</VisibleClasses>
+    <RequiredTechnology>phase_town</RequiredTechnology>
     <Icon>units/spart/infantry_spearman_neodamodes.png</Icon>
     <Rank>Advanced</Rank>
   </Identity>

@@ -7,9 +7,9 @@
                 { "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.6 },
                 { "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.6 },
                 { "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.6 },
-                { "value": "Researcher/TechCostMultiplier/time", "multiply": 0.4 }
+                { "value": "Researcher/TechCostMultiplier/time", "multiply": 0.5 }
 	],
 	"auraName": "Democracy",
-	"auraDescription": "Civic center upgrades -60% research time and -40% cost."
+	"auraDescription": "Civic center upgrades -50% research time and -40% cost."
 }
 

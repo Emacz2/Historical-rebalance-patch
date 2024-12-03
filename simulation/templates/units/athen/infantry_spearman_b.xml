@@ -6,6 +6,9 @@
     <SpecificName>Hoplítēs Athēnaîos</SpecificName>
     <Icon>units/athen_infantry_spearman.png</Icon>
   </Identity>
+   <Auras datatype="tokens">
+    units/spartan_phalanx
+  </Auras>
   <Promotion>
     <Entity>units/athen/infantry_spearman_a</Entity>
   </Promotion>

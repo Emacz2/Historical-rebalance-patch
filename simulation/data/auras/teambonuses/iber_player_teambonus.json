@@ -1,13 +1,12 @@
 {
 	"type": "global",
-	"affects": ["Citizen Javelineer"],
+	"affects": ["Slinger"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Cost/Resources/food", "multiply": 0.9 },
-		{ "value": "Cost/Resources/wood", "multiply": 0.9 },
-		{ "value": "Cost/Resources/stone", "multiply": 0.9 },
-		{ "value": "Cost/Resources/metal", "multiply": 0.9 }
+		{ "value": "Cost/Resources/stone", "multiply": 0.75 }
+	
 	],
 	"auraName": "Saripeko",
-	"auraDescription": "Citizen Javelineers −10% resource costs."
+	"auraDescription": "Slingers −25% less stone, 10% less food."
 }
