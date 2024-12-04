@@ -24,6 +24,6 @@
 		}
 	],
 	"auraName": "Excellency of Works",
-	"auraDescription": "Decrease resource costs and research time of technologies in a building by 32% for each Minister garrisoned within.",
+	"auraDescription": "Decrease resource costs and research time of technologies in a building by 3% for each Minister garrisoned within.",
 	"stackable": true
 }

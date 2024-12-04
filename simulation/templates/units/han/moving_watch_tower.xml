@@ -3,8 +3,8 @@
   <Cost>
     <BuildTime>20</BuildTime>
     <Resources>
-      <wood>35</wood>
-      <metal>15</metal>
+      <wood>50</wood>
+      <metal>10</metal>
     </Resources>
   </Cost>
   <Footprint replace="">
@@ -20,9 +20,9 @@
   <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Loot>
-    <xp>250</xp>
-    <wood>100</wood>
-    <metal>60</metal>
+    <xp>100</xp>
+    <wood>15</wood>
+    <metal>5</metal>
   </Loot>
   <Selectable>
     <Overlay>
@@ -48,8 +48,9 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Pierce>40</Pierce>
-	<Hack>10</Hack>
+        <Hack>8</Hack>
+        <Pierce>25</Pierce>
+        <Crush>7</Crush>
       </Damage>
     </Entity>
   </Resistance>

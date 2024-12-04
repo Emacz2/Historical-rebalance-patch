@@ -4,11 +4,11 @@
     <Ranged>
       <AttackName>Crossbow</AttackName>
       <Damage>
-        <Pierce>20</Pierce>
+        <Pierce>22</Pierce>
       </Damage>
       <MaxRange>50</MaxRange>
       <PrepareTime>600</PrepareTime>
-      <RepeatTime>2625</RepeatTime>
+      <RepeatTime>2750</RepeatTime>
       <Projectile>
         <Speed>900</Speed>
         <Spread>1.5</Spread>
