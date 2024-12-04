@@ -16,5 +16,5 @@
 		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 0.5}
 
 	],
-	"affects": ["Citizen Spearman"]
+	"affects": ["Citizen Spearman !Cavalry"]
 }

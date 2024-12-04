@@ -4,11 +4,12 @@
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
-        <Pierce>28</Pierce>
+        <Pierce>31</Pierce>
+	<Pierce>3</Pierce>
       </Damage>
       <MaxRange>35</MaxRange>
       <PrepareTime>400</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
+      <RepeatTime>1750</RepeatTime>
       <Projectile>
         <Speed>800</Speed>
         <Spread>3.5</Spread>
