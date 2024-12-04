@@ -5,7 +5,7 @@
     <Category>Council</Category>
   </BuildRestrictions>
   <Cost>
-    <BuildTime>105</BuildTime>
+    <BuildTime>120</BuildTime>
     <Resources>
       <stone>150</stone>
       <metal>50</metal>
