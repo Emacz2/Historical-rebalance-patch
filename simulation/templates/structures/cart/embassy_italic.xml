@@ -21,6 +21,9 @@
     <Icon>structures/embassy_italic.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Loot>
     <metal>40</metal>
   </Loot>

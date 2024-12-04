@@ -2,7 +2,7 @@
 <Entity parent="template_structure_special">
 <Auras datatype="tokens"> structures/xp_trickle </Auras>
   <Cost>
-    <BuildTime>105</BuildTime>
+    <BuildTime>120</BuildTime>
     <Resources>
       <stone>150</stone>
       <wood>50</wood>

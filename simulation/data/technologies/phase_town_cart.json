@@ -25,16 +25,16 @@
 		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.98, "affects": "CivCentre" },
-		{ "value": "Cost/Resources/food", "multiply": 0.8 },
-		{ "value": "Cost/Resources/wood", "multiply": 0.8 },
-		{ "value": "Cost/Resources/stone", "multiply": 0.8 },
-		{ "value": "Cost/Resources/metal", "multiply": 0.8 },
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.25 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.25},
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.25},
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.25 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.25},
-		{ "value": "Attack/RangedDamage/Crush", "multiply": 1.25}
+		{ "value": "Cost/Resources/food", "multiply": 0.8, "affects": "Mercenary" },
+		{ "value": "Cost/Resources/wood", "multiply": 0.8, "affects": "Mercenary" },
+		{ "value": "Cost/Resources/stone", "multiply": 0.8, "affects": "Mercenary" },
+		{ "value": "Cost/Resources/metal", "multiply": 0.8, "affects": "Mercenary" },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.25, "affects": "Mercenary" },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.25, "affects": "Mercenary"},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.25, "affects": "Mercenary"},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.25, "affects": "Mercenary" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.25, "affects": "Mercenary"},
+		{ "value": "Attack/RangedDamage/Crush", "multiply": 1.25, "affects": "Mercenary"}
 		
 	],
 	"soundComplete": "interface/alarm/alarm_phase.xml"

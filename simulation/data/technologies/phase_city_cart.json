@@ -26,12 +26,12 @@
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.97, "affects": "CivCentre" },
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.1 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.1},
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.1},
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.1 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1},
-		{ "value": "Attack/RangedDamage/Crush", "multiply": 1.1}
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.1, "affects": "Mercenary" },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.1, "affects": "Mercenary"},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.1, "affects": "Mercenary"},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.1, "affects": "Mercenary" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1, "affects": "Mercenary"},
+		{ "value": "Attack/RangedDamage/Crush", "multiply": 1.1, "affects": "Mercenary"}
 
 	
 	],

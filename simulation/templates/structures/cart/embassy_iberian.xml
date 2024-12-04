@@ -14,6 +14,9 @@
     <Icon>structures/embassy_iberian.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
+   <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Loot>
     <stone>40</stone>
   </Loot>
