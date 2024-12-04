@@ -116,4 +116,7 @@
   <Vision>
     <Range>70</Range>
   </Vision>
+     <Auras datatype="tokens">
+    units/ram_garrison
+  </Auras>
 </Entity>

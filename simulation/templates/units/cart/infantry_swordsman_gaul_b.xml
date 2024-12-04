@@ -14,7 +14,7 @@
     <SpecificName>Seḫīr Ḥerev</SpecificName>
     <SelectionGroupName>units/cart/infantry_swordsman_gaul_b</SelectionGroupName>
     <Icon>units/cart_infantry_swordsman.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/cart/infantry_swordsman_gaul_a</Entity>

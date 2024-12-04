@@ -1,0 +1,24 @@
+{
+	"genericName": "Army of mercanaries",
+	"autoResearch": true,
+	"description": "The majority of the carthage army was made up of mercanaries.",
+	"icon": "agoge.png",
+	"tooltip": "Mercanaries are available in p1, but cost 25% more resources and 25% less damage.",
+	"requirements": { "civ": "cart" },
+	"modifications": [
+		{ "value": "Cost/Resources/food", "multiply": 1.25 },
+		{ "value": "Cost/Resources/wood", "multiply": 1.25 },
+		{ "value": "Cost/Resources/stone", "multiply": 1.25 },
+		{ "value": "Cost/Resources/metal", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.75 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.75},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.75},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.75 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.75},
+		{ "value": "Attack/RangedDamage/Crush", "multiply": 0.75}
+
+	],
+
+	"affects": ["Mercenary"]
+	
+}

@@ -1,0 +1,20 @@
+{
+	"genericName": "Non citizen warriors",
+	"autoResearch": true,
+	"description": "Rarely did citizens of Carth fight in the army.",
+	"requirements": { "civ": "cart" },
+	"icon": "wooden_walls.png",
+	"tooltip": "Citizen spearman gather 5% faster and train 30% faster but do 50% dmg and have 50% armor.",
+	"modifications": [
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.05},
+		{ "value": "Cost/BuildTime", "multiply": 0.7 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.5 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.5},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.5},
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 0.5},
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 0.5}
+
+	],
+	"affects": ["Citizen Spearman"]
+}

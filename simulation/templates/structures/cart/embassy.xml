@@ -18,6 +18,8 @@
     <GenericName>Embassy</GenericName>
     <Tooltip>Train Mercenaries.</Tooltip>
     <Icon>structures/embassy_italic.png</Icon>
+    <VisibleClasses datatype="tokens">Village Embassy</VisibleClasses>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Loot>
     <wood>80</wood>

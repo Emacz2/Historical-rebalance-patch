@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_military_embassy">
-  <Cost>
+ <Cost>
     <Resources>
-      <wood>200</wood>
+      <stone>100</stone>
+      <wood>150</wood>
     </Resources>
   </Cost>
   <Footprint>
@@ -18,6 +19,7 @@
     <Tooltip>Train Celtic Mercenaries.</Tooltip>
     <Classes datatype="tokens">CivSpecific</Classes>
     <Icon>structures/embassy_celtic.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Loot>
     <wood>40</wood>

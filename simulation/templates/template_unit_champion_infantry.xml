@@ -40,7 +40,7 @@
     </Entity>
   </Resistance>
   <UnitMotion>
-    <WalkSpeed>9.9</WalkSpeed>
+    <WalkSpeed10.0</WalkSpeed>
   </UnitMotion>
   <Selectable>
     <Overlay>
@@ -61,4 +61,7 @@
   <Vision>
     <Range>80</Range>
   </Vision>
+     <Auras datatype="tokens">
+    units/ram_garrison
+  </Auras>
 </Entity>

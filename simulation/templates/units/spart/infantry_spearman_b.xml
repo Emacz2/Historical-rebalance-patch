@@ -13,7 +13,7 @@
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
-    <GenericName>PerioikoiHoplites</GenericName>
+    <GenericName>Perioikoi Hoplites</GenericName>
     <SpecificName>Hoplítēs Spartiátēs</SpecificName>
     <Icon>units/spart_infantry_spearman.png</Icon>
     <VisibleClasses datatype="tokens">Perioikoi</VisibleClasses>	

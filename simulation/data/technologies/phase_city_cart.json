@@ -1,0 +1,39 @@
+{
+	"genericName": "City Phase",
+	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Cart city phase.",
+	"cost": {
+		"food": 200,
+		"wood": 200,
+		"metal": 800,
+		"stone": 800
+	},
+	"requirements": {
+		"entity": {
+			"class": "Village",
+			"number": 30
+		}
+	},
+	"requirementsTooltip": "Requires 30 village structures.",
+	"supersedes": "phase_town_cart",
+	"replaces": ["phase_city"],
+	"icon": "city_phase.png",
+	"researchTime": 60,
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies. Civic Centers +25% territory influence radius, 40% more garrison capacity and +5 range  but -3% pierce dmg. Structures +3 capture points regeneration rate per garrisoned unit. Mercanaries 10% more damage",
+	"modifications": [
+
+		{ "value": "Capturable/GarrisonRegenRate", "add": 3, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.97, "affects": "CivCentre" },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.1 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.1},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.1},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.1 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1},
+		{ "value": "Attack/RangedDamage/Crush", "multiply": 1.1}
+
+	
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}
