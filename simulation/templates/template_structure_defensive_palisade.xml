@@ -3,9 +3,9 @@
  <Auras datatype="tokens">
     structures/palisades
   </Auras>
-  <Capturable>
-    <RegenRate>10.0</RegenRate>
-     <RegenRate op="mul >5</RegenRate>
+   <Capturable>
+    <CapturePoints op="mul">0.25</CapturePoints>
+    <RegenRate>20.0</RegenRate>
   </Capturable>
   <BuildRestrictions>
     <PlacementType>land-shore</PlacementType>
