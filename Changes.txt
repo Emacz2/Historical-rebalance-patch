@@ -7,9 +7,9 @@ forge unlocks troops p1
 added phalanx aura to Cart Sacredband infantry
 
 palisades empale aura
-Han WatchTower .25% faster speed, +1 acceleration, +5 turn rate and +2.5 vision per garrisoned solider.
+Han WatchTower .25% faster speed, +1 acceleration, +5 turn rate and +2.5 vision per garrisoned solider
 
 pikeman speed/acceleration improved to .95 of normal melee instead of .9 (9.0 vs 9.5 other infantry)
 Han pikeman speed increased to 9.2 
 
-Kush archer poison dmg lowered to 1 dmg every 3 seconds for 9 seconds.
+Kush archer poison dmg lowered to 1 dmg every 3 seconds for 9 seconds
