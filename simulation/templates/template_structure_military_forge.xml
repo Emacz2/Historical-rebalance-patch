@@ -50,6 +50,12 @@
       soldier_resistance_pierce_02
       soldier_resistance_pierce_03
       archer_attack_spread
+      unlock_skirm
+      unlock_axeman
+      unlock_pikeman
+      unlock_spearman
+      unlock_swordman
+      unlock_slinger
     </Technologies>
   </Researcher>
   <Sound>

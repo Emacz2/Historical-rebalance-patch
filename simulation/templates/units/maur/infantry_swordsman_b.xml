@@ -17,7 +17,7 @@
     <GenericName>Indian Swordsman</GenericName>
     <SpecificName>Khadagdhari</SpecificName>
     <Icon>units/maur_infantry_swordsman.png</Icon>
-    <RequiredTechnology>phase_village</RequiredTechnology>
+   <RequiredTechnology>unlock_swordman</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/maur/infantry_swordsman_a</Entity>

@@ -13,7 +13,7 @@
     <GenericName>Noba Skirmisher</GenericName>
     <SpecificName>nhw ʿhȝw Noba</SpecificName>
     <Icon>units/kush_infantry_javelinist.png</Icon>
-    <RequiredTechnology>phase_village</RequiredTechnology>
+    <RequiredTechnology>unlock_skirm</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/maur/infantry_javelineer_a</Entity>

@@ -15,7 +15,7 @@
     <Max>250</Max>
   </Health>
   <Identity>
-    <VisibleClasses datatype="tokens">SiegeTower</VisibleClasses>
+    <VisibleClasses datatype="tokens">WatchTower</VisibleClasses>
     <GenericName>Moving Tower</GenericName>
   <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
@@ -58,8 +58,16 @@
     <WalkSpeed op="mul">0.8</WalkSpeed>
     <Acceleration op="mul">0.8</Acceleration>
   </UnitMotion>
+    <GarrisonHolder>
+    <Max>4</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>2</LoadingRange>
+  </GarrisonHolder>
   <Vision>
-    <Range>90</Range>
+    <Range>85</Range>
   </Vision>
   <Identity>
     <Civ>han</Civ>

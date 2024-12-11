@@ -10,6 +10,7 @@
     <SelectionGroupName>units/han/infantry_spearman_b</SelectionGroupName>
     <SpecificName>Máo Bīng</SpecificName>
     <Icon>units/han/infantry_spearman.png</Icon>
+    <RequiredTechnology>unlock_spearman</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/han/infantry_spearman_a</Entity>

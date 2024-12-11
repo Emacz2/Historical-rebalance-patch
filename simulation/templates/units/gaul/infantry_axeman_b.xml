@@ -11,6 +11,7 @@
     <GenericName>Celtic Axeman</GenericName>
     <SpecificName>Catucos</SpecificName>
      <Icon>units/celt/infantry_axeman.png</Icon>
+     <RequiredTechnology>unlock_axeman</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/gaul/infantry_axeman_a</Entity>

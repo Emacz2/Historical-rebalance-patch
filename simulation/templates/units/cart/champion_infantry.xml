@@ -6,6 +6,9 @@
     <SpecificName>Sacred Band of Ba'al</SpecificName>
     <Icon>units/cart_champion_infantry.png</Icon>
   </Identity>
+  <Auras datatype="tokens">
+    units/phalanx
+  </Auras>
   <VisualActor>
     <Actor>units/carthaginians/infantry_spearman_c.xml</Actor>
   </VisualActor>

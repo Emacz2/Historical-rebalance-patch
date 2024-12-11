@@ -1,0 +1,22 @@
+{
+	"genericName": "Unlock skirmishers",
+	"description": "",
+	"cost": {
+		"food": 200,
+		"wood": 150
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_village" },
+			{ "civ": "brit" },
+			{ "civ": "maur" },
+			{ "civ": "iber" },
+			{ "civ": "pers" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Village Phase.",
+	"icon": "helmet_corinthian_bronze_old.png",
+	"researchTime": 30,
+	"tooltip": "Unlock the ability to train Skirmishers from baracks.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

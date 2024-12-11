@@ -4,7 +4,7 @@
     <Civ>mace</Civ>
     <SpecificName>Hoplothēkē</SpecificName>
     <RequiredTechnology>phase_town</RequiredTechnology>
-    <VisibleClasses datatype="tokens">-City Town Arsenal</VisibleClasses>
+    <VisibleClasses datatype="tokens">Town Arsenal</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/workshop.xml</Actor>

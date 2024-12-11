@@ -18,9 +18,8 @@
   </Researcher>
   <Trainer>
     <Entities datatype="tokens">
-      units/{civ}/infantry_swordsman_b
       units/{civ}/infantry_archer_b
-       units/{civ}/infantry_pikeman_b
+      units/{civ}/infantry_pikeman_b
       units/{civ}/cavalry_javelineer_b
     </Entities>
   </Trainer>

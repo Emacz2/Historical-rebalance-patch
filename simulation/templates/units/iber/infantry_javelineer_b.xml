@@ -10,6 +10,7 @@
     <SelectionGroupName>units/iber/infantry_javelineer_b</SelectionGroupName>
     <SpecificName>Lusitano Ezpatari</SpecificName>
     <Icon>units/iber_infantry_javelinist.png</Icon>
+    <RequiredTechnology>unlock_skirm</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/iber/infantry_javelineer_a</Entity>

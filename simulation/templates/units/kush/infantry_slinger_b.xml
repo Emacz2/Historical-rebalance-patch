@@ -14,7 +14,7 @@
     <GenericName>Judean Slinger</GenericName>
     <SpecificName>Hebraikós Sphendonḗtēs</SpecificName>
     <Icon>units/ptol_infantry_slinger.png</Icon>
-    <RequiredTechnology>phase_village</RequiredTechnology>
+    <RequiredTechnology>unlock_slinger</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/kush/infantry_slinger_b</Entity>

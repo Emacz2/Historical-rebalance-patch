@@ -7,7 +7,7 @@
     <Icon>units/athen_infantry_spearman.png</Icon>
   </Identity>
    <Auras datatype="tokens">
-    units/spartan_phalanx
+    units/phalanx
   </Auras>
   <Promotion>
     <Entity>units/athen/infantry_spearman_a</Entity>

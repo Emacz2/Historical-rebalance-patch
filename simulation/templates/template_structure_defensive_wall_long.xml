@@ -4,9 +4,9 @@
     structures/wall_garrisoned
   </Auras>
   <Cost>
-    <BuildTime>36</BuildTime>
+    <BuildTime>24</BuildTime>
     <Resources>
-      <stone>36</stone>
+      <stone>24</stone>
     </Resources>
   </Cost>
   <Health>

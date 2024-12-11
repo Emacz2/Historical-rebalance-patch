@@ -5,9 +5,6 @@
   </Identity>
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
-    <Entities datatype="tokens">
-      -units/{civ}/champion_cavalry
-    </Entities>
   </Trainer>
   <VisualActor>
     <Actor>structures/carthaginians/stable.xml</Actor>

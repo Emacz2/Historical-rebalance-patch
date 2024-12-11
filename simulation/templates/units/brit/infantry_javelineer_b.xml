@@ -13,6 +13,7 @@
     <SpecificName>Adretos</SpecificName>
     <Icon>units/brit_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
+     <RequiredTechnology>unlock_skirm</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/brit/infantry_javelineer_a</Entity>

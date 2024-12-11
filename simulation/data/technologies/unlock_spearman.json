@@ -1,0 +1,22 @@
+{
+	"genericName": "Unlock spearman",
+	"description": "",
+	"cost": {
+		"food": 200,
+		"wood": 150
+		
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_village" },
+			{ "civ": "han" },
+			{ "civ": "rome" },
+			{ "civ": "pers" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in village Phase.",
+	"icon": "helmet_corinthian_bronze_old.png",
+	"researchTime": 30,
+	"tooltip": "Unlock the ability to train axeman from baracks.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}
