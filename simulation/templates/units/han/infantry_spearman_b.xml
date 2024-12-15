@@ -23,4 +23,7 @@
       special/formations/anti_cavalry
     </Formations>
   </UnitAI>
+ <Auras datatype="tokens">
+    units/han_wt_garrison
+  </Auras>
 </Entity>

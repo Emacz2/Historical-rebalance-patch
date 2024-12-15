@@ -8,6 +8,9 @@
     <RequiredTechnology>phase_city</RequiredTechnology>
     <Icon>units/han/champion_infantry_swordsman.png</Icon>
   </Identity>
+   <Auras datatype="tokens">
+    units/han_wt_garrison
+  </Auras>
   <VisualActor>
     <Actor>units/han/infantry_spearman_c.xml</Actor>
   </VisualActor>

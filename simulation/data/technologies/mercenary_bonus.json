@@ -13,8 +13,8 @@
 	    { "value": "Health/Max", "add": 25, "affects": "Mercanary"},
 	    { "value": "Attack/Ranged/RepeatTime", "multiply": 0.90 },
 	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.02 },
-	    { "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
-	    { "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+	    { "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+	    { "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
 	    { "value": "Resistance/Entity/Damage/Crush", "add": 1 }
               
     ],

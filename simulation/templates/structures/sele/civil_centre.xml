@@ -9,6 +9,7 @@
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_javelineer_b
       units/{civ}/cavalry_javelineer_b
+      units/{civ}/champion_cavalry
       units/{civ}/hero_seleucus_i
       units/{civ}/hero_antiochus_iii
       units/{civ}/hero_antiochus_iv

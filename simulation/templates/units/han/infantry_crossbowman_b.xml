@@ -14,6 +14,9 @@
   <Promotion>
     <Entity>units/han/infantry_crossbowman_a</Entity>
   </Promotion>
+ <Auras datatype="tokens">
+    units/han_wt_garrison
+  </Auras>
   <VisualActor>
     <Actor>units/han/infantry_crossbowman_b.xml</Actor>
   </VisualActor>

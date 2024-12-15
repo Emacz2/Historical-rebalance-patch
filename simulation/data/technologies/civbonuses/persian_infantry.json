@@ -1,0 +1,22 @@
+{
+	"genericName": "",
+	"autoResearch": true,
+	"description": "",
+	"requirements": { "civ": "pers" },
+	"icon": "wooden_walls.png",
+	"tooltip": "Persian citizen infantry 15% less train time but 5% less dmg and -.5 of each resistance.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.85 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.95 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.95 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.95 },
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.95 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.95 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.95 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -0.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -0.5 }
+
+	],
+	"affects": ["Citizen Infantry"]
+}

@@ -23,7 +23,7 @@
 		{ "value": "Trainer/BatchTimeModifier", "add": -0.1, "affects": "Stable" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 3, "affects": "Structure" },
 		{ "value": "Cost/BuildTime", "multiply": 0.9, "affects": "Infantry" },
-		{ "value": "TerritoryInfluence/Radius", "multiply": 1.35, "affects": "CivCentre" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.30, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.97, "affects": "CivCentre" }

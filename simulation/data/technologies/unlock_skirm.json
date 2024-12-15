@@ -3,7 +3,7 @@
 	"description": "",
 	"cost": {
 		"food": 200,
-		"wood": 150
+		"wood": 200
 	},
 	"requirements": {
 		"all": [
@@ -16,7 +16,7 @@
 	},
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "helmet_corinthian_bronze_old.png",
-	"researchTime": 30,
+	"researchTime": 25,
 	"tooltip": "Unlock the ability to train Skirmishers from baracks.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

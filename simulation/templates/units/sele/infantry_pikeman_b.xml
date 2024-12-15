@@ -7,6 +7,7 @@
     <GenericName>Phalangite</GenericName>
     <SpecificName>Phalangitēs</SpecificName>
     <Icon>units/sele_infantry_spearman.png</Icon>
+    <RequiredTechnology>unlock_pikeman</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/sele/infantry_pikeman_a</Entity>

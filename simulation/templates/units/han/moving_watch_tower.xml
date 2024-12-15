@@ -2,9 +2,10 @@
 <Entity parent="template_unit_siege">
   <Cost>
     <BuildTime>20</BuildTime>
+    <Population>1</Population>
     <Resources>
-      <wood>50</wood>
-      <metal>10</metal>
+      <wood>60</wood>
+      <metal>15</metal>
     </Resources>
   </Cost>
   <Footprint replace="">

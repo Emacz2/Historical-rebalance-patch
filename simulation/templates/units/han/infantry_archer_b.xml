@@ -15,6 +15,9 @@
   <Promotion>
     <Entity>units/han/infantry_archer_a</Entity>
   </Promotion>
+ <Auras datatype="tokens">
+    units/han_wt_garrison
+  </Auras>
   <VisualActor>
     <Actor>units/han/infantry_archer_b.xml</Actor>
   </VisualActor>

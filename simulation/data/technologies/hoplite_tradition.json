@@ -11,6 +11,7 @@
 			{ "tech": "phase_village" },
 			{
 				"any": [
+					{ "civ": "athen" },
 					{ "civ": "spart" }
 				]
 			}

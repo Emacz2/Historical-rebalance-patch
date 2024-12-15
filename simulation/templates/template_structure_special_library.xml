@@ -26,6 +26,7 @@
     <SelectionGroupName>template_structure_special_library</SelectionGroupName>
     <VisibleClasses datatype="tokens">Library</VisibleClasses>
     <Icon>structures/library_scroll.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
     <stone>40</stone>

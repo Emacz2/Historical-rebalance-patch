@@ -39,6 +39,9 @@
  <UnitMotion>
     <WalkSpeed>9.2</WalkSpeed>
   </UnitMotion>
+ <Auras datatype="tokens">
+    units/han_wt_garrison
+  </Auras>
   <UnitAI>
     <Formations datatype="tokens">
       special/formations/anti_cavalry

@@ -4,11 +4,10 @@
 	"description": "The Mauryas archers used 6 foot bows that sometimes needed to be stablized with their feet but wore little to no armor.",
 	"requirements": { "civ": "maur" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Archers 5% faster run/walk +3 range but 5% slower attack speed and -1 of each armor.",
+	"tooltip": "Archers 5% faster run/walk +3 range but -1 of each armor.",
 	"modifications": [
 		{ "value": "Attack/Ranged/MaxRange", "add": 3 },
 		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.05 },
-		{ "value": "Attack/Ranged/RepeatTime", "multiply": 1.05},
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -1 }

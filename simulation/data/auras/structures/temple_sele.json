@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Temple"],
+	"modifications": [
+		{ "value": "Health/RegenRate", "add": -2 }
+	],
+	"auraName": "Temple plundering",
+	"auraDescription": "Temples -2 health/second but +0.5 metal/second.",
+	"overlayIcon": "art/textures/ui/session/auras/heal.png"
+}

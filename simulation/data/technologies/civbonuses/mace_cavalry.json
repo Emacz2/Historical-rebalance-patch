@@ -1,0 +1,15 @@
+{
+	"genericName": "Nobleman Cavalry",
+	"autoResearch": true,
+	"description": "Mace cavalry were made up of noblemen while infantry were shepards.",
+	"requirements": { "civ": "mace" },
+	"icon": "sword_cavalry.png",
+	"tooltip": "Cavalry +1 of each resistance but 1% slower walk speed",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.99 }
+	],
+	"affects": ["Cavalry !Hero"]
+}

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="civ/athen|merc_inf|template_unit_infantry_ranged_javelineer">
+<Cost>
+    <Resources>
+      <food>50</food>
+      <wood>30</wood>
+      <metal>20</metal>
+    </Resources>
+  </Cost>
   <Identity>
     <SelectionGroupName>units/athen/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Thracian Peltast</GenericName>
     <SpecificName>Peltastḗs Thrâx</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
-  <Rank>Advanced</Rank>
+     <VisibleClasses datatype="tokens">Citizen -Mercenary</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/athen/infantry_javelineer_a</Entity>
@@ -14,4 +21,25 @@
   <VisualActor>
     <Actor>units/athenians/infantry_javelinist_b.xml</Actor>
   </VisualActor>
+<ResourceGatherer>
+    <MaxDistance>2.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <food.fruit>0.5</food.fruit>
+      <food.grain>0.25</food.grain>
+      <food.meat>1</food.meat>
+      <wood.tree>0.75</wood.tree>
+      <wood.ruins>5</wood.ruins>
+      <stone.rock>0.5</stone.rock>
+      <stone.ruins>2</stone.ruins>
+      <metal.ore>0.5</metal.ore>
+      <metal.ruins>2</metal.ruins>
+    </Rates>
+    <Capacities>
+      <food>10</food>
+      <wood>10</wood>
+      <stone>10</stone>
+      <metal>10</metal>
+    </Capacities>
+  </ResourceGatherer>
 </Entity>

@@ -1,7 +1,7 @@
 {
 	"genericName": "City Phase",
 	"specificName": {
-		"rome": "City Phase"
+		"sele": "Megalopolis"
 	},
 	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology.",
 	"cost": {
@@ -13,21 +13,21 @@
 	"requirements": {
 		"entity": {
 			"class": "Village",
-			"number": 25
+			"number": 22
 		}
 	},
-	"requirementsTooltip": "Requires 25 village structures.",
-	"supersedes": "phase_town_rome",
+	"requirementsTooltip": "Requires 22 village structures.",
+	"supersedes": "phase_town_sele",
 	"replaces": ["phase_city"],
 	"icon": "city_phase.png",
 	"researchTime": 60,
 	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers +35% territory influence radius, 40% more garrison capacity and + 5 rangebut -3% pierce dmg. Structures +3 capture points regeneration rate per garrisoned unit. Swordman +15 health and 5% more Hack and Pierce damage",
 	"modifications": [
-		{ "value": "Health/Max", "add": 15, "affects": "Swordsman !Hero"},
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05, "affects": "Swordsman" },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05, "affects": "Swordsman"},
-		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
-		{ "value": "TerritoryInfluence/Radius", "multiply": 1.35, "affects": "CivCentre" },
+		{ "value": "Health/Max","multiply": 1.25, "affects": "Champion Cavalry Spearman"},
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.25, "affects": "Champion Cavalry Spearman" },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.25, "affects": "Champion Cavalry Spearman"},
+		{ "value": "Capturable/GarrisonRegenRate", "add": 3, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.97, "affects": "CivCentre" }

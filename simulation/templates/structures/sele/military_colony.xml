@@ -17,6 +17,7 @@
       units/{civ}/infantry_swordsman_merc_b
       units/{civ}/infantry_archer_merc_b
       units/{civ}/cavalry_spearman_merc_b
+      units/{civ}/champion_cavalry
     </Entities>
   </Trainer>
   <VisualActor>

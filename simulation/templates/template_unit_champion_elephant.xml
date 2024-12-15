@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion">
   <Cost>
-    <Population>3</Population>
-    <BuildTime>36</BuildTime>
+    <Population>2</Population>
+    <BuildTime>40</BuildTime>
     <Resources>
       <food>300</food>
       <metal>200</metal>
