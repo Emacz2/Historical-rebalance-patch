@@ -1,3 +1,11 @@
+v0.2.8.1
+slingers range increased to 50 but dmg decreasd to 11.5 pierce and 0.5 crush.  Resistance 1.5H 2 pierce
+xbows resistance 2H 2P
+Javilneer 2.5H 2P
+
+Mace teambonus2 storehouses build 25% faster, techs from storehouse 50% less resources cost
+
+v0.2.8.0
 Athens
 Javs no longer merc, start regular rank (can gather/build), but at advanced rank they get Merc bonus as well. 
 teambonus2 Javs get 10% pierce dmg and +2 range
@@ -16,7 +24,6 @@ Mace
 Polearm tradition 25% less train time, 40% less exp 10% less metal
 Citizen infantry -5% dmg and -.5 of each armor but 5% faster gather rate (Early mace infantry was mostly made up of shepherds)
 Cavalry +1 of each resistance but 1% slower walk speed (Noblemen)
-teambonus2 storehouses build 25% faster, techs from storehouse 50% less research time (second part won't effect mace since already 0 research time)
 storehouses have 5% faster gather speed radius of 20
 
 Maury
