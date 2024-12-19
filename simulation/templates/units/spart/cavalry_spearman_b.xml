@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_cavalry_melee_spearman">
+<Entity parent="template_unit_cavalry_melee_spearman_hunt">
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/cavalry_spearman_b</SelectionGroupName>
-    <GenericName>Perioikoi Cavalry</GenericName>
+    <GenericName>Perioikoi Hunting/Raiding Cavalry</GenericName>
     <SpecificName>Hippeús Symmakhikós</SpecificName>
     <Icon>units/spart_cavalry_spearman.png</Icon>
      <VisibleClasses datatype="tokens">Perioikoi</VisibleClasses>	

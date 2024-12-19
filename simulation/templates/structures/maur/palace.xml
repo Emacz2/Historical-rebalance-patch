@@ -11,6 +11,9 @@
     <Square width="40.0" depth="16.0"/>
     <Height>5.0</Height>
   </Footprint>
+  <Population>
+    <Bonus>10</Bonus>
+  </Population>
   <Health>
     <Max>2000</Max>
   </Health>

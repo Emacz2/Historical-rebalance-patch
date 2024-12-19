@@ -1,0 +1,22 @@
+{
+	"genericName": "",
+	"autoResearch": true,
+	"description": ".",
+	"requirements": {
+		"any": [
+			{ "civ": "brit" },
+			{ "civ": "gaul" }
+		]
+	},
+	"icon": "ionic_column.png",
+	"tooltip": "Citizen Infantry 25 more health 7% faster walk speed but -1 of each resistance.",
+	"modifications": [
+		{ "value": "Health/Max", "add": 25 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.07},
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -1 }
+
+	],
+	"affects": ["Citizen Infantry"]
+}

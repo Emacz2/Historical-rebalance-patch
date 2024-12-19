@@ -4,15 +4,15 @@
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
-        <Pierce>22.0</Pierce>
-	<Hack>1.0</Hack>
+        <Pierce>22.5</Pierce>
+	<Hack>1.5</Hack>
       </Damage>
-      <MaxRange>27</MaxRange>
-      <PrepareTime>400</PrepareTime>
+      <MaxRange>30</MaxRange>
+      <PrepareTime>1000</PrepareTime>
       <RepeatTime>2000</RepeatTime>
       <Projectile>
         <Speed>700</Speed>
-        <Spread>4.5</Spread>
+        <Spread>3</Spread>
         <Gravity>35</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>
@@ -45,7 +45,7 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="mul">0.95</WalkSpeed>
-    <Acceleration op="mul">0.95</Acceleration>
+    <WalkSpeed op="mul">0.9</WalkSpeed>
+    <Acceleration op="mul">0.6</Acceleration>
   </UnitMotion>
 </Entity>

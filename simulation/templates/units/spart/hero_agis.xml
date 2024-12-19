@@ -10,6 +10,7 @@
     <GenericName>Agis III</GenericName>
     <SpecificName>Agis</SpecificName>
     <Icon>units/spart_hero_agis.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <Health>
     <Max>1500</Max>

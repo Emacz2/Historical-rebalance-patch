@@ -4,9 +4,10 @@
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10 },	
-		{ "value": "Attack/Ranged/MaxRange", "add": 2 }
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 }
 
 			],
 	"auraName": "Javelineer",
-	"auraDescription": "Javelineers 10% more pierce dmg and +2 range."
+	"auraDescription": "Javelineers 10% more pierce dmg and +0.5 pierce and hack resistnace."
 }

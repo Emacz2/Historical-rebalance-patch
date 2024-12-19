@@ -3,9 +3,9 @@
 	"radius": 20,
 	"affects": ["Worker"],
 	"modifications": [
-		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.05 }
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.02 }
 	],
 	"auraName": "Patriotism",
-	"auraDescription": "Workers +15% gather speed.",
+	"auraDescription": "Workers +2% gather speed.",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png"
 }

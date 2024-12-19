@@ -1,7 +1,7 @@
 {
         "genericName": "Long reign",
         "autoResearch": true,
-        "description": "The seleucid empire had a relatively short history,",
+        "description": "The Ptol dynasty was the longest lasting of Egypt origin ,",
         "requirements": { "civ": "ptol" },
         "icon": "stone_blocks_brown.png",
         "tooltip": "CC techs cost 50% less but 25% more train time.",

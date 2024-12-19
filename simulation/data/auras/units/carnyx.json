@@ -1,18 +1,18 @@
 {
 	"type": "range",
-	"radius": 20,
+	"radius": 30,
 	"affects": ["Soldier"],
 	"affectedPlayers": ["Enemy"],
 	"modifications": [
-		{ "value": "Attack/Capture/Capture", "multiply": 0.9 },
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.9 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.9 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.9 },
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.9 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.9 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.9 }
+		{ "value": "Attack/Capture/Capture", "multiply": 0.85 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.85 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.85 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.85 },
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.85 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.85 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.85 }
 	],
 	"auraName": "Intimidating Sound",
-	"auraDescription": "Enemy Soldiers −10% attack damage and capture attack strength.",
+	"auraDescription": "Enemy Soldiers −15% attack damage and capture attack strength.",
 	"overlayIcon": "art/textures/ui/session/auras/broken_sword.png"
 }

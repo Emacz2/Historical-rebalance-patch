@@ -1,0 +1,19 @@
+{
+	"genericName": "",
+	"autoResearch": true,
+	"description": ".",
+	"icon": "ionic_column.png",
+	"tooltip": "Champions +100 life, 50% less metal and wood but 75% more food and -1.5 health per second",
+	"requirements": { "civ": "ptol" },
+	
+	"modifications": [
+		{ "value": "Health/Max", "add": 100 },
+		{ "value": "Cost/Resources/food", "multiply": 1.75 },
+		{ "value": "Cost/Resources/wood", "multiply": 0.5 },
+		{ "value": "Cost/Resources/metal", "multiply": 0.5 },
+		{ "value": "Health/RegenRate", "add": -1.5 }
+
+	],
+
+	"affects": ["Champion"]
+}

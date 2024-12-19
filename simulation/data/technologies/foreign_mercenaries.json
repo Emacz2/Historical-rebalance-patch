@@ -1,0 +1,39 @@
+{
+	"genericName": "Foreign mercanaries",
+	"description": ".",
+	"cost": {
+		"food": 500,
+		"metal": 200,
+		"wood": 400
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{
+				"any": [
+					{ "civ": "ptol" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "armor_corinthian.png",
+	"researchTime": 30,
+	"tooltip": "Citizen Soldiers -10% train time, 5% melee/ranged dmg, +0.5 pierce/hack armor but -5% res gathering.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.9 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.05 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.05},
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.05 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.95}
+	
+
+	],
+	"affects": ["Citizen Infantry"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

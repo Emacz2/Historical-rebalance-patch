@@ -6,6 +6,7 @@
     <SpecificName>Toxótēs Krētikós</SpecificName>
     <Icon>units/mace_infantry_archer.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/athen/infantry_marine_archer_a</Entity>

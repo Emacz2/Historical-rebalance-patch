@@ -3,6 +3,7 @@
 	"affects": ["CivilCentre"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
+		{ "value": "Population/Bonus", "multiply": 1.25 },
 		{ "value": "Cost/Resources/food", "multiply": 0.8 },
 		{ "value": "Cost/Resources/wood", "multiply": 0.8 },
 		{ "value": "Cost/Resources/stone", "multiply": 0.8 },
@@ -10,6 +11,6 @@
 		{ "value": "Cost/BuildTime", "multiply": 0.7}
 	],
 	"auraName": "Syrian Tetrapolis",
-	"auraDescription": "Civil Centers and Colonies −20% resource cost and -30% construction time."
+	"auraDescription": "Civil Centers and Colonies −20% resource cost and -30% construction time and 25% more population."
 }
 

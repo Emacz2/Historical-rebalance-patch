@@ -1,0 +1,21 @@
+{
+	"genericName": "Tribal leaders",
+	"autoResearch": true,
+	"description": "Druids were often the policital leaders of celtic tribes.",
+	"requirements": {
+		"any": [
+			{ "civ": "gaul" },
+			{ "civ": "brit" }
+			
+		]
+	},
+	"icon": "agoge.png",
+	"tooltip": "Druids available p1, have +3 range and +0.5H/second than normal healers but take 33% more train time ",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 1.33 }
+
+	],
+
+	"affects": ["Healer"]
+	
+}

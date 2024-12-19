@@ -9,9 +9,9 @@
 		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.1 },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1 },
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.1 },
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.15 }
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.10 }
 	],
 	"auraName": "Rapid Conquest",
-	"auraDescription": "Soldiers +10% attack damage, +15% movement speed.",
+	"auraDescription": "Soldiers +10% attack damage, +10% movement speed.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }

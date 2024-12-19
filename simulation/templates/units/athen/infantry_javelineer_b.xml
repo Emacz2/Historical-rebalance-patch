@@ -13,7 +13,7 @@
     <SpecificName>Peltastḗs Thrâx</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
-     <VisibleClasses datatype="tokens">Citizen -Mercenary</VisibleClasses>
+     <VisibleClasses datatype="tokens">Citizen -Mercenary Hellenes</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/athen/infantry_javelineer_a</Entity>

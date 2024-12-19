@@ -5,6 +5,7 @@
     <GenericName>Druid</GenericName>
     <SpecificName>Druid</SpecificName>
     <Icon>units/celt_support_healer.png</Icon>
+    <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/gaul/support_healer_a</Entity>
@@ -12,4 +13,19 @@
   <VisualActor>
     <Actor>units/celts/healer.xml</Actor>
   </VisualActor>
+ <Vision>
+    <Range>50</Range>
+  </Vision>
+<Heal>
+    <Range>15</Range>
+    <RangeOverlay>
+      <LineTexture>heal_overlay_range.png</LineTexture>
+      <LineTextureMask>heal_overlay_range_mask.png</LineTextureMask>
+      <LineThickness>0.35</LineThickness>
+    </RangeOverlay>
+    <Health>3</Health>
+    <Interval>1000</Interval>
+    <UnhealableClasses datatype="tokens"/>
+    <HealableClasses datatype="tokens">Human</HealableClasses>
+  </Heal>
 </Entity>

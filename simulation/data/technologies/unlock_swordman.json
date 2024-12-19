@@ -18,6 +18,6 @@
 	"requirementsTooltip": "Unlocked in village Phase.",
 	"icon": "helmet_corinthian_bronze_old.png",
 	"researchTime": 25,
-	"tooltip": "Unlock the ability to train axeman from baracks.",
+	"tooltip": "Unlock the ability to train swordman from baracks.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

@@ -23,6 +23,7 @@
     <SpecificName>Alexandros ho Megas</SpecificName>
     <Tooltip>Counters: 1.2× vs Heroes.</Tooltip>
     <Icon>units/mace_hero_alexander.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/hero_cavalry_swordsman_alexander_m.xml</Actor>

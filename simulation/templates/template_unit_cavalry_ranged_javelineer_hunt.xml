@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_ranged">
+  <Attack>
+    <Ranged>
+      <AttackName>Javelin</AttackName>
+      <Damage>
+        <Pierce>15.0</Pierce>
+	<Hack>1.0</Hack>
+      </Damage>
+      <MaxRange>28</MaxRange>
+      <PrepareTime>200</PrepareTime>
+      <RepeatTime>2000</RepeatTime>
+      <Projectile>
+        <Speed>700</Speed>
+        <Spread>5</Spread>
+        <Gravity>35</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="5"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Ranged>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>50</wood>
+    </Resources>
+  </Cost>
+  <Identity>
+    <GenericName>Cavalry Javelineer</GenericName>
+    <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
+  </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>1</Hack>
+        <Pierce>1</Pierce>
+        <Crush>5</Crush>
+      </Damage>
+    </Entity>
+ </Resistance>
+  <Sound>
+    <SoundGroups>
+      <attack_ranged>attack/weapon/javelin_attack.xml</attack_ranged>
+      <attack_impact_ranged>attack/impact/javelin_impact.xml</attack_impact_ranged>
+    </SoundGroups>
+  </Sound>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.0</WalkSpeed>
+    <Acceleration op="mul">1.2</Acceleration>
+  </UnitMotion>
+</Entity>

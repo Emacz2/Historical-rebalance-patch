@@ -1,3 +1,98 @@
+V0.2.9
+** updated 10% slower attack time, -1 of each armor
+** storehouses have 2% faster gather speed radius of 20**
+metal mines, large 5500 instead of 5000 and small 1250 instead of 1000
+
+Athen 
+p2 bonus (Hellenes) 1.01% walk speed, ranged units +1 range, melee units 2% dmg
+p3 bonus (Hellenes) 1.01% walk speed, ranged units +1 range, melee units 3% dmg
+gymnasiums get +5 pop bonus and build time reduced by 20 seconds
+Council chambers +10 pop
+Teambonus2 no longer +2 range .5 pierce/hack resistance instead (Hellenic civs get +1 range already didn't want it to double dip) 
+
+Brits
+Champion trumpeter added (found more evidence of the Brittan tribes using them than the gauls)
+
+Cart
+Merc 20% less dmg p1 instead of 25%
+CS 5% faster at gathering and 10% less train time, but attack 10% slower and have 50% less armor
+
+Gauls
+carnyx aura range increased to 30 and 15% less dmg and attack strength, but actual units attack decreased 14 Hack no pierce.  (Can't seem to find any evidence of them being use as actual fighting weapons, rather their sound and intimidation)
+assembly of princes +5 pop
+Teambonus -20% time/cost for forge techs
+
+Han
+academies +5 pop
+
+Iber slingers
+-3 range instead of -5
+teambonus2 cav or mining related?  Horse breeding was particularly important to the Iberians and their nobility. Mining was also very important for their economy, especially the silver mines near Gader and Cartago Nova, the iron mines in the Ebro valley,
+
+
+Kush
+Large temples +5 pop
+small temples +3 pop
+archers 5% more train time part of civ bonus
+
+Mace 
+"noblemen" (cavalry) only .5 extra hack and pierce resistance in p1
+p2 bonus +.5 more -1% slower movement?
+Teambonus2 storehouse tech cost reduced to 25% instead of 50%
+Alexander's aura, speed reduced to 10% from 15 (since mace have a speed bonus already) second arura range increased to 45 from 30
+CS 5% faster at gathering and 10% less train time, but attack 10% slower and have 50% less armor
+
+Maury
+Elephant stables +5 pop
+palace +10 pop
+
+Pers
+P2 bonus, cav 10% less food/wood/metal
+P3 bonus, cav 15% less food/wood/metal
+Thrown hall +10 pop
+Fire bolt shooter, splash dmg changed from linear to circular. But pierce dmg reduced to 35 from 40, splash pierce from 10 to 5.
+
+Ptol 
+Champions +100 life, 50% more food cost, 50% less wood and metal but -1.5 health per second (they can be healed)
+Foreign Mercanaries tech "Citizen Soldiers -10% train time, 5% melee/ranged dmg, +0.5 pierce/hack armor but -5% res gathering
+
+Rome teambonus
+Swordsman 10% faster train time (applies to all, cav, champ, hero)
+camps +10 pop, build time reduced by 40 seconds
+
+Sele
+CCs/colonies team bonus includes 25% more pop (25 instead of 20)
+
+Sparta 
+P2 bonus (Hellenes) 1.01% walk speed, ranged units +1 range
+p3 bonus (Hellenes) 1.01% walk speed, ranged units +1 range
+no longer have pikeman helot, helots 20% slower attack speed instead of 15%
+
+
+
+
+Druids (Brit/Celtic priest) +15 vision (50), +3 range (15) and heal at 3 health per second instead of 2.5 and available p1  but 20 seconds instead of 15 for train time
+Celtic citizen infantry 25 more health 7% faster movement speed but -1 of each resistance
+Celtic temples cost 50 more wood but +5 pop
+
+
+ranged units walk speeds modified
+Archer/Xbow/Slinger all add 1.3 to base speed, javs 1.4 (10.3, 10.3, 10.3, 10.4) 
+
+Greeks (Hellenes) Olympic athletes 1.03% walk speed, ranged units +1 range, melee units 2% dmg but 5% more train time/
+
+
+Boltshooter pierce resistance set to 25 (93% absorb)
+Champ cav train time reduced to 25 seconds (no longer can build from stables, harder to spam)
+
+Split spear, archer, jav cav into two groups
+regular/fighting a little stronger than before, but move much slower
+raiding/hunting weaker but move much faster than before (spear x3 vs cav)
+
+
+
+
+
 v0.2.8.1
 slingers range increased to 50 but dmg decreasd to 11.5 pierce and 0.5 crush.  Resistance 1.5H 2 pierce
 xbows resistance 2H 2P
@@ -22,9 +117,9 @@ Kush archer -15% pierce dmg instead of 10 to offset added poison dmg
 
 Mace
 Polearm tradition 25% less train time, 40% less exp 10% less metal
-Citizen infantry -5% dmg and -.5 of each armor but 5% faster gather rate (Early mace infantry was mostly made up of shepherds)
+Citizen infantry -5% dmg and -1 of each armor but 5% faster gather rate (Early mace infantry was mostly made up of shepherds)**
 Cavalry +1 of each resistance but 1% slower walk speed (Noblemen)
-storehouses have 5% faster gather speed radius of 20
+storehouses have 5% faster gather speed radius of 20**
 
 Maury
 Maury, get rid of repeat penalty for archers

@@ -5,6 +5,7 @@
     <GenericName>Athenian Slinger Militia</GenericName>
     <SpecificName>Psilòs Athēnaîos</SpecificName>
     <Icon>units/athen_infantry_slinger.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/athen/infantry_slinger_a</Entity>

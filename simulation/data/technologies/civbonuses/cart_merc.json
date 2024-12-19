@@ -3,16 +3,16 @@
 	"autoResearch": true,
 	"description": "The majority of the carthage army was made up of mercanaries.",
 	"icon": "agoge.png",
-	"tooltip": "Mercanaries are available in p1, but do 25% less damage. They gain the 25% back when p2 is researched.",
+	"tooltip": "Mercanaries are available in p1, but do 20% less damage. They gain the 25% back when p2 is researched.",
 	"requirements": { "civ": "cart" },
 	"modifications": [
 
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.75 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.75},
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.75},
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.75 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.75},
-		{ "value": "Attack/RangedDamage/Crush", "multiply": 0.75}
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.8 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.8},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.8},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.8 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.8},
+		{ "value": "Attack/RangedDamage/Crush", "multiply": 0.8}
 
 	],
 

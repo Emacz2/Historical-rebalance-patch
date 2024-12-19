@@ -108,10 +108,11 @@
       hellenistic_metropolis
       apophora
       apophora_2
-	  roman_roads
-	  pheidian_workshop
+      roman_roads
+      pheidian_workshop
       unlock_spies
       spy_counter
+      foreign_mercenaries
     </Technologies>
   </Researcher>
 <Resistance>

@@ -3,8 +3,7 @@
   <Identity>
     <Civ>mace</Civ>
     <SpecificName>Hoplothēkē</SpecificName>
-    <RequiredTechnology>phase_town</RequiredTechnology>
-    <VisibleClasses datatype="tokens">Town Arsenal</VisibleClasses>
+    <VisibleClasses datatype="tokens">Arsenal</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>structures/hellenes/workshop.xml</Actor>

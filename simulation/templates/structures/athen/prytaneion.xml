@@ -17,6 +17,9 @@
   <Health>
     <Max>2000</Max>
   </Health>
+    <Population>
+    <Bonus>10</Bonus>
+  </Population>
   <Identity>
     <Civ>athen</Civ>
     <GenericName>Council Chamber</GenericName>

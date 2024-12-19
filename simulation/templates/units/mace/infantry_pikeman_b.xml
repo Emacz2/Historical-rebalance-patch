@@ -7,6 +7,7 @@
     <GenericName>Foot Companion</GenericName>
     <SpecificName>Pezétairos</SpecificName>
     <Icon>units/mace_infantry_pikeman.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/mace/infantry_pikeman_a</Entity>

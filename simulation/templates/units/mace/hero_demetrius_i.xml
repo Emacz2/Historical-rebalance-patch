@@ -14,6 +14,7 @@
     <GenericName>Demetrius I the Besieger</GenericName>
     <SpecificName>Dēmētrios Poliorkētēs</SpecificName>
     <Icon>units/mace_hero_demetrius.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/hero_infantry_swordsman_demetrius.xml</Actor>

@@ -39,6 +39,7 @@
     <GenericName>Spartan Woman</GenericName>
     <SpecificName>Spartiâtis</SpecificName>
     <Icon>units/spart_support_female_citizen.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <UnitAI>
     <CanPatrol>true</CanPatrol>

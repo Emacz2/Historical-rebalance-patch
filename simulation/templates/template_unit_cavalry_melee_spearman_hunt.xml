@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_melee">
+  <Attack>
+    <Melee>
+      <AttackName>Spear</AttackName>
+      <Damage>
+        <Hack>3.0</Hack>
+        <Pierce>7.0</Pierce>
+      </Damage>
+      <Bonuses>
+        <BonusCavMelee>
+          <Classes>Cavalry</Classes>
+          <Multiplier>3</Multiplier>
+        </BonusCavMelee>
+      </Bonuses>
+      <MaxRange>5</MaxRange>
+      <PrepareTime>500</PrepareTime>
+      <RepeatTime>1100</RepeatTime>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Melee>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>50</wood>
+    </Resources>
+  </Cost>
+  <Identity>
+    <GenericName>Cavalry Spearman</GenericName>
+    <Tooltip>Counters: 3× vs Cavalry.</Tooltip>
+    <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
+    <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
+  </Identity>
+ <UnitMotion>
+    <WalkSpeed op="mul">1.1</WalkSpeed>
+    <RunMultiplier>1.3</RunMultiplier>
+  </UnitMotion>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>0</Hack>
+        <Pierce>3</Pierce>
+        <Crush>5</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Sound>
+    <SoundGroups>
+      <attack_melee>attack/weapon/spear_attack.xml</attack_melee>
+    </SoundGroups>
+  </Sound>
+</Entity>

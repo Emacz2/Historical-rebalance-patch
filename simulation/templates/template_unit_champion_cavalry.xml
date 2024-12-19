@@ -2,7 +2,7 @@
 <Entity parent="template_unit_champion">
   <Cost>
     <Population>1</Population>
-    <BuildTime>30</BuildTime>
+    <BuildTime>25</BuildTime>
     <Resources>
       <food>160</food>
       <wood>90</wood>

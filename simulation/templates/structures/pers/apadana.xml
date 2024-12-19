@@ -17,6 +17,9 @@
   <GarrisonHolder>
     <Max>10</Max>
   </GarrisonHolder>
+  <Population>
+    <Bonus>10</Bonus>
+  </Population>
   <Health>
     <Max>3000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_6x6</SpawnEntityOnDeath>

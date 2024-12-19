@@ -6,6 +6,7 @@
     <GenericName>Surgeon</GenericName>
     <SpecificName>Iatros</SpecificName>
     <Icon>units/hele_support_healer.png</Icon>
+   <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/spart/support_healer_a</Entity>

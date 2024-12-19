@@ -12,7 +12,8 @@
     <GenericName>Hippocrates</GenericName>
     <SpecificName>Hippocrates</SpecificName>
     <Icon>units/athen/hero_hippocrates.png</Icon>
-	<RequiredTechnology>phase_town</RequiredTechnology>
+  <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
+  <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/hero_healer_hippocrates.xml</Actor>

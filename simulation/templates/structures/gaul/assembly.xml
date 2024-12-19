@@ -18,6 +18,9 @@
     <BuffHeal>0</BuffHeal>
     <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Health>
     <Max>2000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_6x6</SpawnEntityOnDeath>

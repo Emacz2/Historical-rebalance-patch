@@ -8,6 +8,7 @@
     <GenericName>Iphicrates</GenericName>
     <SpecificName>Iphikratēs</SpecificName>
     <Icon>units/athen_hero_iphicrates.png</Icon>
+   <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/hero_infantry_javelinist_iphicrates.xml</Actor>

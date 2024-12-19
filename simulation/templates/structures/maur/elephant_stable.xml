@@ -5,8 +5,11 @@
     <SpecificName>Vāraṇaśālā</SpecificName>
     <RequiredTechnology>phase_town</RequiredTechnology>
     <Classes datatype="tokens">CivSpecific</Classes>
-    <VisibleClasses datatype="tokens">-City Town</VisibleClasses>
+    <VisibleClasses datatype="tokens">Town</VisibleClasses>
   </Identity>
+   <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <VisualActor>
     <Actor>structures/mauryas/stable_elephant.xml</Actor>
   </VisualActor>

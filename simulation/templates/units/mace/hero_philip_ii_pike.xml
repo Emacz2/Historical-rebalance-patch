@@ -9,6 +9,7 @@
     <GenericName>Philip II of Macedon</GenericName>
     <SpecificName>Philippos B' ho Makedōn</SpecificName>
     <Icon>units/mace_hero_philip.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/hero_infantry_pikeman_philip.xml</Actor>

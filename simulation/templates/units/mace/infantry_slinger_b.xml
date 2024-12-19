@@ -7,6 +7,7 @@
     <GenericName>Rhodian Slinger</GenericName>
     <SpecificName>Sphendonḗtēs Rhódios</SpecificName>
     <Icon>units/mace_infantry_slinger.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>

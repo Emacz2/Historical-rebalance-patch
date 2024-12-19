@@ -5,6 +5,7 @@
     <GenericName>Athenian Hoplite</GenericName>
     <SpecificName>Hoplítēs Athēnaîos</SpecificName>
     <Icon>units/athen_infantry_spearman.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
    <Auras datatype="tokens">
     units/phalanx

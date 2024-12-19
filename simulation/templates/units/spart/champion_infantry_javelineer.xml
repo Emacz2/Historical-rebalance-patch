@@ -7,7 +7,7 @@
     <SpecificName>SpartiátēsII</SpecificName>
     <Icon>units/hele/champion_ranged_polis.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>  
-  <VisibleClasses datatype="tokens">Spartan</VisibleClasses>
+  <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <Cost>
     <BuildTime>20</BuildTime>

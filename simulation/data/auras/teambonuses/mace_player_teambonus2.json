@@ -3,12 +3,12 @@
 	"affects": ["Storehouse"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.5 },
-		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.5 },
-		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.5 },
-		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.5 },
+		{ "value": "Researcher/TechCostMultiplier/food", "multiply": 0.75 },
+		{ "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.75 },
+		{ "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.75 },
+		{ "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.75 },
 		{ "value": "Cost/BuildTime", "multiply": 0.75 }
 	],
 	"auraName": "",
-	"auraDescription": "storehouses build 25% faster, techs from storehouse 50% less research time"
+	"auraDescription": "storehouses build 25% faster, techs from storehouse cost 25% less resources"
 }

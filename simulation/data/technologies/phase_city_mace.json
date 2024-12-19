@@ -1,0 +1,37 @@
+{
+	"genericName": "City Phase",
+	"specificName": {
+		"mace": "Kōmopolis"
+	},
+	"description": "Advances from a bustling town to a veritable metropolis, full of the wonders of modern technology. This is the Spartan city phase, where Infantry cost 10% less metal but take 10% longer to train.",
+	"cost": {
+		"food": 200,
+		"wood": 200,
+		"metal": 800,
+		"stone": 800
+	},
+	"requirements": {
+		"entity": {
+			"class": "Village",
+			"number": 25
+		}
+	},
+	"requirementsTooltip": "Requires 25 village structure.",
+	"supersedes": "phase_town_mace",
+	"replaces": ["phase_city"],
+	"icon": "city_phase.png",
+	"researchTime": 60,
+	"tooltip": "Advance to City Phase, which unlocks more entities and technologies. Civic Centers 20% territory influence radius, 40% more garrison capacity and +5 range but -5% pierce dmg. Structures +3 capture points regeneration rate per garrisoned unit. Infantry cost 20% less metal, and gain 1 hack and pierce armor. Citizens 15% longer to train champions 30 more life.",
+	"modifications": [
+		
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.01, "affects": "Hellenes" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 1, "affects": "Hellenes" },
+		{ "value": "Capturable/GarrisonRegenRate", "add": 3, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.20, "affects": "CivCentre" },
+		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.95, "affects": "CivCentre" }
+
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}

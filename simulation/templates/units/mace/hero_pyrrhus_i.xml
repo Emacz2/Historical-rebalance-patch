@@ -9,6 +9,7 @@
     <GenericName>Pyrrhus I of Epirus</GenericName>
     <SpecificName>Pyrrhos ho Epeiros</SpecificName>
     <Icon>units/mace_hero_pyrrhus.png</Icon>
+    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
   <VisualActor>
     <Actor>units/macedonians/hero_cavalry_spearman_pyrrhus_m.xml</Actor>

@@ -32,6 +32,9 @@
       <MinDistance>80</MinDistance>
     </Distance>
   </BuildRestrictions>
+  <Population>
+    <Bonus>10</Bonus>
+  </Population>
   <BuildingAI>
     <DefaultArrowCount>3</DefaultArrowCount>
     <MaxArrowCount>15</MaxArrowCount>
@@ -44,7 +47,7 @@
     <GarrisonRegenRate>3.0</GarrisonRegenRate>
   </Capturable>
   <Cost>
-    <BuildTime>250</BuildTime>
+    <BuildTime>210</BuildTime>
     <Resources>
       <wood>400</wood>
       <stone>150</stone>

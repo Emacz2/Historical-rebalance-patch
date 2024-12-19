@@ -1,6 +1,6 @@
 {
 	"type": "range",
-	"radius": 30,
+	"radius": 45,
 	"affectedPlayers": [ "Enemy" ],
 	"affects": ["Soldier", "Structure"],
 	"modifications": [

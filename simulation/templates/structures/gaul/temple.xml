@@ -2,10 +2,13 @@
 <Entity parent="template_structure_civic_temple">
   <Cost>
     <Resources>
-      <wood>300</wood>
+      <wood>350</wood>
       <stone>0</stone>
     </Resources>
   </Cost>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Footprint>
     <Square width="24.5" depth="24.5"/>
     <Height>8.0</Height>

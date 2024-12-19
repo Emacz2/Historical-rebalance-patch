@@ -25,7 +25,8 @@
 	"modifications": [
 		{ "value": "Cost/Resources/metal", "multiply": 0.9, "affects": "Infantry !Perioikoi !Helot" },
 		{ "value": "Health/Max", "add": 20, "affects": "Champion"},
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.01, "affects": "Infantry !Perioikoi !Helot"},
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.01, "affects": "Hellenes" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 1, "affects": "Hellenes" },
 		{ "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Infantry !Perioikoi !Helot" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.95, "affects": "CivCentre" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 2, "affects": "Structure" },

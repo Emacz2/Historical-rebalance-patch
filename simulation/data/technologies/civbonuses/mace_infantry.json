@@ -1,21 +1,19 @@
 {
-	"genericName": "Infantry consistedprimarely of shepherds",
+	"genericName": "Infantry consisted primarely of shepherds",
 	"autoResearch": true,
 	"description": "",
 	"requirements": { "civ": "mace" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Mace citizen infantry 5% less dmg and -.5 of each resistance but 5% faster gathering rates.",
+	"tooltip": "Mace citizen infantry 5% faster at gathering and 10% less train time, but attack 10% slower and have 50% less armor.",
 	"modifications": [
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.05},
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.95 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.95 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 0.95 },
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.95 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.95 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.95 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": -0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": -0.5 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": -0.5 }
+		{ "value": "Cost/BuildTime", "multiply": 0.9 },
+		{ "value": "Attack/Melee/RepeatTime", "multiply": 1.10},
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 1.10},
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 0.5},
+		{ "value": "Resistance/Entity/Damage/Hack", "multiply": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "multiply": 0.5},
+		{ "value": "Resistance/Entity/Damage/Crush", "multiply": 0.5}
 
 	],
 	"affects": ["Citizen Infantry"]

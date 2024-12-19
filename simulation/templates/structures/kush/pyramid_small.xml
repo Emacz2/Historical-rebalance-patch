@@ -14,6 +14,9 @@
     <Square width="18.0" depth="18.0"/>
     <Height>15.0</Height>
   </Footprint>
+   <Population>
+    <Bonus>3</Bonus>
+  </Population>
   <Health>
     <Max>2000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x4</SpawnEntityOnDeath>

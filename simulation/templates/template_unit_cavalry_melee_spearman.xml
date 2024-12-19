@@ -4,8 +4,8 @@
     <Melee>
       <AttackName>Spear</AttackName>
       <Damage>
-        <Hack>5.0</Hack>
-        <Pierce>8.0</Pierce>
+        <Hack>6.0</Hack>
+        <Pierce>9.0</Pierce>
       </Damage>
       <Bonuses>
         <BonusCavMelee>
@@ -14,7 +14,7 @@
         </BonusCavMelee>
       </Bonuses>
       <MaxRange>5</MaxRange>
-      <PrepareTime>625</PrepareTime>
+      <PrepareTime>800</PrepareTime>
       <RepeatTime>1275</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
@@ -31,6 +31,7 @@
     <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
   <UnitMotion>
+    <WalkSpeed op="mul">1.03</WalkSpeed>
     <Acceleration op="mul">1.15</Acceleration>
   </UnitMotion>
   <Sound>

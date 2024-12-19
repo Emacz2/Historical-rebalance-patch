@@ -22,6 +22,9 @@
     <Max>2000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_5x5</SpawnEntityOnDeath>
   </Health>
+  <Population>
+    <Bonus>5</Bonus>
+  </Population>
   <Identity>
     <Civ>han</Civ>
     <GenericName>Imperial Academy</GenericName>
