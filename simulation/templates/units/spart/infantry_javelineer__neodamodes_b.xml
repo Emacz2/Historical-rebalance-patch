@@ -33,7 +33,7 @@
  <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/spart/javelineer_merc_a</Entity>
+    <Entity>units/spart/infantry_javelineer__neodamodes_a</Entity>
     <RequiredXp>250</RequiredXp>
   </Promotion>
   <VisualActor>

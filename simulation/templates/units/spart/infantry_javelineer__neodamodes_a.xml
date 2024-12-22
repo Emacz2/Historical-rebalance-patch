@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="units/spart/javelineer_merc_b">
+<Entity parent="units/spart/infantry_javelineer__neodamodes_b">
   <Identity>
     <Rank>Elite</Rank>
   </Identity>
