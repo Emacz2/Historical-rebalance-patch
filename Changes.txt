@@ -1,3 +1,8 @@
+V3.1
+
+V3.0.1
+fixed error with spartan neomades javs template
+
 V3.0
 Athens Javs can promote to champ javs (they cant be trained, only get them through promotion)
 
