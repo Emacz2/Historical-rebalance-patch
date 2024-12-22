@@ -1,4 +1,5 @@
-V3.1
+V3.0.2	
+guess i didn't fix first time
 
 V3.0.1
 fixed error with spartan neomades javs template
