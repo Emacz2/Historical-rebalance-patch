@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_temple">
+<Attack>
+    <Ranged>
+      <AttackName>Bow</AttackName>
+      <Damage>
+        <Pierce>5</Pierce>
+      </Damage>
+      <MaxRange>40</MaxRange>
+      <PrepareTime>1500</PrepareTime>
+      <RepeatTime>2500</RepeatTime>
+      <Projectile>
+        <Speed>1000</Speed>
+        <Spread>1.5</Spread>
+        <Gravity>50</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+      <RangeOverlay>
+        <LineTexture>outline_border.png</LineTexture>
+        <LineTextureMask>outline_border_mask.png</LineTextureMask>
+        <LineThickness>0.175</LineThickness>
+      </RangeOverlay>
+    </Ranged>
+  </Attack>
+  <BuildRestrictions>
+    <Category>ArmyCamp</Category>
+    <Distance>
+      <FromClass>Temple</FromClass>
+      <MinDistance>50</MinDistance>
+    </Distance>
+  </BuildRestrictions>
+<BuildingAI>
+    <DefaultArrowCount>0</DefaultArrowCount>
+    <MaxArrowCount>5</MaxArrowCount>
+    <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
+    <GarrisonArrowClasses>Soldier</GarrisonArrowClasses>
+  </BuildingAI>
   <Cost>
     <Resources>
       <wood>350</wood>

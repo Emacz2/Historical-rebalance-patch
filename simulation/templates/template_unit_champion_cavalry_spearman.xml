@@ -15,7 +15,7 @@
         </BonusCavMelee>
       </Bonuses>
       <PrepareTime>500</PrepareTime>
-      <RepeatTime>1215</RepeatTime>
+      <RepeatTime>1200</RepeatTime>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>

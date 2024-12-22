@@ -1,0 +1,14 @@
+{
+	"genericName": "Superior scouting",
+	"autoResearch": true,
+	"description": "The Iberian were know for ambush style fighting.",
+	"requirements": { "civ": "iber" },
+	"icon": "wooden_walls.png",
+	"tooltip": "All soldiers +15 range of site.",
+	"modifications": 
+[
+		{ "value": "Vision/Range", "add": 15 }
+	
+	],
+	"affects": ["Soldier"]
+}

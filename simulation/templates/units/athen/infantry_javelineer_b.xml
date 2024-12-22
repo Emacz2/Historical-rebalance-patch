@@ -9,8 +9,8 @@
   </Cost>
   <Identity>
     <SelectionGroupName>units/athen/infantry_javelineer_b</SelectionGroupName>
-    <GenericName>Thracian Peltast</GenericName>
-    <SpecificName>Peltastḗs Thrâx</SpecificName>
+    <GenericName>Athenian Peltast</GenericName>
+    <SpecificName>Peltastḗs Athēnaîos</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
      <VisibleClasses datatype="tokens">Citizen -Mercenary Hellenes</VisibleClasses>

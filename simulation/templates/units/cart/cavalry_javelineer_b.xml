@@ -7,6 +7,14 @@
     <SpecificName>Ḥayyāl Raḫūv Masili</SpecificName>
     <Icon>units/cart_cavalry_javelinist.png</Icon>
   </Identity>
+  <Cost>
+    <Population>1</Population>
+    <Resources>
+      <food>80</food>
+      <wood>30</wood>
+      <metal>30</metal>
+    </Resources>
+  </Cost>
   <Promotion>
     <Entity>units/cart/cavalry_javelineer_a</Entity>
   </Promotion>

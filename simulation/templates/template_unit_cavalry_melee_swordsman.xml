@@ -10,6 +10,12 @@
       <MaxRange>3.25</MaxRange>
       <PrepareTime>375</PrepareTime>
       <RepeatTime>1000</RepeatTime>
+     <Bonuses>
+        <BonusMelee>
+          <Classes>Ranged Infantry</Classes>
+          <Multiplier>1.25</Multiplier>
+        </BonusMelee>
+      </Bonuses>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
@@ -22,6 +28,7 @@
   <Identity>
     <GenericName>Cavalry Swordsman</GenericName>
     <VisibleClasses datatype="tokens">Swordsman</VisibleClasses>
+     <Tooltip>Counters: 1.25× vs Ranged Infantry.</Tooltip>
   </Identity>
   <Loot>
     <wood>4</wood>

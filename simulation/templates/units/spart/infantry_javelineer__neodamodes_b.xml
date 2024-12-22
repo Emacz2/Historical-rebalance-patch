@@ -21,34 +21,7 @@
  <Health>
     <Max>55</Max>
    </Health>
- <Attack>
-    <Ranged>
-      <AttackName>Javelin</AttackName>
-      <Damage>
-        <Pierce>15.0</Pierce>
-      </Damage>
-      <MaxRange>30</MaxRange>
-      <PrepareTime>400</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
-      <Projectile>
-        <Speed>70</Speed>
-        <Spread>4</Spread>
-        <Gravity>35</Gravity>
-        <FriendlyFire>false</FriendlyFire>
-        <LaunchPoint y="3"/>
-      </Projectile>
-      <PreferredClasses datatype="tokens">Human</PreferredClasses>
-    </Ranged>
-  </Attack>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>2</Hack>
-        <Pierce>2</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-  <Identity>
+   <Identity>
     <Civ>spart</Civ>
     <Lang>napatan</Lang>
     <SelectionGroupName>units/spart/infantry_javelineer_merc_b</SelectionGroupName>
@@ -56,7 +29,7 @@
     <SpecificName>Akontistḗs Neodamōdeis</SpecificName>
     <Icon>units/athen_infantry_javelinist.png</Icon>
    <RequiredTechnology>phase_village</RequiredTechnology>
-   <VisibleClasses datatype="tokens">-Worker</VisibleClasses>
+   <VisibleClasses datatype="tokens">-Worker Hellenes</VisibleClasses>
  <Rank>Advanced</Rank>
   </Identity>
   <Promotion>

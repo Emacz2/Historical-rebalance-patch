@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_civic_temple">
- <Cost>
-    <BuildTime>125</BuildTime>
-    <Resources>
-      <stone>200</stone>
-    </Resources>
-  </Cost>
+   <Health>
+   <RegenRate>-2</RegenRate>
+  </Health>
+<ResourceTrickle>
+    <Rates>
+      <metal>1</metal>
+    </Rates>
+    <Interval>1000</Interval>
+  </ResourceTrickle>
   <Footprint>
     <Square width="19.0" depth="31.5"/>
     <Height>12.0</Height>
@@ -21,6 +24,7 @@
     <Actor>structures/seleucids/temple.xml</Actor>
     <FoundationActor>props/special/eyecandy/greek_temple_unfinished.xml</FoundationActor>
   </VisualActor>
+  <Researcher disable=""/>
 <Resistance>
     <Entity>
  <ApplyStatus>
@@ -33,10 +37,17 @@
   </Resistance>
  <Upgrade>
    <Plundered_temple>
-      <Entity>structures/sele/temple_plundered</Entity>
-      <Tooltip>Start plundering the temple. Allows training of cartaphracts.</Tooltip>
+      <Entity>structures/sele/temple</Entity>
+      <Tooltip>Stop plundering the temple.</Tooltip>
       <Variant>upgrading</Variant>
       <Time>2</Time>
    </Plundered_temple>
   </Upgrade>
+ <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+     -units/{civ}/support_healer_b
+      units/{civ}/champion_cavalry
+    </Entities>
+  </Trainer>
 </Entity>

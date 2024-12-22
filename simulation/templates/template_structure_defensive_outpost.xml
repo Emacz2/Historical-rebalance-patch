@@ -74,7 +74,7 @@
     </TurretPoints>
   </TurretHolder>
   <Vision>
-    <Range>90</Range>
+    <Range>95</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>

@@ -10,6 +10,12 @@
       <MaxRange>2.75</MaxRange>
       <PrepareTime>375</PrepareTime>
       <RepeatTime>800</RepeatTime>
+      <Bonuses>
+        <BonusMelee>
+          <Classes>Ranged Infantry</Classes>
+          <Multiplier>1.5</Multiplier>
+        </BonusMelee>
+      </Bonuses>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
@@ -19,6 +25,7 @@
   <Identity>
     <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <GenericName>Champion Swordsman</GenericName>
+   <Tooltip>Counters: 1.5× vs Ranged Infantry.</Tooltip>
   </Identity>
   <Resistance>
     <Entity>

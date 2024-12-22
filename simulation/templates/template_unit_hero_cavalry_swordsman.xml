@@ -10,6 +10,12 @@
      <MaxRange>3.5</MaxRange>
      <PrepareTime>375</PrepareTime>
      <RepeatTime>850</RepeatTime>
+     <Bonuses>
+        <BonusMelee>
+          <Classes>Ranged Infantry</Classes>
+          <Multiplier>1.25</Multiplier>
+        </BonusMelee>
+      </Bonuses>
      <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
@@ -22,6 +28,7 @@
   <Identity>
     <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <GenericName>Hero Cavalry Swordsman</GenericName>
+    <Tooltip>Counters: 1.25× vs Ranged Infantry.</Tooltip>
   </Identity>
   <Resistance>
     <Entity>

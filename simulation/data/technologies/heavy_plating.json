@@ -1,0 +1,31 @@
+{
+	"genericName": "Heavy Plating",
+	"description": "Seleucid military tactics revolve around a frontal attack with heavily armoured units.",
+	"cost": {
+		"food": 200,
+		"wood": 200,
+		"metal": 600
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" },
+			{
+				"any": [
+					{ "civ": "sele" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "chamfron.png",
+	"researchTime": 60,
+	"tooltip": "Cataphracts +2 Hack and +1.5 Pierce resistances, but -10% movementspeed.",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 2 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.5 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.9 }
+		
+	],
+	"affects": ["Champion Cavalry Spearman"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

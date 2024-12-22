@@ -65,7 +65,7 @@
  <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/champion_infantry_swordsman
+     units/{civ}/champion_infantry_swordsman
     </Entities>
   </Trainer>
   <VisualActor>

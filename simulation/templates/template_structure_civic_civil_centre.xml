@@ -10,7 +10,7 @@
     <Ranged>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>4.0</Pierce>
+        <Pierce>4.2</Pierce>
       </Damage>
       <MaxRange>65</MaxRange>
       <PrepareTime>400</PrepareTime>
@@ -124,9 +124,9 @@
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Hack>25</Hack>
-        <Pierce>30</Pierce>
-        <Crush>7.5</Crush>
+        <Hack>24</Hack>
+        <Pierce>28</Pierce>
+        <Crush>8</Crush>
       </Damage>
     </Entity>
   </Resistance>
@@ -157,7 +157,7 @@
     </Entities>
   </Trainer>
   <Vision>
-    <Range>80</Range>
+    <Range>95</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>

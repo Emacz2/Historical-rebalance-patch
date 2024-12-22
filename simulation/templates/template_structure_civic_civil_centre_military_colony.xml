@@ -49,6 +49,6 @@
 		</SoundGroups>
 	</Sound>
 	<TerritoryInfluence>
-		<Radius>75</Radius>
+		<Radius>90</Radius>
 	</TerritoryInfluence>
 </Entity>

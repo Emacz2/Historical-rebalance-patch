@@ -4,13 +4,13 @@
         "description": "The seleucid empire had a relatively short history,",
         "requirements": { "civ": "sele" },
         "icon": "stone_blocks_brown.png",
-        "tooltip": "CC techs cost 25% more but 50% less train time.",
+        "tooltip": "CC techs cost 20% more but 40% less train time.",
         "modifications": [
-                { "value": "Researcher/TechCostMultiplier/food", "multiply": 1.25 },
-                { "value": "Researcher/TechCostMultiplier/wood", "multiply": 1.25 },
-                { "value": "Researcher/TechCostMultiplier/stone", "multiply": 1.25 },
-                { "value": "Researcher/TechCostMultiplier/metal", "multiply": 1.25 },
-                { "value": "Researcher/TechCostMultiplier/time", "multiply": 0.5 }
+                { "value": "Researcher/TechCostMultiplier/food", "multiply": 1.20 },
+                { "value": "Researcher/TechCostMultiplier/wood", "multiply": 1.20 },
+                { "value": "Researcher/TechCostMultiplier/stone", "multiply": 1.20 },
+                { "value": "Researcher/TechCostMultiplier/metal", "multiply": 1.20 },
+                { "value": "Researcher/TechCostMultiplier/time", "multiply": 0.6 }
         ],
         "affects": ["CivilCentre"]
 }

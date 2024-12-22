@@ -13,18 +13,18 @@
 	<Bonuses>
         <BonusFangMelee>
           <Classes>FemaleCitizen</Classes>
-          <Multiplier>1.5</Multiplier>
+          <Multiplier>2</Multiplier>
         </BonusFangMelee>
    	</Bonuses>
       <RestrictedClasses datatype="tokens">Structure Ship Siege</RestrictedClasses>
  <ApplyStatus>
         <Poisoned>
-          <Interval>3000</Interval>
+          <Interval>2000</Interval>
           <Damage>
             <Poison>1.0</Poison>
           </Damage>
           <Stackability>Extend</Stackability>
-          <Duration>9000</Duration>
+          <Duration>8000</Duration>
         </Poisoned>
       </ApplyStatus>
     </Melee>
@@ -41,7 +41,7 @@
     <BuildTime>15</BuildTime>
     <Population>0</Population>
     <Resources>
-      <food>100</food>
+      <food>80</food>
     </Resources>
   </Cost>
   <Footprint replace="">
@@ -49,11 +49,11 @@
     <Height>1.5</Height>
   </Footprint>
   <Health>
-    <Max>50</Max>
+    <Max>80</Max>
   </Health>
   <Identity>
     <GenericName>War Dog</GenericName>
-    <Tooltip>Cannot attack Structures, Ships, or Siege Engines.</Tooltip>
+    <Tooltip>Cannot attack Structures, Ships, or Siege Engines; Counters: 2.0× vs Women.</Tooltip>
     <Classes datatype="tokens">Human FastMoving</Classes>
     <VisibleClasses datatype="tokens">Dog Melee</VisibleClasses>
   </Identity>

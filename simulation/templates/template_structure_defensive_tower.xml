@@ -4,12 +4,12 @@
 		<Ranged>
 			<AttackName>Bow</AttackName>
 			<Damage>
-				<Pierce>8</Pierce>
+				<Pierce>5</Pierce>
 			</Damage>
 			<MaxRange>70</MaxRange>
 			<MinRange>10</MinRange>
 			<PrepareTime>400</PrepareTime>
-			<RepeatTime>3500</RepeatTime>
+			<RepeatTime>2000</RepeatTime>
 			<Projectile>
 				<Speed>1000</Speed>
 				<Spread>1.0</Spread>
@@ -34,7 +34,7 @@
 		<Category>Tower</Category>
 		<Distance>
 			<FromClass>Tower</FromClass>
-			<MinDistance>60</MinDistance>
+			<MinDistance>65</MinDistance>
 		</Distance>
 	</BuildRestrictions>
 	<GarrisonHolder>
@@ -64,7 +64,7 @@
 		<HeightOffset>18.0</HeightOffset>
 	</StatusBars>
 	<Vision>
-		<Range>70</Range>
+		<Range>80</Range>
 	</Vision>
 	<VisualActor>
 		<FoundationActor>structures/fndn_3x3.xml</FoundationActor>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_cavalry">
+  <Cost>
+    <Resources>
+      <food>175</food>
+      <wood>75</wood>
+      <metal>125</metal>
+    </Resources>
+  </Cost>
   <Attack>
     <Melee>
       <AttackName>Spear</AttackName>
@@ -11,7 +18,7 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>1.5</Multiplier>
+          <Multiplier>2</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PrepareTime>500</PrepareTime>
@@ -24,7 +31,7 @@
   </Health>
   <Identity>
     <GenericName>Champion Cavalry Spearman</GenericName>
-    <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 2× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman Polearm</VisibleClasses>
   </Identity>
   <Resistance>
@@ -37,8 +44,8 @@
   </Resistance>
   <UnitMotion>
     <WalkSpeed op="mul">0.9</WalkSpeed>
-    <RunMultiplier>1.4</RunMultiplier>
-    <Acceleration op="mul">1.0</Acceleration>
+    <RunMultiplier>1.3</RunMultiplier>
+    <Acceleration op="mul">0.95</Acceleration>
   </UnitMotion>
   <Sound>
     <SoundGroups>

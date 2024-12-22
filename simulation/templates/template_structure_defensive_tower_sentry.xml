@@ -23,7 +23,7 @@
 		<Height>9.0</Height>
 	</Footprint>
 	<GarrisonHolder>
-		<Max>3</Max>
+		<Max>4</Max>
 	</GarrisonHolder>
 	<Health>
 		<Max>400</Max>
@@ -46,6 +46,7 @@
 	<Researcher>
 		<Technologies datatype="tokens">
 			tower_watch
+			tower_vision
 		</Technologies>
 	</Researcher>
 	<TerritoryInfluence>

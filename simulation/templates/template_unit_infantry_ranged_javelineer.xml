@@ -12,7 +12,7 @@
       <RepeatTime>2000</RepeatTime>
       <Projectile>
         <Speed>650</Speed>
-        <Spread>4.0</Spread>
+        <Spread>3.5</Spread>
         <Gravity>35</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="3"/>
@@ -48,7 +48,7 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="add">1.4</WalkSpeed>
-    <Acceleration op="add">2.5</Acceleration>
+    <WalkSpeed op="add">1.7</WalkSpeed>
+    <Acceleration op="add">2.7</Acceleration>
   </UnitMotion>
 </Entity>

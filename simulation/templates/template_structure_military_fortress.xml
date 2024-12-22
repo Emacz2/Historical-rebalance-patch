@@ -146,7 +146,7 @@
 		<BatchTimeModifier>0.8</BatchTimeModifier>
 	</Trainer>
 	<Vision>
-		<Range>90</Range>
+		<Range>95</Range>
 	</Vision>
 	<VisualActor>
 		<FoundationActor>structures/fndn_8x8.xml</FoundationActor>

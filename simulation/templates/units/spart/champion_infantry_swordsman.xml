@@ -46,7 +46,7 @@
     <Icon>units/spart_champion_infantry_sword.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
    <Rank>Elite</Rank>
-  <VisibleClasses datatype="tokens">-Builder -Worker -Citizen</VisibleClasses>
+  <VisibleClasses datatype="tokens">-Builder -Worker -Citizen Hellenes</VisibleClasses>
   </Identity>
   <Loot>
     <metal op="add">3</metal>

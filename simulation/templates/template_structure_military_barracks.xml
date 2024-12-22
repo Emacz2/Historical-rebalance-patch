@@ -43,6 +43,10 @@
       barracks_batch_training
       unlock_champion_infantry
       pair_unlock_champions_sele
+      guerilla_tatics_sword
+      guerilla_tatics_spear
+      guerilla_tatics_slinger
+      guerilla_tatics_jav
     </Technologies>
   </Researcher>
   <Sound>

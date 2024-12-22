@@ -1,0 +1,27 @@
+{
+	"genericName": "Guerilla tatics",
+	"description": "Iberian soldiers were know for their guerilla tatics and ambush style attacks.",
+	"cost": {
+		"food": 350
+		
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_village" },
+			{ "civ": "iber" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "walk.png",
+	"researchTime": 45,
+	"tooltip": "Citizen spearman 15% faster but -1.5 of each resistance.",
+	"modifications": [
+	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 },
+	    { "value": "Resistance/Entity/Damage/Hack", "add": -1.5 },
+	    { "value": "Resistance/Entity/Damage/Pierce", "add": -1.5 },
+	    { "value": "Resistance/Entity/Damage/Crush", "add": -1.5 }
+	],
+	"affects": ["Citizen Spearman"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+
+}

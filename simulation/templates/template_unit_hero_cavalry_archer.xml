@@ -11,7 +11,7 @@
       <RepeatTime>1100</RepeatTime>
       <Projectile>
         <Speed>950</Speed>
-        <Spread>2</Spread>
+        <Spread>1</Spread>
         <Gravity>50</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>
@@ -44,6 +44,6 @@
   </UnitAI>
   <UnitMotion>
     <WalkSpeed op="mul">0.85</WalkSpeed>
-    <Acceleration op="mul">0.85</Acceleration>
+    <Acceleration op="mul">1.05</Acceleration>
   </UnitMotion>
 </Entity>

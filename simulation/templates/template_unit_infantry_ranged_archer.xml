@@ -39,7 +39,7 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="add">1.3</WalkSpeed>
-    <Acceleration op="add">2.4</Acceleration>
+    <WalkSpeed op="add">1.1</WalkSpeed>
+    <Acceleration op="add">2.1</Acceleration>
   </UnitMotion>
 </Entity>

@@ -1,7 +1,74 @@
+V3.0
+Athens Javs can promote to champ javs (they cant be trained, only get them through promotion)
+
+Briton
+War dogs health increased to 80 and 2.0 multiplier against women food reduced to 80 "Rabies" adds 1 poison dmg every 2 seconds for 8 seconds (was 1 every 3 for 9)
+Teambonus now includes 20% lessbuild time for healers, along with 20% less res.
+
+Cart 
+Merc Jav Cav cost changed to 80 food 30 wood 30 metal.... Only merc cav that cost has been changed.  
+
+
+Gaul 
+temples now fire arrows range 40, 5 pierce dmg per garrisoned soldier (max 5) every 2.5 seconds
+
+Iber soldiers +15 vision
+Teambonus 2 Cavalry +25 health and 2% speed, but 10% more train time
+Guerilla Tatics tech for each time of CS Melee -1.5 of each resistance 15% walk Jav/Slinger -1 of each resistance 12% faster walk
+
+Maury
+reduced maury archer range bonus from 3 to 2 and team bonus now improves archers accuracy by 10% instead of 10% faster training...
+
+Sele
+cc techs reduced to +20% cost but -40% research time (was 25/50)
+updated temples, when plundering you cant train or research from that temple
+cataphracts also start -1 of each resistance in p2
+P3 heavy plating for cataphracts +2 hack +1.5 pierce armors but 10% slower 200 food 200 wood 600 metal
+
+Spartan
+Hellenes added to neodamodes spear and jav
+
+
+Heavy spear champ spear cav cost changed to 175 food 75 wood 125 metal, they have 2.0 bonus vs cav, but are 10% slower, and accelerate 5% slower (+2.5 hack, +2 pierce compared to regular champ spear cav, but also attack .1 seconds slower 1300 vs 1200*)
+*was lowered from 1215 for OCD purposes :)
+
+
+Cart/Mace CS and Spartan Periokis
+units 7% faster at gathering and 15% less train time, but attack 10% slower and have 50% less armor and ranged units 25% less accurate.",
+made the ranged units 25% less accurate but they train 5% faster now and gather 2% faster
+
+Infantry swordman 1.5 bonus vs ranged infantry
+Cav sword 1.25 bonus vs ranged infantry
+
+Hero Infantry speed increased to 10.3
+Infantry melee speed increased from 9.5 to 9.7
+ranged units speeds as follows:
+Archer 10.1
+Xbow/Slinger 10.4
+Jav 10.7
+I kinda feel 1.0 is a big gap between infantry and melee, but i get why it needs to be that way for balance of strengths/weaknesses.
+
+
+General/All civ changes BUILDINGS
+CC vision increased from 80 to 95 pierce dmg increased to 4.2 from 4.0
+Outpost vision increased from 90 to 100 vision tech reduced from 33% to 30% :) but 250 food instead of 300
+Defensive tower increased from 70-80 tech available p1 that increased by 25% (100)
+Fortress vision increased from 90 to 95
+Colonies vision increased from 75 to 90
+Sentry tower garrion increased to 4, pierce dmg reduced to 5 but repeat time reduced to 2 seconds
+Stone tower garrison inceased to 7 (9 for Iber)
+CC resistances changed hack now 24 was (25) pierce 28 (35) crush 8 (7.5)
+Civic structure template resistances changed 23 (24) 27 (30) 5 (3)
+Defensives structure template resistances changed 30 (35) 36 (45) 9 (5)
+
+
+
+
 V0.2.9
 ** updated 10% slower attack time, -1 of each armor
 ** storehouses have 2% faster gather speed radius of 20**
 metal mines, large 5500 instead of 5000 and small 1250 instead of 1000
+
 
 Athen 
 p2 bonus (Hellenes) 1.01% walk speed, ranged units +1 range, melee units 2% dmg
