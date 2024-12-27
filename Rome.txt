@@ -1,0 +1,22 @@
+Team bonuses
+Swordsman 10% less train time
+
+Civ bonuses
+Siege catapults and Ongars 10% faster fire rate 20% faster movement speed
+
+
+
+
+Phase bonuses
+P2
+swordsman +10 health (excludes hero) and 5% more dmg  (includes hero)
++2 structure capture garrison regen rate 
+30% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+
+P3
+swordsman +15 health (excludes hero) and 5% more dmg  (includes hero)
++3 structure capture garrison regen rate 
+35% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

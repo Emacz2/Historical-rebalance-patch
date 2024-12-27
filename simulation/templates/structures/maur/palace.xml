@@ -51,6 +51,7 @@
     <Entities datatype="tokens">
       units/{civ}/champion_maiden
       units/{civ}/champion_maiden_archer
+      units/{civ}/champion_chariot
       units/{civ}/hero_chanakya
       units/{civ}/hero_chandragupta
       units/{civ}/hero_ashoka

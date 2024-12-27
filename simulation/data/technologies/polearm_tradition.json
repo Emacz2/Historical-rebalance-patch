@@ -19,12 +19,11 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "armor_corinthian.png",
 	"researchTime": 30,
-	"tooltip": "Hoplites −25% training time and −40% promotion experience and 10% less metal.",
+	"tooltip": "Spear/pikemen −25% training time and −40% promotion experience.",
 	"modifications": [
 		{ "value": "Cost/BuildTime", "multiply": 0.75 },
-		{ "value": "Promotion/RequiredXp", "multiply": 0.6 },
-		{ "value": "Cost/Resources/metal", "multiply":  0.9}
-
+		{ "value": "Promotion/RequiredXp", "multiply": 0.6 }
+		
 	],
 	"affects": ["Polearm !Cavalry"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"

@@ -1,0 +1,19 @@
+Team bonuses
+CCs upgrades 50% less time, 40% less cost
+Javelinists 10% more pierce dmg .5 Hack/Pierce resistance
+
+Phase bonuses
+P2
+10% faster metal gathering "workers"
+Hellenes 1% faster walk, 2% more melee dmg, +1 range for ranged units
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+
+P3
+10% faster metal gathering "workers"
+Hellenes 1% faster walk, 3% more melee dmg, +1 range for ranged units
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

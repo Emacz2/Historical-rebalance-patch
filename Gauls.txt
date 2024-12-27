@@ -1,0 +1,24 @@
+Team bonuses
+Forge technologies cost and research time 20% less
+Healers +15 health and 1 of each resistance
+
+Civ bonuses
+Druids available p1, +3 range .5H/sec but 33% more train time
+CS 7% faster walk speed and +25 health, but -1 of each resistance
+Structures (except Wonder) 20% less build time, health and capture points
+
+Phase bonuses
+P2
+Calvary .5 hack/pierce resistance
+Axe man 5% more dmg
+3% faster movement CS
++2 structure capture garrison regen rate 
+20% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+Axe man .5 hack/pierce resistance
+Naked fanatics 2% movement speed
++3 structure capture garrison regen rate 
+20% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

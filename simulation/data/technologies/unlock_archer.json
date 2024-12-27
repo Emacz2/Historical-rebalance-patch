@@ -1,0 +1,22 @@
+{
+	"genericName": "Unlock Archer",
+	"description": "",
+	"cost": {
+		"food": 200,
+		"wood": 200
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_village" },
+			{ "civ": "brit" },
+			{ "civ": "gaul" },
+			{ "civ": "iber" },
+			{ "civ": "han" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Village Phase.",
+	"icon": "helmet_corinthian_bronze_old.png",
+	"researchTime": 25,
+	"tooltip": "Unlock the ability to train Archers from baracks.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

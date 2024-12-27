@@ -1,0 +1,28 @@
+Team bonuses
+Siege weapons and arsenal 25% less build time and cost
+Storehouses 25% less build time, techs from storehouses 25% resource cost
+
+Civ bonuses
+Cavalry +.5 pierce/hack resistance and +1 crush resistance but 1% slower walk
+CS 7% faster gather rate, 15% less train time but attack 10% slower, have 50% less armor and ranged units 25% less accurate
+Storehouse technologies 0 research time, and 2% gather aura range 20
+
+Phase bonuses
+P2
+CS 2% faster gather rate
+Cavalry +.5 pierce/hack resistance (excludes hero's) 1% slower walk speed
+Hellenes 1% faster walk, 2% more melee dmg, +1 range for ranged units
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+Special Technologies
+Polearm Tradition Spear/pikeman -25% build time and promote 40% faster
+
+
+P3
+CS 1% faster gather rate
+Cavalry +.5 pierce/hack resistance (excludes hero's) but 5% more train time
+Hellenes 1% faster walk, 5% more melee dmg, +1 range for ranged units
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 5%

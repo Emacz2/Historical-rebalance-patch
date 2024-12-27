@@ -15,15 +15,15 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "walk.png",
 	"researchTime": 45,
-	"tooltip": "Infantry +15% movement speed but -1 of Hack, Peirce, Crush armor and Spartiates Spearman 10% longer to train",
+	"tooltip": "Infantry +15% movement speed but -1 of Hack, Peirce, Crush armor",
 	"modifications": [
 	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 },
 	    { "value": "Resistance/Entity/Damage/Hack", "add": -1 },
             { "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
-            { "value": "Resistance/Entity/Damage/Crush", "add": -1 },
-	    { "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Champion Spearman" }
+            { "value": "Resistance/Entity/Damage/Crush", "add": -1 }
+	    
 	],
-	"affects": ["Infantry !Perioikoi"],
+	"affects": ["Infantry !Perioikoi !Helot"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 
 }

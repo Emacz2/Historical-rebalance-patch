@@ -1,3 +1,30 @@
+3.1
+Text doc explaining modifications to each civ a little bit more
+
+Brits
+Champion Jav Cav
+Teambonus2 enemy -1% movement speed and -0.5 of reach resistance
+
+Gauls
+Citizen Archers
+Teambonus2 Healers +15 health, 1 of each resistance
+
+Iber 
+Slingers, added 5% build time, reduced pierce bonus from 15 to 10%
+
+Persian 
+Teambonus2 Infantry 10% less train time.
+
+Roman
+Teambonus2 All land units 3% faster movement speed
+
+Sele 
+Teambonus2 workers gather grain 15% faster
+
+All ranged units excluding champs/heros -.5 spread (because so many get bonuses when they rank up, when civs phase up etc.
+Unlock champion chariots moved to p2, 400 food instead of 600, 45 seconds instead of 60.  Trying to figure out where to put them for each civ :)
+Champ Cav Jav dmg increased to 35 pierce and 2.5 hack
+
 V3.0.2	
 guess i didn't fix first time
 

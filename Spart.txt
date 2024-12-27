@@ -1,0 +1,43 @@
+Team bonuses
+Infantry polearm (spear/pikeman) +20 health (excludes Heroes, Periokoi and Helots) and 5% more dmg  (includes Heroes)
+Infantry +.5 pierce/hack resistance, +1 crush resistance and 15% faster promotion
+
+Civ bonuses
+Periokoi units 7% faster gather rate, 15% less train time but attack 10% slower, have 50% less armor and ranged units 25% less accurate
+Helots units 15% faster gather rate, 25% less train time but attack 20% slower, have no armor and ranged units 25% less accurate
+Blacksmith techs cost 25% less resources but 50% longer research time
+Defensive structures take 20% more build time and have 25% less health
+Spartiate spearman available p1 and attack 5% faster
+
+Special technologies
+P1 
+Side arms spearman 5% more dmg but champion spearman 10% more train time
+
+
+
+Phase bonuses
+P2
+Citizen infantry 2% faster resource gather rate
+Slaves 5% faster resource gather rate
+Infantry +.5 pierce/hack resistance and 10% less metal cost but 10% more train time
+Champions +20 health
+Hellenes 1% faster walk, 2% more melee dmg, +1 range for ranged units
++2 structure capture garrison regen rate 
+20% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 5%
+
+Special technolgoies
+Bronze helmets spearman +.5 hack/pierce resistance and +1 crush resistance but champion spearman 10% more train time
+Tyrtean paeans 2 Infantry 15% faster movement speed but -1 of each resistance
+
+
+P3
+Infantry +1 pierce/hack resistance and 20% less metal cost but 10% more train time 
+Champions +30 health but 15% longer train time
+Hellenes 1% faster walk, 3% more melee dmg, +1 range for ranged units
++3 structure capture garrison regen rate 
+20% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 0%
+
+special technology
+Battle armor Infantry +1 hack, +1.5 pierce, +2 crush resistance but 15% more train time

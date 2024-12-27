@@ -2,6 +2,7 @@
 <Entity parent="template_player">
   <Auras datatype="tokens">
     teambonuses/sele_player_teambonus
+    teambonuses/sele_player_teambonus2
   </Auras>
   <EntityLimits>
     <LimitRemovers>

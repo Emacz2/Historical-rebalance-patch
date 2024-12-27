@@ -1,0 +1,27 @@
+Team bonuses
+CCs -20% resource cost, -30% build time and +25% pop
+
+Civ bonuses
+Cataphracts available p2 but 20% less dmg/health and -0.5 of each resistance
+CC techs cost 20% more but 40% less research time
+Farms 25% less wood cost and 75% less build time
+
+
+
+Phase bonuses
+P2
+Citizen infantry 10% less train time
+structures 15% less build time
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+
+P3
+Cataphracts 25% more health/dmg and +.5 pierce/hack resistance
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
+
+special technology
+Heavy Plating Cataphracts +2 hack +1.5 pierce resistance but 10% slower walk speed

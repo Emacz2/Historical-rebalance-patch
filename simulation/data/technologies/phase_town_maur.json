@@ -23,8 +23,8 @@
 	"modifications": [
 
 		{"value": "ResourceGatherer/Rates/tree.wood", "multiply": 1.1, "affects": "Worker" },
-		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.95, "affects": "Archer" },
-		{ "value": "Attack/Ranged/Spread", "multiply": 0.95, "affects": "Archer" },
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.95, "affects": "Citizen Ranged" },
+		{ "value": "Attack/Ranged/Spread", "multiply": 0.95, "affects": "Citizen Ranged" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 2, "affects": "Structure" },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.98, "affects": "CivCentre" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },

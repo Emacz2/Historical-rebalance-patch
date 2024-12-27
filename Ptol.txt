@@ -1,0 +1,24 @@
+Team bonuses
++1 food trickle per second
+structures 10% less wood and build time
+
+Civ bonuses
+cc techs cost 50% less but take 25% more research time
+Champions +100 life, 50% less metal and wood cost but 75% more food and lose 1.5 health per second
+Economic structures (except CC and Naval) and houses -40% wood cost, health and capture points as well as 10% less build time
+
+
+
+
+Phase bonuses
+P2
++2 structure capture garrison regen rate 
+30% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+Special techs
+Foreign mercenaries CS 10% less train time, 5% more melee/ranged dmg and .5 hack/pierce armor but -5% resource gathering speed
+
+P3
++3 structure capture garrison regen rate 
+30% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

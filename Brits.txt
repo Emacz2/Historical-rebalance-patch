@@ -1,0 +1,21 @@
+Team bonuses
+Healers 20% less resources and train time
+enemy -1% movement speed and -0.5 of reach resistance
+
+Civ bonuses
+Druids available p1, +3 range .5H/sec but 33% more train time
+CS 7% faster walk speed and +25 health, but -1 of each resistance
+Structures (except Wonder) 20% less build time, health and capture points
+
+Phase bonuses
+P2
+3% faster movement CS
++2 structure capture garrison regen rate 
+20% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+Chariots 2% movement speed
++3 structure capture garrison regen rate 
+20% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

@@ -1,0 +1,26 @@
+Team bonuses
+Temples 50% resource cost and build time, temple technologies 50% less resource cost and research time
+Archers 10% more pierce dmg and 10% more accurate
+
+Civ bonuses
+Citizen Ranged units 5% faster walk +2 range but -1 of each resistance
+Elephants 30% less train time (excludes hero)
+Citizen melee 5% faster walk 5% more dmg but -1 of each resistance
+10% pop bonus
+City walls 20% less build time 20% less health
+
+Phase bonuses
+P2
+workers 10% faster wood gathering
+Citizen Ranged units 5% faster attack speed 5% more accurate
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+workers 10% faster wood gathering
+Citizen Ranged units 5% faster attack speed 10% more accurate
+Archers +2 range
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

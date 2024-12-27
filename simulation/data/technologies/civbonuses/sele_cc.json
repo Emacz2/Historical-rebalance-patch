@@ -4,7 +4,7 @@
         "description": "The seleucid empire had a relatively short history,",
         "requirements": { "civ": "sele" },
         "icon": "stone_blocks_brown.png",
-        "tooltip": "CC techs cost 20% more but 40% less train time.",
+        "tooltip": "CC techs cost 20% more but 40% less research time.",
         "modifications": [
                 { "value": "Researcher/TechCostMultiplier/food", "multiply": 1.20 },
                 { "value": "Researcher/TechCostMultiplier/wood", "multiply": 1.20 },

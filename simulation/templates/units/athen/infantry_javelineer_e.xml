@@ -4,6 +4,7 @@
     <Rank>Elite</Rank>
   </Identity>
   <Promotion>
+<RequiredXp>300</RequiredXp>
     <Entity>units/athen/champion_infantry_javelineer</Entity>
   </Promotion>
   <VisualActor>

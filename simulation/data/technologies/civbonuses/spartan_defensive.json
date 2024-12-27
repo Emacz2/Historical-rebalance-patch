@@ -6,7 +6,7 @@
             "civ": "spart"
     },
     "icon": "",
-    "tooltip": "",
+    "tooltip": "Defensive structures take 20% more build time and have 25% less health",
     "modifications": [
         { "value": "Cost/BuildTime", "multiply": 1.2 },
     	{ "value": "Health/Max", "multiply": 0.75 }

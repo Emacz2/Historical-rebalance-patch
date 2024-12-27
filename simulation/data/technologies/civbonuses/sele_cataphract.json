@@ -3,16 +3,16 @@
 	"autoResearch": true,
 	"description": "Cataphract.",
 	"icon": "agoge.png",
-	"tooltip": "Cataphracts are available in p2, but do 20% less damage and health. They gain the 20% back when p3 is researched.",
+	"tooltip": "Cataphracts are available in p2, but do 20% less damage/health and -.5 of each resistance. They gain it all back when p3 is researched.",
 	"requirements": { "civ": "sele" },
 	"modifications": [
 
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.8 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.8 },
 		{ "value": "Health/Max", "multiply": 0.8 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": -1 }
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -0.5 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -0.5 }
 
 
 	],

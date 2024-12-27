@@ -5,9 +5,9 @@
 	},
 	"description": "Secret steel working techniques give spartan armor distinctive and beautiful markings. Not only that, but the steel's hardness is unparalleled.",
 	"cost": {
-		"food": 600,
-		"metal": 600,
-		"wood": 600
+		"food": 500,
+		"metal": 500,
+		"wood": 500
 	},
 	"requirements": {
 		"all": [
@@ -22,7 +22,7 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "metalworker.png",
 	"researchTime": 0,
-	"tooltip": "All infantry +1 Hack, 1.5 Pierce, 2 Crush resistance, but Champions 20% more train time.",
+	"tooltip": "All infantry +1 Hack, 1.5 Pierce, 2 Crush resistance, but 15% more train time.",
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.5 },

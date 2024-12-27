@@ -1,0 +1,28 @@
+Team bonuses
+Slingers cost 25% less stone 20% less food
+Cavalry +25 health 2% faster but 10% train time (excludes heros)
+
+Civ bonuses
+Slingers 10% more pierce dmg, 100% more crush dmg and 10% more accurate, but -3 range and 5% more train time
+All soldiers +15 range of site
+
+P1 special techs
+Guerilla tactics Citizen Jav 12% faster walk speed, but -1 of each resistance
+Guerilla tactics Citizen Sling 12% faster walk speed, but -1 of each resistance
+Guerilla tactics Citizen Spear 15% faster walk speed, but -1.5 of each resistance
+Guerilla tactics Citizen Sword 15% faster walk speed, but -1.5 of each resistance
+
+
+Phase bonuses
+P2
+Slingers 10% less attack time, 5% more accurate and +1 range but 5% more train time
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+Slingers +5 Hack/Pierce resistance, 10% more accurate, +2 range but 10% more train time
+Swordsman 5% more melee dmg
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

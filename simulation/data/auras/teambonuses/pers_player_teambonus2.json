@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Infantry"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+                { "value": "Cost/BuildTime", "multiply": 0.9 }
+	],
+	"auraName": "Training Regimes",
+	"auraDescription": "Infantry 10% less train time."
+}

@@ -1,0 +1,37 @@
+{
+	"genericName": "Town Phase",
+	"description": "Advances from a small village to a bustling town, ready to expand rapidly.",
+	"cost": {
+		"food": 575,
+		"wood": 575,
+		"metal": 50,
+		"stone": 50
+	},
+	"requirements": {
+		"entity": {
+			"class": "Village",
+			"number": 5
+		}
+	},
+	"requirementsTooltip": "Requires five Village Structures.",
+	"supersedes": "phase_village",
+	"replaces": ["phase_town"],
+	"icon": "town_phase.png",
+	"researchTime": 30,
+	"tooltip": "Advance to Town Phase, which unlocks more entities and technologies.  Civic Centers +25% territory influence radius, 25% more garrison capacity and +5 rangebut -2% pierce dmg. Structures +2 capture points regeneration rate per garrisoned unit.",
+	"modifications": [
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5, "affects": "Cavalry" },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5, "affects": "Cavalry" },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05, "affects": "Axeman" },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05, "affects": "Axeman"},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05, "affects": "Axeman"},
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.03, "affects": "Citizen Infantry" },
+		{ "value": "Capturable/GarrisonRegenRate", "add": 2, "affects": "Structure" },
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.20, "affects": "CivCentre" },
+		{ "value": "GarrisonHolder/Max", "multiply": 1.25, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.98, "affects": "CivCentre" }
+		
+	],
+	"soundComplete": "interface/alarm/alarm_phase.xml"
+}

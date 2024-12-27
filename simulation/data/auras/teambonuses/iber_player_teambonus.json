@@ -3,10 +3,10 @@
 	"affects": ["Slinger"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "Cost/Resources/food", "multiply": 0.9 },
+		{ "value": "Cost/Resources/food", "multiply": 0.8 },
 		{ "value": "Cost/Resources/stone", "multiply": 0.75 }
 	
 	],
 	"auraName": "Saripeko",
-	"auraDescription": "Slingers −25% less stone, 10% less food."
+	"auraDescription": "Slingers −25% less stone, 20% less food."
 }

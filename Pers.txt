@@ -1,0 +1,25 @@
+Team bonuses
+Barracks and stables -20% build time and resource cost
+Infantry 10% less train time
+
+Civ bonuses
+Citizen Infantry train 15% faster but -5% ranged and melee dmg and -.5 of each resistance
+10% pop bonus
+
+
+Phase bonuses
+P2
+Cavalry 10% less resource cost
+Infantry 10% less train time
+Stables 10% faster batch training
++2 structure capture garrison regen rate 
+30% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+Cavalry 15% less resource cost
+Infantry 10% less train time
+Stables 10% faster batch training
++3 structure capture garrison regen rate 
+30% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

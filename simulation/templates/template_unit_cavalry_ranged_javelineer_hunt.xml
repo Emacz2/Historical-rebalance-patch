@@ -12,7 +12,7 @@
       <RepeatTime>2000</RepeatTime>
       <Projectile>
         <Speed>700</Speed>
-        <Spread>5</Spread>
+        <Spread>5.5</Spread>
         <Gravity>35</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>

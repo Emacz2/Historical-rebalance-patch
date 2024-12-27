@@ -1,0 +1,13 @@
+{
+	"type": "global",
+	"affects": ["Healer"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Health/Max", "add": 15 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+	],
+	"auraName": "Druids",
+	"auraDescription": "Healers +15 health and 1 of each resistance."
+}

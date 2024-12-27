@@ -26,7 +26,7 @@
 		{ "value": "Health/Max", "add": 15, "affects": "Swordsman !Hero"},
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05, "affects": "Swordsman" },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05, "affects": "Swordsman"},
-		{ "value": "Capturable/GarrisonRegenRate", "add": 7, "affects": "Structure" },
+		{ "value": "Capturable/GarrisonRegenRate", "add": 3, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.35, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 5, "affects": "CivCentre" },

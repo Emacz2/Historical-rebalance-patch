@@ -1,0 +1,24 @@
+Team bonuses
+50% less train time mercenaries
+
+Civ bonuses
+CS 5% faster gathering, 15% less train time but attacks 10% slower, ranged 25% less accurate, only 50% of each armor
+Mercenaries available p1, but 20% less ranged and melee attack
+Walls build 50% slower and take 50% more stone but 150% more health
+
+Phase bonuses
+P2
+1% faster resource gathering CS
+10% less build time "embassies"
+25% more melee and ranged attack "Mercenaries"
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+1% faster resource gathering CS
+15% less build time "embassies"
+10% more melee and ranged attack "Mercenaries"
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

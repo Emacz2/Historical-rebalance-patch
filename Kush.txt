@@ -1,0 +1,21 @@
+Team bonuses
+Archers 10% less resources +15 health
+Elephants 20% less res, 20% less train time.
+
+Civ bonuses
+Archers 15% less pierce dmg, 5% more train time but +1 of each resistance and 3 poison dmg (by passes armor) over 3 seconds
+
+Phase bonuses
+P2
+workers gather grain 10% faster
+archers shoot 5% faster and are 10% more accurate and gain +1 range
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+workers gather grain 10% faster
+archers shoot 5% faster and are 10% more accurate and gain +2 rabge
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%

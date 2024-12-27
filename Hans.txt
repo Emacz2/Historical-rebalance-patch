@@ -1,0 +1,20 @@
+Team bonuses
+Champs 50% less food and wood cost, 10% less train time but 50% more metal
+1.5 metal trickle every 2 seconds.
+
+Civ bonuses
+10% max pop
+Walls 50% more health
+
+Phase bonuses
+P2
+Xbow 5% less repeat time, 5% more accurate +1 range
++2 structure capture garrison regen rate 
+25% territory increase
+cc garrison increased 25% range increased 5, pierce dmg reduced by 2%
+
+P3
+Xbow 5% less repeat time, 10% more accurate +1 range
++3 structure capture garrison regen rate 
+25% territory increase
+CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
