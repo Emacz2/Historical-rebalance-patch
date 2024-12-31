@@ -4,7 +4,7 @@
 	"description": "",
 	"requirements": { "civ": "pers" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Persian citizen infantry 10% less train time but 5% less dmg and -.5 of each resistance.",
+	"tooltip": "Persian citizen infantry 10% less train time but 5% less dmg ranged units -.5 of reach resistance, archers -1 range.",
 	"modifications": [
 		{ "value": "Cost/BuildTime", "multiply": 0.9 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.95 },
@@ -13,10 +13,10 @@
 		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 0.95 },
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.95 },
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 0.95 },
-		{ "value": "Resistance/Entity/Damage/Hack", "add": -0.5 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": -0.5 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": -0.5 }
-
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -0.5, "affects": "Ranged" },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -0.5, "affects": "Ranged" },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": -0.5, "affects": "Ranged" },
+		{ "value": "Attack/Ranged/MaxRange", "add": -1, "affects": "Archer" }
 	],
 	"affects": ["Citizen Infantry"]
 }

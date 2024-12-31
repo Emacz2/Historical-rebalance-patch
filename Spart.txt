@@ -19,8 +19,9 @@ Phase bonuses
 P2
 Citizen infantry 2% faster resource gather rate
 Slaves 5% faster resource gather rate
-Infantry +.5 pierce/hack resistance and 10% less metal cost but 10% more train time
+Champions and Heroes +.5 pierce/hack resistance and 10% less metal cost but 10% more train time
 Champions +20 health
+Neodamodes train 5% faster
 Hellenes 1% faster walk, 2% more melee dmg, +1 range for ranged units
 +2 structure capture garrison regen rate 
 20% territory increase
@@ -38,6 +39,6 @@ Hellenes 1% faster walk, 3% more melee dmg, +1 range for ranged units
 +3 structure capture garrison regen rate 
 20% territory increase
 CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 0%
-
+Neodamodes train 10% faster but -1 pierce/hack armor and -10% dmg
 special technology
 Battle armor Infantry +1 hack, +1.5 pierce, +2 crush resistance but 15% more train time

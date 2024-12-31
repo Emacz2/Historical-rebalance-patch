@@ -1,3 +1,24 @@
+3.2
+Brits
+added archers
+
+Persians
+No more pikes. Infantry axeman p1, Merc swordsman from markets ONLY (75 metal, 4 second train time)
+Citizen Infantry train 10% faster but -5% ranged and melee dmg and ranged units -.5 of each resistance, archers -1 range
+P2
+Citizen Infantry -.5 of each resistance
+Citizen Archers shoot 10% faster but -1 range
+P3
+Citizen Infantry 15% less train time, but -1 of each resistance
+Citizen Archers shoot 15% faster but 5% less pierce
+
+Spartans
+Battle armor only effects champions and heroes, no longer includes all infantry
+Helot Reinforcements - Archers shoot 20% faster and are 25% more accurate with 5% more dmg but they lose 10% of gathering bonus.
+p2 Neodamodes train 5% faster
+Neodamodes train 10% faster but -1 pierce/hack armor and -10% dmg
+
+
 3.1
 Text doc explaining modifications to each civ a little bit more
 

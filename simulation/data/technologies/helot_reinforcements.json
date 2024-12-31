@@ -1,0 +1,28 @@
+{
+	"genericName": "Helot reinforcements",
+	"description": "",
+	"cost": {
+		"food": 750,
+		"wood": 750
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "spart" }
+		]
+
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "archery_tradition.png",
+	"researchTime": 40,
+	"tooltip": "Helot archers shoot 20% faster, are 25% more accurate and 5% more pierce dmg but gather resources 10% slower",
+	"modifications": [
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.9},
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.8},
+		{ "value": "Attack/Ranged/Spread", "multiply": 0.75 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.05 }
+		
+	],
+	"affects": ["Helot"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

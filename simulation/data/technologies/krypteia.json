@@ -14,19 +14,12 @@
 	},
 	"icon": "skull_swords.png",
 	"researchTime": 30,
-	"tooltip": "Champions and (Heroes) +15% (10%) attack damage, but Champions +15% training time.",
+	"tooltip": "Champions and Heroes +15% attack damage,  +10% more training time.",
 	"modifications": [
-	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Champion"},
-	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15, "affects": "Champion"},
-	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15, "affects": "Champion" },
-	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15, "affects": "Champion"},
-	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.15, "affects": "Champion" },
-	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.10, "affects": "Hero"},
-	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.10, "affects": "Hero"},
-	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.10, "affects": "Hero" },
-	    { "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.10, "affects": "Hero"},
-	    { "value": "Attack/Ranged/Damage/Crush", "multiply": 1.10, "affects": "Hero" },
-	    { "value": "Cost/BuildTime", "multiply": 1.15, "affects": "Champion"}
+	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Infantry !Neodamodes !Perioikoi !Helot"},
+	    { "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15, "affects": "Infantry !Neodamodes !Perioikoi !Helot"},
+	    { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.15, "affects": "Infantry !Neodamodes !Perioikoi !Helot"},
+	    { "value": "Cost/BuildTime", "multiply": 1.10, "affects": "Infantry !Neodamodes !Perioikoi !Helot"}
 	],
     "soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

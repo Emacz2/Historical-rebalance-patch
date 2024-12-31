@@ -10,7 +10,8 @@
 	"requirements": {
 		"all": [
 			{ "tech": "phase_village" },
-			{ "civ": "gaul" }
+			{ "civ": "gaul" },
+			{ "civ": "pers" }
 		]
 	},
 	"requirementsTooltip": "Unlocked in village Phase.",

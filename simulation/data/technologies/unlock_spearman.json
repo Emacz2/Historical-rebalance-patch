@@ -10,8 +10,8 @@
 		"all": [
 			{ "tech": "phase_village" },
 			{ "civ": "han" },
-			{ "civ": "rome" },
-			{ "civ": "pers" }
+			{ "civ": "rome" }
+			
 		]
 	},
 	"requirementsTooltip": "Unlocked in village Phase.",

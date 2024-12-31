@@ -91,6 +91,11 @@
       units/{civ}/infantry_archer_b
     </Entities>
   </Trainer>
+<Researcher>
+    <Technologies datatype="tokens">
+      helot_reinforcements
+    </Technologies>
+ </Researcher>
   <Vision>
     <Range>90</Range>
   </Vision>

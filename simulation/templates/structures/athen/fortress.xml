@@ -8,6 +8,12 @@
     <Civ>athen</Civ>
     <SpecificName>Phrourion</SpecificName>
   </Identity>
+ <Trainer>
+    <BatchTimeModifier>0.9</BatchTimeModifier>
+    <Entities datatype="tokens">
+     -units/{civ}/champion_infantry_javelineer
+    </Entities>
+  </Trainer>
   <Obstruction>
     <Static width="24.0" depth="26.0"/>
   </Obstruction>

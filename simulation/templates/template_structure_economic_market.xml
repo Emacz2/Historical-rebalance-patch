@@ -51,7 +51,7 @@
       trade_gain_01
       trade_gain_02
       trade_commercial_treaty
-	  unlock_shared_los
+      unlock_shared_los
     </Technologies>
   </Researcher>
   <Resistance>
@@ -80,7 +80,11 @@
   <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/support_trader
+     units/{civ}/support_trader
+     units/{civ}/infantry_swordsman_market
+     units/{civ}/infantry_archer_market
+     units/{civ}/infantry_maceman_market
+     units/{civ}/infantry_javelineer_market
     </Entities>
   </Trainer>
   <Vision>
