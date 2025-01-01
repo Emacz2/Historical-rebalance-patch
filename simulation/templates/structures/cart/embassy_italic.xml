@@ -20,6 +20,7 @@
     <SpecificName>Italic Embassy</SpecificName>
     <Tooltip>Train Italic Mercenaries.</Tooltip>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">Village</VisibleClasses>
     <Icon>structures/embassy_italic.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>

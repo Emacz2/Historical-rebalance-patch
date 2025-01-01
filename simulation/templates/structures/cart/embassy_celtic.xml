@@ -23,6 +23,7 @@
     <SpecificName>Celtic Embassy</SpecificName>
     <Tooltip>Train Celtic Mercenaries.</Tooltip>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">Village</VisibleClasses>
     <Icon>structures/embassy_celtic.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>

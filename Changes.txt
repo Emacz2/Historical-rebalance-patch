@@ -1,3 +1,11 @@
+3.2.1
+fixed error with Ptol/Persian merc swordman
+
+Carth
+embassies count toward p2 building requirements
+gaul merc sword man +25 health 6% faster run/walk but -1 of each resistance (similar to gaul cs bonus)
+regular cav heavy swordman +1.5 fo each resistance instead of 2 like champs
+
 3.2
 Brits
 added archers

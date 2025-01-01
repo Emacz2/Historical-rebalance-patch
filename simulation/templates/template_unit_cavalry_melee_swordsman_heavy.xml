@@ -10,6 +10,12 @@
       <MaxRange>3.25</MaxRange>
       <PrepareTime>375</PrepareTime>
       <RepeatTime>1100</RepeatTime>
+      <Bonuses>
+        <BonusMelee>
+          <Classes>Ranged Infantry</Classes>
+          <Multiplier>1.25</Multiplier>
+        </BonusMelee>
+      </Bonuses>
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
@@ -35,14 +41,14 @@
  <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">2</Hack>
-        <Pierce op="add">2</Pierce>
+        <Hack op="add">1.5</Hack>
+        <Pierce op="add">1.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>
   <UnitMotion>
     <WalkSpeed op="mul">0.9</WalkSpeed>
-    <RunMultiplier>1.4</RunMultiplier>
+    <RunMultiplier>0.9</RunMultiplier>
     <Acceleration op="mul">1.0</Acceleration>
   </UnitMotion>
 </Entity>

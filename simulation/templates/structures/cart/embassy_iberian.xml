@@ -13,6 +13,7 @@
     <SpecificName>Iberian Embassy</SpecificName>
     <Tooltip>Train Iberian Mercenaries.</Tooltip>
     <Classes datatype="tokens">CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">Village</VisibleClasses>
     <Icon>structures/embassy_iberian.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
