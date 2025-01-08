@@ -6,6 +6,7 @@
     <GenericName>Sogdian Archer</GenericName>
     <SpecificName>Θanuvaniya Suguda</SpecificName>
     <Icon>units/pers_infantry_archer.png</Icon>
+   <RequiredTechnology>unlock_archer</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/gaul/infantry_archer_a</Entity>

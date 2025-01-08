@@ -25,3 +25,17 @@ CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
 
 special technology
 Heavy Plating Cataphracts +2 hack +1.5 pierce resistance but 10% slower walk speed
+
+Types of Cavalry
+
+Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Jav
+
+Rergular/fighting Cav 
+Archer
+
+Champ Cavs
+Spear heavy, chariot archer
+
+
+

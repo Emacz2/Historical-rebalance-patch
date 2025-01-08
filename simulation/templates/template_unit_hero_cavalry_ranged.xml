@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_cavalry">
+  <Identity>
+    <Classes datatype="tokens">FastMoving</Classes>
+    <VisibleClasses datatype="tokens">Cavalry Ranged</VisibleClasses>
+    <GenericName>Hero Cavalry Ranged</GenericName>
+  </Identity>
+  <Position>
+    <TurnRate>5</TurnRate>
+  </Position>
+   <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>6.5</Hack>
+        <Pierce>6</Pierce>
+        <Crush>25</Crush>
+      </Damage>
+    <ApplyStatus>
+        <Burning>
+          <Duration>0.4</Duration>
+          <BlockChance>0.5</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
+  <Selectable>
+    <Overlay>
+      <Shape>
+        <Circle radius="3.0"/>
+      </Shape>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <trained>interface/alarm/alarm_create_cav.xml</trained>
+      <walk>actor/mounted/movement/walk.xml</walk>
+      <run>actor/mounted/movement/walk.xml</run>
+      <death>actor/fauna/death/death_horse.xml</death>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>7.0</HeightOffset>
+  </StatusBars>
+  <UnitAI>
+    <Formations datatype="tokens">
+      special/formations/wedge
+    </Formations>
+  </UnitAI>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.8</WalkSpeed>
+    <RunMultiplier>1.4</RunMultiplier>
+  </UnitMotion>
+</Entity>

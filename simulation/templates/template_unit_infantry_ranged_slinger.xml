@@ -23,12 +23,10 @@
    <Resistance>
     <Entity>
       <Damage>
-        <Hack>1.5</Hack>
-        <Pierce>2.0</Pierce>
-        <Crush>10</Crush>
+        <Pierce op="add"> 0.5</Pierce>
       </Damage>
-      </Entity>
-     </Resistance>
+    </Entity>
+  </Resistance>
   <Cost>
     <Resources>
       <stone>20</stone>

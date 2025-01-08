@@ -1,3 +1,26 @@
+3.3 
+Pikeman -1 hack +3 pierce dmg, but 2250 repeat time instead of 1900, .93 speed instead of .95 and .9 acceleration instead of .95.
+Champ pikeman 5 hack 20 pierce instead of 7/15 but 2100 repeat instead of 1750
+Hero pikeman 12/22 1500 changed to 10/30 2000, -.5 pierce resistance, walk speed .93 of hero infantry speed, acceleration .9
+
+Mace no longer can get merc cav p1 :)
+
+Merc bonus changed corrected hack/pierce armor to +.5 instead of 1.0.  Ranged units 10% more accurate instead of 15 
+
+Melee infantry set at 3H 3.5P 15C (Pikeman +1.5 Hack +1 pierce) instead of 3.5/3.5/15 (+2/+1.5), Axeman +.5 hack
+Ranged infantry set to 1.5H 1P instead of 1 hack 2 Pierce (Slingers +0.5 pierce) Javs +.5H +1P 
+
+for comparison
+Com mod has all ranged at 1/1/10 and melee 3/3/15  but then has an infantry template as 2/4/15!?!!?
+Axeman/maceman +2 hack
+Pikeman set to 5/5/
+
+INF hero base resistance 7.5 Hack 8 Pierce 25 crush (Archer/Xbow -2.5/2) Jav -2/-2 (Melee +3/+3+) Pikes
+INF Champ base resistance 4.5/5 (Instead of 3/3)
+
+Town rams, 50 crush dmg, 1000 prepare time 2000 repeat time, garrison capacity 6, 3H 20P 2C resistance, speed/acceleration .6
+City rams crush reduced to 100, capacity 9, speed/acceleration .7
+
 3.2.1
 fixed error with Ptol/Persian merc swordman
 

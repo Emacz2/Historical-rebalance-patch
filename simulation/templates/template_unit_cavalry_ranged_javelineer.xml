@@ -29,15 +29,14 @@
     <GenericName>Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
   </Identity>
-  <Resistance>
+ <Resistance>
     <Entity>
       <Damage>
-        <Hack>2</Hack>
-        <Pierce>2</Pierce>
-        <Crush>5</Crush>
+	<Hack op="add">0.5</Hack>
+        <Pierce op="add">1</Pierce>
       </Damage>
     </Entity>
- </Resistance>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_ranged>attack/weapon/javelin_attack.xml</attack_ranged>

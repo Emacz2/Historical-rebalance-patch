@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_cavalry">
+<Entity parent="template_unit_champion_cavalry_melee">
   <Attack>
     <Melee>
       <AttackName>Spear</AttackName>
@@ -27,14 +27,6 @@
     <Tooltip>Counters: 1.5× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman Polearm</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">1</Hack>
-        <Pierce op="add">1</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <UnitMotion>
     <Acceleration op="mul">1.15</Acceleration>
   </UnitMotion>

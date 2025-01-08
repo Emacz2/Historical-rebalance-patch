@@ -7,11 +7,12 @@
     <GenericName>Melee Infantry</GenericName>
     <VisibleClasses datatype="tokens">Melee</VisibleClasses>
   </Identity>
-  <Resistance>
+<Resistance>
     <Entity>
       <Damage>
-        <Hack>3.5</Hack>
+        <Hack>3.0</Hack>
         <Pierce>3.5</Pierce>
+        <Crush>15</Crush>
       </Damage>
        <ApplyStatus>
         <Burning>

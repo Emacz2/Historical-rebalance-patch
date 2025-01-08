@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry">
+<Entity parent="template_unit_hero_infantry_ranged">
   <Attack>
     <Ranged>
       <AttackName>Bow</AttackName>
@@ -23,14 +23,6 @@
     <VisibleClasses datatype="tokens">Ranged Archer</VisibleClasses>
     <GenericName>Hero Archer</GenericName>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">-2</Hack>
-        <Pierce op="add">-2</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_impact_ranged>attack/impact/arrow_impact.xml</attack_impact_ranged>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_cavalry">
+  <Identity>
+    <Classes datatype="tokens">FastMoving</Classes>
+    <VisibleClasses datatype="tokens">Cavalry</VisibleClasses>
+    <GenericName>Champion Cavalry Ranged</GenericName>
+    <RequiredTechnology>unlock_champion_cavalry</RequiredTechnology>
+  </Identity>
+  <Loot>
+    <xp>200</xp>
+    <food>15</food>
+    <wood>8</wood>
+    <metal>10</metal>
+  </Loot>
+  <Position>
+    <TurnRate>5</TurnRate>
+  </Position>
+ <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>3.5</Hack>
+        <Pierce>3</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+    <ApplyStatus>
+        <Burning>
+          <Duration>0.4</Duration>
+          <BlockChance>0.5</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
+  <Sound>
+    <SoundGroups>
+      <walk>actor/mounted/movement/walk.xml</walk>
+      <run>actor/mounted/movement/walk.xml</run>
+      <death>actor/fauna/death/death_horse.xml</death>
+      <trained>interface/alarm/alarm_create_cav.xml</trained>
+    </SoundGroups>
+  </Sound>
+  <StatusBars>
+    <HeightOffset>7.0</HeightOffset>
+  </StatusBars>
+  <UnitAI>
+    <Formations datatype="tokens">
+      special/formations/wedge
+    </Formations>
+  </UnitAI>
+</Entity>

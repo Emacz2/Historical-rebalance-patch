@@ -7,17 +7,17 @@
     <VisibleClasses datatype="tokens">Ranged</VisibleClasses>
     <GenericName>Ranged</GenericName>
   </Identity>
-  <Resistance>
+<Resistance>
     <Entity>
       <Damage>
-        <Hack>1</Hack>
-        <Pierce>2</Pierce>
-        <Crush>10</Crush>
+        <Hack>1.5</Hack>
+        <Pierce>1</Pierce>
+        <Crush>15</Crush>
       </Damage>
-    <ApplyStatus>
+       <ApplyStatus>
         <Burning>
-          <Duration>0.6</Duration>
-          <BlockChance>0.2</BlockChance>
+          <Duration>0.5</Duration>
+          <BlockChance>0.3</BlockChance>
         </Burning>
       </ApplyStatus>
     </Entity>

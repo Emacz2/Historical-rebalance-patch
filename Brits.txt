@@ -19,3 +19,14 @@ Chariots 2% movement speed
 +3 structure capture garrison regen rate 
 20% territory increase
 CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
+
+Types of Cavalry
+
+Cav Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Jav
+
+Rergular/fighting Cav 
+Sword
+
+Champ Cavs
+Jav and chariot Jav

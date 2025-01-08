@@ -4,10 +4,11 @@
 	"affects": ["Ram"],
 	"affectedPlayers": ["Player", "MutualAlly"],
 	"modifications": [
-		{ "value": "UnitMotion/WalkSpeed", "add": 0.15 },
+		{ "value": "UnitMotion/WalkSpeed", "add": 0.25 },
 		{ "value": "UnitMotion/Acceleration", "add": 1 },
-		{ "value": "Position/TurnRate", "add": 0.5 }
+		{ "value": "Position/TurnRate", "add": 0.5 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05}
 	],
 	"auraName": "Battering Team",
-	"auraDescription": "Battering Rams +0.15 speed, +1 acceleration, and +0.5 turn rate for each garrisoned soldier."
+	"auraDescription": "Battering Rams +0.25 speed, +1 acceleration, and +0.5 turn rate and 5% crush dmg for for each garrisoned soldier."
 }

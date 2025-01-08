@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry">
+<Entity parent="template_unit_champion_infantry_melee">
   <Attack>
     <Melee>
       <AttackName>Pike</AttackName>
       <Damage>
-        <Hack>7</Hack>
-        <Pierce>15</Pierce>
+        <Hack>5</Hack>
+        <Pierce>20</Pierce>
       </Damage>
       <MaxRange>7</MaxRange>
       <PrepareTime>1000</PrepareTime>
-      <RepeatTime>1750</RepeatTime>
+      <RepeatTime>2150</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>3.0</Multiplier>
+          <Multiplier>3.5</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -24,14 +24,14 @@
   </Health>
   <Identity>
     <GenericName>Champion Pikeman</GenericName>
-    <Tooltip>Counters: 3.0 vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 3.5 vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Pikeman Polearm</VisibleClasses>
   </Identity>
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">5.5</Hack>
-        <Pierce op="add">5.0</Pierce>
+        <Hack op="add">3</Hack>
+        <Pierce op="add">2</Pierce>
         <Crush>20</Crush>
       </Damage>
     </Entity>

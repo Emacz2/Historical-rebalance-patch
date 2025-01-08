@@ -4,16 +4,16 @@
     <Melee>
       <AttackName>Pike</AttackName>
       <Damage>
-        <Hack>4</Hack>
-        <Pierce>8</Pierce>
+        <Hack>3</Hack>
+        <Pierce>11</Pierce>
       </Damage>
       <MaxRange>7.0</MaxRange>
       <PrepareTime>1000</PrepareTime>
-      <RepeatTime>1900</RepeatTime>
+      <RepeatTime>2250</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>3.0</Multiplier>
+          <Multiplier>3.5</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -26,17 +26,17 @@
   </Cost>
   <Identity>
     <GenericName>Pikeman</GenericName>
-    <Tooltip>Counters: 3.0 vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 3.5 vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Pikeman Polearm</VisibleClasses>
   </Identity>
   <Loot>
     <wood>5</wood>
   </Loot>
-  <Resistance>
+   <Resistance>
     <Entity>
       <Damage>
-        <Hack>5.5</Hack>
-        <Pierce>5.0</Pierce>
+	 <Hack op="add"> 2</Hack>
+        <Pierce op="add"> 1.0</Pierce>
       </Damage>
     </Entity>
   </Resistance>
@@ -51,7 +51,7 @@
     </Formations>
   </UnitAI>
   <UnitMotion>
-    <WalkSpeed op="mul">0.95</WalkSpeed>
-    <Acceleration op="mul">0.95</Acceleration>
+    <WalkSpeed op="mul">0.93</WalkSpeed>
+    <Acceleration op="mul">0.90</Acceleration>
   </UnitMotion>
 </Entity>

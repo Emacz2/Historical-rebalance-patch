@@ -9,15 +9,6 @@
     <RequiredTechnology>phase_town</RequiredTechnology>  
   <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>5</Hack>
-        <Pierce>5</Pierce>
-        <Crush>20</Crush>
-      </Damage>
-    </Entity>
-  </Resistance>
   <VisualActor>
     <Actor>units/hellenes/infantry_javelinist_c_thureophoros.xml</Actor>
   </VisualActor>

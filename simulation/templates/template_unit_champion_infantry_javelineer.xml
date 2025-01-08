@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry">
+<Entity parent="template_unit_champion_infantry_ranged">
+ <Cost>
+    <BuildTime>20</BuildTime>
+    <Resources>
+      <food>80</food>
+      <wood>75</wood>
+      <metal>70</metal>
+    </Resources>
+  </Cost>
   <Attack>
     <Ranged>
       <AttackName>Javelin</AttackName>
@@ -27,14 +35,14 @@
     <GenericName>Champion Infantry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Ranged Javelineer</VisibleClasses>
   </Identity>
-<Resistance>
+ <Resistance>
     <Entity>
       <Damage>
-        <Hack>3.5</Hack>
-        <Pierce>4</Pierce>
+        <Hack op="add">1</Hack>
+        <Pierce op="add">1.5</Pierce>
         <Crush>20</Crush>
       </Damage>
-  </Entity>
+    </Entity>
   </Resistance>
   <Sound>
     <SoundGroups>

@@ -1,5 +1,6 @@
 Team bonuses
 Swordsman 10% less train time
+All land units 3% faster movement
 
 Civ bonuses
 Siege catapults and Ongars 10% faster fire rate 20% faster movement speed
@@ -20,3 +21,15 @@ swordsman +15 health (excludes hero) and 5% more dmg  (includes hero)
 +3 structure capture garrison regen rate 
 35% territory increase
 CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
+
+Types of Cavalry
+
+Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Spear
+
+Rergular/fighting Cav 
+Jav
+
+Champ Cavs
+Sword
+

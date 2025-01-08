@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry">
+    <Identity>
+    <VisibleClasses datatype="tokens">Infantry Ranged</VisibleClasses>
+    <GenericName>Hero</GenericName>
+  </Identity>
+  <Position>
+    <Anchor>upright</Anchor>
+  </Position>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>6.5</Hack>
+        <Pierce>6</Pierce>
+        <Crush>25</Crush>
+      </Damage>
+    <ApplyStatus>
+        <Burning>
+          <Duration>0.4</Duration>
+          <BlockChance>0.5</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
+  <UnitMotion>
+    <WalkSpeed>10.7</WalkSpeed>
+  </UnitMotion>
+  <Selectable>
+    <Overlay>
+      <Shape>
+        <Circle radius="2.0"/>
+      </Shape>
+      <Texture>
+        <MainTexture>128x128/star.png</MainTexture>
+        <MainTextureMask>128x128/star_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+</Entity>

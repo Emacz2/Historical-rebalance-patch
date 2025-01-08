@@ -10,12 +10,18 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>1.0</Hack>
-        <Pierce>2.0</Pierce>
-        <Crush>5</Crush>
+        <Hack>1.5</Hack>
+        <Pierce>1</Pierce>
+        <Crush>15</Crush>
       </Damage>
+       <ApplyStatus>
+        <Burning>
+          <Duration>0.5</Duration>
+          <BlockChance>0.2</BlockChance>
+        </Burning>
+      </ApplyStatus>
     </Entity>
- </Resistance>
+  </Resistance>
   <UnitAI>
     <Formations datatype="tokens">
       special/formations/skirmish

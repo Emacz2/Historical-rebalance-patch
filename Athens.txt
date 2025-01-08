@@ -17,3 +17,14 @@ Hellenes 1% faster walk, 3% more melee dmg, +1 range for ranged units
 +3 structure capture garrison regen rate 
 25% territory increase
 CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
+
+Types of Cavalry
+
+Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Jav
+
+Rergular/fighting
+Sword
+
+Champ
+None

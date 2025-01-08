@@ -85,6 +85,7 @@
      units/{civ}/infantry_archer_market
      units/{civ}/infantry_maceman_market
      units/{civ}/infantry_javelineer_market
+     units/{civ}/infantry_spearman_market
     </Entities>
   </Trainer>
   <Vision>

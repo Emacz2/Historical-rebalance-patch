@@ -7,7 +7,7 @@
         <Pierce>15.0</Pierce>
 	<Hack>1.0</Hack>
       </Damage>
-      <MaxRange>28</MaxRange>
+      <MaxRange>32</MaxRange>
       <PrepareTime>200</PrepareTime>
       <RepeatTime>2000</RepeatTime>
       <Projectile>
@@ -32,12 +32,10 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>1</Hack>
-        <Pierce>1</Pierce>
-        <Crush>5</Crush>
+	<Hack op="add">-0.5</Hack>
       </Damage>
     </Entity>
- </Resistance>
+  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_ranged>attack/weapon/javelin_attack.xml</attack_ranged>

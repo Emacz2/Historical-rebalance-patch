@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry">
+<Entity parent="template_unit_champion_infantry_melee">
   <Attack>
     <Melee>
       <AttackName>Axe</AttackName>
@@ -24,8 +24,7 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">2.5</Hack>
-        <Pierce op="add">2.5</Pierce>
+        <Hack op="add">1</Hack>
       </Damage>
     </Entity>
   </Resistance>

@@ -30,14 +30,6 @@
     <Tooltip>Counters: 1.5× vs Ranged Infantry.</Tooltip>
     <GenericName>Hero Swordsman</GenericName>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">4</Hack>
-        <Pierce op="add">4</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_melee>attack/weapon/sword_attack.xml</attack_melee>

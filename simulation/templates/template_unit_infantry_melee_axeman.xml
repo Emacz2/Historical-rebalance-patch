@@ -20,6 +20,13 @@
       <metal>10</metal>
     </Resources>
   </Cost>
+ <Resistance>
+    <Entity>
+      <Damage>
+	 <Hack op="add"> 0.5</Hack>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Identity>
     <VisibleClasses datatype="tokens">Axeman</VisibleClasses>
     <GenericName>Axeman</GenericName>

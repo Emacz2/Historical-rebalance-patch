@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_cavalry">
+<Entity parent="template_unit_champion_cavalry_ranged">
  <Cost>
     <Population>2</Population>
     <BuildTime>20</BuildTime>
@@ -32,6 +32,14 @@
   <Health>
     <Max>300</Max>
   </Health>
+ <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">3</Hack>
+        <Pierce op="add">3.5</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Identity>
     <GenericName>Champion Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Ranged Javelineer</VisibleClasses>

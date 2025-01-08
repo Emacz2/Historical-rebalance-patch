@@ -6,7 +6,7 @@
       <Damage>
         <Pierce>7</Pierce>
       </Damage>
-      <MaxRange>54</MaxRange>
+      <MaxRange>61</MaxRange>
       <PrepareTime>200</PrepareTime>
       <RepeatTime>1250</RepeatTime>
       <Projectile>
@@ -38,13 +38,12 @@
     <WalkSpeed op="mul">1</WalkSpeed>
     <Acceleration op="mul">1</Acceleration>
   </UnitMotion>
-  <Resistance>
+   <Resistance>
     <Entity>
       <Damage>
-        <Hack>0.5</Hack>
-        <Pierce>0.5</Pierce>
-        <Crush>5</Crush>
+	<Hack op="add">-1.0</Hack>
+        <Pierce op="add">-0.5</Pierce>
       </Damage>
     </Entity>
- </Resistance>
+  </Resistance>
 </Entity>

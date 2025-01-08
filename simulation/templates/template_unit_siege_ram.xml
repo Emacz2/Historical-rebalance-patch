@@ -4,7 +4,7 @@
     <Melee>
       <AttackName>Ram</AttackName>
       <Damage>
-        <Crush>150</Crush>
+        <Crush>100</Crush>
       </Damage>
       <MaxRange>6.5</MaxRange>
       <PrepareTime>750</PrepareTime>
@@ -64,8 +64,8 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="mul">0.8</WalkSpeed>
-    <Acceleration op="mul">0.8</Acceleration>
+    <WalkSpeed op="mul">0.7</WalkSpeed>
+    <Acceleration op="mul">0.7</Acceleration>
   </UnitMotion>
   <Vision>
     <Range>70</Range>

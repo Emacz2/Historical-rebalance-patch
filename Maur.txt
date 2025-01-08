@@ -3,7 +3,7 @@ Temples 50% resource cost and build time, temple technologies 50% less resource 
 Archers 10% more pierce dmg and 10% more accurate
 
 Civ bonuses
-Citizen Ranged units 5% faster walk +2 range but -1 of each resistance
+Citizen Archer units 5% faster walk +2 range but -1 of each resistance
 Elephants 30% less train time (excludes hero)
 Citizen melee 5% faster walk 5% more dmg but -1 of each resistance
 10% pop bonus
@@ -24,3 +24,14 @@ Archers +2 range
 +3 structure capture garrison regen rate 
 25% territory increase
 CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
+
+Types of Cavalry
+
+Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Jav
+
+Rergular/fighting Cav 
+Sword
+
+Champ Cavs
+Chariot archer

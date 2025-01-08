@@ -4,13 +4,12 @@
 	"description": "Archers use poison arrows",
 	"requirements": { "civ": "kush" },
 	"icon": "parade_of_daphne.png",
-	"tooltip": "-15% pierce dmg due to added poison but added armor to protect themselves and 5% more build time",
+	"tooltip": "-15% pierce dmg due to added poison but added 1 Hack and .5 Pierce armor to protect themselves and 5% more build time",
 	"modifications": 
 	[
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 0.85 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
 		{ "value": "Cost/BuildTime", "multiply": 1.05 }
 		
 	

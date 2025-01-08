@@ -4,12 +4,12 @@
     <Melee>
       <AttackName>Pike</AttackName>
       <Damage>
-        <Hack>12</Hack>
-        <Pierce>22</Pierce>
+        <Hack>10</Hack>
+        <Pierce>30</Pierce>
       </Damage>
       <MaxRange>7.25</MaxRange>
       <PrepareTime>1000</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
+      <RepeatTime>2000</RepeatTime>
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
@@ -27,11 +27,15 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">8</Hack>
-        <Pierce op="add">8</Pierce>
+        <Hack op="add">5</Hack>
+        <Pierce op="add">4</Pierce>
       </Damage>
     </Entity>
   </Resistance>
+    <UnitMotion>
+    <WalkSpeed op="mul">0.93</WalkSpeed>
+    <Acceleration op="mul">0.90</Acceleration>
+  </UnitMotion>
   <Sound>
     <SoundGroups>
       <attack_melee>attack/weapon/pike_attack.xml</attack_melee>

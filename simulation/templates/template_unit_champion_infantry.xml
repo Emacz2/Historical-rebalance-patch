@@ -8,9 +8,6 @@
       <metal>80</metal>
     </Resources>
   </Cost>
-  <Health>
-    <Max>100</Max>
-  </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Infantry</VisibleClasses>
     <GenericName>Champion Infantry</GenericName>
@@ -24,21 +21,6 @@
   <Position>
     <Anchor>upright</Anchor>
   </Position>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack>3</Hack>
-        <Pierce>3</Pierce>
-        <Crush>20</Crush>
-      </Damage>
-    <ApplyStatus>
-        <Burning>
-          <Duration>0.4</Duration>
-          <BlockChance>0.5</BlockChance>
-        </Burning>
-      </ApplyStatus>
-    </Entity>
-  </Resistance>
   <UnitMotion>
     <WalkSpeed>10.0</WalkSpeed>
   </UnitMotion>

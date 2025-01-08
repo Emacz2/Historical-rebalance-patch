@@ -42,3 +42,14 @@ CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 0%
 Neodamodes train 10% faster but -1 pierce/hack armor and -10% dmg
 special technology
 Battle armor Infantry +1 hack, +1.5 pierce, +2 crush resistance but 15% more train time
+
+Types of Cavalry
+
+Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Spear
+
+Rergular/fighting Cav 
+Spear/Jav (Merc)
+
+Champ Cavs
+None

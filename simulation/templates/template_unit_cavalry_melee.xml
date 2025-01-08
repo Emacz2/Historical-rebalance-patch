@@ -9,10 +9,16 @@
 <Resistance>
     <Entity>
       <Damage>
-        <Hack>3.5</Hack>
+        <Hack>3.0</Hack>
         <Pierce>3.5</Pierce>
-        <Crush>10</Crush>
+        <Crush>15</Crush>
       </Damage>
+       <ApplyStatus>
+        <Burning>
+          <Duration>0.5</Duration>
+          <BlockChance>0.3</BlockChance>
+        </Burning>
+      </ApplyStatus>
     </Entity>
   </Resistance>
   <Identity>

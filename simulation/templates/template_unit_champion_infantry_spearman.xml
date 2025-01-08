@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_infantry">
+<Entity parent="template_unit_champion_infantry_melee">
   <Attack>
     <Melee>
       <AttackName>Spear</AttackName>
@@ -27,14 +27,6 @@
     <Tooltip>Counters: 2.5× vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Spearman Polearm</VisibleClasses>
   </Identity>
-  <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">2.5</Hack>
-        <Pierce op="add">2.5</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
   <Sound>
     <SoundGroups>
       <attack_melee>attack/weapon/spear_attack.xml</attack_melee>

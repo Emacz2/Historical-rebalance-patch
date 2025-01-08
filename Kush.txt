@@ -19,3 +19,14 @@ archers shoot 5% faster and are 10% more accurate and gain +2 rabge
 +3 structure capture garrison regen rate 
 25% territory increase
 CC garrison increased 40%, ranged increased by 5, pierce dmg reduced by 3%
+
+Types of Cavalry
+
+Hunting/Raiding Cav (Faster movement but less dmg and armor. Same or slightly more range but less accurate)
+Jav
+
+Rergular/fighting Cav 
+spear (heavy)
+
+Champ Cavs
+Spear

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry">
+  <Health>
+    <Max>215</Max>
+  </Health>
+  <Identity>
+    <VisibleClasses datatype="tokens">Infantry</VisibleClasses>
+    <GenericName>Champion Infantry Melee</GenericName>
+  </Identity>
+  <Loot>
+    <xp>150</xp>
+    <food>8</food>
+    <wood>6</wood>
+    <metal>8</metal>
+  </Loot>
+  <Position>
+    <Anchor>upright</Anchor>
+  </Position>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>5.5</Pierce>
+        <Crush>20</Crush>
+      </Damage>
+    <ApplyStatus>
+        <Burning>
+          <Duration>0.4</Duration>
+          <BlockChance>0.5</BlockChance>
+        </Burning>
+      </ApplyStatus>
+    </Entity>
+  </Resistance>
+  <UnitMotion>
+    <WalkSpeed>10.0</WalkSpeed>
+  </UnitMotion>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x128/arrow.png</MainTexture>
+        <MainTextureMask>128x128/arrow_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
+  <Sound>
+    <SoundGroups>
+      <trained>interface/alarm/alarm_create_infantry.xml</trained>
+      <walk>actor/human/movement/walk.xml</walk>
+      <run>actor/human/movement/walk.xml</run>
+      <death>actor/human/death/{phenotype}_death.xml</death>
+    </SoundGroups>
+  </Sound>
+  <Vision>
+    <Range>80</Range>
+  </Vision>
+     <Auras datatype="tokens">
+    units/ram_garrison
+  </Auras>
+</Entity>

@@ -7,7 +7,7 @@
     <GenericName>Odrysian Skirmish Cavalry</GenericName>
     <SpecificName>Hippakontistḕs Odrysós</SpecificName>
     <Icon>units/mace_cavalry_javelinist.png</Icon>
-    <RequiredTechnology>phase_village</RequiredTechnology>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/mace/cavalry_javelineer_a</Entity>

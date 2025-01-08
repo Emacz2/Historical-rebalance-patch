@@ -17,9 +17,7 @@
     <Icon>units/cart_infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
-  <Promotion>
-    <Entity>units/cart/infantry_javelineer_iber_a</Entity>
-  </Promotion>
+ <Promotion disable=""/>
   <VisualActor>
     <Actor>units/iberians/infantry_javelinist_b.xml</Actor>
   </VisualActor>

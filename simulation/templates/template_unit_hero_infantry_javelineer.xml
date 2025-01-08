@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry">
+<Entity parent="template_unit_hero_infantry_ranged">
   <Attack>
     <Ranged>
       <AttackName>Javelin</AttackName>
@@ -27,8 +27,8 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">-2</Hack>
-        <Pierce op="add">-2</Pierce>
+        <Hack op="add">1</Hack>
+        <Pierce op="add">1.5</Pierce>
       </Damage>
     </Entity>
   </Resistance>

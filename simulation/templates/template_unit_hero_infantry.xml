@@ -21,9 +21,15 @@
     <Entity>
       <Damage>
         <Hack>8</Hack>
-        <Pierce>8</Pierce>
-        <Crush>25</Crush>
+        <Pierce>8.5</Pierce>
+        <Crush>20</Crush>
       </Damage>
+    <ApplyStatus>
+        <Burning>
+          <Duration>0.4</Duration>
+          <BlockChance>0.5</BlockChance>
+        </Burning>
+      </ApplyStatus>
     </Entity>
   </Resistance>
   <UnitMotion>
