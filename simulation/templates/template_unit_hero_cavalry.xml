@@ -54,8 +54,9 @@
       special/formations/wedge
     </Formations>
   </UnitAI>
-  <UnitMotion>
-    <WalkSpeed op="mul">1.8</WalkSpeed>
-    <RunMultiplier>1.4</RunMultiplier>
+   <UnitMotion>
+    <WalkSpeed op="add">5.2</WalkSpeed>
+    <RunMultiplier>1.7</RunMultiplier>
+    <Acceleration op="add">5</Acceleration>
   </UnitMotion>
 </Entity>

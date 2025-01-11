@@ -90,10 +90,11 @@
     </Formations>
   </UnitAI>
   <UnitMotion>
-    <WalkSpeed op="mul">1.7</WalkSpeed>
-    <RunMultiplier>1.5</RunMultiplier>
+    <WalkSpeed op="add">4.9</WalkSpeed>
+    <RunMultiplier>1.7</RunMultiplier>
+    <Acceleration op="add">5</Acceleration>
   </UnitMotion>
   <Vision>
-    <Range>70</Range>
+    <Range>75</Range>
   </Vision>
 </Entity>

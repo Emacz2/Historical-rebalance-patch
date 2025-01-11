@@ -4,10 +4,10 @@
 	"description": "",
 	"requirements": { "civ": "mace" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Mace citizen Infantry 7% faster at gathering and 15% less train time, but attack 10% slower and have 50% less armor and ranged units 25% less accurate.",
+	"tooltip": "Mace citizen Infantry 5% faster at gathering and 25% less train time, but attack 10% slower and have 50% less armor and ranged units 25% less accurate.",
 	"modifications": [
-		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.07},
-		{ "value": "Cost/BuildTime", "multiply": 0.85 },
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.05},
+		{ "value": "Cost/BuildTime", "multiply": 0.75 },
 		{ "value": "Attack/Melee/RepeatTime", "multiply": 1.10},
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 1.10},
 		{ "value": "Attack/Ranged/Spread", "multiply": 1.25 },

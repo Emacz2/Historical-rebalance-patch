@@ -1,0 +1,13 @@
+{
+        "genericName": "Long reign",
+        "autoResearch": true,
+        "description": "Spartan life was centered around warfare",
+        "requirements": { "civ": "spart" },
+        "icon": "stone_blocks_brown.png",
+        "tooltip": "CC techs 50% more train time.",
+        "modifications": [
+             
+                { "value": "Researcher/TechCostMultiplier/time", "multiply": 1.5 }
+        ],
+        "affects": ["CivilCentre"]
+}

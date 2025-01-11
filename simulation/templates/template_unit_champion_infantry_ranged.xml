@@ -31,9 +31,6 @@
       </ApplyStatus>
     </Entity>
   </Resistance>
-  <UnitMotion>
-    <WalkSpeed>10.0</WalkSpeed>
-  </UnitMotion>
   <Selectable>
     <Overlay>
       <Texture>

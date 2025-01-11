@@ -63,7 +63,7 @@
     <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
   <Health>
-    <Max>750</Max>
+    <Max>500</Max>
   </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Ranged SiegeTower</VisibleClasses>

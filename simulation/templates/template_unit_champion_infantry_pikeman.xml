@@ -46,8 +46,8 @@
       special/formations/syntagma
     </Formations>
   </UnitAI>
-  <UnitMotion>
-    <WalkSpeed op="mul">0.9</WalkSpeed>
-    <Acceleration op="mul">0.9</Acceleration>
+   <UnitMotion>
+    <WalkSpeed op="add">-0.7</WalkSpeed>
+    <Acceleration op="add">-1.5</Acceleration>
   </UnitMotion>
 </Entity>

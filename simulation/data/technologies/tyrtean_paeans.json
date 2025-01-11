@@ -13,13 +13,13 @@
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "walk.png",
-	"researchTime": 45,
-	"tooltip": "Infantry Spearman +15% movement speed but Spartiates 10% more train time.",
+	"researchTime": 25,
+	"tooltip": "Infantry Spearman +15% movement speed but Spartiates 15% more train time.",
 	"modifications": [
-	    { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 },
-	   { "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Champion Spearman" }
+	   { "value": "UnitMotion/WalkSpeed", "multiply": 1.15 },
+	   { "value": "Cost/BuildTime", "multiply": 1.5, "affects": "Champion Spearman" }
 	],
-	"affects": ["Spearman !Cavalry !Perioikoi"],
+	"affects": ["Polearm !Cavalry !Perioikoi"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 
 }

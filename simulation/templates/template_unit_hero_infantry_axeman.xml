@@ -30,4 +30,8 @@
       <attack_melee>attack/weapon/sword_attack.xml</attack_melee>
     </SoundGroups>
   </Sound>
+<UnitMotion>
+    <WalkSpeed op="add">0.8</WalkSpeed>
+    <Acceleration op="add">1</Acceleration>
+  </UnitMotion>
 </Entity>

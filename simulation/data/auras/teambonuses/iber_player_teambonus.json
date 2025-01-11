@@ -3,10 +3,10 @@
 	"affects": ["Slinger"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "Cost/Resources/food", "multiply": 0.8 },
-		{ "value": "Cost/Resources/stone", "multiply": 0.75 }
+		{ "value": "Attack/Ranged/Spread", "multiply": 0.9 },
+		{ "value": "Health/Max", "add": 15, "affects": "!Hero"}
 	
 	],
 	"auraName": "Saripeko",
-	"auraDescription": "Slingers −25% less stone, 20% less food."
+	"auraDescription": "Slingers −10% more accurate and 15 more health."
 }

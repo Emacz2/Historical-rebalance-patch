@@ -34,4 +34,8 @@
       special/formations/testudo
     </Formations>
   </UnitAI>
+<UnitMotion>
+    <WalkSpeed op="add">0.8</WalkSpeed>
+    <Acceleration op="add">1</Acceleration>
+  </UnitMotion>
 </Entity>

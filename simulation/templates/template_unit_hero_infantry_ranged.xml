@@ -22,9 +22,6 @@
       </ApplyStatus>
     </Entity>
   </Resistance>
-  <UnitMotion>
-    <WalkSpeed>10.7</WalkSpeed>
-  </UnitMotion>
   <Selectable>
     <Overlay>
       <Shape>

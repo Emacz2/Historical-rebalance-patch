@@ -123,8 +123,8 @@
   <UnitMotion>
     <FormationController>false</FormationController>
     <PassabilityClass>default</PassabilityClass>
-    <WalkSpeed>9</WalkSpeed>
-    <RunMultiplier>1.67</RunMultiplier>
+    <WalkSpeed>9.5</WalkSpeed>
+    <RunMultiplier>1.5</RunMultiplier>
     <InstantTurnAngle>1.5</InstantTurnAngle>
     <Acceleration>35</Acceleration>
     <Weight>10</Weight>

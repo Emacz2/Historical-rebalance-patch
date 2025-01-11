@@ -10,9 +10,9 @@
 		]
 	},
 	"icon": "ionic_column.png",
-	"tooltip": "All greek citizens 3% faster walk speed, ranged units +1 range, melee units 2% dmg; but 5% slower train time.",
+	"tooltip": "All greek citizens .3 faster walk speed, ranged units +1 range, melee units 2% dmg; but 5% slower train time.",
 	"modifications": [
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.03 },
+		{ "value": "UnitMotion/WalkSpeed", "add": 0.3 },
 		{ "value": "Attack/Ranged/MaxRange", "add": 1 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.02 },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.02 },

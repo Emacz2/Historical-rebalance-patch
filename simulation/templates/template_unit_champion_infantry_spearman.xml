@@ -19,9 +19,6 @@
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
-  <Health>
-    <Max>215</Max>
-  </Health>
   <Identity>
     <GenericName>Champion Spearman</GenericName>
     <Tooltip>Counters: 2.5× vs Cavalry.</Tooltip>

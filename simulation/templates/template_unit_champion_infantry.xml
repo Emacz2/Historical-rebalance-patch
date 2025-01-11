@@ -3,9 +3,9 @@
   <Cost>
     <BuildTime>20</BuildTime>
     <Resources>
-      <food>80</food>
-      <wood>60</wood>
-      <metal>80</metal>
+      <food>100</food>
+      <wood>80</wood>
+      <metal>70</metal>
     </Resources>
   </Cost>
   <Identity>

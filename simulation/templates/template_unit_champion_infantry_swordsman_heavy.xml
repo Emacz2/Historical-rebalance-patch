@@ -35,8 +35,9 @@
       </Damage>
     </Entity>
   </Resistance>
-  <UnitMotion>
-    <WalkSpeed>9.5</WalkSpeed>
+<UnitMotion>
+    <WalkSpeed op="add">-0.2</WalkSpeed>
+    <Acceleration op="add">-0.5</Acceleration>
   </UnitMotion>
   <Sound>
     <SoundGroups>

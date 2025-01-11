@@ -9,10 +9,10 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "horse_trainer.png",
 	"researchTime": 35,
-	"tooltip": "Cavalry +25 health.",
+	"tooltip": "Non citizen cav gain 25 health.",
 	"modifications": [
 		{ "value": "Health/Max", "add": 25 }
 	],
-	"affects": ["Cavalry"],
+	"affects": ["Cavalry !Citizen"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

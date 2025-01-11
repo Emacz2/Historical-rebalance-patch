@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Entity parent="mercenary">
-  <Cost>
+<Cost>
     <BuildTime op="mul">0.5</BuildTime>
     <Resources>
-      <metal>80</metal>
+      <metal>200</metal>
     </Resources>
   </Cost>
   <Loot>
-    <metal>9</metal>
+    <metal>15</metal>
   </Loot>
 </Entity>

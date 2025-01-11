@@ -17,12 +17,13 @@
 	"requirements": { "tech": "phase_town" },
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "helmet_corinthian_bronze_old.png",
-	"researchTime": 30,
-	"tooltip": "All Polearm (spear/pike) gain .5 Pierce and Hack armor and 1 crush armor but Spartiate spearman 10% longer train time.",
+	"researchTime": 15,
+	"tooltip": "All Infantry Polearm (spear/pike) gain .5 Pierce and Hack armor and 1 crush armor but 1% slower walk speed and Spartiate spearman 10% longer train time.",
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.99 },
 		{ "value": "Cost/BuildTime", "multiply": 1.1, "affects": "Champion Spearman" }
 	],
 	"affects": ["Polearm !Cavalry"],

@@ -23,11 +23,11 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "chamfron.png",
 	"researchTime": 60,
-	"tooltip": "Champion Cavalry Spearmen +20% health, but +10% training time.",
+	"tooltip": "Champion Cavalry 50 health, but +10% training time.",
 	"modifications": [
 		{ "value": "Cost/BuildTime", "multiply": 1.1 },
-		{ "value": "Health/Max", "multiply": 1.2 }
+		{ "value": "Health/Max", "add": 50 }
 	],
-	"affects": ["Champion Cavalry Spearman"],
+	"affects": ["Champion Cavalry"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

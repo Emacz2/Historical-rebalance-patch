@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defensive">
+ <Auras datatype="tokens">
+    structures/palisades
+  </Auras>
    <Capturable>
     <CapturePoints op="mul">0.25</CapturePoints>
     <RegenRate>20.0</RegenRate>
@@ -15,9 +18,9 @@
   </Health>
   <Identity>
     <GenericName>Palisade</GenericName>
-    <SelectionGroupName>template_structure_defensive_palisade</SelectionGroupName>
+    <SelectionGroupName>template_structure_defensive_palisade_spikes</SelectionGroupName>
     <Tooltip>Wall off an area. Build in own or neutral territory.</Tooltip>
-    <VisibleClasses datatype="tokens">Palisade</VisibleClasses>
+    <VisibleClasses datatype="tokens">Palisade Spikes</VisibleClasses>
     <Icon>structures/palisade_wall.png</Icon>
   </Identity>
   <RallyPoint disable=""/>

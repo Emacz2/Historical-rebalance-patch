@@ -28,15 +28,15 @@
     <MaxDistance>2.0</MaxDistance>
     <BaseSpeed>1.0</BaseSpeed>
     <Rates>
-      <food.fish>0.5</food.fish>
-      <food.fruit>0.5</food.fruit>
-      <food.grain>0.35</food.grain>
-      <food.meat>1</food.meat>
-      <wood.tree>1.0</wood.tree>
-      <wood.ruins>5</wood.ruins>
-      <stone.rock>1.0</stone.rock>
-      <stone.ruins>5</stone.ruins>
-      <metal.ore>1.0</metal.ore>
+      <food.fish>0.53</food.fish>
+      <food.fruit>0.53</food.fruit>
+      <food.grain>0.37</food.grain>
+      <food.meat>1.05</food.meat>
+      <wood.tree>1.05</wood.tree>
+      <wood.ruins>5.25</wood.ruins>
+      <stone.rock>1.05</stone.rock>
+      <stone.ruins>5.25</stone.ruins>
+      <metal.ore>1.05</metal.ore>
     </Rates>
     <Capacities>
       <food>10</food>

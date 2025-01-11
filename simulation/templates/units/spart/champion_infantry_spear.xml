@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="hoplite|spec_champ|template_unit_champion_infantry_spearman">
+<Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>spart</Civ>
     <Lang>greek</Lang>
@@ -10,17 +10,9 @@
     <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
     <RequiredTechnology>phase_village</RequiredTechnology>  
   </Identity>
-  <Cost>
-    <BuildTime>15</BuildTime>
-    <Resources>
-      <food>80</food>
-      <wood>75</wood>
-      <metal>70</metal>
-    </Resources>
-  </Cost>
   <Promotion>
     <Entity>units/spart/champion_infantry_spear_olympian</Entity>
-    <RequiredXp>250</RequiredXp>
+    <RequiredXp>300</RequiredXp>
   </Promotion>
   <Auras datatype="tokens">
     units/spartan_phalanx
@@ -28,7 +20,4 @@
     <VisualActor>
     <Actor>units/spartans/infantry_spearman_c.xml</Actor>
   </VisualActor>
-  <Health>
-    <Max>180</Max>
-  </Health>
 </Entity>

@@ -1,3 +1,36 @@
+3.4
+Carth
+Teambonus -35% train time -25% metal for merc. Instead of -50% train time.
+
+Iber
+Teambonus instead of less resources slingers 10% more accurate and 15 health
+Civ bonus took away 10% accuracy from slingers, added 25% more stone (25 instead of 20) reduced range penalty to -2 instead of -3
+
+Kush
+Teambonus archers 10% more accurate instead of 10% less resources
+
+Spartan,
+Spartiates -70 life in p1 (175 total) up to 200 p2, 225 p3 Olympic champs 275 life but lose 2% speed since they gain armor.
+Battle armor now slows units down 3%
+Spearman resistance slows units down 1%
+CC techs 50% longer research time (But reduced research time of techs from Senate and Ssytion by 50%)
+
+Cart/Mace/Sparta "CS" -25% train time instead of -15%
+
+Inf melee champ health increased to 225 from 215, cost changed to 100/80/70 instead of 80/60/80
+
+siege tower health lowered to 500 from 750
++5 vision for pults, seems like they can out shoot their vision even though range is 82.5 and vision was 90
+
+gather rates increased by 5%
+base unit walk speed increased to 9.5 from 9.0
+
+Hoplite tradition 2 is -5 metal instead of 10% I like clean numbers :)
+
+Cavalry Health, adds 25 instead of 10%
+Second Cavalry Health, adds 25 to non Citizen Cav (So merc, champ, hero gain 50 if you get both)
+Nisean horses is all champs now, adds 50 health
+
 3.3 
 Pikeman -1 hack +3 pierce dmg, but 2250 repeat time instead of 1900, .93 speed instead of .95 and .9 acceleration instead of .95.
 Champ pikeman 5 hack 20 pierce instead of 7/15 but 2100 repeat instead of 1750

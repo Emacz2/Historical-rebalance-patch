@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Infantry !Perioikoi !Helot"],
+	"affects": ["Infantry Helot"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },

@@ -18,8 +18,12 @@
     </Entity>
   </Resistance>
  <Health>
-    <Max>230</Max>
+    <Max op="add">50</Max>
   </Health>
+ <UnitMotion>
+    <WalkSpeed op="mul">0.98</WalkSpeed>
+    <Acceleration op="mul">0.99</Acceleration>
+  </UnitMotion>
   <Identity>
     <GenericName>Spartan Olympic Hoplite</GenericName>
     <Icon>units/spart_champion_infantry_olympian.png</Icon>

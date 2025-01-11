@@ -124,6 +124,14 @@
       units/{civ}/champion_infantry_javelineer
       units/{civ}/champion_infantry_slinger
       units/{civ}/champion_infantry_archer
+      units/{civ}/infantry_archer_a
+      units/{civ}/infantry_crossbowman_a
+      units/{civ}/infantry_javelineer_a
+      units/{civ}/infantry_slinger_a
+      units/{civ}/infantry_axeman_a
+      units/{civ}/infantry_pikeman_a
+      units/{civ}/infantry_spearman_a
+      units/{civ}/infantry_swordsman_a
     </Entities>
     </Trainer>
 	<Sound>

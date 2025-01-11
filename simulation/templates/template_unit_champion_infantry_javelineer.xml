@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_ranged">
- <Cost>
-    <BuildTime>20</BuildTime>
-    <Resources>
-      <food>80</food>
-      <wood>75</wood>
-      <metal>70</metal>
-    </Resources>
-  </Cost>
   <Attack>
     <Ranged>
       <AttackName>Javelin</AttackName>
@@ -57,7 +49,7 @@
     </Formations>
   </UnitAI>
   <UnitMotion>
-    <WalkSpeed op="mul">1.1</WalkSpeed>
-    <Acceleration op="mul">1.2</Acceleration>
+    <WalkSpeed op="add">2</WalkSpeed>
+    <Acceleration op="add">2.7</Acceleration>
   </UnitMotion>
 </Entity>

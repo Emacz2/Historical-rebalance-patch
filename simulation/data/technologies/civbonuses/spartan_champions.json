@@ -3,10 +3,19 @@
 	"autoResearch": true,
 	"description": "Under the constitution written by the mythical lawgiver Lycurgus, the institution of the Agoge was established, where Spartans were trained from the age of 6 to be superior warriors in defense of the Spartan state.",
 	"icon": "agoge.png",
-	"tooltip": "Champion Hoplites are available in p1, and may promote to Olympic champions. They attack 5% faster than other spear champs",
+	"tooltip": "Champion Hoplites are available in p1, and may promote to Olympic champions. They attack 10% faster than other spear champs but have -70 life, -1 of hack and peirce resistance and do 20% less dmg while costing 50% less wood and metal in p1",
 	"requirements": { "civ": "spart" },
 	"modifications": [
-		{ "value": "Attack/Melee/RepeatTime", "multiply": 0.95}
+		{ "value": "Attack/Melee/RepeatTime", "multiply": 0.90},
+		{ "value": "Health/Max", "add": -70},
+		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 0.80},
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 0.80},
+		{ "value": "Cost/BuildTime", "multiply": 0.8 },
+		{ "value": "Cost/Resources/wood", "multiply": 0.5 },
+		{ "value": "Cost/Resources/metal", "multiply": 0.5 }
+		
 
 	],
 

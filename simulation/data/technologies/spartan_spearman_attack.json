@@ -17,7 +17,7 @@
 	"requirements": { "tech": "phase_village" },
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "sword_01.png",
-	"researchTime": 15,
+	"researchTime": 10,
 	"tooltip": "All Polearm (spear/pike) +5% melee attack damage but Spartiates 10% more train time.",
 	"modifications": [
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },

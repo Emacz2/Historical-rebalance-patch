@@ -13,7 +13,7 @@
 		]
 	},
 	"icon": "skull_swords.png",
-	"researchTime": 30,
+	"researchTime": 15,
 	"tooltip": "Champions and Heroes +15% attack damage,  +10% more training time.",
 	"modifications": [
 	    { "value": "Attack/Melee/Damage/Hack", "multiply": 1.15, "affects": "Infantry !Neodamodes !Perioikoi !Helot"},

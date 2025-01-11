@@ -3,13 +3,10 @@
 	"affects": ["Archer"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "Cost/Resources/food", "multiply": 0.90 },
-		{ "value": "Cost/Resources/wood", "multiply": 0.90 },
-		{ "value": "Cost/Resources/stone", "multiply": 0.90 },
-		{ "value": "Cost/Resources/metal", "multiply": 0.90 },
+		{ "value": "Attack/Ranged/Spread", "multiply": 0.9 },
 		{ "value": "Health/Max", "add": 15, "affects": "!Hero"}
 		
 	],
 	"auraName": "Archer",
-	"auraDescription": "Archers 10% less resources and +15 health."
+	"auraDescription": "Archers 10% more accurate and +15 health."
 }

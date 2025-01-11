@@ -24,7 +24,7 @@
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.75},
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.75},
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1.0 },
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.01}
+		{ "value": "UnitMotion/WalkSpeed", "add": 0.1}
 
 	],
 	"affects": ["Elite Unit"]
