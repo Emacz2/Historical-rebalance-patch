@@ -6,6 +6,9 @@
     <Icon>units/athen_champion_infantry.png</Icon>
    <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
   </Identity>
+   <Auras datatype="tokens">
+    units/phalanx
+  </Auras>
   <VisualActor>
     <Actor>units/athenians/infantry_spearman_c.xml</Actor>
   </VisualActor>

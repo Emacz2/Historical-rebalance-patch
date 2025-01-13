@@ -53,10 +53,10 @@
     <Formations datatype="tokens">
       special/formations/wedge
     </Formations>
-  </UnitAI>
-   <UnitMotion>
-    <WalkSpeed op="add">5.2</WalkSpeed>
+ </UnitAI>
+  <UnitMotion>
+    <WalkSpeed op="add">5.7</WalkSpeed>
     <RunMultiplier>1.7</RunMultiplier>
-    <Acceleration op="add">5</Acceleration>
+    <Acceleration op="add">7</Acceleration>
   </UnitMotion>
 </Entity>

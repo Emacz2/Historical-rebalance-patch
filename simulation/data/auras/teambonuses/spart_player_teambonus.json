@@ -4,7 +4,7 @@
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
 		
-		{ "value": "Health/Max", "add": 20, "affects": "!Hero"},
+		{ "value": "Health/Max", "add": 25, "affects": "!Hero"},
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05},
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05},
 		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05}

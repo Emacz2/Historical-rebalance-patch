@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_infantry_melee_axeman">
- <Attack>
-    <Melee>
-        <AttackName>Axe</AttackName>
-      <Damage>
-        <Hack op="add">1</Hack>
-	<Crush op="add">1</Crush>
-      </Damage>
-    </Melee>
-  </Attack>
- <Resistance>
-    <Entity>
-      <Damage>
-        <Hack op="add">-1</Hack>
-        <Pierce op="add">-1</Pierce>
-      </Damage>
-    </Entity>
-  </Resistance>
-	 <UnitMotion>
-    <WalkSpeed>10.9</WalkSpeed>
-  </UnitMotion>
+  <Cost>
+    <Resources>
+    <wood op="add">-5</wood>
+    <metal op="add">10</metal>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>brit</Civ>
     <SelectionGroupName>units/brit/infantry_axeman</SelectionGroupName>

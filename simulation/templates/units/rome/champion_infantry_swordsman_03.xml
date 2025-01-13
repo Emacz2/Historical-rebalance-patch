@@ -19,4 +19,7 @@
   <VisualActor>
     <Actor>units/romans/infantry_swordsman_c3.xml</Actor>
   </VisualActor>
+  <Auras datatype="tokens">
+    units/testudo
+  </Auras>
 </Entity>

@@ -1,3 +1,28 @@
+3.5
+Athens
+Added phalanx aura to champ spearman, regular ones already had it.
+
+Brit
+War dogs 1.5X speed instead of 1.6
+
+Han Cav Xbow added
+
+Iber 
+Slinger civ bonus, pierce dmg reduced from 10% to 5%.
+
+Spart
+teambonus spear health increased to 25 (150 instead of 145 :)
+Spartiates start -75 health (175) but they can build up to 275 by p3 when they are Olympic champs.
+
+
+Cav .5 faster walk speed
+
+
+spikes now do 3 dmg to cav and slow them down 75% intead of 50%.  They affect both your own and enemy cav
+
+
+
+
 3.4
 Carth
 Teambonus -35% train time -25% metal for merc. Instead of -50% train time.

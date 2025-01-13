@@ -1,13 +1,20 @@
+Best when played aggressively.  Strongest infantry in game.
+eco units (Periokoi and Helots) train from camps, camps are resource drop sites and may be built in own/neutral territory.
+Fighting spearman (spartiates and Neodamodes) are trained from Syssiton
+Other fighting units (Champ javs, Neodamodes javs, Skiri) are trained from Gerousia.
+Heros are trained from Gerousia, but it must be "upped"
+
+
 Team bonuses
-Infantry polearm (spear/pikeman) +20 health (excludes Heroes, Periokoi and Helots) and 5% more dmg  (includes Heroes)
+Infantry polearm (spear/pikeman) +25 health (excludes Heroes) and 5% more dmg  (includes Heroes)
 Infantry +.5 pierce/hack resistance, +1 crush resistance and 15% faster promotion
 
 Civ bonuses
 Periokoi units 7% faster gather rate, 15% less train time but attack 10% slower, have 50% less armor and ranged units 25% less accurate
 Helots units 15% faster gather rate, 25% less train time but attack 20% slower, have no armor and ranged units 25% less accurate
-Blacksmith techs cost 25% less resources but 50% longer research time
+Blacksmith techs cost 25% less resources but 50% longer research time - Helots and Periokoi units do not get forge upgrades
 Defensive structures take 20% more build time and have 25% less health
-Spartiate spearman available p1 and attack 5% faster
+Spartiate spearman available p1 and attack 10% faster than other champ spearman.  They train 20% faster in p1 and cost 50% less wood and metal BUT -75 health (175 total) -1 hack/pierce resistance and 20% less melee dmg.
 
 Special technologies
 P1 
@@ -15,7 +22,7 @@ Side arms spearman 5% more dmg but champion spearman 10% more train time
 
 
 
-Phase bonuses
+Phase bonusesIm stil
 P2
 Citizen infantry 2% faster resource gather rate
 Slaves 5% faster resource gather rate
@@ -53,3 +60,5 @@ Spear/Jav (Merc)
 
 Champ Cavs
 None
+
+
