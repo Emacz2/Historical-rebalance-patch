@@ -44,8 +44,7 @@
   </Resistance>
   <UnitMotion>
   <UnitMotion>
-    <WalkSpeed op="add">-2.5</WalkSpeed>
-    <RunMultiplier>0.9</RunMultiplier>
+    <WalkSpeed op="add">-2.0</WalkSpeed>
   </UnitMotion>
   </UnitMotion>
   <Sound>

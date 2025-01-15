@@ -38,7 +38,6 @@
     </SoundGroups>
   </Sound>
 <UnitMotion>
-    <WalkSpeed op="add">-1.0</WalkSpeed>
-    <Acceleration op="mul">0.7</Acceleration>
+    <WalkSpeed op="add">-0.3</WalkSpeed>
   </UnitMotion>
 </Entity>

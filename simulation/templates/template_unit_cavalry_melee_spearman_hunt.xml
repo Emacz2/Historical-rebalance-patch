@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_cavalry_melee">
+<Entity parent="template_unit_cavalry_melee_spearman">
   <Attack>
     <Melee>
       <AttackName>Spear</AttackName>
@@ -31,7 +31,7 @@
     <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="add">1.5</WalkSpeed>
+    <WalkSpeed op="add">0.8</WalkSpeed>
     <Acceleration op="add">5</Acceleration>
   </UnitMotion>
   <Resistance>

@@ -25,4 +25,9 @@
     <GenericName>Melee Cavalry</GenericName>
     <VisibleClasses datatype="tokens">Melee</VisibleClasses>
   </Identity>
+  <UnitMotion>
+    <WalkSpeed op="add">0.3</WalkSpeed>
+    <Acceleration op="add">5</Acceleration>
+  </UnitMotion>
 </Entity>
+ 
