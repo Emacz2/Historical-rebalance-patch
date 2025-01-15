@@ -1,3 +1,4 @@
+4.0 Fixxed error with heavy spearcav
 3.7/3.8 (3.8 just needed to change mod file to match version)
 tweaked cav speeds
 
