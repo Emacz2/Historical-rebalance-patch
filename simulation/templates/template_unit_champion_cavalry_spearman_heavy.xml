@@ -43,9 +43,10 @@
     </Entity>
   </Resistance>
   <UnitMotion>
-    <WalkSpeed op="mul">0.9</WalkSpeed>
-    <RunMultiplier>1.3</RunMultiplier>
-    <Acceleration op="mul">0.95</Acceleration>
+  <UnitMotion>
+    <WalkSpeed op="add">-2.5</WalkSpeed>
+    <RunMultiplier>0.9</RunMultiplier>
+  </UnitMotion>
   </UnitMotion>
   <Sound>
     <SoundGroups>

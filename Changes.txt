@@ -1,3 +1,10 @@
+3.6
+Mace
+trained citizen soliders- CS 15% faster attack repeat, ranged 25% more accurate, 5% more melee/ranged dmg and +1 hack/pierce armor but 15% longer train time and slower resource gathering
+
+cav another +.5 walk speed
+
+
 3.5
 Athens
 Added phalanx aura to champ spearman, regular ones already had it.

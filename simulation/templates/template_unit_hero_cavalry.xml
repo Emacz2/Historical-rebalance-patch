@@ -55,8 +55,7 @@
     </Formations>
  </UnitAI>
   <UnitMotion>
-    <WalkSpeed op="add">5.7</WalkSpeed>
-    <RunMultiplier>1.7</RunMultiplier>
-    <Acceleration op="add">7</Acceleration>
+    <WalkSpeed op="add">6</WalkSpeed>
+    <Acceleration op="add">12</Acceleration>
   </UnitMotion>
 </Entity>

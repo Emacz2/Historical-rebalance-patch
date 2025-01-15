@@ -1,0 +1,42 @@
+{
+	"genericName": "Trianed citizens",
+	"description": "Late in their history Philp introduced military service as a full-time occupation. ",
+	"cost": {
+		"food": 600,
+		"metal": 600,
+		"wood": 600
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{
+				"any": [
+					{ "civ": "mace" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "armor_corinthian.png",
+	"researchTime": 30,
+	"tooltip": "Citizen Soldiers 15% faster attack speed, ranged units 25% more accurate, 5% more melee and ranged dmg and +1 hack/pierce armor but gather resources 15% slower and 15% longer train time .",
+	"modifications": [
+		{ "value": "Attack/Melee/RepeatTime", "multiply": 0.85},
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.85},
+		{ "value": "Attack/Ranged/Spread", "multiply": 0.75 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.05},
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.05},
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.05 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.05},
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.05 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Cost/BuildTime", "multiply": 1.15 },
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.85}
+	
+
+	],
+	"affects": ["Citizen Infantry"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

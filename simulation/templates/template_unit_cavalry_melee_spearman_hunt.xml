@@ -30,9 +30,9 @@
     <VisibleClasses datatype="tokens">Spearman</VisibleClasses>
     <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
- <UnitMotion>
-    <WalkSpeed op="mul">1.1</WalkSpeed>
-    <RunMultiplier>1.3</RunMultiplier>
+  <UnitMotion>
+    <WalkSpeed op="add">1.5</WalkSpeed>
+    <Acceleration op="add">5</Acceleration>
   </UnitMotion>
   <Resistance>
     <Entity>

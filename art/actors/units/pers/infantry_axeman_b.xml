@@ -6,7 +6,7 @@
       <mesh>skeletal/new/m_tunic_long.dae</mesh>
       <props>
         <prop actor="props/units/shields/pers_tower.xml" attachpoint="shield"/>
-        <prop actor="props/units/weapons/spear_ball.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/axe_double.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>

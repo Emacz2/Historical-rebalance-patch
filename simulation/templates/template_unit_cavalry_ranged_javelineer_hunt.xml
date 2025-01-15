@@ -42,8 +42,4 @@
       <attack_impact_ranged>attack/impact/javelin_impact.xml</attack_impact_ranged>
     </SoundGroups>
   </Sound>
-  <UnitMotion>
-    <WalkSpeed op="mul">1.0</WalkSpeed>
-    <Acceleration op="mul">1.2</Acceleration>
-  </UnitMotion>
 </Entity>
