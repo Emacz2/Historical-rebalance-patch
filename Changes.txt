@@ -1,3 +1,6 @@
+3.7/3.8 (3.8 just needed to change mod file to match version)
+tweaked cav speeds
+
 3.6
 Mace
 trained citizen soliders- CS 15% faster attack repeat, ranged 25% more accurate, 5% more melee/ranged dmg and +1 hack/pierce armor but 15% longer train time and slower resource gathering
