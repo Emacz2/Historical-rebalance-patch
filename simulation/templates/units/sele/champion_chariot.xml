@@ -13,6 +13,10 @@
     <Icon>units/sele_champion_chariot.png</Icon>
     <RequiredTechnology>unlock_champion_chariots</RequiredTechnology>
   </Identity>
+  <Auras datatype="tokens">
+    units/scythe_1
+    units/scythe_2
+  </Auras>
   <VisualActor>
     <Actor>units/seleucids/chariot_archer_c_m.xml</Actor>
   </VisualActor>

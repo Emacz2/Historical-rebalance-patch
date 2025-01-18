@@ -8,11 +8,11 @@
 	"requirementsTooltip": "Unlocked in Village Phase.",
 	"icon": "loom.png",
 	"researchTime": 10,
-	"tooltip": "Spartan women +15 life, +.25 pierce and hack resistance and 1 crush resistance",
+	"tooltip": "Spartan women +15 life, +.5 pierce and hack resistance and 1 crush resistance",
 	"modifications": [
 		{ "value": "Health/Max", "add": 15},
-		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.25 },
-		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.25 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
 
 	],

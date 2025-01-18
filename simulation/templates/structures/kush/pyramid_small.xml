@@ -4,10 +4,10 @@
     structures/kush_pyramids_economic
   </Auras>
   <Cost>
-    <BuildTime>100</BuildTime>
+    <BuildTime>120</BuildTime>
     <Resources>
-      <stone>100</stone>
-      <metal>100</metal>
+      <stone>200</stone>
+      <metal>50</metal>
     </Resources>
   </Cost>
   <Footprint>
@@ -15,7 +15,7 @@
     <Height>15.0</Height>
   </Footprint>
    <Population>
-    <Bonus>3</Bonus>
+    <Bonus>5</Bonus>
   </Population>
   <Health>
     <Max>2000</Max>

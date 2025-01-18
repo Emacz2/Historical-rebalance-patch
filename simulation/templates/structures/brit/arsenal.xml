@@ -7,4 +7,22 @@
   <VisualActor>
     <Actor>structures/britons/workshop.xml</Actor>
   </VisualActor>
+<Trainer>
+    <Entities datatype="tokens">
+     -units/{civ}/siege_ram
+      units/{civ}/infantry_torch
+    </Entities>
+  </Trainer>
+<Researcher>
+<Technologies datatype="tokens">
+      -siege_attack
+      -siege_cost_time
+      -siege_health
+      -siege_pack_unpack
+      -siege_bolt_accuracy
+      chariot_range
+      chariot_health
+      human_siege
+    </Technologies>
+ </Researcher>
 </Entity>

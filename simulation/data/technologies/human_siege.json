@@ -1,0 +1,39 @@
+{
+	"genericName": "Human siege",
+	"specificName": {
+		"maur": "Wootz Steel",
+		"iber": "Toledo Steel"
+	},
+	"description": "Secret steel working techniques give sword blades distinctive and beautiful markings. Not only that, but the steel's hardness is unparalleled.",
+	"cost": {
+		"food": 500,
+		"metal": 500
+	},
+	
+	"requirements": {
+		"all": [
+			{ "tech": "phase_city" },
+			{
+				"any": [
+					{ "civ": "brit" },
+					{ "civ": "gaul" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "metalworker.png",
+	"researchTime": 60,
+	"tooltip": "Axemen 50% more crush dmg 1.5 of each resistance, but 2 slower walk speed and 25% slower build time.",
+	"modifications": [
+
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.50 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1.5 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1.5},
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1.5},
+		{ "value": "UnitMotion/WalkSpeed", "add": -2},
+		{ "value": "Cost/BuildTime", "multiply": 1.25 }
+	],
+	"affects": ["Axeman"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

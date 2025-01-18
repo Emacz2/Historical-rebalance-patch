@@ -7,10 +7,10 @@
     <Category>PyramidLarge</Category>
   </BuildRestrictions>
   <Cost>
-    <BuildTime>300</BuildTime>
+    <BuildTime>240</BuildTime>
     <Resources>
-      <stone>450</stone>
-      <metal>150</metal>
+      <stone>600</stone>
+      <metal>50</metal>
     </Resources>
   </Cost>
   <Footprint>
@@ -18,7 +18,7 @@
     <Height>20.0</Height>
   </Footprint>
   <Population>
-    <Bonus>5</Bonus>
+    <Bonus>10</Bonus>
   </Population>
   <Health>
     <Max>3000</Max>

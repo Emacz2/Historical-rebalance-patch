@@ -2,11 +2,11 @@
 <Entity parent="template_unit_champion_cavalry_ranged">
  <Cost>
     <Population>2</Population>
-    <BuildTime>20</BuildTime>
-    <Resources>
-      <food>150</food>
-      <wood>50</wood>
-      <metal>100</metal>
+    <BuildTime>25</BuildTime>
+   <Resources>
+      <food>125</food>
+      <wood>75</wood>
+      <metal>125</metal>
     </Resources>
   </Cost>
   <Attack>
@@ -42,7 +42,7 @@
   </Resistance>
   <Identity>
     <GenericName>Champion Cavalry Javelineer</GenericName>
-    <VisibleClasses datatype="tokens">Ranged Javelineer</VisibleClasses>
+    <VisibleClasses datatype="tokens">Ranged Javelineer Chariot</VisibleClasses>
   </Identity>
     <Sound>
     <SoundGroups>
@@ -56,6 +56,6 @@
     </Formations>
   </UnitAI>
 <UnitMotion>
-    <WalkSpeed op="add">-2.0</WalkSpeed>
+    <WalkSpeed op="add">-1.7</WalkSpeed>
   </UnitMotion>
 </Entity>

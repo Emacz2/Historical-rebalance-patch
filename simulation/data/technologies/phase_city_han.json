@@ -27,6 +27,7 @@
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.95, "affects": "Crossbowman" },
 		{ "value": "Attack/Ranged/Spread", "multiply": 0.90, "affects": "Crossbowman" },
 		{ "value": "Attack/Ranged/MaxRange", "add": 1, "affects": "Crossbowman" },
+		{ "value": "Cost/BuildTime", "multiply": 0.80, "affects": "Chariot" },
 		{ "value": "Capturable/GarrisonRegenRate", "add": 3, "affects": "Structure" },
 		{ "value": "TerritoryInfluence/Radius", "multiply": 1.25, "affects": "CivCentre" },
 		{ "value": "GarrisonHolder/Max", "multiply": 1.4, "affects": "CivCentre" },

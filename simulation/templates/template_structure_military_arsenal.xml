@@ -32,7 +32,7 @@
 <Trainer>
     <Entities datatype="tokens">
       units/{civ}/siege_ram_town
-      units/{civ}/siege_ram_city
+      units/{civ}/siege_ram
       units/{civ}/champion_chariot
     </Entities>
   </Trainer>
@@ -50,6 +50,7 @@
       siege_health
       siege_pack_unpack
       siege_bolt_accuracy
+      human_siege
     </Technologies>
   </Researcher>
   <Sound>

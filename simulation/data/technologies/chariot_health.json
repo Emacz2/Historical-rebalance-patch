@@ -1,0 +1,20 @@
+{
+	"genericName": "Armor Plating",
+	"cost": {
+		"metal": 600
+	},
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "armor_plates_gold.png",
+	"researchTime": 40,
+	"tooltip": "Chariots +50 health, and 1 of each resistance.",
+	"modifications": [
+		{ "value": "Health/Max", "add": 50 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 }
+
+	],
+	"affects": ["Chariot"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

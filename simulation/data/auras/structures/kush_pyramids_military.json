@@ -1,6 +1,6 @@
 {
 	"type": "range",
-	"radius": 70,
+	"radius": 75,
 	"affects": ["Soldier"],
 	"modifications": [
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.1 },

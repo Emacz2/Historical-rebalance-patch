@@ -13,6 +13,10 @@
     <Icon>units/pers_chariot_archer.png</Icon>
     <RequiredTechnology>unlock_champion_chariots</RequiredTechnology>
   </Identity>
+  <Auras datatype="tokens">
+    units/scythe_1
+    units/scythe_2
+  </Auras>
   <VisualActor>
     <Actor>units/persians/chariot_archer_e_m.xml</Actor>
   </VisualActor>

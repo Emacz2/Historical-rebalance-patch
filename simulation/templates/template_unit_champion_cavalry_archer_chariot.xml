@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_champion_cavalry_ranged">
+<Entity parent="template_unit_champion_cavalry_archer">
 <Cost>
     <Population>2</Population>
-    <BuildTime>20</BuildTime>
+    <BuildTime>25</BuildTime>
     <Resources>
-      <food>150</food>
-      <wood>50</wood>
-      <metal>100</metal>
+      <food>125</food>
+      <wood>75</wood>
+      <metal>125</metal>
     </Resources>
   </Cost>
   <Attack>
@@ -32,7 +32,7 @@
     <Max>300</Max>
   </Health>
   <Identity>
-    <VisibleClasses datatype="tokens">Ranged Archer</VisibleClasses>
+    <VisibleClasses datatype="tokens">Ranged Archer Chariot</VisibleClasses>
     <GenericName>Champion Cavalry Archer</GenericName>
   </Identity>
   <Sound>
@@ -46,7 +46,15 @@
       special/formations/skirmish
     </Formations>
   </UnitAI>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">2.5</Hack>
+        <Pierce op="add">2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
 <UnitMotion>
-    <WalkSpeed op="add">-2.0</WalkSpeed>
+    <WalkSpeed op="add">-1.5</WalkSpeed>
   </UnitMotion>
 </Entity>

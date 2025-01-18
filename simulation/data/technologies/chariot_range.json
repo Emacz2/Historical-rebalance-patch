@@ -1,0 +1,18 @@
+{
+	"genericName": "Javilin Throw ",
+	"description": ".",
+	"cost": {
+		"food": 250,
+		"metal": 250
+	},
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "archery_tradition.png",
+	"researchTime": 30,
+	"tooltip": "Chariot Javilneers +5 range.",
+	"modifications": [
+		{ "value": "Attack/Ranged/MaxRange", "add": 5 }
+	],
+	"affects": ["Chariot"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

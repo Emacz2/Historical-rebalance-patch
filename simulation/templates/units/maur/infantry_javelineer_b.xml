@@ -10,9 +10,8 @@
     <Civ>maur</Civ>
     <Lang>napatan</Lang>
     <SelectionGroupName>units/maur/infantry_javelineer_merc_b</SelectionGroupName>
-    <GenericName>Noba Skirmisher</GenericName>
-    <SpecificName>nhw ʿhȝw Noba</SpecificName>
-    <Icon>units/kush_infantry_javelinist.png</Icon>
+    <GenericName>Maury Skirmisher</GenericName>
+    <Icon>units/maur/maury_infantry_skirm.png</Icon>
     <RequiredTechnology>unlock_skirm</RequiredTechnology>
   </Identity>
   <Promotion>
