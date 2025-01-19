@@ -27,7 +27,7 @@
   </Identity>
   <UnitMotion>
     <WalkSpeed op="add">0.3</WalkSpeed>
-    <Acceleration op="add">5</Acceleration>
+    <Acceleration>45</Acceleration>
   </UnitMotion>
 </Entity>
  

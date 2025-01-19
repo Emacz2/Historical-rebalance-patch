@@ -32,7 +32,7 @@
   </Identity>
   <UnitMotion>
     <WalkSpeed op="add">0.8</WalkSpeed>
-    <AccelerationMultiplier>1.4</AccelerationMultiplier>
+    <Acceleration>50</Acceleration>
   </UnitMotion>
   <Resistance>
     <Entity>
