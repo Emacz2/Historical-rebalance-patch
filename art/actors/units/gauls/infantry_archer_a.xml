@@ -5,9 +5,9 @@
     <variant frequency="1" name="Base">
       <mesh>skeletal/new/m_armor_pants.dae</mesh>
       <props>
-      <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
-      <prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
-      <prop actor="props/units/quiver_hip.xml" attachpoint="sheath_L"/>
+        <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
+	<prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
+        <prop actor="props/units/quiver_back.xml" attachpoint="back"/>
       <prop actor="props/units/capes/cape_long_gaul.xml" attachpoint="root"/>
       </props>
     </variant>
@@ -24,24 +24,7 @@
       </props>
     </variant>
   </group>
-  <group>
-    <variant frequency="1" name="Celt-Shield-01">
-      <props>
-        <prop actor="props/units/shields/gaul_shield_jav_sq_b_02.xml" attachpoint="shield"/>
-      </props>
-    </variant>
-    <variant frequency="1" name="Celt-Shield-02">
-      <props>
-        <prop actor="props/units/shields/gaul_shield_jav_oval_d_02.xml" attachpoint="shield"/>
-      </props>
-    </variant>
-    <variant frequency="1" name="Celt-Shield-03">
-      <props>
-        <prop actor="props/units/shields/gaul_shield_jav_oval_h_02.xml" attachpoint="shield"/>
-      </props>
-    </variant>
-  </group>
-  <group>
+    <group>
     <variant frequency="1" name="gaul-pants-basic-04">
       <textures>
         <texture file="skeletal/gaul/pants_basic_04.png" name="baseTex"/>
@@ -71,7 +54,7 @@
   </group>
   <group>
     <variant frequency="1" name="Idle"/>
-    <variant file="biped/attack_ranged_archer_hip.xml"/>
+     <variant file="biped/attack_ranged_archer.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/attack_slaughter.xml"/>
     <variant file="biped/gather_tree.xml"/>

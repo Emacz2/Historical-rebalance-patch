@@ -7,24 +7,12 @@
       <props>
         <prop actor="props/units/heads/new/head_celt.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
-        <prop actor="props/units/quiver_hip.xml" attachpoint="sheath_L"/>
+	<prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
+        <prop actor="props/units/quiver_back.xml" attachpoint="back"/>
       </props>
     </variant>
   </group>
-  <group>
-    <variant frequency="1" name="Celt-Shield-01">
-      <props>
-        <prop actor="props/units/shields/gaul_shield_jav_sq_b_01.xml" attachpoint="shield"/>
-      </props>
-    </variant>
-    <variant frequency="1" name="Celt-Shield-03">
-      <props>
-        <prop actor="props/units/shields/gaul_shield_jav_oval_h_01.xml" attachpoint="shield"/>
-      </props>
-    </variant>
-  </group>
-  <group>
+   <group>
     <variant name="pants-basic-1">
       <textures>
         <texture file="skeletal/gaul/pants_basic_01.png" name="baseTex"/>
@@ -74,7 +62,7 @@
   </group>
   <group>
     <variant frequency="1" name="Idle"/>
-    <variant file="biped/attack_ranged_archer_hip.xml"/>
+    <variant file="biped/attack_ranged_archer.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/attack_slaughter.xml"/>
     <variant file="biped/gather_tree.xml"/>

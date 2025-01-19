@@ -17,6 +17,6 @@
   </Identity>
   <Promotion disable=""/>
  <VisualActor>
-    <Actor>units/gauls/infantry_axeman_e.xml</Actor>
+    <Actor>units/brits/infantry_axeman.xml</Actor>
   </VisualActor>
 </Entity>

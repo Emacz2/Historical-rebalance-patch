@@ -1,3 +1,9 @@
+4.2
+Elephants can garrison in fort
+actor/portrait updates
+
+
+
 4.1
 Chariots build time increasd to 25.
 Chariots cost 125 food 75 wood 125 metal vs 160 food 90 wood 100 metal

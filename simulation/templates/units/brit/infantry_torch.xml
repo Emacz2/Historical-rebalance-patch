@@ -4,7 +4,7 @@
     <Civ>brit</Civ>
     <SelectionGroupName>units/brit/infantry_torch</SelectionGroupName>
     <GenericName>Brit fire torch</GenericName>
-    <Icon>units/kush_infantry_maceman.png</Icon>
+    <Icon>units/brits/brit_infantry_torch.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
 <Promotion disable=""/>

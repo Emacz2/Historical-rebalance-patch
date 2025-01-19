@@ -4,7 +4,7 @@
     <Civ>brit</Civ>
     <SelectionGroupName>units/pers/infantry_archer_b</SelectionGroupName>
     <GenericName>Brit Archer</GenericName>
-    <Icon>units/pers_infantry_archer.png</Icon>
+    <Icon>units/brits/brit_infantry_archer.png</Icon>
     <RequiredTechnology>unlock_archer</RequiredTechnology>
   </Identity>
   <Promotion>
