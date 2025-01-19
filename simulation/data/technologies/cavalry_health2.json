@@ -2,10 +2,10 @@
 	"genericName": "Horse Breeding",
 	"description": "Selectively breed better war horses.",
 	"cost": {
-		"food": 200,
-		"metal": 50
+		"food": 400,
+		"metal": 150
 	},
-	"requirements": { "tech": "phase_town" },
+	"requirements": { "tech": "phase_city" },
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "horse_trainer.png",
 	"researchTime": 35,

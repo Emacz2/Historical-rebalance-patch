@@ -43,6 +43,7 @@
     </Entity>
   </Resistance>
 <UnitMotion>
-    <WalkSpeed op="add">0.5</WalkSpeed>
+<WalkSpeed op="add">0.5</WalkSpeed>
+<AccelerationMultiplier>1.4</AccelerationMultiplier>
   </UnitMotion>
 </Entity>

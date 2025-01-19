@@ -6,7 +6,7 @@
     <SelectionGroupName>units/pers/infantry_axeman_b</SelectionGroupName>
     <GenericName>Persian Axeman</GenericName>
     <SpecificName>Sagaris</SpecificName>
-     <Icon>units/celt/infantry_axeman.png</Icon>
+     <Icon>units/pers/pers_infantry_axe.png</Icon>
      <RequiredTechnology>unlock_axeman</RequiredTechnology>
   </Identity>
   <Promotion>

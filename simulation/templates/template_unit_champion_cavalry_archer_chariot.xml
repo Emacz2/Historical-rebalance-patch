@@ -29,7 +29,7 @@
     </Ranged>
   </Attack>
   <Health>
-    <Max>300</Max>
+    <Max>225</Max>
   </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Ranged Archer Chariot</VisibleClasses>
