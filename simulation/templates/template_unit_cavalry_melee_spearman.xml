@@ -32,7 +32,6 @@
   </Identity>
     <UnitMotion>
     <WalkSpeed op="add">0.7</WalkSpeed>
-    <Acceleration op="add">5</Acceleration>
   </UnitMotion>
   <Sound>
     <SoundGroups>
