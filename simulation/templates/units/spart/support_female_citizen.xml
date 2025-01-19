@@ -16,9 +16,6 @@
       -structures/{civ}/barracks
     </Entities>
   </Builder>
- <Cost>
-    <BuildTime>9</BuildTime>
-    </Cost>
   <Health>
     <Max op="mul">1.25</Max>
   </Health>
