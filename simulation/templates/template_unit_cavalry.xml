@@ -91,6 +91,7 @@
   </UnitAI>
   <UnitMotion>
     <WalkSpeed op="add">6.0</WalkSpeed>
+    <Acceleration>40</Acceleration>
     <RunMultiplier>1.5</RunMultiplier>
   </UnitMotion>
   <Vision>
