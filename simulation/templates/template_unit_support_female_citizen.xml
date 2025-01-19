@@ -85,6 +85,15 @@
     <CanPatrol>false</CanPatrol>
     <Formations disable=""/>
   </UnitAI>
+<Resistance>
+    <Entity>
+      <Damage>
+     <Hack op="add">-1</Hack>
+     <Pierce op="add">-1</Pierce>
+     <Crush op="add">-1</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
   <Vision>
     <Range>35</Range>
   </Vision>

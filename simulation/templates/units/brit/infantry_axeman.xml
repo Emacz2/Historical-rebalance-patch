@@ -11,9 +11,9 @@
     <SelectionGroupName>units/brit/infantry_axeman</SelectionGroupName>
     <GenericName>Celtic Axeman</GenericName>
     <SpecificName>Catucos</SpecificName>
-    <Icon>units/brits/infantry_axe.png</Icon>
-     <RequiredTechnology>phase_town</RequiredTechnology>
-     <Rank>Elite</Rank>
+    <Icon>units/brits/brit_infantry_axe.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+    <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
  <VisualActor>

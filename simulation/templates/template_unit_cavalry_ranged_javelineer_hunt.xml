@@ -8,11 +8,11 @@
 	<Hack>1.0</Hack>
       </Damage>
       <MaxRange>32</MaxRange>
-      <PrepareTime>200</PrepareTime>
+      <PrepareTime>0</PrepareTime>
       <RepeatTime>2000</RepeatTime>
       <Projectile>
         <Speed>700</Speed>
-        <Spread>5.5</Spread>
+        <Spread>3.5</Spread>
         <Gravity>35</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>

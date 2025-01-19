@@ -1,3 +1,20 @@
+4.6
+Hunt cav archers spread reduced from 4.5 to 3 prepare time from 200ms to 0
+Fight cav archer spread increased to 3
+Hunt Jav spread reduced from 5.5 to 3.5, and prepare time set to 0
+Fight Jav spread reduced to 3.5
+fixed Brit axe portriate
+Fixed women's base resistance (0/0/0) 
+
+
+
+4.3
+More OP portraits thanks to Atrik!
+take away armor from women, loom 150 food, but +1 each resistance, but 25% health
+increase acceleration of raiding cav (jav)
+incrase cost of cavalary health upgrades, second avaible p3 only. Health is 250 food 100 metal, 2nd 1 400/150 p3
+Chariot health reduced by 75
+
 4.2
 Elephants can garrison in fort
 actor/portrait updates

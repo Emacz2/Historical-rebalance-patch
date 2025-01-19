@@ -7,11 +7,11 @@
         <Pierce>7</Pierce>
       </Damage>
       <MaxRange>61</MaxRange>
-      <PrepareTime>200</PrepareTime>
+      <PrepareTime>0</PrepareTime>
       <RepeatTime>1250</RepeatTime>
       <Projectile>
         <Speed>850</Speed>
-        <Spread>4.5</Spread>
+        <Spread>3.0</Spread>
         <Gravity>50</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>
