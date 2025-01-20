@@ -31,7 +31,7 @@
     <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="add">0.8</WalkSpeed>
+    <WalkSpeed op="add">0.5</WalkSpeed>
     <Acceleration>50</Acceleration>
   </UnitMotion>
   <Resistance>

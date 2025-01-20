@@ -3,11 +3,11 @@
 	"affects": ["Soldier"],
 	"affectedPlayers": ["Enemy"],
 	"modifications": [
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 0.99},
+		{ "value": "UnitMotion/WalkSpeed", "add": -0.2},
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -0.5 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": -0.5 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -0.5 }
 	],
 	"auraName": "Intimidation",
-	"auraDescription": "Enemy soldiers 1% slower movement speed and -0.5 op each resistance."
+	"auraDescription": "Enemy soldiers -0.2 slower movement speed and -0.5 of each resistance."
 }

@@ -14,6 +14,7 @@
       units/{civ}/cavalry_spearman_b
       units/{civ}/infantry_javelineer__neodamodes_b
       units/{civ}/slaves
+      units/{civ}/scout
     </Entities>
   </Trainer>
   <VisualActor>

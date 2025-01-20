@@ -3,8 +3,8 @@
 	"affects": ["Unit !Ship"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [
-		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.03 }
+		{ "value": "UnitMotion/WalkSpeed", "add": 0.3 }
 	],
 	"auraName": "Roman Roads",
-	"auraDescription": "All land units 3% faster movement speed."
+	"auraDescription": "All land units +0.3 movement speed."
 }

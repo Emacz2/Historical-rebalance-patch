@@ -1,3 +1,26 @@
+4.7/4.8
+Spartan women only have more attack and health, no longer extra resistance
+Infantry Jav spread changed from 4 to 3.5
+Xbow Cav spread lowered from 3 to 2.5, range lowered to 39
+Jav cav ranged lowered from 30 to 29 dmg increased to 25p/2H (We did it for Archers, the "fight" version has alittle less range but more dmg than infantry counterpart.
+melee cav speed boost over "cav speed" increased +.5 (0.3 to 0.8) they are now slightly faster than hunting jav cav
+Spear cav speed boost over melee cav lowered from +.3 to +.2 (trying to keep proportions similar to com mod/vanilla*) but acceleration increased to 47.5
+Spearman heavy (only kush right now) -1.5 slower than regular spear (instead of 2.0) and acceleration increased to 40 from 35
+Champ spearman heavy cav speed reduction lowered from -2 to -1.5
+Chariot Archers speed reduction lowered from -1.5 to 1.4
+Chariot Jav speed reduction lowered from -1.7 to -1.4
+Champ melee cav acceleration set 45
+Champ spear cav speed lowered +0.1 from melee instead of 0.7
+ALL cav base speed increased 0.5
+Maury "Infantry bonus" was applying to their melee cav... no longer does
+New "scout" unit added (currently only sparta) 100 life, 30 vision, 22.5 "walk speed" its run speed is also 22.5 :) We are gonna pretend they ONLY run.  It CAN NOT attack, gather resources or build. May add to Athens. Look up "Hemerodromos" if you want to find out why :)
+
+
+
+*In vanilla all melee cav same speed, spearman just more acceleration
+
+
+
 4.6
 Hunt cav archers spread reduced from 4.5 to 3 prepare time from 200ms to 0
 Fight cav archer spread increased to 3

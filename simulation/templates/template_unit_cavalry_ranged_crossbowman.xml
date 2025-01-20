@@ -4,14 +4,14 @@
     <Ranged>
       <AttackName>Crossbow</AttackName>
       <Damage>
-        <Pierce>35</Pierce>
+        <Pierce>32</Pierce>
       </Damage>
       <MaxRange>39</MaxRange>
       <PrepareTime>800</PrepareTime>
       <RepeatTime>3000</RepeatTime>
       <Projectile>
         <Speed>950</Speed>
-        <Spread>3</Spread>
+        <Spread>2.5</Spread>
         <Gravity>30</Gravity>
         <FriendlyFire>false</FriendlyFire>
         <LaunchPoint y="5"/>

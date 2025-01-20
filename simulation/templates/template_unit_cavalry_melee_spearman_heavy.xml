@@ -39,8 +39,8 @@
     <VisibleClasses datatype="tokens">Worker Soldier</VisibleClasses>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="add">-2.0</WalkSpeed>
-    <Acceleration>35</Acceleration>
+    <WalkSpeed op="add">-1.5</WalkSpeed>
+    <Acceleration>40</Acceleration>
   </UnitMotion>
   <Sound>
     <SoundGroups>

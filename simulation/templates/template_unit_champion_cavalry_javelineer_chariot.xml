@@ -56,6 +56,6 @@
     </Formations>
   </UnitAI>
 <UnitMotion>
-    <WalkSpeed op="add">-1.7</WalkSpeed>
+    <WalkSpeed op="add">-1.4</WalkSpeed>
   </UnitMotion>
 </Entity>

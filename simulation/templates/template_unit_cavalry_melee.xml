@@ -26,7 +26,7 @@
     <VisibleClasses datatype="tokens">Melee</VisibleClasses>
   </Identity>
   <UnitMotion>
-    <WalkSpeed op="add">0.3</WalkSpeed>
+    <WalkSpeed op="add">0.8</WalkSpeed>
     <Acceleration>45</Acceleration>
   </UnitMotion>
 </Entity>
