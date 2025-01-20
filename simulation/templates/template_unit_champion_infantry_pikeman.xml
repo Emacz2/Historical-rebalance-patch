@@ -19,9 +19,6 @@
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Melee>
   </Attack>
-  <Health>
-    <Max>215</Max>
-  </Health>
   <Identity>
     <GenericName>Champion Pikeman</GenericName>
     <Tooltip>Counters: 3.5 vs Cavalry.</Tooltip>

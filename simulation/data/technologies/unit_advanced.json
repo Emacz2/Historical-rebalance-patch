@@ -24,8 +24,8 @@
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.70 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.25 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.25},
-		{ "value": "Resistance/Entity/Damage/Crush", "add": 0.5},
-		{ "value": "UnitMotion/WalkSpeed", "add": 0.2}
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 0.5}
+		
 
 	],
 	"affects": ["Advanced Unit", "Elite Unit"]

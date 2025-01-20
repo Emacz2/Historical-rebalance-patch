@@ -19,9 +19,7 @@
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
-  <Health>
-    <Max>215</Max>
-  </Health>
+
   <Identity>
     <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <GenericName>Champion Swordsman</GenericName>
@@ -37,7 +35,6 @@
   </Resistance>
 <UnitMotion>
     <WalkSpeed op="add">-0.2</WalkSpeed>
-    <Acceleration op="add">-0.5</Acceleration>
   </UnitMotion>
   <Sound>
     <SoundGroups>

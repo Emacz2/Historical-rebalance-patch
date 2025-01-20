@@ -1,3 +1,15 @@
+
+
+
+4.9
+removed advanced/elite units walk speed increases.  they get more armor, but walk same speed is fair enough :)
+spear bonus vs cav increased to 3.0
+Pikeman hero bonuss vs cav increased 4.0
+Spear hearo bonuss vs cav increased 3.5
+Champ infantry melee health fixed (all 225) some were 225, some 215.
+Champ infantry melee speed set to 9.9 instead of 10 (champ infantry/cav .1 slower than their citizen counterpart due to more armor)
+
+
 4.7/4.8
 Spartan women only have more attack and health, no longer extra resistance
 Infantry Jav spread changed from 4 to 3.5

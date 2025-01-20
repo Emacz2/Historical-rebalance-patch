@@ -14,9 +14,6 @@
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
-  <Health>
-    <Max>215</Max>
-  </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Melee Axeman</VisibleClasses>
     <GenericName>Champion Axeman</GenericName>

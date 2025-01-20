@@ -20,9 +20,6 @@
       <metal>100</metal>
     </Resources>
   </Cost>
-  <Health>
-    <Max>215</Max>
-  </Health>
   <Identity>
     <VisibleClasses datatype="tokens">Melee Trumpeter</VisibleClasses>
     <GenericName>Champion Infantry Trumpeter</GenericName>

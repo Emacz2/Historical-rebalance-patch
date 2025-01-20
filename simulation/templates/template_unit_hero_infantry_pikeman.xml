@@ -13,7 +13,7 @@
       <Bonuses>
         <BonusCavMelee>
           <Classes>Cavalry</Classes>
-          <Multiplier>3.5</Multiplier>
+          <Multiplier>4.0</Multiplier>
         </BonusCavMelee>
       </Bonuses>
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
@@ -21,7 +21,7 @@
   </Attack>
   <Identity>
     <GenericName>Hero Pikeman</GenericName>
-    <Tooltip>Counters: 3.5 × vs Cavalry.</Tooltip>
+    <Tooltip>Counters: 4.0 × vs Cavalry.</Tooltip>
     <VisibleClasses datatype="tokens">Melee Pikeman Polearm</VisibleClasses>
   </Identity>
   <Resistance>
