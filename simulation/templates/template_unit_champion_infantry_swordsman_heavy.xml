@@ -19,7 +19,10 @@
       <PreferredClasses datatype="tokens">Unit+!Ship</PreferredClasses>
     </Melee>
   </Attack>
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
   <Identity>
     <VisibleClasses datatype="tokens">Melee Swordsman</VisibleClasses>
     <GenericName>Champion Swordsman</GenericName>
@@ -34,7 +37,11 @@
     </Entity>
   </Resistance>
 <UnitMotion>
+<<<<<<< Updated upstream
     <WalkSpeed op="add">-0.2</WalkSpeed>
+=======
+    <WalkSpeed op="add">-0.5</WalkSpeed>
+>>>>>>> Stashed changes
   </UnitMotion>
   <Sound>
     <SoundGroups>

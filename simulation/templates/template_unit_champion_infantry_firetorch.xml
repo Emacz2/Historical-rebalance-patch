@@ -24,9 +24,6 @@
       <RestrictedClasses datatype="tokens">Organic</RestrictedClasses>
     </Melee>
   </Attack>
-  <Health>
-    <Max>215</Max>
-  </Health>
   <DeathDamage>
     <Shape>Circular</Shape>
     <Range>10</Range>

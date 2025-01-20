@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 
 
@@ -9,6 +10,9 @@ Spear hearo bonuss vs cav increased 3.5
 Champ infantry melee health fixed (all 225) some were 225, some 215.
 Champ infantry melee speed set to 9.9 instead of 10 (champ infantry/cav .1 slower than their citizen counterpart due to more armor)
 
+=======
+4.9
+>>>>>>> Stashed changes
 
 4.7/4.8
 Spartan women only have more attack and health, no longer extra resistance

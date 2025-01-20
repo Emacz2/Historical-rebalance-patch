@@ -24,8 +24,7 @@
   </Resistance>
  <UnitMotion>
     <WalkSpeed op="add">0.5</WalkSpeed>
-    <Acceleration op="add">1</Acceleration>
-  </UnitMotion>
+ </UnitMotion>
   <UnitAI>
     <Formations datatype="tokens">
       special/formations/testudo

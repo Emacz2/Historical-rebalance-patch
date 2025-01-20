@@ -21,7 +21,11 @@
   </Attack>
   <Identity>
     <GenericName>Champion Spearman</GenericName>
+<<<<<<< Updated upstream
     <Tooltip>Counters: 3.0 × vs Cavalry.</Tooltip>
+=======
+    <Tooltip>Counters: 3.0× vs Cavalry.</Tooltip>
+>>>>>>> Stashed changes
     <VisibleClasses datatype="tokens">Melee Spearman Polearm</VisibleClasses>
   </Identity>
   <Sound>

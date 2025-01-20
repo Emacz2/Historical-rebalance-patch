@@ -10,7 +10,11 @@
     <SpecificName>hemerodromos</SpecificName>
     <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
     <Promotion disable=""/>
+<<<<<<< Updated upstream
     <Icon>units/hele/slave.png</Icon>
+=======
+    <Icon>units/spart/scout.png</Icon>
+>>>>>>> Stashed changes
   </Identity>
      <VisualActor>
     <Actor>units/spartans/hemerodromos.xml</Actor>

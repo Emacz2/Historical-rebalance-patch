@@ -22,7 +22,7 @@
     <Anchor>upright</Anchor>
   </Position>
   <UnitMotion>
-    <WalkSpeed>10.0</WalkSpeed>
+    <WalkSpeed>9.9</WalkSpeed>
   </UnitMotion>
   <Selectable>
     <Overlay>

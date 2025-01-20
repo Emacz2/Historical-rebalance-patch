@@ -1,6 +1,10 @@
 {
 	"name": "historical-rebalance-patch",
+<<<<<<< Updated upstream
 	"version": "0.4.9",
+=======
+	"version": "0.0.0",
+>>>>>>> Stashed changes
 	"label": "historical-rebalance-patch",
 	"url": "https://github.com/Emacz2/Historical-rebalance-patch", 
 	"description": "This patch is an effort to make civs a little historically more accurate, promoting different styles of play.",

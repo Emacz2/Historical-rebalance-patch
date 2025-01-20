@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_javelineer">
+  <Identity>
+    <Civ>rome</Civ>
+    <Lang>latin</Lang>
+    <GenericName>Champion Javelineer</GenericName>
+    <SpecificName>Extrāōrdinārius</SpecificName>
+    <SelectionGroupName>units/rome/champion_infantry_javelineer</SelectionGroupName>
+    <VisibleClasses datatype="tokens">Ranged</VisibleClasses>
+    <Icon>units/rome_champion_infantry.png</Icon>
+    <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/romans/infantry_champion_jav.xml</Actor>
+  </VisualActor>
+</Entity>
+
+  

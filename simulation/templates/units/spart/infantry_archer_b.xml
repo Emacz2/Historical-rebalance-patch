@@ -14,13 +14,12 @@
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_archer_b</SelectionGroupName>
     <GenericName>Helot Archer</GenericName>
-    <SpecificName>Toxótēs Krētikós</SpecificName>
     <Icon>units/mace_infantry_archer.png</Icon>
      <VisibleClasses datatype="tokens">Helot</VisibleClasses>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
     <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/macedonians/infantry_archer_b.xml</Actor>
+    <Actor>units/spartans/helot_archer.xml</Actor>
   </VisualActor>
 </Entity>
