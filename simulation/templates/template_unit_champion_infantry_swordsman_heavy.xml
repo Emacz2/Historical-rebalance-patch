@@ -20,7 +20,10 @@
     </Melee>
   </Attack>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   <Identity>
@@ -38,7 +41,11 @@
   </Resistance>
 <UnitMotion>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <WalkSpeed op="add">-0.2</WalkSpeed>
+=======
+    <WalkSpeed op="add">-0.5</WalkSpeed>
+>>>>>>> Stashed changes
 =======
     <WalkSpeed op="add">-0.5</WalkSpeed>
 >>>>>>> Stashed changes

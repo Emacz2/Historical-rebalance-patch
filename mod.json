@@ -1,7 +1,11 @@
 {
 	"name": "historical-rebalance-patch",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	"version": "0.4.9",
+=======
+	"version": "0.0.0",
+>>>>>>> Stashed changes
 =======
 	"version": "0.0.0",
 >>>>>>> Stashed changes
