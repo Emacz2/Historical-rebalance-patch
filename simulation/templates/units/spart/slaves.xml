@@ -47,6 +47,9 @@
     <Health>
     <Max>30</Max>
     </Health>
+ <UnitMotion>
+    <WalkSpeed op="add">0.5</WalkSpeed>
+  </UnitMotion>
   <VisualActor>
     <Actor>units/spartans/slave.xml</Actor>
   </VisualActor>

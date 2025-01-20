@@ -19,7 +19,7 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "armor_corinthian.png",
 	"researchTime": 30,
-	"tooltip": "Citizen Soldiers -10% train time, 5% melee/ranged dmg, +0.5 pierce/hack armor but -5% res gathering.",
+	"tooltip": "Citizen Soldiers -10% train time, 5% melee/ranged dmg, +0.5 pierce/hack armor but -10% res gathering.",
 	"modifications": [
 		{ "value": "Cost/BuildTime", "multiply": 0.9 },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.05 },
@@ -30,7 +30,7 @@
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.05 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 0.5 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 0.5 },
-		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.95}
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.9}
 	
 
 	],

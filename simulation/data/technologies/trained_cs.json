@@ -8,7 +8,7 @@
 	},
 	"requirements": {
 		"all": [
-			{ "tech": "phase_town" },
+			{ "tech": "phase_city" },
 			{
 				"any": [
 					{ "civ": "mace" }
@@ -19,7 +19,7 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "armor_corinthian.png",
 	"researchTime": 30,
-	"tooltip": "Citizen Soldiers 15% faster attack speed, ranged units 25% more accurate, 5% more melee and ranged dmg and +1 hack/pierce armor but gather resources 15% slower and 15% longer train time .",
+	"tooltip": "Citizen Soldiers 15% faster attack speed, ranged units 25% more accurate, 5% more melee and ranged dmg and +1 hack/pierce armor but gather resources 20% slower, 15% longer train time and -0.2 movement speed.",
 	"modifications": [
 		{ "value": "Attack/Melee/RepeatTime", "multiply": 0.85},
 		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.85},
@@ -33,7 +33,8 @@
 		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
 		{ "value": "Cost/BuildTime", "multiply": 1.15 },
-		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.85}
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 0.80},
+		{ "value": "UnitMotion/WalkSpeed", "add": -0.2}
 	
 
 	],

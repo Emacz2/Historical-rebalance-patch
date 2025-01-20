@@ -1,6 +1,22 @@
+5.5
+CS gathering units (sparta, mace, cart) +0.2 movement speed due to 50% less armor
 
+Mace
+Trained CS tech added (creatd it a while ago, but forgot to add it to the cc!)
 
-4.9
+Ptolmie
+Foreign merc tech gathering reduction increased from 5% to 10% slower
+fixed teambonus2, wasn't applying to allies!?!
+
+Spartans
+Helots +0.4 movement speed due to no armor
+Slaves +0.5 movement speed due to no armor
+Olympic spartiates -1 movement speed instead of .98% due to armor increase
+Helot reinformcments gathering reduction increased from 10 to 15% slower
+
+5.4
+Added Roman champ jav
+Fixed some actors, new portraits thanks again to Atrik!
 removed advanced/elite units walk speed increases.  they get more armor, but walk same speed is fair enough :)
 spear bonus vs cav increased to 3.0
 Pikeman hero bonuss vs cav increased 4.0

@@ -113,6 +113,7 @@
       unlock_spies
       spy_counter
       foreign_mercenaries
+      trained_cs
     </Technologies>
   </Researcher>
 <Resistance>

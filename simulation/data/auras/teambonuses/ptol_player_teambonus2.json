@@ -1,5 +1,5 @@
 {
-	"type": "player",
+	"type": "global",
 	"affects": ["Structure"],
 	"affectedPlayers": ["MutualAlly"],
 	"modifications": [

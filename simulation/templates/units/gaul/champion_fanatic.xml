@@ -29,7 +29,6 @@
   </Resistance>
   <UnitMotion>
     <WalkSpeed op="add">4</WalkSpeed>
-    <Acceleration op="add">4</Acceleration>
   </UnitMotion>
   <VisualActor>
     <Actor>units/gauls/infantry_spearman_c.xml</Actor>
