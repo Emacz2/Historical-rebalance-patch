@@ -99,7 +99,8 @@
   <Vision>
     <Range>70</Range>
   </Vision>
-     <Auras datatype="tokens">
+   <Auras datatype="tokens">
     units/ram_garrison
+    units/SiegeT_garrison
   </Auras>
 </Entity>

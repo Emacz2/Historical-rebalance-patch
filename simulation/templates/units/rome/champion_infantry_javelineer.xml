@@ -7,7 +7,7 @@
     <SpecificName>Extrāōrdinārius</SpecificName>
     <SelectionGroupName>units/rome/champion_infantry_javelineer</SelectionGroupName>
     <VisibleClasses datatype="tokens">Ranged</VisibleClasses>
-    <Icon>units/rome_champion_infantry.png</Icon>
+    <Icon>units/rome/rome_champ_jav.png</Icon>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <Promotion disable=""/>

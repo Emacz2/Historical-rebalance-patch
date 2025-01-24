@@ -7,6 +7,14 @@
     <Icon>units/brit_champion_infantry.png</Icon>
     <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
+   <Upgrade>
+    <Berserker_Rage>
+      <Entity>units/brit/champion_infantry_swordsman_berserk</Entity>
+      <Tooltip>Loosing your armour and speed to run at the enemy.</Tooltip>
+      <Variant>upgrading</Variant>
+      <Time>3</Time>
+    </Berserker_Rage>
+  </Upgrade>
   <VisualActor>
     <Actor>units/britons/infantry_swordsman_c.xml</Actor>
   </VisualActor>

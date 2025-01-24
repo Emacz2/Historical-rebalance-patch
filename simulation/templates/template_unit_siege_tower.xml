@@ -11,8 +11,8 @@
     <Ranged>
       <AttackName>Bow</AttackName>
       <Damage>
-        <Pierce>7.5</Pierce>
-        <Crush>2.5</Crush>
+        <Pierce>5</Pierce>
+        <Crush>1.5</Crush>
       </Damage>
       <MaxRange>15</MaxRange>
       <Origin>
@@ -20,8 +20,8 @@
         <Y>10</Y>
         <Z>0</Z>
       </Origin>
-      <PrepareTime>1200</PrepareTime>
-      <RepeatTime>10000</RepeatTime>
+      <PrepareTime>1000</PrepareTime>
+      <RepeatTime>25000</RepeatTime>
       <Projectile>
         <Speed>1000</Speed>
         <Spread>2</Spread>
@@ -40,11 +40,12 @@
   <BuildingAI>
     <DefaultArrowCount>0</DefaultArrowCount>
     <GarrisonArrowMultiplier>1</GarrisonArrowMultiplier>
-    <MaxArrowCount>10</MaxArrowCount>
+    <MaxArrowCount>40</MaxArrowCount>
     <GarrisonArrowClasses>Infantry</GarrisonArrowClasses>
   </BuildingAI>
   <Cost>
     <BuildTime>40</BuildTime>
+    <Population>4</Population>
     <Resources>
       <wood>500</wood>
       <metal>300</metal>
@@ -55,7 +56,7 @@
     <Height>30.0</Height>
   </Footprint>
   <GarrisonHolder>
-    <Max>30</Max>
+    <Max>40</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Support Infantry</List>
@@ -105,10 +106,10 @@
       </Damage>
     </Entity>
   </Resistance>
-  <UnitMotion>
-    <WalkSpeed op="mul">0.7</WalkSpeed>
-    <Acceleration op="mul">0.7</Acceleration>
-  </UnitMotion>
+ <UnitMotion>
+    <WalkSpeed op="add">-4.5</WalkSpeed>
+    <Acceleration>15</Acceleration>
+ </UnitMotion>
   <Vision>
     <Range>100</Range>
   </Vision>

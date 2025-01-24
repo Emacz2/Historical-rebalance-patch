@@ -43,4 +43,8 @@
       </Texture>
     </Overlay>
   </Selectable>
+    <Auras datatype="tokens">
+    units/ram_garrison
+    units/SiegeT_garrison
+  </Auras>
 </Entity>

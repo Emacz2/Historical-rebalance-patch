@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="civ/athen|template_unit_champion_infantry_spearman">
+  <Attack>
+    <Melee>
+	<AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
+      <Damage>
+        <Hack>12</Hack>
+        <Pierce>1</Pierce>
+      </Damage>
+	  <MaxRange>2.75</MaxRange>
+    </Melee>
+  </Attack>
+ <Identity>
+    <GenericName>Council Guards</GenericName>
+    <SpecificName>Eleian Hoplite</SpecificName>
+    <Icon>units/athen_champion_infantry.png</Icon>
+   <VisibleClasses datatype="tokens">Hellenes</VisibleClasses>
+  </Identity>
+  <Upgrade>
+    <City_Guard>
+      <Entity>units/athen/champion_infantry</Entity>
+      <Tooltip>Switch to using a spear.</Tooltip>
+      <Variant>upgrading</Variant>
+      <Time>4</Time>
+    </City_Guard>
+ </Upgrade>
+  <VisualActor>
+    <Actor>units/athenians/infantry_council_guards.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -1,3 +1,28 @@
+5.6 
+MORE OP portraits thanks to Atrik
+Siege Tower garrison aura: 1% crush, 3% pierce dmg for each garrisoned soldier.  
+Siege Tower population increased to 4, movement speed set to 5.0, acceleration 15
+Wonder build time reduced to 900 seconds from 1000, Hack resistance increased to 20 from 19, crush increased to 10 from 3.
+Wonder pop tech 0 research time, reduced 1k wood added 250 stone and metal.
+CS gathering units (sparta, mace, cart) 15% less train time instead of 25-40%
+
+
+Athen
+Teambonus 2 Javelineers 10% pierce +2 range
+Civ tech Javelineers -1.5H/P armor, -5 crush but +0.5 walk speed and 15% more accurate
+Javelineers no longer "merc" status"
+City gaurd can switch to council guard (sword dmg not as strong as marines though)
+
+Brits
+Brit champ swords can switch to berserk rage (+2 pierece 1 hack dmg, +3.5 walk speed, 750 repeat time instead of 800, but -5, -5.5P, -20C resistance and health reduced to 180, -1/sec in berserk mode only)
+
+Rome
+Siege bonus 10% faster fire rate 25% pack/unpack ALL ranged siege, 10% crush for rams
+
+Spartan
+Spartiate spearman cost 15 more wood/metal p2, and 25 more (40 total) p3
+
+
 5.5
 CS gathering units (sparta, mace, cart) +0.2 movement speed due to 50% less armor
 

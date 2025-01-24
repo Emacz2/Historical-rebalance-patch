@@ -14,7 +14,7 @@
     <Lang>greek</Lang>
     <SelectionGroupName>units/spart/infantry_archer_b</SelectionGroupName>
     <GenericName>Helot Archer</GenericName>
-    <Icon>units/mace_infantry_archer.png</Icon>
+    <Icon>units/spart/spart_helot_archer.png</Icon>
      <VisibleClasses datatype="tokens">Helot</VisibleClasses>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>

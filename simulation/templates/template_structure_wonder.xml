@@ -10,7 +10,7 @@
     <CapturePoints op="mul">4</CapturePoints>
   </Capturable>
   <Cost>
-    <BuildTime>1000</BuildTime>
+    <BuildTime>900</BuildTime>
     <Resources>
       <wood>1000</wood>
       <stone>1500</stone>
@@ -69,9 +69,9 @@
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Hack>19</Hack>
+        <Hack>20</Hack>
         <Pierce>25</Pierce>
-        <Crush>3</Crush>
+        <Crush>10</Crush>
       </Damage>
     </Entity>
   </Resistance>

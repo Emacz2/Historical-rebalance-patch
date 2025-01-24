@@ -2,20 +2,15 @@
   "genericName": "Legionary Engineers",
   "autoResearch": true,
   "description": "Soldiers were well Trained to Operate Siege Engines.",
-  "requirements": {
-    "civ": "rome"
-  },
-  "icon": "engineering.png",
-  "tooltip": "Siege Catapults and Onagers 10% faster fire rate and +20% movement speed.",
-  "modifications": [
-    {
-      "value": "Attack/Ranged/RepeatTime",
-      "multiply": 0.9
-    },
-    {
-      "value": "UnitMotion/WalkSpeed",
-      "multiply": 1.2
-    }
-  ],
-  "affects": [ "StoneThrower" ]
+  "requirements": { "civ": "rome" },
+	"icon": "ionic_column.png",
+	"tooltip": "All greek citizens .2 faster walk speed, ranged units +1 range, melee units 2% dmg.",
+	"modifications": [
+		{ "value": "Attack/Ranged/RepeatTime", "multiply": 0.90},
+		{ "value": "Pack/Time", "multiply": 0.75 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.10 }
+
+		
+	],
+	"affects": ["Siege"]
 }

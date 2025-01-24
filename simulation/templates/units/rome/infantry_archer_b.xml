@@ -12,7 +12,7 @@
     <Lang>latin</Lang>
     <SelectionGroupName>units/rome/infantry_archer_b</SelectionGroupName>
     <GenericName>Roman Archer</GenericName>
-    <Icon>units/mace_infantry_archer.png</Icon>
+    <Icon>units/rome/rome_infantry_archer.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
     <Promotion disable=""/>

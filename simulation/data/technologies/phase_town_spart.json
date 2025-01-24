@@ -32,6 +32,7 @@
 		{ "value": "Cost/BuildTime", "multiply": 0.95, "affects": "Neodamodes" },
 		{ "value": "Health/Max", "add": 25, "affects": "Champion"},
 		{ "value": "Cost/Resources/metal", "add": 15, "affects": "Champion Spearman"},
+		{ "value": "Cost/Resources/wood", "add": 15, "affects": "Champion Spearman"},
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.1, "affects": "Champion Spearman" },
 		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.1, "affects": "Champion Spearman" },
 		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.02, "affects": "Hellenes" },

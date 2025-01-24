@@ -42,8 +42,9 @@
   </Sound>
   <Vision>
     <Range>80</Range>
-  </Vision>
-     <Auras datatype="tokens">
+</Vision>
+  <Auras datatype="tokens">
     units/ram_garrison
+    units/SiegeT_garrison
   </Auras>
 </Entity>

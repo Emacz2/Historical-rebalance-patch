@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_swordsman">
+  <Identity>
+    <Civ>brit</Civ>
+    <GenericName>Brythonic Champion</GenericName>
+    <SpecificName>Argos</SpecificName>
+    <Icon>units/brit_champion_infantry.png</Icon>
+    <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
+  </Identity>
+ <Attack>
+    <Melee>
+        <AttackName context="Name of an attack using a double-edged sword.">Sword</AttackName>
+      <Damage>
+        <Hack op="add">2.0</Hack>
+	<Pierce op="add">1.0</Pierce>
+      </Damage>
+       <RepeatTime>750</RepeatTime>
+    </Melee>
+  </Attack>
+ <Health>
+    <Max>180</Max>
+    <RegenRate>-1</RegenRate>
+    <Unhealable>true</Unhealable>
+  </Health>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">-5</Hack>
+	<Pierce op="add">-5.5</Pierce>
+	<Crush op="add">-20</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Upgrade>
+    <Berserker_Rage>
+      <Entity>units/brit/champion_infantry_swordsman</Entity>
+      <Tooltip>Put on your armour again.</Tooltip>
+      <Variant>upgrading</Variant>
+      <Time>6</Time>
+    </Berserker_Rage>
+  </Upgrade>
+  <UnitMotion>
+    <WalkSpeed op="add">3.5</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/brits/infantry_swordsman_berserk.xml</Actor>
+  </VisualActor>
+</Entity>

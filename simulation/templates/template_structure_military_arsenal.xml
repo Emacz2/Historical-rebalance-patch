@@ -3,6 +3,9 @@
   <Auras datatype="tokens">
     structures/arsenal_repair
   </Auras>
+  <BuildRestrictions>
+    <Territory>own neutral</Territory>
+  </BuildRestrictions>
   <Cost>
     <BuildTime>180</BuildTime>
     <Resources>
@@ -14,8 +17,8 @@
     <Height>12.0</Height>
   </Footprint>
   <GarrisonHolder>
-    <Max>5</Max>
-    <List datatype="tokens">Siege</List>
+    <Max>6</Max>
+    <List datatype="tokens">Siege Infantry</List>
   </GarrisonHolder>
   <Health>
     <Max>2000</Max>
@@ -29,13 +32,6 @@
     <Icon>structures/siege_workshop.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>
-<Trainer>
-    <Entities datatype="tokens">
-      units/{civ}/siege_ram_town
-      units/{civ}/siege_ram
-      units/{civ}/champion_chariot
-    </Entities>
-  </Trainer>
   <Loot>
     <wood>60</wood>
   </Loot>
@@ -65,13 +61,13 @@
   <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/champion_infantry_crossbowman
       units/{civ}/siege_scorpio_packed
       units/{civ}/siege_polybolos_packed
       units/{civ}/siege_oxybeles_packed
       units/{civ}/siege_onager_packed
       units/{civ}/siege_lithobolos_packed
       units/{civ}/siege_ballista_packed
+      units/{civ}/siege_ram_town
       units/{civ}/siege_ram
       units/{civ}/siege_tower
     </Entities>
