@@ -1,3 +1,6 @@
+5.7
+Fixed spartan techs, only worked on support... supposed to work on Periokoi
+
 5.6 
 MORE OP portraits thanks to Atrik
 Siege Tower garrison aura: 1% crush, 3% pierce dmg for each garrisoned soldier.  
