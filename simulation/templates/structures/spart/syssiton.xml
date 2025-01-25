@@ -73,10 +73,10 @@
       <RequiredTechnology>phase_town</RequiredTechnology>
       <Cost>
         <stone>200</stone>
-        <wood>200</wood>
+        <wood>100</wood>
 	<metal>100</metal>
       </Cost>
-      <Time>90</Time>
+      <Time>45</Time>
       <Variant>upgrading</Variant>
     </syssiton_upped>
   </Upgrade>
