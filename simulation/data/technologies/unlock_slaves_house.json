@@ -1,5 +1,5 @@
 {
-	"genericName": "Helot reinforcement",
+	"genericName": "helots",
 	"specificName": {
 		"athen": "Thesmophoria",
 		"mace": "Thesmophoria",
@@ -8,7 +8,7 @@
 		"sele": "Thesmophoria",
 		"spart": "Thesmophoria"
 	},
-	"description": "Able to keep slaves in the house.",
+	"description": "train slaves from houses.",
 	"cost": {
 		"food": 300,
 		"metal": 200
@@ -20,7 +20,7 @@
 		]
 	},
 	"icon": "wives_festival.png",
-	"researchTime": 60,
+	"researchTime": 40,
 	"tooltip": "Unlock the ability to train slaves from houses.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
