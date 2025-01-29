@@ -1,11 +1,10 @@
 {
 	"type": "global",
 	"affects": ["Worker"],
-	"affectedPlayers": ["Ally"],
 	"modifications": [
-		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.10 }
+		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.15 }
 	],
 	"auraName": "Preparation for War",
-	"auraDescription": "Own and allied Workers +10% gather speed.",
+	"auraDescription": "Workers +15% gather speed.",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png"
 }

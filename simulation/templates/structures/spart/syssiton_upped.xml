@@ -21,7 +21,7 @@
     <SpecificName>SyssitionUpped</SpecificName>
     <Tooltip>Train Champions and research unique technologies.</Tooltip>
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
-    <VisibleClasses datatype="tokens">-City Village Syssiton</VisibleClasses>
+    <VisibleClasses datatype="tokens">-City Village Syssiton Military</VisibleClasses>
     <Icon>structures/syssition.png</Icon>
     <RequiredTechnology>phase_village</RequiredTechnology>
   </Identity>

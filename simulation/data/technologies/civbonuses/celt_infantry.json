@@ -11,7 +11,7 @@
 	"icon": "ionic_column.png",
 	"tooltip": "Citizen Infantry 25 more health .7 faster walk speed but -1 of each resistance.",
 	"modifications": [
-		{ "value": "Health/Max", "add": 25 },
+		{ "value": "Health/Max", "add": 15 },
 		{ "value": "UnitMotion/WalkSpeed", "add": 0.7},
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1 },

@@ -28,10 +28,10 @@
   <Guard/>
   <Health>
     <DeathType>corpse</DeathType>
-    <Max>100</Max>
-    <RegenRate>0</RegenRate>
-    <IdleRegenRate>0</IdleRegenRate>
-    <Unhealable>false</Unhealable>
+    <Max>75</Max>
+    <RegenRate>-0.5</RegenRate>
+    <IdleRegenRate>0.25</IdleRegenRate>
+    <Unhealable>true</Unhealable>
   </Health>
   <Identity>
     <Civ>gaia</Civ>
@@ -70,9 +70,9 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack>1</Hack>
-        <Pierce>1</Pierce>
-        <Crush>1</Crush>
+        <Hack>0</Hack>
+        <Pierce>0</Pierce>
+        <Crush>0</Crush>
       </Damage>
     </Entity>
   </Resistance>
@@ -124,7 +124,7 @@
   <UnitMotion>
     <FormationController>false</FormationController>
     <PassabilityClass>default</PassabilityClass>
-    <WalkSpeed>22.5</WalkSpeed>
+    <WalkSpeed>25</WalkSpeed>
     <RunMultiplier>1.0</RunMultiplier>
     <InstantTurnAngle>1.5</InstantTurnAngle>
     <Acceleration>55</Acceleration>
@@ -137,7 +137,7 @@
     <Preview>false</Preview>
   </Visibility>
   <Vision>
-    <Range>30</Range>
+    <Range>50</Range>
   </Vision>
   <VisionSharing>
     <Bribable>false</Bribable>

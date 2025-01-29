@@ -16,7 +16,7 @@
     <SpeedMultiplier>1</SpeedMultiplier>
     <FormationShape>square</FormationShape>
     <MaxTurningAngle>1</MaxTurningAngle>
-    <SortingClasses>Hero Champion Cavalry Melee Ranged</SortingClasses>
+    <SortingClasses>Melee Champion Cavalry Ranged Hero</SortingClasses>
     <ShiftRows>false</ShiftRows>
     <UnitSeparationWidthMultiplier>1</UnitSeparationWidthMultiplier>
     <UnitSeparationDepthMultiplier>1</UnitSeparationDepthMultiplier>

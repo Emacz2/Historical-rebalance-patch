@@ -8,6 +8,7 @@
 	"requirements": {
 		"all": [
 			{ "tech": "phase_village" },
+			{ "civ": "athen" },
 			{ "civ": "brit" },
 			{ "civ": "maur" },
 			{ "civ": "iber" },

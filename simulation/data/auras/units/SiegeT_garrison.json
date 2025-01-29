@@ -4,9 +4,10 @@
 	"affects": ["SiegeTower"],
 	"affectedPlayers": ["Player", "MutualAlly"],
 	"modifications": [
+		{ "value": "Attack/Capture/Capture", "add": 1 },
 		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.01},
 		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.06}
 	],
 	"auraName": "Garrisoned twoer",
-	"auraDescription": "Siege towers gain 1% crush and 6% peice dmg per garrisoned soldier."
+	"auraDescription": "Siege towers gain 1% crush, 6% peice dmg and 1 capture attack per garrisoned soldier."
 }

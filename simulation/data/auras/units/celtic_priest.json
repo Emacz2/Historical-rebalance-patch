@@ -1,0 +1,12 @@
+{
+        "type": "range",
+        "radius": 30,
+        "affects": ["Soldier"],
+        "modifications": [
+		{ "value": "Health/Max", "add": 10 },
+		{ "value": "Promotion/RequiredXp", "multiply": 0.75 }
+        ],
+        "auraName": "Combat leadership",
+        "auraDescription": " Melee Soldiers +10% attack damage and all soldiers -25% experience points for promotion.",
+        "overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

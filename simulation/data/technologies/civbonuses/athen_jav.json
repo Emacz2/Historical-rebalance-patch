@@ -4,10 +4,10 @@
 	"description": "Athenian Pelast.",
 	"requirements": { "civ": "athen" },
 	"icon": "wooden_walls.png",
-	"tooltip": "Javelineer .5 faster run/walk and 15% more accurate but -1.5p/h armor and -5 crush.",
+	"tooltip": "Javelineer .5 faster run/walk and +3 range, but -1.5p/h armor and -5 crush.",
 	"modifications": [
 		{ "value": "UnitMotion/WalkSpeed", "add": 0.5 },
-		{ "value": "Attack/Ranged/Spread", "multiply": 0.85 },
+		{ "value": "Attack/Ranged/MaxRange", "add": 3 },
 		{ "value": "Resistance/Entity/Damage/Hack", "add": -1.5 },
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": -1.5 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": -5 }

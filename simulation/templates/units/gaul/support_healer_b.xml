@@ -28,4 +28,7 @@
     <UnhealableClasses datatype="tokens"/>
     <HealableClasses datatype="tokens">Human</HealableClasses>
   </Heal>
+  <Auras datatype="tokens">
+    units/celtic_priest
+  </Auras>
 </Entity>

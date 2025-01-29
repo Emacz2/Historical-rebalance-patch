@@ -1,0 +1,16 @@
+{
+    "genericName": "Offensive over defensive",
+    "autoResearch": true,
+    "description": "Military buildings 20% less build time, defensive buildings 20% more longer build time",
+    "requirements":{
+            "civ": "spart"
+    },
+    "icon": "",
+    "tooltip": "Defensive structures take 20% more build time, military structures take 20% less time.",
+    "modifications": [
+        { "value": "Cost/BuildTime", "multiply": 1.20, "affects": "Defensive !Fortress" },
+	{ "value": "Cost/BuildTime", "multiply": 0.8, "affects": "Military !Fortress" }
+    	
+    ],
+    "affects": ["Structure"]
+} 

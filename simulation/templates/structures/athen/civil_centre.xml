@@ -12,6 +12,7 @@
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_slinger_b
       units/{civ}/cavalry_javelineer_b
+      units/{civ}/scout
     </Entities>
   </Trainer>
   <VisualActor>

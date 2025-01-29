@@ -4,7 +4,7 @@
     <Ranged>
       <AttackName>Fire</AttackName>
       <Damage>
-        <Fire>75</Fire>
+        <Fire>50</Fire>
       </Damage>
       <MaxRange>15</MaxRange>
       <MinRange>10</MinRange>
@@ -33,10 +33,10 @@
   </Cost>
   <DeathDamage>
     <Shape>Circular</Shape>
-    <Range>20</Range>
+    <Range>15</Range>
     <FriendlyFire>true</FriendlyFire>
     <Damage>
-      <Fire>125</Fire>
+      <Fire>100</Fire>
     </Damage>
   </DeathDamage>
   <Health>

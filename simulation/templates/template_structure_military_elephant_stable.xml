@@ -4,7 +4,7 @@
     structures/xp_trickle
   </Auras>
   <Cost>
-    <BuildTime>180</BuildTime>
+    <BuildTime>150</BuildTime>
     <Resources>
       <wood>200</wood>
       <stone>200</stone>

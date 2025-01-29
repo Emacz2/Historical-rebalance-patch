@@ -20,6 +20,6 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "helmet_corinthian_crest.png",
 	"researchTime": 45,
-	"tooltip": "Unlock Champion Chariots at the Stable.",
+	"tooltip": "Unlock Champion Chariots at the forge.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

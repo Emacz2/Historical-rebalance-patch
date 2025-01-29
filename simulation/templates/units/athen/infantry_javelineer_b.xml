@@ -12,8 +12,9 @@
     <GenericName>Athenian Peltast</GenericName>
     <SpecificName>Peltastḗs Athēnaîos</SpecificName>
     <Icon>units/athen/infantry_jav.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
-     <VisibleClasses datatype="tokens">Citizen Hellenes</VisibleClasses>
+   <RequiredTechnology>phase_village</RequiredTechnology>
+   <RequiredTechnology>unlock_skirm</RequiredTechnology>
+   <VisibleClasses datatype="tokens">Citizen Hellenes</VisibleClasses>
   </Identity>
   <Promotion>
     <Entity>units/athen/infantry_javelineer_a</Entity>

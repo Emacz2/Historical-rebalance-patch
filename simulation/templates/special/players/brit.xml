@@ -2,6 +2,7 @@
 <Entity parent="template_player">
   <Auras datatype="tokens">
     teambonuses/brit_player_teambonus
+    teambonuses/brit_player_teambonus2
   </Auras>
   <Identity>
     <Civ>brit</Civ>

@@ -1,3 +1,36 @@
+6.0
+Formation changed to lead with melee
+Champion eles pierce/hack resistance increased by 0.5 (African eles -.2 walk speed, Indian eles -.6)
+Worker elephants speed increased to base unit 9.5
+Spike dmg vs cav increased to 4.5/sec instead of 3
+SeigeT_garrison added +1 capture attack per garrisoned unit.
+Celtic infantry bonus health lowered to 15 from 25, but celtic priest now have aura that adds 10 health and 25% less exp.
+
+All military buildings set to 150 build time, except fort (600) Athens gymnasium included
+
+scout speed increased to 25, health lowered to 75 and -0.5 per second since it is always running, vision increased to 50 added to Athenians as well
+
+Athens
+Teambonus 2 Javs 10% more dmg 10% more accurate (no range)
+Athens javs now avaible p1, after you unlock from forge.
+Javs +.5 walk speed, +3 range but -1.5 pierce/hack, -5 crush armor
+
+Britians
+Finally added teambonus2!  I had created it, but forgot to added to the special civ template.
+Hero Caratacos Aura1 enemy -1 of each resistance range 45,  Aura2 Own and allied infantry and siege 10% walk speed.
+
+
+Cart
+Hero Hamilcar 2nd aura, 15% melee/ranged merc attack own and ally, no longer has 15% speed movement aura
+
+Gaul
+Brennus aura metal loot increased to 20, ranged decreased to 50
+Virid aura Includes allies, lowered to 10% worker gather speed
+
+Spartans
+Defensive building "civ bonus" is now Structure bonus.  Defensive 20% longer Military 20% less build time
+
+
 5.8/5.9
 Fertility Festival
 changed to 250 food 100 wood 50 metal

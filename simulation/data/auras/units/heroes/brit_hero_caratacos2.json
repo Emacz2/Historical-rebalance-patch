@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Infantry", "Siege"],
+	"affectedPlayers": ["Ally"],
+	"modifications": [
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.10 }
+	],
+	"auraName": "Guerrilla Chief",
+	"auraDescription": "Own and allied infantry and siege 10% faster walk speed"
+}

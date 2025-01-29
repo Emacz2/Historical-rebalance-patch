@@ -11,12 +11,13 @@
 		"all": [
 			{ "tech": "phase_village" },
 			{ "civ": "gaul" },
+			{ "civ": "brit" },
 			{ "civ": "pers" }
 		]
 	},
 	"requirementsTooltip": "Unlocked in village Phase.",
 	"icon": "helmet_corinthian_bronze_old.png",
 	"researchTime": 25,
-	"tooltip": "Unlock the ability to train axeman from baracks.",
+	"tooltip": "Unlock the ability to train axeman from baracks. Brit axemen not avialbable until p2 due to starting at rank3",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

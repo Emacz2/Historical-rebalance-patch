@@ -16,7 +16,8 @@
 		{ "value": "Loot/wood", "multiply": 1.1 },
 		{ "value": "Loot/stone", "multiply": 1.1 },
 		{ "value": "Loot/metal", "multiply": 1.1 },
-		{ "value": "Loot/xp", "multiply": 1.1 }
+		{ "value": "Loot/xp", "multiply": 1.1 },
+		{ "value": "UnitMotion/WalkSpeed", "add": -0.6}
 	],
 	"affects": ["IndianElephant"]
 }

@@ -59,7 +59,7 @@
 		<RegenRate>10.0</RegenRate>
 	</Capturable>
 	<Cost>
-		<BuildTime>540</BuildTime>
+		<BuildTime>600</BuildTime>
 		<Resources>
 			<wood>350</wood>
 			<stone>650</stone>

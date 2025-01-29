@@ -17,6 +17,6 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "helmet_corinthian_crest.png",
 	"researchTime": 60,
-	"tooltip": "Unlock Champion Cavalry at the Stable.",
+	"tooltip": "Unlock Champion Cavalry from fort.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

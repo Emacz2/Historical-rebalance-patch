@@ -2,6 +2,7 @@
 <Entity parent="template_unit_hero_infantry_swordsman">
   <Auras datatype="tokens">
     units/heroes/brit_hero_caratacos
+    units/heroes/brit_hero_caratacos2
   </Auras>
   <Identity>
     <Civ>brit</Civ>
